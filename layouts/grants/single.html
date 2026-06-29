@@ -1,0 +1,16 @@
+{{ define "main" }}
+<article class="grant-page">
+  <header class="grant-header">
+    <h1>Subvenciones para {{ .Params.tag_seo }} en {{ .Params.region }}</h1>
+    <div class="metadata">
+      <span class="badge">Beneficiario: {{ .Params.beneficiario }}</span>
+      <span class="badge">Total activas: {{ .Params.count }}</span>
+      <time>Actualizado el: {{ .Params.date }}</time>
+    </div>
+  </header>
+
+  <section class="grant-body">
+    {{ .Content }}
+  </section>
+</article>
+{{ end }}

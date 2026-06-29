@@ -1,0 +1,8 @@
+baseURL = "https://tu-dominio.com/"
+languageCode = "es-es"
+title = "Portal de Subvenciones"
+
+[sitemap]
+  changefreq = "daily"
+  priority = 0.7
+  filename = "sitemap.xml"
