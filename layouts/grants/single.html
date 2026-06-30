@@ -3,33 +3,34 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Subvenciones para {{ .Params.tag_seo }} | {{ .Site.Title }}</title>
-    <style>
-        body { font-family: system-ui, sans-serif; line-height: 1.6; padding: 2rem; max-width: 800px; margin: 0 auto; }
-        h1 { color: #333; }
-        .badge { display: inline-block; padding: 0.3rem 0.6rem; background: #0056b3; color: white; border-radius: 4px; font-size: 0.8rem; margin-right: 0.5rem; font-weight: bold; }
-        .grant-body { margin-top: 2rem; padding-top: 1rem; border-top: 1px solid #ccc; }
-        time { font-size: 0.9rem; color: #666; display: block; margin-top: 0.5rem; }
-    </style>
+    <title>Archivo de Subvenciones | {{ .Site.Title }}</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;800&family=Space+Grotesk:wght@700&display=swap" rel="stylesheet">
+    <!-- Enlace al archivo CSS externo -->
+    <link rel="stylesheet" href="/css/main.css">
 </head>
 <body>
     <main>
-        <article class="grant-page">
-            <header class="grant-header">
-                <h1>Subvenciones para {{ .Params.tag_seo }} en {{ .Params.region }}</h1>
-                <div class="metadata">
-                    <span class="badge">Beneficiario: {{ .Params.beneficiario }}</span>
-                    <span class="badge">Total activas: {{ .Params.count }}</span>
-                    <time>Actualizado el: {{ .Params.date }}</time>
+        <div style="text-align: center;">
+            <div class="hero-title-container">
+                <h1>DIRECTORIO DE SUBVENCIONES</h1>
+            </div>
+        </div>        
+        <ul class="grant-list">
+            {{ range .Pages }}
+            <li class="grant-card">
+                <span class="badge">{{ .Params.region }}</span>
+                <span class="badge">{{ .Params.beneficiario }}</span>
+                <a href="{{ .RelPermalink }}" class="title-link">{{ .Title }}</a>
+                <div class="grant-meta">
+                    ▶ ACTUALIZADO: {{ .Params.date }} &nbsp;&nbsp; 🛑 AYUDAS ACTIVAS: {{ .Params.count }}
                 </div>
-            </header>
+            </li>
+            {{ end }}
+        </ul>
 
-            <section class="grant-body">
-                {{ .Content }}
-            </section>
-            
-            <a href="/" style="display:inline-block; margin-top: 2rem; color: #0056b3;">← Volver al inicio</a>
-        </article>
+        <a href="/" class="btn-back">← Volver a la Portada</a>
     </main>
 </body>
 </html>

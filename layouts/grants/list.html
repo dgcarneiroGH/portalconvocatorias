@@ -4,34 +4,31 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Archivo de Subvenciones | {{ .Site.Title }}</title>
-    <style>
-        body { font-family: system-ui, sans-serif; line-height: 1.6; padding: 2rem; max-width: 800px; margin: 0 auto; }
-        h1 { color: #333; border-bottom: 2px solid #0056b3; padding-bottom: 0.5rem; }
-        .grant-list { list-style: none; padding: 0; }
-        .grant-item { background: #f9f9f9; border: 1px solid #ddd; margin-bottom: 1rem; padding: 1rem; border-radius: 8px; }
-        .grant-item a { text-decoration: none; color: #0056b3; font-weight: bold; font-size: 1.2rem; display: block; margin-bottom: 0.5rem; }
-        .grant-meta { font-size: 0.9rem; color: #555; }
-        .badge { display: inline-block; padding: 0.2rem 0.5rem; background: #e2e8f0; color: #1a202c; border-radius: 4px; font-size: 0.8rem; margin-right: 0.5rem; }
-    </style>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;800&family=Space+Grotesk:wght@700&display=swap" rel="stylesheet">
+    <!-- Enlace al archivo CSS externo -->
+    <link rel="stylesheet" href="/css/main.css">
 </head>
 <body>
     <main>
-        <h1>Todas las Subvenciones Activas</h1>
-        <p>Listado completo del directorio de grants.</p>
+        <div style="text-align: center;">
+            <div class="hero-title-container">
+                <h1>Todas las Subvenciones Activas</h1>
+            </div>
+        </div>
+        
+        <p class="intro-text">Listado completo del directorio de grants.</p>
         
         <ul class="grant-list">
             {{ range .Pages }}
-            <li class="grant-item">
-                <a href="{{ .RelPermalink }}">{{ .Title }}</a>
-                <div class="grant-meta">
-                    <span class="badge">Apertura: {{ .Params.date }}</span>
-                    <span class="badge">Ayudas activas: {{ .Params.count }}</span>
-                </div>
+            <li class="grant-card">
+                <span class="badge">Apertura: {{ .Params.date }}</span>
+                <span class="badge">Ayudas activas: {{ .Params.count }}</span>
+                <a href="{{ .RelPermalink }}" class="title-link">{{ .Title }}</a>
             </li>
             {{ end }}
         </ul>
-
-        <a href="/" style="display:inline-block; margin-top: 2rem; color: #0056b3;">← Volver al inicio</a>
     </main>
 </body>
 </html>
