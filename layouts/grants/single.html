@@ -1,16 +1,35 @@
-{{ define "main" }}
-<article class="grant-page">
-  <header class="grant-header">
-    <h1>Subvenciones para {{ .Params.tag_seo }} en {{ .Params.region }}</h1>
-    <div class="metadata">
-      <span class="badge">Beneficiario: {{ .Params.beneficiario }}</span>
-      <span class="badge">Total activas: {{ .Params.count }}</span>
-      <time>Actualizado el: {{ .Params.date }}</time>
-    </div>
-  </header>
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Subvenciones para {{ .Params.tag_seo }} | {{ .Site.Title }}</title>
+    <style>
+        body { font-family: system-ui, sans-serif; line-height: 1.6; padding: 2rem; max-width: 800px; margin: 0 auto; }
+        h1 { color: #333; }
+        .badge { display: inline-block; padding: 0.3rem 0.6rem; background: #0056b3; color: white; border-radius: 4px; font-size: 0.8rem; margin-right: 0.5rem; font-weight: bold; }
+        .grant-body { margin-top: 2rem; padding-top: 1rem; border-top: 1px solid #ccc; }
+        time { font-size: 0.9rem; color: #666; display: block; margin-top: 0.5rem; }
+    </style>
+</head>
+<body>
+    <main>
+        <article class="grant-page">
+            <header class="grant-header">
+                <h1>Subvenciones para {{ .Params.tag_seo }} en {{ .Params.region }}</h1>
+                <div class="metadata">
+                    <span class="badge">Beneficiario: {{ .Params.beneficiario }}</span>
+                    <span class="badge">Total activas: {{ .Params.count }}</span>
+                    <time>Actualizado el: {{ .Params.date }}</time>
+                </div>
+            </header>
 
-  <section class="grant-body">
-    {{ .Content }}
-  </section>
-</article>
-{{ end }}
+            <section class="grant-body">
+                {{ .Content }}
+            </section>
+            
+            <a href="/" style="display:inline-block; margin-top: 2rem; color: #0056b3;">← Volver al inicio</a>
+        </article>
+    </main>
+</body>
+</html>
