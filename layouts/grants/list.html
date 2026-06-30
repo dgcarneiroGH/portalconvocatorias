@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Archivo de Subvenciones | {{ .Site.Title }}</title>
+    <style>
+        body { font-family: system-ui, sans-serif; line-height: 1.6; padding: 2rem; max-width: 800px; margin: 0 auto; }
+        h1 { color: #333; border-bottom: 2px solid #0056b3; padding-bottom: 0.5rem; }
+        .grant-list { list-style: none; padding: 0; }
+        .grant-item { background: #f9f9f9; border: 1px solid #ddd; margin-bottom: 1rem; padding: 1rem; border-radius: 8px; }
+        .grant-item a { text-decoration: none; color: #0056b3; font-weight: bold; font-size: 1.2rem; display: block; margin-bottom: 0.5rem; }
+        .grant-meta { font-size: 0.9rem; color: #555; }
+        .badge { display: inline-block; padding: 0.2rem 0.5rem; background: #e2e8f0; color: #1a202c; border-radius: 4px; font-size: 0.8rem; margin-right: 0.5rem; }
+    </style>
+</head>
+<body>
+    <main>
+        <h1>Todas las Subvenciones Activas</h1>
+        <p>Listado completo del directorio de grants.</p>
+        
+        <ul class="grant-list">
+            {{ range .Pages }}
+            <li class="grant-item">
+                <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+                <div class="grant-meta">
+                    <span class="badge">Apertura: {{ .Params.date }}</span>
+                    <span class="badge">Ayudas activas: {{ .Params.count }}</span>
+                </div>
+            </li>
+            {{ end }}
+        </ul>
+
+        <a href="/" style="display:inline-block; margin-top: 2rem; color: #0056b3;">← Volver al inicio</a>
+    </main>
+</body>
+</html>
