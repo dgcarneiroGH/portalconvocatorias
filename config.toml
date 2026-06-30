@@ -6,3 +6,6 @@ title = "Portal de Subvenciones"
   changefreq = "daily"
   priority = 0.7
   filename = "sitemap.xml"
+
+[permalinks]
+  grants = "/:slug/"
