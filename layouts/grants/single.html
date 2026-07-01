@@ -62,9 +62,9 @@
                         </div>
                         <div class="grant-meta grant-item-meta">
                            <span>💰PRESUPUESTO: {{ $budget }}</span>
-                           <span>📥RECEPCIÓN: {{ $reception }}</span>
-                           <span>▶INICIO: {{$start}}</span>
-                           <span>🛑FIN: {{$end}}</span>
+                           <span>{{ with $reception }}  📥RECEPCIÓN: {{ . }}{{ end }}</span>
+                           <span>{{ with $start }}  ▶INICIO: {{ . }}{{ end }}</span>
+                           <span>{{ with $end }}  🛑FIN: {{ . }}{{ end }}</span>
                         </div>
                         <div class="requirements-box">
                             <p class="requirements-title">REQUISITOS</p>
