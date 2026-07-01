@@ -42,15 +42,15 @@
                     {{ $start := "" }}
                     {{ $end := "" }}
                     {{ range $parts }}
-                        {{ $trimmed := strings " " . }}
+                        {{ $trimmed := trim . " " }}
                         {{ if hasPrefix $trimmed "Budget:" }}
-                            {{ $budget = strings " " (strings.TrimPrefix "Budget:" $trimmed) }}
+                            {{ $budget = trim (strings.TrimPrefix "Budget:" $trimmed) " " }}
                         {{ else if hasPrefix $trimmed "Reception:" }}
-                            {{ $reception = strings " " (strings.TrimPrefix "Reception:" $trimmed) }}
+                            {{ $reception = trim (strings.TrimPrefix "Reception:" $trimmed) " " }}
                         {{ else if hasPrefix $trimmed "Start:" }}
-                            {{ $start = strings " " (strings.TrimPrefix "Start:" $trimmed) }}
+                            {{ $start = trim (strings.TrimPrefix "Start:" $trimmed) " " }}
                         {{ else if hasPrefix $trimmed "End:" }}
-                            {{ $end = strings " " (strings.TrimPrefix "End:" $trimmed) }}
+                            {{ $end = trim (strings.TrimPrefix "End:" $trimmed) " " }}
                         {{ end }}
                     {{ end }}
 
