@@ -4,7 +4,7 @@ region: alava
 beneficiario: asociaciones
 tag_seo: formacion
 count: 4
-date: 2026-06-30
+date: 2026-07-01
 slug: subvenciones-alava-asociaciones-formacion
 ---
 
@@ -12,7 +12,11 @@ slug: subvenciones-alava-asociaciones-formacion
 
 Subvenciones activas (4):
 
-- 909613
-- 911653
-- 911829
-- 914329
+- [Convocatoria de subvenciones de concurrencia competitiva dirigida a entidades y/o asociaciones sin ánimo de lucro que actúen en el ámbito de la igualdad de mujeres y hombres en el año 2026](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/909613) (909613)
+  - Budget: 28500 | Reception: 2026-06-01 | Start: 2026-06-02 | End: 2026-06-29
+- [Resolución de 05 de junio de 2026, de la Junta de Gobierno Local, por la que se convocan subvenciones dirigidas a entidades y asociaciones sin ánimo de lucro del ámbito de cohesión social para la realización de actividades durante el año 2026.](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/911653) (911653)
+  - Budget: 72000 | Reception: 2026-06-09 | Start: 2026-06-10 | End: 2026-07-07
+- [Ayudas para el transporte a los centros educativos que participan en los programas educativos del Servicio de Educación y/o del Centro de Estudios Ambientales del Ayuntamiento de Vitoria-Gasteiz, en el curso 2026-2027](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/911829) (911829)
+  - Budget: 25000 | Reception: 2026-06-10 | Start: 2026-06-11 | End: 2027-06-25
+- [Ayudas para el apoyo a niñas y niños con dificultades en el aprendizaje, curso 2026-2027](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/914329) (914329)
+  - Budget: 170000 | Reception: 2026-06-19 | Start: 2026-06-22 | End: 2026-09-18
