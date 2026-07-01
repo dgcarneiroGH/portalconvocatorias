@@ -4,7 +4,7 @@ region: espana
 beneficiario: particulares
 tag_seo: formacion
 count: 5
-date: 2026-06-30
+date: 2026-07-01
 slug: subvenciones-espana-particulares-formacion
 ---
 
@@ -12,8 +12,13 @@ slug: subvenciones-espana-particulares-formacion
 
 Subvenciones activas (5):
 
-- 913080
-- 913093
-- 913586
-- 913635
-- 913765
+- [BECAS DE INVESTIGACION AL ALUMNADO DEL PROGRAMA DE DOCTORADO EN CIENCIA DE MATERIALES DE LA UNIVERSIDAD DE ALICANTE](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/913080) (913080)
+  - Budget: 1200 | Reception: 2026-06-15 | End: 2026-06-30
+- [BECAS SANTANDER AYUDA ECONÓMICA PARA PRÁCTICAS DE ESTUDIANTES DE LA UNIVERSIDAD DE ALICANTE 2026 - SEGUNDA EDICIÓN](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/913093) (913093)
+  - Budget: 22500 | Reception: 2026-06-15 | End: 2026-10-02
+- [BECAS PARA SUFRAGAR GASTOS DE MATRÍCULA EN LOS ESTUDIOS DEL PROGRAMA DE DOCTORADO EN CIENCIA DE MATERIALES DE LA UNIVERSIDAD DE ALICANTE](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/913586) (913586)
+  - Budget: 1800 | Reception: 2026-06-17 | End: 2026-06-30
+- [Acuerdo de el 17 de junio de 2026 de la Vicerrectora de Formación Permanente, Empleabilidad y Emprendimiento, por la que se convoca la XIV Edición de los Premios Emprendimiento Universitario 2026 de la Universidad Complutense de Madrid](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/913635) (913635)
+  - Budget: 22750 | Reception: 2026-06-17 | Start: 2026-06-18 | End: 2026-07-15
+- [PREMIO LIBERTAD DE PRENSA MIGUEL HERNÁNDEZ PARA LOS MEJORES TFM DEL MÁSTER EN PERIODISMO Y DEMOCRACIA (Código de subvención: 05-326-4-2026-0177-S)](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/913765) (913765)
+  - Budget: 1500 | Reception: 2026-06-17 | Start: 2026-06-18 | End: 2026-07-03
