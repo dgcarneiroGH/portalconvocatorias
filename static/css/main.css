@@ -169,6 +169,19 @@ h1, h2, h3, .font-space {
     border-radius: 6px;
     border: 2px solid var(--navy);
     transition: transform 0.1s ease;
+
+    /* display: inline-block;
+                                background-color: #ffa726;
+                                color: #0f3254;
+                                font-family:
+                                  &quot;Space Grotesk&quot;, Arial, sans-serif;
+                                font-size: 15px;
+                                font-weight: 700;
+                                text-decoration: none;
+                                padding: 12px 25px;
+                                border-radius: 6px;
+                                margin-bottom: 10px;
+                                border: 2px solid #0f3254; */
 }
 
 .btn-primary:active {
