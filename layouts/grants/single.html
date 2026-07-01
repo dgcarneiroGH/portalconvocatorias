@@ -3,32 +3,36 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Archivo de Subvenciones | {{ .Site.Title }}</title>
+    <title>{{ .Title }} | {{ .Site.Title }}</title>
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;800&family=Space+Grotesk:wght@700&display=swap" rel="stylesheet">
-    <!-- Enlace al archivo CSS externo -->
     <link rel="stylesheet" href="/css/main.css">
 </head>
 <body>
     <main>
-        <div style="text-align: center;">
-            <div class="hero-title-container">
-                <h1>DIRECTORIO DE SUBVENCIONES</h1>
-            </div>
-        </div>        
-        <ul class="grant-list">
-            {{ range .Pages }}
-            <li class="grant-card">
-                <span class="badge">{{ .Params.region }}</span>
-                <span class="badge">{{ .Params.beneficiario }}</span>
-                <a href="{{ .RelPermalink }}" class="title-link">{{ .Title }}</a>
+        <article class="grant-page">
+            <header>
+                <div class="hero-title-container">
+                    <h1>{{ .Title }}</h1>
+                </div>
+
+                <div class="grant-badges">
+                    {{ with .Params.region }}<span class="badge">{{ . }}</span>{{ end }}
+                    {{ with .Params.beneficiario }}<span class="badge">{{ . }}</span>{{ end }}
+                    {{ with .Params.tag_seo }}<span class="badge">{{ . }}</span>{{ end }}
+                </div>
+
                 <div class="grant-meta">
                     ▶ ACTUALIZADO: {{ .Params.date }} &nbsp;&nbsp; 🛑 AYUDAS ACTIVAS: {{ .Params.count }}
                 </div>
-            </li>
-            {{ end }}
-        </ul>
+            </header>
+
+            <section class="requirements-box">
+                <p class="requirements-title">LISTADO DE SUBVENCIONES</p>
+                {{ .Content }}
+            </section>
+        </article>
 
         <a href="/" class="btn-back">← Volver a la Portada</a>
     </main>
