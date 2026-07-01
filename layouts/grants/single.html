@@ -17,21 +17,61 @@
                     <h1>{{ .Title }}</h1>
                 </div>
 
-                <div class="grant-badges">
-                    {{ with .Params.region }}<span class="badge">{{ . }}</span>{{ end }}
-                    {{ with .Params.beneficiario }}<span class="badge">{{ . }}</span>{{ end }}
-                    {{ with .Params.tag_seo }}<span class="badge">{{ . }}</span>{{ end }}
-                </div>
-
                 <div class="grant-meta">
-                    ▶ ACTUALIZADO: {{ .Params.date }} &nbsp;&nbsp; 🛑 AYUDAS ACTIVAS: {{ .Params.count }}
+                    <span>▶ ÚLTIMA ACTUALIZACIÓN: {{ dateFormat "02/01/2006 15:04" .Lastmod }}</span>
+                    <span>🛑 AYUDAS ACTIVAS: {{ .Params.count }}</span>                   
                 </div>
             </header>
 
-            <section class="requirements-box">
-                <p class="requirements-title">LISTADO DE SUBVENCIONES</p>
-                {{ .Content }}
-            </section>
+            <h2 class="section-title">Listado de Subvenciones</h2>
+
+            <ul class="grant-list">
+                {{ $rawContent := .RawContent }}
+                {{ $grantPattern := `(?ms)^\- \[(.+?)\]\((.+?)\) \((\d+)\)\s*\n\s*\- (.+?)$` }}
+                {{ $grants := findRE $grantPattern $rawContent }}
+
+                {{ range $grants }}
+                    {{ $title := replaceRE `(?ms)^\- \[(.+?)\]\(.+?\) \(\d+\)\s*\n\s*\- .*$` "$1" . }}
+                    {{ $url := replaceRE `(?ms)^\- \[.+?\]\((.+?)\) \(\d+\)\s*\n\s*\- .*$` "$1" . }}
+                    {{ $id := replaceRE `(?ms)^\- \[.+?\]\(.+?\) \((\d+)\)\s*\n\s*\- .*$` "$1" . }}
+                    {{ $details := replaceRE `(?ms)^\- \[.+?\]\(.+?\) \(\d+\)\s*\n\s*\- (.*)$` "$1" . }}
+
+                    {{ $parts := split $details " | " }}
+                    {{ $budget := "" }}
+                    {{ $reception := "" }}
+                    {{ $start := "" }}
+                    {{ $end := "" }}
+                    {{ range $parts }}
+                        {{ $trimmed := strings.TrimSpace . }}
+                        {{ if hasPrefix $trimmed "Budget:" }}
+                            {{ $budget = strings.TrimSpace (strings.TrimPrefix "Budget:" $trimmed) }}
+                        {{ else if hasPrefix $trimmed "Reception:" }}
+                            {{ $reception = strings.TrimSpace (strings.TrimPrefix "Reception:" $trimmed) }}
+                        {{ else if hasPrefix $trimmed "Start:" }}
+                            {{ $start = strings.TrimSpace (strings.TrimPrefix "Start:" $trimmed) }}
+                        {{ else if hasPrefix $trimmed "End:" }}
+                            {{ $end = strings.TrimSpace (strings.TrimPrefix "End:" $trimmed) }}
+                        {{ end }}
+                    {{ end }}
+
+                    <li class="grant-card">
+                        <span class="badge">{{ $id }}</span>
+                        <div class="grant-item-title">
+                            <!-- <h3><a href="{{ $url }}" target="_blank" rel="noopener">{{ $title }}</a></h3> -->
+                            {{ $title }}
+                        </div>
+                        <div class="grant-meta grant-item-meta">
+                           <span>💰PRESUPUESTO: {{ $budget }}</span>
+                           <span>📥RECEPCIÓN: {{ $reception }}</span>
+                           <span>▶INICIO: {{$start}}</span>
+                           <span>🛑FIN: {{$end}}</span>
+                        </div>
+                        <div class="requirements-box">
+                            <p class="requirements-title">REQUISITOS</p>
+                        </div>
+                    </li>
+                {{ end }}
+            </ul>
         </article>
 
         <a href="/" class="btn-back">← Volver a la Portada</a>
