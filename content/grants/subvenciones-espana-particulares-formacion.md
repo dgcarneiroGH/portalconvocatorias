@@ -4,7 +4,7 @@ region: espana
 beneficiario: particulares
 tag_seo: formacion
 count: 5
-date: 2026-07-02
+date: 2026-07-03
 slug: subvenciones-espana-particulares-formacion
 ---
 
