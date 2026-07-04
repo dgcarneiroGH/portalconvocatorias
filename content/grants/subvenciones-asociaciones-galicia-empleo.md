@@ -4,7 +4,7 @@ region: asociaciones
 beneficiario: galicia
 tag_seo: empleo
 count: 3
-date: 2026-07-03
+date: 2026-07-04
 slug: subvenciones-asociaciones-galicia-empleo
 ---
 
