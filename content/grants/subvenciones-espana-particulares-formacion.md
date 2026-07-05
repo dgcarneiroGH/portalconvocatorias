@@ -4,7 +4,7 @@ region: espana
 beneficiario: particulares
 tag_seo: formacion
 count: 11
-date: 2026-07-04
+date: 2026-07-05
 slug: subvenciones-espana-particulares-formacion
 ---
 
@@ -17,7 +17,7 @@ Subvenciones activas (11):
 - [BECAS SANTANDER/MICROCREDENCIALES 2026 – 1ª EDICIÓN](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/915709) (915709)
   - Budget: 21000 | Reception: 26/06/2026 | Start: 29/06/2026 | End: 10/07/2026
 - [Programa de Becas Master en Biomedicina CNIC ACCIONA 2026](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/915926) (915926)
-  - Budget: 127509.27 | Reception: 29/06/2026
+  - Budget: 127509.27 | Reception: 29/06/2026 | Start: 30/06/2026 | End: 19/07/2026
 - [Resolución de 26 de junio de 2026, del O.E. Inspección de Trabajo y Seguridad Social, por la que se convocan becas para la preparación de las pruebas selectivas para el ingreso por turno libre en los cuerpos de Inspectores y Subinspectores.](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/915939) (915939)
   - Budget: 600000 | Reception: 29/06/2026
 - [Becas de residencia de estudiantes de países en desarrollo, curso 2026-27](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/916042) (916042)
