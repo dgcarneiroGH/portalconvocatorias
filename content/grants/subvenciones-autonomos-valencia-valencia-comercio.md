@@ -4,7 +4,7 @@ region: autonomos
 beneficiario: valencia-valencia
 tag_seo: comercio
 count: 10
-date: 2026-07-05
+date: 2026-07-06
 slug: subvenciones-autonomos-valencia-valencia-comercio
 ---
 
@@ -31,6 +31,6 @@ Subvenciones activas (10):
 - [Convocatoria de subvenciones destinadas a la actualización de la imagen comercial y nuevas tecnologías del comercio 2026](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/913737) (913737)
   - Budget: 39000 | Reception: 17/06/2026 | Start: 18/06/2026 | End: 12/08/2026
 - [V Premios al Uso del Valenciano en el Comercio Local de l'Eliana, ejercicio 2026](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/914675) (914675)
-  - Budget: 3000 | Reception: 22/06/2026
+  - Budget: 3000 | Reception: 22/06/2026 | Start: 23/06/2026 | End: 15/09/2026
 - [IV Premio del uso del valenciano en el comercio local 2026](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/916894) (916894)
   - Budget: 3200 | Reception: 02/07/2026 | Start: 03/07/2026 | End: 31/07/2026
