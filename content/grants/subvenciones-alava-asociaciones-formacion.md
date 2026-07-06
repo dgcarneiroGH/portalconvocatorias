@@ -4,7 +4,7 @@ region: alava
 beneficiario: asociaciones
 tag_seo: formacion
 count: 4
-date: 2026-07-05
+date: 2026-07-06
 slug: subvenciones-alava-asociaciones-formacion
 ---
 
