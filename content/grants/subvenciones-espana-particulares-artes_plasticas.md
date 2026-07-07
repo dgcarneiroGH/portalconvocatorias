@@ -4,7 +4,7 @@ region: espana
 beneficiario: particulares
 tag_seo: artes_plasticas
 count: 4
-date: 2026-07-06
+date: 2026-07-07
 slug: subvenciones-espana-particulares-artes_plasticas
 ---
 
