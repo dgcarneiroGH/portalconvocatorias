@@ -169,19 +169,6 @@ h1, h2, h3, .font-space {
     border-radius: 6px;
     border: 2px solid var(--navy);
     transition: transform 0.1s ease;
-
-    /* display: inline-block;
-                                background-color: #ffa726;
-                                color: #0f3254;
-                                font-family:
-                                  &quot;Space Grotesk&quot;, Arial, sans-serif;
-                                font-size: 15px;
-                                font-weight: 700;
-                                text-decoration: none;
-                                padding: 12px 25px;
-                                border-radius: 6px;
-                                margin-bottom: 10px;
-                                border: 2px solid #0f3254; */
 }
 
 .btn-primary:active {
@@ -190,7 +177,7 @@ h1, h2, h3, .font-space {
 
 .btn-back {
     display: inline-block;
-    margin-top: 1rem;
+    margin-bottom: 1rem;
     color: var(--navy);
     font-weight: bold;
     text-decoration: none;
@@ -219,6 +206,32 @@ h1, h2, h3, .font-space {
   margin: 0 0 10px 0;
 }
 
+.grant-item-title a {
+    text-decoration: none;
+    color: inherit;
+}
+
+.grant-item-title a:hover {
+    color: var(--orange);
+}
+
 .grant-item-meta {
     margin-bottom: 12px;
+}
+
+.grant-description {
+    font-size: 14px;
+    color: var(--dark-gray);
+    line-height: 1.5;
+    margin: 10px 0 15px 0;
+    padding: 0 5px;
+    text-align: left;
+}
+
+.requirements-empty {
+    font-size: 13px;
+    color: var(--navy);
+    font-style: italic;
+    margin: 0;
+    opacity: 0.7;
 }

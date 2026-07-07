@@ -7,28 +7,54 @@
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;800&family=Space+Grotesk:wght@700&display=swap" rel="stylesheet">
-    <!-- Enlace al archivo CSS externo -->
     <link rel="stylesheet" href="/css/main.css">
 </head>
 <body>
     <main>
-        <div style="text-align: center;">
-            <div class="hero-title-container">
-                <h1>Todas las Subvenciones Activas</h1>
-            </div>
-        </div>
-        
-        <p class="intro-text">Listado completo del directorio de grants.</p>
-        
-        <ul class="grant-list">
-            {{ range .Pages }}
-            <li class="grant-card">
-                <span class="badge">Apertura: {{ .Params.date }}</span>
-                <span class="badge">Ayudas activas: {{ .Params.count }}</span>
-                <a href="{{ .RelPermalink }}" class="title-link">{{ .Title }}</a>
-            </li>
-            {{ end }}
-        </ul>
+        <article class="grant-page">
+            <header>
+                <div class="hero-title-container">
+                    <h1>Todas las Subvenciones Activas</h1>
+                </div>
+
+                <div class="grant-meta">
+                    <span>▶ ÚLTIMA ACTUALIZACIÓN: {{ dateFormat "02/01/2006 15:04" .Lastmod }}</span>
+                    <span>🛑 CONJUNTOS DE AYUDAS: {{ len .Pages }}</span>
+                </div>
+            </header>
+
+            <h2 class="section-title">Listado de Categorías</h2>
+
+            <ul class="grant-list">
+                {{ range .Pages }}
+                    <li class="grant-card">
+                        <span class="badge">📅 ACTUALIZADO: {{ dateFormat "02/01/2006" .Date }}</span>
+                        {{ with .Params.region }}<span class="badge">📍 {{ . }}</span>{{ end }}
+                        
+                        <div class="grant-item-title">
+                            <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+                        </div>
+                        
+                        <div class="grant-meta grant-item-meta">
+                            <span>🛑 AYUDAS ACTIVAS: {{ .Params.count }}</span>
+                        </div>
+                        
+                        <div class="requirements-box">
+                            <p class="requirements-title">DATOS DE LA CATEGORÍA</p>
+                            <ul>
+                                {{ with .Params.tag_seo }}<li>Sector estratégico: {{ . | title }}</li>{{ end }}
+                                {{ with .Params.beneficiario }}<li>Tipo de beneficiario: {{ . | title }}</li>{{ end }}
+                                {{ with .Params.region }}<li>Ámbito geográfico: {{ . | title }}</li>{{ end }}
+                            </ul>
+                        </div>
+                        
+                        <a href="{{ .RelPermalink }}" class="btn-primary">Ver las {{ .Params.count }} ayudas disponibles</a>
+                    </li>
+                {{ end }}
+            </ul>
+        </article>
+
+        <a href="/" class="btn-back">← Volver a la Portada</a>
     </main>
 </body>
 </html>

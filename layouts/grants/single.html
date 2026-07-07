@@ -10,15 +10,16 @@
     <link rel="stylesheet" href="/css/main.css">
 </head>
 <body>
-    <main>
+    <main>        
         <article class="grant-page">
+            <a href="/" class="btn-back">← Volver a la Portada</a>
             <header>
                 <div class="hero-title-container">
                     <h1>{{ .Title }}</h1>
                 </div>
 
                 <div class="grant-meta">
-                    <span>▶ ÚLTIMA ACTUALIZACIÓN: {{ dateFormat "02/01/2006 15:04" .Lastmod }}</span>
+                    <span>▶ ÚLTIMA ACTUALIZACIÓN: {{ dateFormat "02/01/2006" .Lastmod }}</span>
                     <span>🛑 AYUDAS ACTIVAS: {{ .Params.count }}</span>                   
                 </div>
             </header>
@@ -27,55 +28,91 @@
 
             <ul class="grant-list">
                 {{ $rawContent := .RawContent }}
-                {{ $grantPattern := `(?ms)^\- \[(.+?)\]\((.+?)\) \((\d+)\)\s*\n\s*\- (.+?)$` }}
-                {{ $grants := findRE $grantPattern $rawContent }}
+                {{ $blocks := split $rawContent "- [" }}
 
-                {{ range $grants }}
-                    {{ $title := replaceRE `(?ms)^\- \[(.+?)\]\(.+?\) \(\d+\)\s*\n\s*\- .*$` "$1" . }}
-                    {{ $url := replaceRE `(?ms)^\- \[.+?\]\((.+?)\) \(\d+\)\s*\n\s*\- .*$` "$1" . }}
-                    {{ $id := replaceRE `(?ms)^\- \[.+?\]\(.+?\) \((\d+)\)\s*\n\s*\- .*$` "$1" . }}
-                    {{ $details := replaceRE `(?ms)^\- \[.+?\]\(.+?\) \(\d+\)\s*\n\s*\- (.*)$` "$1" . }}
-
-                    {{ $parts := split $details " | " }}
-                    {{ $budget := "" }}
-                    {{ $reception := "" }}
-                    {{ $start := "" }}
-                    {{ $end := "" }}
-                    {{ range $parts }}
-                        {{ $trimmed := trim . " " }}
-                        {{ if hasPrefix $trimmed "Budget:" }}
-                            {{ $budget = trim (strings.TrimPrefix "Budget:" $trimmed) " " }}
-                        {{ else if hasPrefix $trimmed "Reception:" }}
-                            {{ $reception = trim (strings.TrimPrefix "Reception:" $trimmed) " " }}
-                        {{ else if hasPrefix $trimmed "Start:" }}
-                            {{ $start = trim (strings.TrimPrefix "Start:" $trimmed) " " }}
-                        {{ else if hasPrefix $trimmed "End:" }}
-                            {{ $end = trim (strings.TrimPrefix "End:" $trimmed) " " }}
+                {{ range $blocks }}
+                    {{ if findRE `\]\(.+?\) \(\d+\)` . }}
+                        
+                        {{ $title := trim (replaceRE `(?ms)^(.+?)\].*` "$1" .) " \n\r" }}
+                        {{ $url := replaceRE `(?ms)^.+?\]\((.+?)\).*` "$1" . }}
+                        {{ $id := replaceRE `(?ms)^.+?\]\(.+?\) \((\d+)\).*` "$1" . }}
+                        
+                        {{ $description := "" }}
+                        {{ $descLines := findRE `(?m)^\s*- Description:.*` . }}
+                        {{ if $descLines }}
+                            {{ $description = trim (replaceRE `(?m)^\s*- Description:\s*` "" (index $descLines 0)) " \n\r" }}
                         {{ end }}
-                    {{ end }}
 
-                    <li class="grant-card">
-                        <span class="badge">{{ $id }}</span>
-                        <div class="grant-item-title">
-                            <!-- <h3><a href="{{ $url }}" target="_blank" rel="noopener">{{ $title }}</a></h3> -->
-                            {{ $title }}
-                        </div>
-                        <div class="grant-meta grant-item-meta">
-                           <span>💰PRESUPUESTO: {{ $budget }}</span>
-                           <span>{{ with $reception }}  📥RECEPCIÓN: {{ . }}{{ end }}</span>
-                           <span>{{ with $start }}  ▶INICIO: {{ . }}{{ end }}</span>
-                           <span>{{ with $end }}  🛑FIN: {{ . }}{{ end }}</span>
-                        </div>
-                        <div class="requirements-box">
-                            <p class="requirements-title">REQUISITOS</p>
-                        </div>
-                        <a href="{{ $url }}" target="_blank" class="btn-primary">Ver Convocatoria Oficial</a>
-                    </li>
+                        {{ $requirements := "" }}
+                        {{ $reqLines := findRE `(?m)^\s*- Requirements:.*` . }}
+                        {{ if $reqLines }}
+                            {{ $requirements = trim (replaceRE `(?m)^\s*- Requirements:\s*` "" (index $reqLines 0)) " \n\r" }}
+                        {{ end }}
+
+                        {{ $details := "" }}
+                        {{ $budgetLines := findRE `(?m).*Budget:.*` . }}
+                        {{ if $budgetLines }}
+                            {{ $details = index $budgetLines 0 }}
+                        {{ end }}
+
+                        {{ $parts := split $details " | " }}
+                        {{ $budget := "" }}
+                        {{ $reception := "" }}
+                        {{ $start := "" }}
+                        {{ $end := "" }}
+                        
+                        {{ range $parts }}
+                            {{ $trimmed := trim . " -" }}
+                            {{ if hasPrefix $trimmed "Budget:" }}
+                                {{ $budget = trim (strings.TrimPrefix "Budget:" $trimmed) " " }}
+                            {{ else if hasPrefix $trimmed "Reception:" }}
+                                {{ $reception = trim (strings.TrimPrefix "Reception:" $trimmed) " " }}
+                            {{ else if hasPrefix $trimmed "Start:" }}
+                                {{ $start = trim (strings.TrimPrefix "Start:" $trimmed) " " }}
+                            {{ else if hasPrefix $trimmed "End:" }}
+                                {{ $end = trim (strings.TrimPrefix "End:" $trimmed) " " }}
+                            {{ end }}
+                        {{ end }}
+
+                        <li class="grant-card">
+                            <span class="badge">{{ $id }}</span>
+                            
+                            <div class="grant-item-title">
+                                {{ $title }}
+                            </div>
+                            
+                            <p class="grant-description">{{ $description }}</p>
+
+                            <div class="grant-meta grant-item-meta">
+                               <span>{{ with $budget }}💰PRESUPUESTO: {{ . }}{{end}}</span>
+                               <span>{{ with $reception }}  📥RECEPCIÓN: {{ . }}{{ end }}</span>
+                               <span>{{ with $start }}  ▶INICIO: {{ . }}{{ end }}</span>
+                               <span>{{ with $end }}  🛑FIN: {{ . }}{{ end }}</span>
+                            </div>
+                            
+                            <div class="requirements-box">
+                                <p class="requirements-title">REQUISITOS</p>
+                                {{ if $requirements }}
+                                    <ul>
+                                        {{ $reqArray := split $requirements ";" }}
+                                        {{ range $reqArray }}
+                                            {{ $reqText := trim . " " }}
+                                            {{ if ne $reqText "" }}
+                                                <li>{{ $reqText }}</li>
+                                            {{ end }}
+                                        {{ end }}
+                                    </ul>
+                                {{ else }}
+                                    <p class="requirements-empty">No se han especificado requisitos concretos.</p>
+                                {{ end }}
+                            </div>
+
+                            <a href="{{ $url }}" target="_blank" class="btn-primary">Ver Convocatoria Oficial</a>
+                        </li>
+                    {{ end }}
                 {{ end }}
             </ul>
         </article>
-
-        <a href="/" class="btn-back">← Volver a la Portada</a>
     </main>
 </body>
 </html>

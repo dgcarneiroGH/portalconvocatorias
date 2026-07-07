@@ -4,28 +4,40 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>{{ .Site.Title }}</title>
-    <style>
-        body { font-family: system-ui, sans-serif; line-height: 1.6; padding: 2rem; max-width: 800px; margin: 0 auto; }
-        h1 { color: #333; }
-        .grant-list { list-style: none; padding: 0; }
-        .grant-item { background: #f4f4f4; margin-bottom: 1rem; padding: 1rem; border-radius: 8px; }
-        .grant-item a { text-decoration: none; color: #0056b3; font-weight: bold; font-size: 1.1rem; }
-        .grant-meta { font-size: 0.9rem; color: #666; margin-top: 0.5rem; display: block; }
-    </style>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;800&family=Space+Grotesk:wght@700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="/css/main.css">
 </head>
 <body>
     <main>
-        <h1>Bienvenido al {{ .Site.Title }}</h1>
-        <p>Listado automático de las últimas páginas de subvenciones generadas:</p>
-        
-        <ul class="grant-list">
-            {{ range .Site.RegularPages }}
-            <li class="grant-item">
-                <a href="{{ .RelPermalink }}">{{ .Title }}</a>
-                <span class="grant-meta">Subvenciones activas: {{ .Params.count }} | Región: {{ .Params.region }} | Beneficiario: {{ .Params.beneficiario }}</span>
-            </li>
-            {{ end }}
-        </ul>
+        <article class="grant-page">
+            <header>
+                <div class="hero-title-container">
+                    <h1>Bienvenido a {{ .Site.Title }}</h1>
+                </div>
+            </header>
+
+            <h2 class="section-title">Últimas Actualizaciones</h2>
+
+            <ul class="grant-list">
+                {{ range .Site.RegularPages }}
+                    <li class="grant-card">
+                        <span class="badge">📅 ACTUALIZADO: {{ dateFormat "02/01/2006" .Date }}</span>
+                        {{ with .Params.region }}<span class="badge">📍 {{ . | title }}</span>{{ end }}
+                        {{ with .Params.beneficiario }}<span class="badge">👥 {{ . | title }}</span>{{ end }}
+
+                        <div class="grant-item-title">
+                            <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+                        </div>
+                        
+                        <div class="grant-meta grant-item-meta">
+                            <span>🛑 AYUDAS ACTIVAS: {{ .Params.count }}</span>
+                        </div>
+                    </li>
+                {{ end }}
+            </ul>
+        </article>
     </main>
 </body>
 </html>
