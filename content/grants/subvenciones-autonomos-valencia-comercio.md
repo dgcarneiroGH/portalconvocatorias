@@ -14,7 +14,7 @@ Subvenciones activas (8):
 
 - [Expediente 2746210F: PREMIS A L'ÚS DEL VALENCIÀ EN EL COMERÇ LOCAL 2026
 
-](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/903852) ()
+](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/903852) (Test Agency)
   - Description: Las ayudas están destinadas a fomentar el uso del valenciano en el sector comercial de Picassent. Se otorgan premios a los comercios, servicios y microempresas que promuevan este idioma mediante la rotulación, publicidad y uso en redes sociales.
   - Requirements: Ser persona física o jurídica vinculada con un IAE relacionado con comercios;  servicios u hostelería en Picassent; No estar incursos en circunstancias que impidan la obtención de subvenciones según la Ley 38/2003; Estar al corriente en obligaciones tributarias y con la Seguridad Social; Tener un establecimiento comercial abierto en Picassent
   - Budget: 3200 | Reception: 06/05/2026 | Start: 07/04/2026 | End: 31/12/2026

@@ -1,16 +1,20 @@
 <!DOCTYPE html>
 <html lang="es">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>{{ .Title }} | {{ .Site.Title }}</title>
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;800&family=Space+Grotesk:wght@700&display=swap" rel="stylesheet">
+    <link
+        href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;800&family=Space+Grotesk:wght@700&display=swap"
+        rel="stylesheet">
     <link rel="stylesheet" href="/css/main.css">
 </head>
+
 <body>
-    <main>        
+    <main>
         <article class="grant-page">
             <a href="/" class="btn-back">← Volver a la Portada</a>
             <header>
@@ -20,7 +24,7 @@
 
                 <div class="grant-meta">
                     <span>▶ ÚLTIMA ACTUALIZACIÓN: {{ dateFormat "02/01/2006" .Lastmod }}</span>
-                    <span>🛑 AYUDAS ACTIVAS: {{ .Params.count }}</span>                   
+                    <span>🛑 AYUDAS ACTIVAS: {{ .Params.count }}</span>
                 </div>
             </header>
 
@@ -31,88 +35,92 @@
                 {{ $blocks := split $rawContent "- [" }}
 
                 {{ range $blocks }}
-                    {{ if findRE `\]\(.+?\) \(\d+\)` . }}
-                        
-                        {{ $title := trim (replaceRE `(?ms)^(.+?)\].*` "$1" .) " \n\r" }}
-                        {{ $url := replaceRE `(?ms)^.+?\]\((.+?)\).*` "$1" . }}
-                        {{ $id := replaceRE `(?ms)^.+?\]\(.+?\) \((\d+)\).*` "$1" . }}
-                        
-                        {{ $description := "" }}
-                        {{ $descLines := findRE `(?m)^\s*- Description:.*` . }}
-                        {{ if $descLines }}
-                            {{ $description = trim (replaceRE `(?m)^\s*- Description:\s*` "" (index $descLines 0)) " \n\r" }}
-                        {{ end }}
+                {{ if findRE `\]\(.+?\) \(` . }}
 
-                        {{ $requirements := "" }}
-                        {{ $reqLines := findRE `(?m)^\s*- Requirements:.*` . }}
-                        {{ if $reqLines }}
-                            {{ $requirements = trim (replaceRE `(?m)^\s*- Requirements:\s*` "" (index $reqLines 0)) " \n\r" }}
-                        {{ end }}
+                {{ $title := trim (replaceRE `(?ms)^(.+?)\].*` "$1" .) " \n\r" }}
+                {{ $url := replaceRE `(?ms)^.+?\]\((.+?)\).*` "$1" . }}
 
-                        {{ $details := "" }}
-                        {{ $budgetLines := findRE `(?m).*Budget:.*` . }}
-                        {{ if $budgetLines }}
-                            {{ $details = index $budgetLines 0 }}
-                        {{ end }}
+                {{ $agency := trim (replaceRE `(?ms)^.+?\]\(.+?\) \((.*?)\).*` "$1" .) " \n\r" }}
 
-                        {{ $parts := split $details " | " }}
-                        {{ $budget := "" }}
-                        {{ $reception := "" }}
-                        {{ $start := "" }}
-                        {{ $end := "" }}
-                        
-                        {{ range $parts }}
-                            {{ $trimmed := trim . " -" }}
-                            {{ if hasPrefix $trimmed "Budget:" }}
-                                {{ $budget = trim (strings.TrimPrefix "Budget:" $trimmed) " " }}
-                            {{ else if hasPrefix $trimmed "Reception:" }}
-                                {{ $reception = trim (strings.TrimPrefix "Reception:" $trimmed) " " }}
-                            {{ else if hasPrefix $trimmed "Start:" }}
-                                {{ $start = trim (strings.TrimPrefix "Start:" $trimmed) " " }}
-                            {{ else if hasPrefix $trimmed "End:" }}
-                                {{ $end = trim (strings.TrimPrefix "End:" $trimmed) " " }}
-                            {{ end }}
-                        {{ end }}
+                {{ $description := "" }}
+                {{ $descLines := findRE `(?m)^\s*- Description:.*` . }}
+                {{ if $descLines }}
+                {{ $description = trim (replaceRE `(?m)^\s*- Description:\s*` "" (index $descLines 0)) " \n\r" }}
+                {{ end }}
 
-                        <li class="grant-card">
-                            <span class="badge">{{ $id }}</span>
-                            
-                            <div class="grant-item-title">
-                                {{ $title }}
-                            </div>
-                            
-                            <p class="grant-description">{{ $description }}</p>
+                {{ $requirements := "" }}
+                {{ $reqLines := findRE `(?m)^\s*- Requirements:.*` . }}
+                {{ if $reqLines }}
+                {{ $requirements = trim (replaceRE `(?m)^\s*- Requirements:\s*` "" (index $reqLines 0)) " \n\r" }}
+                {{ end }}
 
-                            <div class="grant-meta grant-item-meta">
-                               <span>{{ with $budget }}💰PRESUPUESTO: {{ . }}{{end}}</span>
-                               <span>{{ with $reception }}  📥RECEPCIÓN: {{ . }}{{ end }}</span>
-                               <span>{{ with $start }}  ▶INICIO: {{ . }}{{ end }}</span>
-                               <span>{{ with $end }}  🛑FIN: {{ . }}{{ end }}</span>
-                            </div>
-                            
-                            <div class="requirements-box">
-                                <p class="requirements-title">REQUISITOS</p>
-                                {{ if $requirements }}
-                                    <ul>
-                                        {{ $reqArray := split $requirements ";" }}
-                                        {{ range $reqArray }}
-                                            {{ $reqText := trim . " " }}
-                                            {{ if ne $reqText "" }}
-                                                <li>{{ $reqText }}</li>
-                                            {{ end }}
-                                        {{ end }}
-                                    </ul>
-                                {{ else }}
-                                    <p class="requirements-empty">No se han especificado requisitos concretos.</p>
-                                {{ end }}
-                            </div>
+                {{ $details := "" }}
+                {{ $budgetLines := findRE `(?m).*Budget:.*` . }}
+                {{ if $budgetLines }}
+                {{ $details = index $budgetLines 0 }}
+                {{ end }}
 
-                            <a href="{{ $url }}" target="_blank" class="btn-primary">Ver Convocatoria Oficial</a>
-                        </li>
+                {{ $parts := split $details " | " }}
+                {{ $budget := "" }}
+                {{ $reception := "" }}
+                {{ $start := "" }}
+                {{ $end := "" }}
+
+                {{ range $parts }}
+                {{ $trimmed := trim . " -" }}
+                {{ if hasPrefix $trimmed "Budget:" }}
+                {{ $budget = trim (strings.TrimPrefix "Budget:" $trimmed) " " }}
+                {{ else if hasPrefix $trimmed "Reception:" }}
+                {{ $reception = trim (strings.TrimPrefix "Reception:" $trimmed) " " }}
+                {{ else if hasPrefix $trimmed "Start:" }}
+                {{ $start = trim (strings.TrimPrefix "Start:" $trimmed) " " }}
+                {{ else if hasPrefix $trimmed "End:" }}
+                {{ $end = trim (strings.TrimPrefix "End:" $trimmed) " " }}
+                {{ end }}
+                {{ end }}
+
+                <li class="grant-card">
+                    {{ with $agency }}
+                    <span class="badge">{{ . }}</span>
                     {{ end }}
+
+                    <div class="grant-item-title">
+                        {{ $title }}
+                    </div>
+
+                    <p class="grant-description">{{ $description }}</p>
+
+                    <div class="grant-meta grant-item-meta">
+                        <span>{{ with $budget }}💰PRESUPUESTO: {{ . }}{{end}}</span>
+                        <span>{{ with $reception }} 📥RECEPCIÓN: {{ . }}{{ end }}</span>
+                        <span>{{ with $start }} ▶INICIO: {{ . }}{{ end }}</span>
+                        <span>{{ with $end }} 🛑FIN: {{ . }}{{ end }}</span>
+                    </div>
+
+                    <div class="requirements-box">
+                        <p class="requirements-title">REQUISITOS</p>
+                        {{ if $requirements }}
+                        <ul>
+                            {{ $reqArray := split $requirements ";" }}
+                            {{ range $reqArray }}
+                            {{ $reqText := trim . " " }}
+                            {{ if ne $reqText "" }}
+                            <li>{{ $reqText }}</li>
+                            {{ end }}
+                            {{ end }}
+                        </ul>
+                        {{ else }}
+                        <p class="requirements-empty">No se han especificado requisitos concretos.</p>
+                        {{ end }}
+                    </div>
+
+                    <a href="{{ $url }}" target="_blank" class="btn-primary">Ver Convocatoria Oficial</a>
+                </li>
+                {{ end }}
                 {{ end }}
             </ul>
         </article>
     </main>
 </body>
+
 </html>
