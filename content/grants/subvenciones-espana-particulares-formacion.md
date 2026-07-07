@@ -3,14 +3,14 @@ title: Subvenciones para formacion en espana para particulares
 region: espana
 beneficiario: particulares
 tag_seo: formacion
-count: 11
+count: 12
 date: 2026-07-07
 slug: subvenciones-espana-particulares-formacion
 ---
 
 # Subvenciones para formacion en espana para particulares
 
-Subvenciones activas (11):
+Subvenciones activas (12):
 
 - [Acuerdo de el 17 de junio de 2026 de la Vicerrectora de Formación Permanente, Empleabilidad y Emprendimiento, por la que se convoca la XIV Edición de los Premios Emprendimiento Universitario 2026 de la Universidad Complutense de Madrid](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/913635) (913635)
   - Budget: 22750 | Reception: 17/06/2026 | Start: 18/06/2026 | End: 15/07/2026
@@ -29,6 +29,8 @@ obtención de titulaciones del sistema educativo español para el curso 2026-202
   - Budget: 724473.36 | Reception: 01/07/2026 | Start: 02/07/2026 | End: 29/07/2026
 - [PREMIOS A TRABAJOS DE FIN DE GRADO REALIZADOS CON METODOLOGÍA DE APRENDIZAJE SERVICIO (ApS) DE LA UNIVERSIDAD DE ALICANTE](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/916441) (916441)
   - Budget: 800 | Reception: 01/07/2026 | Start: 01/09/2026 | End: 19/10/2026
+- [Ayudas Mercedes Fernández para actividades formativas de doctorandos del Institut Cavanilles de Biodiversitat i Biologia Evolutiva](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/915924) (915924)
+  - Budget: 4200 | Reception: 29/06/2026 | Start: 30/06/2026 | End: 20/07/2026
 - [BECAS DE INVESTIGACION AL ALUMNADO DEL PROGRAMA DE DOCTORADO EN CIENCIA DE MATERIALES DE LA UNIVERSIDAD DE ALICANTE](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/913080) (913080)
   - Budget: 1200 | Reception: 15/06/2026 | End: 30/06/2026
 - [BECAS SANTANDER AYUDA ECONÓMICA PARA PRÁCTICAS DE ESTUDIANTES DE LA UNIVERSIDAD DE ALICANTE 2026 - SEGUNDA EDICIÓN](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/913093) (913093)
