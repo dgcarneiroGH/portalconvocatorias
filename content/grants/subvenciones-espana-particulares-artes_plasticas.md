@@ -1,10 +1,11 @@
 ---
 title: Subvenciones para artes_plasticas en España para Particulares
+description: "Recopilatorio de las 4 ayudas activas en España para Particulares dentro del sector artes_plasticas, con presupuesto y plazos de solicitud."
 region: España
 beneficiario: Particulares
 tag_seo: artes_plasticas
 count: 4
-date: 2026-07-08
+date: 2026-07-09
 slug: subvenciones-espana-particulares-artes_plasticas
 ---
 
