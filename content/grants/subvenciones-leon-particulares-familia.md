@@ -1,10 +1,11 @@
 ---
 title: Subvenciones para familia en León para Particulares
+description: "Recopilatorio de las 4 ayudas activas en León para Particulares dentro del sector familia, con presupuesto y plazos de solicitud."
 region: León
 beneficiario: Particulares
 tag_seo: familia
 count: 4
-date: 2026-07-08
+date: 2026-07-09
 slug: subvenciones-leon-particulares-familia
 ---
 
