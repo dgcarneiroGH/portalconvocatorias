@@ -1,10 +1,11 @@
 ---
 title: Subvenciones para formacion en Castilla y leon para Particulares
+description: "Recopilatorio de las 5 ayudas activas en Castilla y leon para Particulares dentro del sector formacion, con presupuesto y plazos de solicitud."
 region: Castilla y leon
 beneficiario: Particulares
 tag_seo: formacion
 count: 5
-date: 2026-07-08
+date: 2026-07-09
 slug: subvenciones-castilla-y-leon-particulares-formacion
 ---
 

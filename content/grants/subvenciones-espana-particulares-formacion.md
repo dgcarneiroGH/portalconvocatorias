@@ -1,10 +1,11 @@
 ---
 title: Subvenciones para formacion en España para Particulares
+description: "Recopilatorio de las 12 ayudas activas en España para Particulares dentro del sector formacion, con presupuesto y plazos de solicitud."
 region: España
 beneficiario: Particulares
 tag_seo: formacion
 count: 12
-date: 2026-07-08
+date: 2026-07-09
 slug: subvenciones-espana-particulares-formacion
 ---
 

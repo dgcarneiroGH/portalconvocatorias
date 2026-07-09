@@ -1,10 +1,11 @@
 ---
 title: Subvenciones para formacion en Álava para Asociaciones y ong
+description: "Recopilatorio de las 4 ayudas activas en Álava para Asociaciones y ong dentro del sector formacion, con presupuesto y plazos de solicitud."
 region: Álava
 beneficiario: Asociaciones y ong
 tag_seo: formacion
 count: 4
-date: 2026-07-08
+date: 2026-07-09
 slug: subvenciones-alava-asociaciones-formacion
 ---
 

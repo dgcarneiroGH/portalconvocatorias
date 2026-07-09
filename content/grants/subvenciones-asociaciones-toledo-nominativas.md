@@ -1,10 +1,11 @@
 ---
 title: Subvenciones para nominativas en Toledo para Asociaciones y ong
+description: "Recopilatorio de las 3 ayudas activas en Toledo para Asociaciones y ong dentro del sector nominativas, con presupuesto y plazos de solicitud."
 region: Toledo
 beneficiario: Asociaciones y ong
 tag_seo: nominativas
 count: 3
-date: 2026-07-08
+date: 2026-07-09
 slug: subvenciones-asociaciones-toledo-nominativas
 ---
 
