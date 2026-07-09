@@ -1,10 +1,11 @@
 ---
 title: Subvenciones para empleo en Valencia para Pyme y autónomos
+description: "Recopilatorio de las 4 ayudas activas en Valencia para Pyme y autónomos dentro del sector empleo, con presupuesto y plazos de solicitud."
 region: Valencia
 beneficiario: Pyme y autónomos
 tag_seo: empleo
 count: 4
-date: 2026-07-08
+date: 2026-07-09
 slug: subvenciones-autonomos-valencia-empleo
 ---
 
