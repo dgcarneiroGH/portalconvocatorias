@@ -1,4 +1,11 @@
 ---
-title: Archivo de Subvenciones
-description: Listado completo de todas las categorías de subvenciones y ayudas activas, organizado por territorio, tipo de beneficiario y sector.
+title: Subvenciones (_index)
+slug: _index
+date: 2026-07-09
+count: 0
+_orphan: true
 ---
+
+# Subvenciones (_index)
+
+_Esta página está pendiente de regenerar. Sin datos activos._
