@@ -1,0 +1,26 @@
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="canonical" href="{{ .Permalink }}">
+<title>{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Title }} | {{ .Site.Title }}{{ end }}</title>
+<meta name="description" content="{{ .Description | plainify | htmlEscape | chomp | truncate 160 }}">
+
+<meta property="og:title" content="{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Title }} | {{ .Site.Title }}{{ end }}">
+<meta property="og:description" content="{{ .Description | plainify | htmlEscape | chomp | truncate 160 }}">
+<meta property="og:url" content="{{ .Permalink }}">
+<meta property="og:type" content="{{ if .IsHome }}website{{ else }}article{{ end }}">
+<meta property="og:site_name" content="{{ .Site.Title }}">
+<meta property="og:locale" content="es_ES">
+
+<meta name="twitter:card" content="summary">
+<meta name="twitter:title" content="{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Title }} | {{ .Site.Title }}{{ end }}">
+<meta name="twitter:description" content="{{ .Description | plainify | htmlEscape | chomp | truncate 160 }}">
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;800&family=Space+Grotesk:wght@700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="/css/main.css">
+
+{{- if not .IsHome }}
+<script defer src='https://static.cloudflareinsights.com/beacon.min.js'
+  data-cf-beacon='{"token": "12b64ab13abd498fa9f06fc8f1cde0c7"}'></script>
+{{- end }}
