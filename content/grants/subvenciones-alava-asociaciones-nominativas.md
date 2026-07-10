@@ -1,5 +1,5 @@
 ---
-title: Subvenciones para nominativas en Álava para Asociaciones y ong
+title: Subvenciones nominativas en Álava para Asociaciones y ong
 description: "Recopilatorio de las 17 ayudas activas en Álava para Asociaciones y ong dentro del sector nominativas, con presupuesto y plazos de solicitud."
 region: Álava
 beneficiario: Asociaciones y ong
