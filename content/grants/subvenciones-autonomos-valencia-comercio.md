@@ -1,17 +1,17 @@
 ---
 title: Subvenciones para comercio en Valencia para Pyme y autónomos
-description: "Recopilatorio de las 8 ayudas activas en Valencia para Pyme y autónomos dentro del sector comercio, con presupuesto y plazos de solicitud."
+description: "Recopilatorio de las 9 ayudas activas en Valencia para Pyme y autónomos dentro del sector comercio, con presupuesto y plazos de solicitud."
 region: Valencia
 beneficiario: Pyme y autónomos
 tag_seo: comercio
-count: 8
+count: 9
 date: 2026-07-10
 slug: subvenciones-autonomos-valencia-comercio
 ---
 
 # Subvenciones para comercio en autonomos para valencia
 
-Subvenciones activas (8):
+Subvenciones activas (9):
 
 - [EXPEDIENTE 2746210F: PREMIS A L'ÚS DEL VALENCIÀ EN EL COMERÇ LOCAL 2026](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/903852) ()
   - Description: Las ayudas están destinadas a fomentar el uso del valenciano en el sector comercial de Picassent. Se otorgan premios a los comercios, servicios y microempresas que promuevan este idioma mediante la rotulación, publicidad y uso en redes sociales.
@@ -43,3 +43,7 @@ Subvenciones activas (8):
   - Description: El 4t Premi a l’Ús del Valencià en el Comerç Local 2026 busca estimular y premiar el uso de la lengua valenciana en los establecimientos comerciales de Aldaia, fomentando su visibilidad a través de la rotulación y la promoción en diversos canales.
   - Requirements: Personas físicas o jurídicas que desarrollen una actividad comercial o de servicios en Aldaia,No pueden participar las grandes superficies,Sólo se puede presentar una solicitud por entidad,Debes cumplir con obligaciones fiscales y de Seguridad Social
   - Budget: 3200€ | Reception: 02/07/2026 | Start: 03/07/2026 | End: 31/07/2026
+- [AYUDAS MUNICIPALES A LOS MERCADOS DE DISTRITO DEL GRAO Y MOSEN SORELL 2026](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/917199) ()
+  - Description: El objeto de esta convocatoria es subvencionar los gastos corrientes de los titulares de concesiones administrativas en los mercados de distrito de Grao y Mosen Sorell, con el fin de promover y reforzar comercialmente dichos mercados.
+  - Requirements: Ser titular de una concesión administrativa en los mercados de Grao y Mosen Sorell,No haber sido sancionado en firme por incumplir obligaciones municipales,Presentar solo una solicitud por titular, salvo excepciones,No tener deudas pendientes con el Ayuntamiento de Valencia,Estar dado de alta en el régimen correspondiente de Seguridad Social,Permanecer en actividad durante todo el año 2026,Cumplir con el horario aprobado por el Ayuntamiento
+  - Budget: 96000€ | Reception: 03/07/2026 | Start: 04/07/2026 | End: 23/07/2026
