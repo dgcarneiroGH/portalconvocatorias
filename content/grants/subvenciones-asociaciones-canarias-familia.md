@@ -5,7 +5,7 @@ region: Canarias
 beneficiario: Asociaciones y ong
 tag_seo: familia
 count: 3
-date: 2026-07-10
+date: 2026-07-11
 slug: subvenciones-asociaciones-canarias-familia
 ---
 
