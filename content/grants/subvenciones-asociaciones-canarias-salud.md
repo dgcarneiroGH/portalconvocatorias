@@ -5,7 +5,7 @@ region: Canarias
 beneficiario: Asociaciones y ong
 tag_seo: salud
 count: 5
-date: 2026-07-11
+date: 2026-07-12
 slug: subvenciones-asociaciones-canarias-salud
 ---
 
