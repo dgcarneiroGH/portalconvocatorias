@@ -1,7 +1,7 @@
 ---
 title: Subvenciones (_index)
 slug: _index
-date: 2026-07-11
+date: 2026-07-12
 count: 0
 _orphan: true
 ---
