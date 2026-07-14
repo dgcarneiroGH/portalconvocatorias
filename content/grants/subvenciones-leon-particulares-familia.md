@@ -5,7 +5,7 @@ region: León
 beneficiario: Particulares
 tag_seo: familia
 count: 4
-date: 2026-07-13
+date: 2026-07-14
 slug: subvenciones-leon-particulares-familia
 ---
 
