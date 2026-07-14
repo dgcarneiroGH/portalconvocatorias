@@ -5,7 +5,7 @@ region: Pontevedra
 beneficiario: Asociaciones y ong
 tag_seo: deportes
 count: 8
-date: 2026-07-13
+date: 2026-07-14
 slug: subvenciones-asociaciones-pontevedra-deportes
 ---
 
@@ -16,7 +16,7 @@ Subvenciones activas (8):
 - [BASES PARA LA CONCESIÓN DE SUBVENCIONES A PERSONAS Y ENTIDADES DEPORTIVAS DEL AYUNTAMIENTO DEL VILABOA – 2026 (DEPORTE FEDERADO).](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/913290) ()
   - Description: La convocatoria busca regular la concesión de subvenciones a personas, asociaciones y entidades deportivas sin ánimo de lucro del Ayuntamiento de Vilaboa, por su participación en competiciones deportivas oficiales, siempre que cuenten con licencias federativas.
   - Requirements: Personas, asociaciones o entidades deportivas sin ánimo de lucro; Cumplir con los requisitos establecidos en las Bases Reguladoras
-  - Budget: 30000€ | Reception: 16/06/2026
+  - Budget: 30000€ | Reception: 16/06/2026 | Start: 17/06/2026 | End: 14/07/2026
 - [SUBVENCIÓN A FAVOR DE LA ENTIDAD REAL FEDERACIÓN GALEGA DE FÚTBOL PARA LA ORGANIZACIÓN DE LA COPA DE FÚTBOL DE VIGO 2026. EXPTE. 25726/333](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/913814) ()
   - Description: Subvención destinada a la Real Federación Gallega de Fútbol para la organización de la Copa Vigo de Fútbol 2026, con el objetivo de fomentar y promover la actividad deportiva en la ciudad de Vigo a través de eventos de alto nivel.
   - Requirements: La entidad solicitante debe ser la Real Federación Gallega de Fútbol.; No debe tener deudas con la AEAT, ATRIGA, la Seguridad Social y el Ayuntamiento de Vigo.; Cumplir con las obligaciones fiscales y de la Seguridad Social.
