@@ -5,7 +5,7 @@ region: Castilla y leon
 beneficiario: Particulares
 tag_seo: familia
 count: 19
-date: 2026-07-14
+date: 2026-07-15
 slug: subvenciones-castilla-y-leon-particulares-familia
 ---
 
