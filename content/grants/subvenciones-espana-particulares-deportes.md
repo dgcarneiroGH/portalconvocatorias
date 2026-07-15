@@ -5,7 +5,7 @@ region: España
 beneficiario: Particulares
 tag_seo: deportes
 count: 4
-date: 2026-07-14
+date: 2026-07-15
 slug: subvenciones-espana-particulares-deportes
 ---
 
