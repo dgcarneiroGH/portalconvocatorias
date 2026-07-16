@@ -5,7 +5,7 @@ region: Region de murcia
 beneficiario: Gran empresa
 tag_seo: empleo
 count: 9
-date: 2026-07-15
+date: 2026-07-16
 slug: subvenciones-empresa-region-de-murcia-empleo
 ---
 
@@ -38,6 +38,8 @@ Subvenciones activas (9):
   - Requirements: Empresas y autónomos con centro de trabajo en la Región de Murcia; Personas desempleadas e inscritas como demandantes de empleo; Prioridad para mujeres víctimas de violencia de género o en situación de riesgo de exclusión social; Personas jóvenes menores de 30 años con contrato indefinido
   - Budget: 138000€ | Reception: 02/04/2026 | Start: 03/04/2026 | End: 30/09/2026
 - [RESOLUCIÓN DE LA DIRECTORA GENERAL DEL SERVICIO REGIONAL DE EMPLEO Y FORMACIÓN, POR LA QUE SE APRUEBA LA CONVOCATORIA PARA EL AÑO 2025 DE SUBVENCIONES DE FOMENTO DE LA CONTRATACIÓN INDEFINIDA EN LA REGIÓN DE MURCIA. REG. (UE) 2023/2831 "MINIMIS"](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/896850) ()
+  - Description: El objetivo de esta convocatoria es fomentar la contratación indefinida en la Región de Murcia para el año 2026, especialmente de personas desempleadas en situaciones vulnerables, jóvenes menores de 30 años, y en municipios de menos de 10.000 habitantes.
+  - Requirements: Empresas y personas trabajadoras autónomas con centro de trabajo en la Región de Murcia; Desempleados inscritos en la oficina de empleo correspondiente; Mujeres víctimas de violencia de género; Personas en riesgo de exclusión social; Mujeres con hijos menores de 4 años; Jóvenes menores de 30 años
   - Budget: 4232000€ | Reception: 02/04/2026 | Start: 03/04/2026 | End: 30/09/2026
 - [RESOLUCIÓN DE 13 DE MAYO DE 2026 DE LA DIRECTORA GERENTE DEL INSTITUTO MURCIANO DE ACCIÓN SOCIAL POR LA QUE SE CONVOCAN AYUDAS PARA PROGRAMAS DE INTEGRACIÓN SOCIOLABORAL PARA EL AÑO 2026 (APIS)](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/905692) ()
   - Description: Convocar ayudas en Murcia para facilitar la contratación de personas en situación de vulnerabilidad social, con el objetivo de mejorar sus competencias y aumentar sus oportunidades de empleo.
