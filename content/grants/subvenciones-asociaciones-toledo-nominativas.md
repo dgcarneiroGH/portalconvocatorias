@@ -5,7 +5,7 @@ region: Toledo
 beneficiario: Asociaciones y ong
 tag_seo: nominativas
 count: 5
-date: 2026-07-16
+date: 2026-07-17
 slug: subvenciones-asociaciones-toledo-nominativas
 ---
 
