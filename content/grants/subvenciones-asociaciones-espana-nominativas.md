@@ -5,7 +5,7 @@ region: España
 beneficiario: Asociaciones y ong
 tag_seo: nominativas
 count: 18
-date: 2026-07-16
+date: 2026-07-17
 slug: subvenciones-asociaciones-espana-nominativas
 ---
 
@@ -62,7 +62,7 @@ Subvenciones activas (18):
 - [SUBVENCIÓN CONCESIÓN DIRECTA AÑO 2026 A FAVOR DE LA BIBLIOTECA NACIONAL - PRIMERA EXPERIENCIA PROFESIONAL EN LAS ADMINISTRACIONES PÚBLICAS](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/919085) ()
   - Description: Este real decreto tiene como objetivo regular la concesión directa de subvenciones por el Servicio Público de Empleo Estatal para programas de inserción laboral y formación en el ámbito del empleo y de la formación para el año 2026, buscando mejorar la empleabilidad y reducir el desempleo.
   - Requirements: Destinatarios son entidades públicas de la Administración General del Estado; Beneficiarios incluyen a comunidades autónomas de Andalucía, Canarias y Extremadura; Programas se dirigen a personas desempleadas; Las acciones deben estar ligadas a obras o servicios de interés general y social
-  - Budget: 966430€ | Reception: 14/07/2026
+  - Budget: 966430€ | Reception: 14/07/2026 | End: 14/09/2026
 - [202608602025 DIR_22.2.A SUBVENCIÓN NOMINATIVA ASOCIACIÓN DE EMPRESARIOS DEL PARQUE EMPRESARIAL OESTE (ASEPIO)](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/919120) ()
   - Description: La subvención busca financiar la dinamización y mejora del Polígono Industrial Oeste a través de la Asociación de Empresarios, permitiendo la ejecución de trabajos de mantenimiento, limpieza y promoción de servicios para las empresas en la zona.
   - Requirements: Beneficiarios deben ser entidades sin ánimo de lucro; Desarrollar actividades en el Polígono Industrial Oeste; No debe ser deudor por resolución de procedencia de reintegro
