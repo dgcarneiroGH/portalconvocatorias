@@ -5,7 +5,7 @@ region: España
 beneficiario: Particulares
 tag_seo: literatura
 count: 3
-date: 2026-07-17
+date: 2026-07-18
 slug: subvenciones-espana-particulares-literatura
 ---
 
