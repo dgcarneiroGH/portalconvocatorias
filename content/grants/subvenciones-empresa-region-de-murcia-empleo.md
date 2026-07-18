@@ -1,17 +1,17 @@
 ---
 title: Subvenciones para empleo en Region de murcia para Gran empresa
-description: "Recopilatorio de las 9 ayudas activas en Region de murcia para Gran empresa dentro del sector empleo, con presupuesto y plazos de solicitud."
+description: "Recopilatorio de las 8 ayudas activas en Region de murcia para Gran empresa dentro del sector empleo, con presupuesto y plazos de solicitud."
 region: Region de murcia
 beneficiario: Gran empresa
 tag_seo: empleo
-count: 9
-date: 2026-07-17
+count: 8
+date: 2026-07-18
 slug: subvenciones-empresa-region-de-murcia-empleo
 ---
 
 # Subvenciones para empleo en empresa para region-de-murcia
 
-Subvenciones activas (9):
+Subvenciones activas (8):
 
 - [RESOLUCIÓN DE LA DIRECTORA GENERAL DEL SEF, POR LA QUE SE APRUEBA, POR EL SISTEMA DE TRAMITACIÓN ANTICIPADA, LA CONVOCATORIA DE SUBVENCIONES DESTINADAS A LA FINANCIACIÓN DEL “PROGRAMA CONEXIÓN EMPLEO JOVEN”,](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/876965) ()
   - Description: La subvención tiene como objetivo financiar el 'Programa Conexión Empleo Joven', que apoya la contratación de jóvenes titulados en la Región de Murcia, cofinanciada por el Fondo Social Europeo Plus.
@@ -45,7 +45,3 @@ Subvenciones activas (9):
   - Description: Convocar ayudas en Murcia para facilitar la contratación de personas en situación de vulnerabilidad social, con el objetivo de mejorar sus competencias y aumentar sus oportunidades de empleo.
   - Requirements: Empresas privadas con centro de trabajo en la Región de Murcia; Beneficiarios: personas en situación o riesgo de exclusión social; La contratación debe ser propuesta por centros de servicios sociales o entidades de iniciativa social; Contrato mínimo de 6 meses y máximo de 12; Duración mínima de jornada laboral del 50%; Número máximo de puestos a solicitar: tres, ampliable a cuatro en diferentes localidades
   - Budget: 250000€ | Reception: 14/05/2026 | Start: 15/05/2026 | End: 31/10/2026
-- [PLANES DE FORMACIÓN 2026 (MODALIDAD 1) - FORMACIÓN PROFESIONAL PARA EL EMPLEO - SEPE](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/915889) ()
-  - Description: La convocatoria tiene como objetivo financiar planes de formación para mejorar la productividad y competitividad de las empresas, así como la empleabilidad de los trabajadores en la Región de Murcia.
-  - Requirements: Entidades de formación públicas o privadas; Inscripción en el Registro de Entidades de Formación del SEF; Presencia en la Región de Murcia
-  - Budget: 2720000€ | Reception: 26/06/2026 | Start: 29/06/2026 | End: 17/07/2026
