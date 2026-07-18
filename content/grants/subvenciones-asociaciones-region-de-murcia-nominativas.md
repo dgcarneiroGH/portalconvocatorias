@@ -5,7 +5,7 @@ region: Region de murcia
 beneficiario: Asociaciones y ong
 tag_seo: nominativas
 count: 21
-date: 2026-07-17
+date: 2026-07-18
 slug: subvenciones-asociaciones-region-de-murcia-nominativas
 ---
 
@@ -34,15 +34,16 @@ Subvenciones activas (21):
   - Budget: 3000€ | Reception: 07/07/2026 | Start: 01/01/2026
 - [CONVENIO SAN JAVIER CENTRO ABIERTO 2026](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/917533) ()
   - Description: Esta subvención tiene como objetivo financiar el mantenimiento, potenciación y difusión de las actividades de la asociación de comerciantes San Javier Centro Abierto durante el ejercicio 2026.
-  - Budget: 3000€ | Reception: 07/07/2026 | Start: 01/01/2026
+  - Budget: 3000€ | Reception: 07/07/2026
 - [CONVENIO FESTIVAL AEREO SAN JAVIER FASJ2026](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/917543) ()
   - Description: El objetivo de la subvención es apoyar la organización del Festival Aéreo Internacional San Javier Ciudad del Aire 2026 a través de un convenio de colaboración con la Asociación Cultural Aeronáutica Española, con un presupuesto destinatario de 90.000 euros.
   - Budget: 90000€ | Reception: 07/07/2026 | Start: 01/01/2026
 - [CONVENIO AMAS DE CASA DE LA RIBERA 2026](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/917636) ()
   - Description: Esta subvención está destinada a financiar proyectos que fomenten el desarrollo sostenible y la innovación en el ámbito económico.
-  - Budget: 1000€ | Reception: 07/07/2026
+  - Budget: 1000€ | Reception: 07/07/2026 | Start: 01/01/2026
 - [CONVENIO CORAL STELLA MARIA BJÖRK 2026](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/917651) ()
-  - Budget: 2000€ | Reception: 07/07/2026 | Start: 01/01/2026
+  - Description: No se dispone de información sobre el objetivo o la financiación del programa.
+  - Budget: 2000€ | Reception: 07/07/2026
 - [CONVENIO MUSEO PARROQUIAL 2026](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/917717) ()
   - Description: Este proyecto de convenio tiene como objetivo asegurar el mantenimiento y conservación del museo parroquial de San Francisco Javier durante el ejercicio 2026, se canaliza a través de una subvención nominativa de 17.000 euros.
   - Budget: 17000€ | Reception: 07/07/2026 | Start: 01/01/2026
