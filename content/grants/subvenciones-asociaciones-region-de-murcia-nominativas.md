@@ -5,7 +5,7 @@ region: Region de murcia
 beneficiario: Asociaciones y ong
 tag_seo: nominativas
 count: 21
-date: 2026-07-18
+date: 2026-07-19
 slug: subvenciones-asociaciones-region-de-murcia-nominativas
 ---
 
@@ -34,7 +34,7 @@ Subvenciones activas (21):
   - Budget: 3000€ | Reception: 07/07/2026 | Start: 01/01/2026
 - [CONVENIO SAN JAVIER CENTRO ABIERTO 2026](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/917533) ()
   - Description: Esta subvención tiene como objetivo financiar el mantenimiento, potenciación y difusión de las actividades de la asociación de comerciantes San Javier Centro Abierto durante el ejercicio 2026.
-  - Budget: 3000€ | Reception: 07/07/2026
+  - Budget: 3000€ | Reception: 07/07/2026 | Start: 01/01/2026
 - [CONVENIO FESTIVAL AEREO SAN JAVIER FASJ2026](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/917543) ()
   - Description: El objetivo de la subvención es apoyar la organización del Festival Aéreo Internacional San Javier Ciudad del Aire 2026 a través de un convenio de colaboración con la Asociación Cultural Aeronáutica Española, con un presupuesto destinatario de 90.000 euros.
   - Budget: 90000€ | Reception: 07/07/2026 | Start: 01/01/2026
@@ -43,7 +43,7 @@ Subvenciones activas (21):
   - Budget: 1000€ | Reception: 07/07/2026 | Start: 01/01/2026
 - [CONVENIO CORAL STELLA MARIA BJÖRK 2026](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/917651) ()
   - Description: No se dispone de información sobre el objetivo o la financiación del programa.
-  - Budget: 2000€ | Reception: 07/07/2026
+  - Budget: 2000€ | Reception: 07/07/2026 | Start: 01/01/2026
 - [CONVENIO MUSEO PARROQUIAL 2026](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/917717) ()
   - Description: Este proyecto de convenio tiene como objetivo asegurar el mantenimiento y conservación del museo parroquial de San Francisco Javier durante el ejercicio 2026, se canaliza a través de una subvención nominativa de 17.000 euros.
   - Budget: 17000€ | Reception: 07/07/2026 | Start: 01/01/2026
@@ -68,10 +68,10 @@ Subvenciones activas (21):
   - Budget: 50000€ | Reception: 13/07/2026 | Start: 01/01/2026
 - [CONVENIO EL NIÑITO JESÚS 2026](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/918865) ()
   - Description: Este convenio tiene como objetivo el mantenimiento, potenciación y difusión de las actividades de la asociación el Niñito Jesús durante el ejercicio 2026, con una subvención nominativa de 10,000 euros del Ayuntamiento de San Javier.
-  - Budget: 10000€ | Reception: 13/07/2026 | Start: 01/01/2026
+  - Budget: 10000€ | Reception: 13/07/2026
 - [CONVENIO FUNDAMIFP 2026](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/918887) ()
   - Description: El objetivo de esta subvención es mantener, potenciar y difundir las actividades de la Fundación Pro-Discapacitados del Cuerpo Nacional de Policía durante el ejercicio 2026, mediante la firma de un convenio entre el Ayuntamiento de San Javier y la fundación.
-  - Budget: 5000€ | Reception: 13/07/2026 | Start: 01/01/2026
+  - Budget: 5000€ | Reception: 13/07/2026
 - [CONVENIO RAFA PUEDE 2026](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/918914) ()
   - Description: Este convenio tiene como objetivo el mantenimiento, potenciación y difusión de las actividades de la Fundación Rafa Puede durante el ejercicio 2026, asegurando la correcta gestión de la subvención asignada.
   - Budget: 5000€ | Reception: 13/07/2026 | Start: 01/01/2026
