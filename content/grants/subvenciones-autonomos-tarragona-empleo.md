@@ -5,7 +5,7 @@ region: Tarragona
 beneficiario: Pyme y autónomos
 tag_seo: empleo
 count: 6
-date: 2026-07-18
+date: 2026-07-19
 slug: subvenciones-autonomos-tarragona-empleo
 ---
 
@@ -36,4 +36,4 @@ Subvenciones activas (6):
 - [CONVOCATORIA PARA LA CONCESIÓN DE INCENTIVOS A LAS EMPRESAS Y NUEVOS EMPRENDEDORES PARA LA PROMOCIÓN DEL EMPLEO, AÑO 2026.](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/916493) ()
   - Description: Este programa tiene como objetivo incentivar la creación de puestos de trabajo en el municipio de Constantí mediante ayudas para la contratación de personas desempleadas y el apoyo a nuevos emprendedores en el establecimiento de empresas.
   - Requirements: Personas que contraten a desempleados empadronados en Constantí por un mínimo de 6 meses.; Nuevos emprendedores con actividad iniciada durante el ejercicio de la convocatoria.
-  - Budget: 44000€ | Reception: 01/07/2026
+  - Budget: 44000€ | Reception: 01/07/2026 | Start: 02/07/2026 | End: 31/12/2026
