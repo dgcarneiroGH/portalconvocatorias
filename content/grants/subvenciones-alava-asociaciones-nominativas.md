@@ -5,7 +5,7 @@ region: Álava
 beneficiario: Asociaciones y ong
 tag_seo: nominativas
 count: 17
-date: 2026-07-20
+date: 2026-07-21
 slug: subvenciones-alava-asociaciones-nominativas
 ---
 
