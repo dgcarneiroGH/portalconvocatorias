@@ -5,7 +5,7 @@ region: Valencia
 beneficiario: Pyme y autónomos
 tag_seo: innovacion
 count: 3
-date: 2026-07-21
+date: 2026-07-22
 slug: subvenciones-autonomos-valencia-innovacion
 ---
 
