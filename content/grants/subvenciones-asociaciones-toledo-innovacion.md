@@ -5,7 +5,7 @@ region: Toledo
 beneficiario: Asociaciones y ong
 tag_seo: innovacion
 count: 11
-date: 2026-07-21
+date: 2026-07-22
 slug: subvenciones-asociaciones-toledo-innovacion
 ---
 
