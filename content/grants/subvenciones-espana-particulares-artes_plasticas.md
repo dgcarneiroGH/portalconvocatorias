@@ -14,8 +14,8 @@ slug: subvenciones-espana-particulares-artes_plasticas
 Subvenciones activas (3):
 
 - [XXVI CONCURSO NACIONAL DE PINTURA RAPIDA CIUDAD DE ALCAUDETE 2026](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/913274) ()
-  - Budget: 13.500 € | Reception: 16/06/2026 | Start: 17/06/2026 | End: 01/08/2026
+  - Budget: 13500€ | Reception: 16/06/2026 | Start: 17/06/2026 | End: 01/08/2026
 - [DECRETO APROBACIÓN BASES CONVOCATORIA CONCURSO CARTEL FERIA REAL DE NTRA SRA DEL VALLE 2026](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/915759) ()
-  - Budget: 1000 € | Reception: 26/06/2026 | Start: 02/07/2026 | End: 15/07/2026
+  - Budget: 1000€ | Reception: 26/06/2026 | Start: 02/07/2026 | End: 15/07/2026
 - [CONVOCATORIA XVII PREMIS CONCURS DE CARTELLS CONTRA LES VIOLÈNCIES MASCLISTES, 2026](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/916465) ()
-  - Budget: 4500 € | Reception: 01/07/2026 | Start: 02/07/2026 | End: 22/09/2026
+  - Budget: 4500€ | Reception: 01/07/2026 | Start: 02/07/2026 | End: 22/09/2026
