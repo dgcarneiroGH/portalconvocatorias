@@ -14,8 +14,8 @@ slug: subvenciones-asociaciones-canarias-familia
 Subvenciones activas (3):
 
 - [SUBVENCION FUND ATENCION A LA FAMILIA 2026](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/910787) ()
-  - Budget: 150.000 € | Reception: 04/06/2026 | Start: 01/01/2026 | End: 31/12/2026
+  - Budget: 150000€ | Reception: 04/06/2026 | Start: 01/01/2026 | End: 31/12/2026
 - [ATENCIÓN A MENORES EN SITUACIÓN DE EXPLOTACIÓN SEXUAL ALONDRA](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/912783) ()
-  - Budget: 507.947 € | Reception: 12/06/2026 | Start: 01/01/2026 | End: 31/12/2026
+  - Budget: 507947€ | Reception: 12/06/2026 | Start: 01/01/2026 | End: 31/12/2026
 - [SERVICIO DE TRATAMIENTO INTEGRAL PARA AFECTADOS/AS POR TCA Y SUS FAMILIAS](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/912785) ()
-  - Budget: 180.000 € | Reception: 12/06/2026 | Start: 01/01/2026 | End: 31/12/2026
+  - Budget: 180000€ | Reception: 12/06/2026 | Start: 01/01/2026 | End: 31/12/2026
