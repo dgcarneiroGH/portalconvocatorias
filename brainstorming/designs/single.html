@@ -1,0 +1,253 @@
+<!DOCTYPE html>
+<html lang="en" style="">
+
+<head>
+    <meta charset="utf-8">
+    <meta content="width=device-width, initial-scale=1.0" name="viewport">
+    <link
+        href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:wght,FILL@100..700,0..1&amp;display=block"
+        rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&amp;display=swap" rel="stylesheet">
+    <script src="https://cdn.tailwindcss.com?plugins=forms,container-queries"></script>
+    <script id="tailwind-config">try {
+            tailwind.config = {
+                darkMode: "class",
+                theme: {
+                    extend: {
+                        "colors": {
+                            "on-tertiary": "#ffffff",
+                            "primary-fixed-dim": "#c4c1fb",
+                            "tertiary": "#160700",
+                            "surface-container-high": "#e4e9ed",
+                            "on-tertiary-container": "#ae7f59",
+                            "on-background": "#171c1f",
+                            "surface-container-highest": "#dfe3e7",
+                            "on-surface": "#171c1f",
+                            "on-error": "#ffffff",
+                            "surface-container": "#eaeef2",
+                            "on-primary-fixed": "#181445",
+                            "secondary-fixed": "#ffdadb",
+                            "inverse-surface": "#2c3134",
+                            "on-secondary-container": "#fffbff",
+                            "on-error-container": "#93000a",
+                            "on-surface-variant": "#47464f",
+                            "secondary-container": "#dc2c4f",
+                            "background": "#f6fafe",
+                            "on-tertiary-fixed": "#2e1500",
+                            "inverse-on-surface": "#edf1f5",
+                            "error-container": "#ffdad6",
+                            "on-secondary": "#ffffff",
+                            "tertiary-container": "#371a00",
+                            "surface-container-lowest": "#ffffff",
+                            "primary-fixed": "#e3dfff",
+                            "outline-variant": "#c8c5d0",
+                            "surface-container-low": "#f0f4f8",
+                            "surface-tint": "#5b598c",
+                            "on-primary-fixed-variant": "#444173",
+                            "tertiary-fixed": "#ffdcc2",
+                            "primary": "#070235",
+                            "on-primary": "#ffffff",
+                            "error": "#ba1a1a",
+                            "surface-variant": "#dfe3e7",
+                            "secondary": "#b90538",
+                            "inverse-primary": "#c4c1fb",
+                            "on-primary-container": "#8683ba",
+                            "secondary-fixed-dim": "#ffb2b7",
+                            "on-secondary-fixed-variant": "#92002a",
+                            "surface-dim": "#d6dade",
+                            "surface-bright": "#f6fafe",
+                            "primary-container": "#1e1b4b",
+                            "outline": "#787680",
+                            "surface": "#f6fafe",
+                            "on-secondary-fixed": "#40000d",
+                            "tertiary-fixed-dim": "#f1bc91",
+                            "on-tertiary-fixed-variant": "#633e1e"
+                        },
+                        "borderRadius": {
+                            "DEFAULT": "1rem",
+                            "lg": "2rem",
+                            "xl": "3rem",
+                            "full": "9999px"
+                        },
+                        "spacing": {
+                            "unit": "4px",
+                            "margin-mobile": "16px",
+                            "gutter": "24px",
+                            "max-width": "1280px",
+                            "margin-desktop": "64px"
+                        },
+                        "fontFamily": {
+                            "headline-md": ["Inter"],
+                            "label-sm": ["Inter"],
+                            "display-lg": ["Inter"],
+                            "body-md": ["Inter"],
+                            "label-bold": ["Inter"],
+                            "display-lg-mobile": ["Inter"],
+                            "body-lg": ["Inter"]
+                        },
+                        "fontSize": {
+                            "headline-md": ["24px", { "lineHeight": "32px", "letterSpacing": "-0.01em", "fontWeight": "600" }],
+                            "label-sm": ["12px", { "lineHeight": "16px", "fontWeight": "500" }],
+                            "display-lg": ["48px", { "lineHeight": "56px", "letterSpacing": "-0.02em", "fontWeight": "700" }],
+                            "body-md": ["16px", { "lineHeight": "24px", "fontWeight": "400" }],
+                            "label-bold": ["14px", { "lineHeight": "20px", "letterSpacing": "0.01em", "fontWeight": "600" }],
+                            "display-lg-mobile": ["32px", { "lineHeight": "40px", "letterSpacing": "-0.02em", "fontWeight": "700" }],
+                            "body-lg": ["18px", { "lineHeight": "28px", "fontWeight": "400" }]
+                        }
+                    }
+                }
+            }
+        } catch (_e) { }</script>
+</head>
+
+<body class="bg-surface-container-lowest font-body-md text-body-md text-primary flex flex-col min-h-screen">
+    <!-- TopNavBar -->
+    <header
+        class="bg-surface-container-lowest dark:bg-surface-container-low text-primary dark:text-primary-fixed-dim font-headline-md text-headline-md font-body-md text-body-md w-full h-16 border-b-2 border-primary dark:border-primary-fixed-dim">
+        <div class="flex justify-between items-center px-margin-desktop max-w-max-width mx-auto h-full">
+            <div class="flex items-center gap-4"><a href="/"
+                    class="flex items-center gap-4 hover:opacity-80 transition-opacity"><img alt="Association Profile"
+                        class="w-8 h-8 rounded-full object-cover border-2 border-primary"
+                        src="https://lh3.googleusercontent.com/aida/AP1WRLsFrKdCUFL1TJ8oAlofQwUQwJ3dxvTs4-SdCL_GcXavNwLkULrjHOT_WfXfKN-uB5SsxZOqm5nEYDzQB1O2vH1YDqIwHkDQAUwTJ_ds7IoJQkJobzQ3n9kKwCVYcpX9hgI4CvNSz4eb7wzSQ3Aon7pNoHfFLQk-SfSHOCyfTGn9bZAbPaImwifL9ECVx5OpRilyIAPkddirrN0o6qPFSfuHK5F6eizUmt3KbnabSXf-WyIMj1THt-f7QGA8">
+                    <div class="flex flex-col"><span
+                            class="font-headline-md text-headline-md font-bold text-primary dark:text-primary-fixed-dim">Portal
+                            de Subvenciones</span></div>
+                </a></div>
+        </div>
+    </header>
+    <main class="flex-grow flex flex-col w-full max-w-max-width mx-auto">
+        <!-- Main Content Area -->
+        <div class="w-full p-margin-mobile md:p-margin-desktop flex flex-col gap-16">
+            <section class="flex flex-col gap-6">
+                <h1
+                    class="font-display-lg-mobile md:font-display-lg text-display-lg-mobile md:text-display-lg text-[#1E1B4B]">
+                    Subvenciones Nominativas para Asociaciones</h1>
+
+            </section>
+            <section class="flex flex-col gap-gutter">
+                <!-- Card 1 -->
+                <article
+                    class="bg-white border border-primary rounded-[2rem] p-8 flex flex-col gap-6 hover:bg-surface-container-low transition-colors duration-200">
+                    <h3 class="font-headline-md text-headline-md text-primary leading-tight">Acción Social: Cruz Roja y
+                        Cáritas</h3>
+                    <p class="font-body-md text-body-md text-on-surface-variant">
+                        Concesión directa mediante Real Decreto para garantizar el sostenimiento de programas de
+                        atención a colectivos vulnerables. Sujeto a auditoría de desempeño trimestral.
+                    </p>
+                    <div class="flex flex-wrap gap-6 text-label-sm font-label-sm text-primary">
+                        <div class="flex items-center gap-1"><span
+                                class="material-symbols-outlined text-[16px]">payments</span> PRESUPUESTO: 8280000€
+                        </div>
+                        <div class="flex items-center gap-1"><span
+                                class="material-symbols-outlined text-[16px]">inbox</span> RECEPCIÓN: 07/07/2026</div>
+                        <div class="flex items-center gap-1"><span
+                                class="material-symbols-outlined text-[16px]">play_arrow</span> INICIO: 07/06/2026</div>
+                        <div class="flex items-center gap-1"><span
+                                class="material-symbols-outlined text-[16px]">stop_circle</span> FIN: 31/12/2026</div>
+                    </div>
+                    <div class="bg-surface-container border border-dashed border-primary rounded-xl p-6">
+                        <h4 class="font-label-bold text-label-bold text-primary mb-2">REQUISITOS</h4>
+                        <ul
+                            class="list-disc pl-5 font-label-sm text-label-sm text-on-surface-variant flex flex-col gap-2">
+                            <li class="">Entidades públicas de la Administración General del Estado</li>
+                            <li class="">Comunidades Autónomas de Andalucía, Canarias y Extremadura</li>
+                            <li class="">Organismos que gestionen programas específicos como INJUVE, INAEM, CSIC, entre
+                                otros</li>
+                        </ul>
+                    </div>
+                    <button
+                        class="self-start border-2 border-primary text-primary px-6 py-2 rounded-full font-label-bold text-label-bold hover:bg-primary hover:text-white transition-colors">Acceder
+                        a la convocatoria oficial</button>
+                </article>
+                <!-- Card 2 -->
+                <article
+                    class="bg-white border border-primary rounded-[2rem] p-8 flex flex-col gap-6 hover:bg-surface-container-low transition-colors duration-200">
+                    <h3 class="font-headline-md text-headline-md text-primary leading-tight">Cultura y Juventud:
+                        Entidades Representativas</h3>
+                    <p class="font-body-md text-body-md text-on-surface-variant">
+                        Financiación estructural para confederaciones juveniles y entidades culturales de ámbito
+                        estatal. Requiere justificación de impacto social según memoria descriptiva previa.
+                    </p>
+                    <div class="flex flex-wrap gap-6 text-label-sm font-label-sm text-primary">
+                        <div class="flex items-center gap-1"><span
+                                class="material-symbols-outlined text-[16px]">payments</span> PRESUPUESTO: 1500000€
+                        </div>
+                        <div class="flex items-center gap-1"><span
+                                class="material-symbols-outlined text-[16px]">inbox</span> RECEPCIÓN: 15/08/2026</div>
+                        <div class="flex items-center gap-1"><span
+                                class="material-symbols-outlined text-[16px]">play_arrow</span> INICIO: 01/09/2026</div>
+                        <div class="flex items-center gap-1"><span
+                                class="material-symbols-outlined text-[16px]">stop_circle</span> FIN: 31/12/2026</div>
+                    </div>
+                    <div class="bg-surface-container border border-dashed border-primary rounded-xl p-6">
+                        <h4 class="font-label-bold text-label-bold text-primary mb-2">REQUISITOS</h4>
+                        <ul
+                            class="list-disc pl-5 font-label-sm text-label-sm text-on-surface-variant flex flex-col gap-2">
+                            <li class="">Entidades públicas de la Administración General del Estado</li>
+                            <li class="">Comunidades Autónomas de Andalucía, Canarias y Extremadura</li>
+                            <li class="">Organismos que gestionen programas específicos como INJUVE, INAEM, CSIC, entre
+                                otros</li>
+                        </ul>
+                    </div>
+                    <button
+                        class="self-start border-2 border-primary text-primary px-6 py-2 rounded-full font-label-bold text-label-bold hover:bg-primary hover:text-white transition-colors">Acceder
+                        a la convocatoria oficial</button>
+                </article>
+                <!-- Card 3 -->
+                <article
+                    class="bg-white border border-primary rounded-[2rem] p-8 flex flex-col gap-6 hover:bg-surface-container-low transition-colors duration-200">
+                    <h3 class="font-headline-md text-headline-md text-primary leading-tight">Fondos Next Generation EU
+                    </h3>
+                    <p class="font-body-md text-body-md text-on-surface-variant">
+                        Canalización de fondos europeos a través de entidades del tercer sector para proyectos de
+                        digitalización y transición ecológica. Riguroso control ex-post.
+                    </p>
+                    <div class="flex flex-wrap gap-6 text-label-sm font-label-sm text-primary">
+                        <div class="flex items-center gap-1"><span
+                                class="material-symbols-outlined text-[16px]">payments</span> PRESUPUESTO: 5000000€
+                        </div>
+                        <div class="flex items-center gap-1"><span
+                                class="material-symbols-outlined text-[16px]">inbox</span> RECEPCIÓN: 01/10/2026</div>
+                        <div class="flex items-center gap-1"><span
+                                class="material-symbols-outlined text-[16px]">play_arrow</span> INICIO: 01/11/2026</div>
+                        <div class="flex items-center gap-1"><span
+                                class="material-symbols-outlined text-[16px]">stop_circle</span> FIN: 31/12/2027</div>
+                    </div>
+                    <div class="bg-surface-container border border-dashed border-primary rounded-xl p-6">
+                        <h4 class="font-label-bold text-label-bold text-primary mb-2">REQUISITOS</h4>
+                        <ul
+                            class="list-disc pl-5 font-label-sm text-label-sm text-on-surface-variant flex flex-col gap-2">
+                            <li class="">Entidades públicas de la Administración General del Estado</li>
+                            <li class="">Comunidades Autónomas de Andalucía, Canarias y Extremadura</li>
+                            <li class="">Organismos que gestionen programas específicos como INJUVE, INAEM, CSIC, entre
+                                otros</li>
+                        </ul>
+                    </div>
+                    <button
+                        class="self-start border-2 border-primary text-primary px-6 py-2 rounded-full font-label-bold text-label-bold hover:bg-primary hover:text-white transition-colors">Acceder
+                        a la convocatoria oficial</button>
+                </article>
+            </section>
+        </div>
+    </main>
+    <!-- Footer -->
+    <footer
+        class="bg-surface-container-lowest dark:bg-surface-container-low text-primary dark:text-primary-fixed-dim font-label-sm text-label-sm w-full py-8 mt-auto border-t-2 border-primary dark:border-primary-fixed-dim z-10 relative">
+        <div
+            class="flex flex-col md:flex-row justify-between items-center px-margin-desktop max-w-max-width mx-auto gap-4">
+            <div class="font-label-bold text-label-bold text-primary dark:text-primary-fixed-dim">
+                © 2024 Portal de Subvenciones - Gobierno de España
+            </div>
+            <nav class="flex flex-wrap justify-center gap-6">
+                <a class="text-on-surface-variant dark:text-on-surface-variant hover:text-secondary dark:hover:text-secondary-fixed underline opacity-80 hover:opacity-100 transition-opacity"
+                    href="#">Privacy Policy</a>
+                <a class="text-on-surface-variant dark:text-on-surface-variant hover:text-secondary dark:hover:text-secondary-fixed underline opacity-80 hover:opacity-100 transition-opacity"
+                    href="#">Legal Notice</a>
+                <a class="text-on-surface-variant dark:text-on-surface-variant hover:text-secondary dark:hover:text-secondary-fixed underline opacity-80 hover:opacity-100 transition-opacity"
+                    href="#">Accessibility</a>
+            </nav>
+        </div>
+    </footer>
+</body>
+
+</html>

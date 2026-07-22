@@ -1,0 +1,267 @@
+<!DOCTYPE html>
+<html lang="es" style="">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&amp;display=swap" rel="stylesheet">
+    <link
+        href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:wght,FILL@100..700,0..1&amp;display=block"
+        rel="stylesheet">
+    <script src="https://cdn.tailwindcss.com?plugins=forms,container-queries"></script>
+    <script id="tailwind-config">try {
+            tailwind.config = {
+                darkMode: "class",
+                theme: {
+                    extend: {
+                        "colors": {
+                            "outline-variant": "#c8c5d0",
+                            "on-secondary-container": "#fffbff",
+                            "tertiary-container": "#371a00",
+                            "tertiary-fixed-dim": "#f1bc91",
+                            "on-primary-fixed": "#181445",
+                            "inverse-on-surface": "#edf1f5",
+                            "surface-container-high": "#e4e9ed",
+                            "outline": "#787680",
+                            "error": "#ba1a1a",
+                            "inverse-surface": "#2c3134",
+                            "inverse-primary": "#c4c1fb",
+                            "background": "#f6fafe",
+                            "surface-tint": "#5b598c",
+                            "on-error": "#ffffff",
+                            "surface-dim": "#d6dade",
+                            "on-tertiary-fixed-variant": "#633e1e",
+                            "tertiary": "#160700",
+                            "on-primary-container": "#8683ba",
+                            "error-container": "#ffdad6",
+                            "surface-container-lowest": "#ffffff",
+                            "on-background": "#171c1f",
+                            "on-error-container": "#93000a",
+                            "on-primary-fixed-variant": "#444173",
+                            "primary-container": "#1e1b4b",
+                            "surface-variant": "#dfe3e7",
+                            "secondary": "#b90538",
+                            "on-secondary-fixed-variant": "#92002a",
+                            "secondary-fixed": "#ffdadb",
+                            "surface": "#f6fafe",
+                            "on-surface": "#171c1f",
+                            "primary": "#070235",
+                            "on-tertiary": "#ffffff",
+                            "on-secondary-fixed": "#40000d",
+                            "on-tertiary-fixed": "#2e1500",
+                            "secondary-container": "#dc2c4f",
+                            "surface-container": "#eaeef2",
+                            "primary-fixed": "#e3dfff",
+                            "secondary-fixed-dim": "#ffb2b7",
+                            "surface-container-highest": "#dfe3e7",
+                            "on-primary": "#ffffff",
+                            "surface-bright": "#f6fafe",
+                            "on-secondary": "#ffffff",
+                            "on-tertiary-container": "#ae7f59",
+                            "tertiary-fixed": "#ffdcc2",
+                            "surface-container-low": "#f0f4f8",
+                            "on-surface-variant": "#47464f",
+                            "primary-fixed-dim": "#c4c1fb"
+                        },
+                        "borderRadius": {
+                            "DEFAULT": "1rem",
+                            "lg": "2rem",
+                            "xl": "3rem",
+                            "full": "9999px"
+                        },
+                        "spacing": {
+                            "margin-mobile": "16px",
+                            "max-width": "1280px",
+                            "unit": "4px",
+                            "margin-desktop": "64px",
+                            "gutter": "24px"
+                        },
+                        "fontFamily": {
+                            "body-md": ["Inter"],
+                            "label-sm": ["Inter"],
+                            "display-lg": ["Inter"],
+                            "body-lg": ["Inter"],
+                            "label-bold": ["Inter"],
+                            "display-lg-mobile": ["Inter"],
+                            "headline-md": ["Inter"]
+                        },
+                        "fontSize": {
+                            "body-md": ["16px", { "lineHeight": "24px", "fontWeight": "400" }],
+                            "label-sm": ["12px", { "lineHeight": "16px", "fontWeight": "500" }],
+                            "display-lg": ["48px", { "lineHeight": "56px", "letterSpacing": "-0.02em", "fontWeight": "700" }],
+                            "body-lg": ["18px", { "lineHeight": "28px", "fontWeight": "400" }],
+                            "label-bold": ["14px", { "lineHeight": "20px", "letterSpacing": "0.01em", "fontWeight": "600" }],
+                            "display-lg-mobile": ["32px", { "lineHeight": "40px", "letterSpacing": "-0.02em", "fontWeight": "700" }],
+                            "headline-md": ["24px", { "lineHeight": "32px", "letterSpacing": "-0.01em", "fontWeight": "600" }]
+                        }
+                    }
+                }
+            }
+        } catch (_e) { }</script>
+</head>
+
+<body class="bg-surface-container-lowest text-on-surface min-h-screen flex flex-col">
+
+    <!-- TopNavBar -->
+    <nav
+        class="bg-surface dark:bg-surface-container-low fixed top-0 w-full z-50 border-b-2 border-primary dark:border-primary-fixed">
+        <div class="flex items-center max-w-[1280px] mx-auto px-margin-desktop h-16">
+            <div class="flex items-center gap-4">
+                <img src="https://lh3.googleusercontent.com/aida/AP1WRLsFrKdCUFL1TJ8oAlofQwUQwJ3dxvTs4-SdCL_GcXavNwLkULrjHOT_WfXfKN-uB5SsxZOqm5nEYDzQB1O2vH1YDqIwHkDQAUwTJ_ds7IoJQkJobzQ3n9kKwCVYcpX9hgI4CvNSz4eb7wzSQ3Aon7pNoHfFLQk-SfSHOCyfTGn9bZAbPaImwifL9ECVx5OpRilyIAPkddirrN0o6qPFSfuHK5F6eizUmt3KbnabSXf-WyIMj1THt-f7QGA8"
+                    alt="Portal de Subvenciones Logo" class="h-8 w-8 object-contain">
+                <span class="text-headline-md font-headline-md font-bold text-primary dark:text-primary-fixed">Portal de
+                    Subvenciones</span>
+            </div>
+
+
+        </div>
+    </nav>
+
+    <!-- Main Content -->
+    <main class="flex-grow pt-32 pb-24 max-w-[1280px] mx-auto px-margin-desktop w-full">
+
+        <!-- Search/Filter Section -->
+        <section class="mb-16">
+            <h2 class="text-display-lg md:text-display-lg font-display-lg text-primary-container mb-8">Filtrar
+                Subvenciones</h2>
+            <div class="flex flex-wrap gap-4">
+                <button
+                    class="px-6 py-2 rounded-full border border-primary-container text-primary-container font-label-bold text-label-bold bg-surface-container-lowest hover:bg-surface-variant transition-colors">Todas</button>
+                <button
+                    class="px-6 py-2 rounded-full border border-primary-container text-primary-container font-label-bold text-label-bold bg-surface-container-lowest hover:bg-surface-variant transition-colors">Álava</button>
+                <button
+                    class="px-6 py-2 rounded-full border border-primary-container text-primary-container font-label-bold text-label-bold bg-surface-container-lowest hover:bg-surface-variant transition-colors">Bizkaia</button>
+                <button
+                    class="px-6 py-2 rounded-full border border-primary-container text-primary-container font-label-bold text-label-bold bg-surface-container-lowest hover:bg-surface-variant transition-colors">Gipuzkoa</button>
+                <button
+                    class="px-6 py-2 rounded-full border border-primary-container text-primary-container font-label-bold text-label-bold bg-surface-container-lowest hover:bg-surface-variant transition-colors">Asociaciones
+                    y ONG</button>
+                <button
+                    class="px-6 py-2 rounded-full border border-primary-container text-primary-container font-label-bold text-label-bold bg-surface-container-lowest hover:bg-surface-variant transition-colors">Empresas</button>
+                <button
+                    class="px-6 py-2 rounded-full border border-primary-container text-primary-container font-label-bold text-label-bold bg-surface-container-lowest hover:bg-surface-variant transition-colors">Particulares</button>
+
+            </div>
+        </section>
+
+        <!-- Title Section -->
+        <section class="mb-12">
+            <h3 class="text-headline-md font-headline-md text-primary-container flex items-center justify-between">
+                Últimas actualizaciones<span
+                    class="text-label-sm font-label-bold uppercase tracking-wider opacity-70">Última actualización:
+                    24/05/2024</span></h3>
+        </section>
+
+        <!-- Grant List -->
+        <section class="space-y-6">
+
+            <!-- Card 1 -->
+            <article
+                class="p-12 rounded-[2rem] border border-primary-container bg-surface-container-lowest hover:border-2 transition-all flex flex-col md:flex-row justify-between items-start md:items-center gap-8 cursor-pointer">
+                <div class="flex flex-col gap-6 w-full">
+                    <div class="flex justify-between items-center w-full">
+                        <div class="flex gap-3"><span
+                                class="px-4 py-1 rounded-full border border-primary-container text-primary-container font-label-sm text-label-sm">Álava</span><span
+                                class="px-4 py-1 rounded-full border border-primary-container text-primary-container font-label-sm text-label-sm">Asociaciones
+                                y ONG</span></div>
+                        <div class="flex items-center gap-3 shrink-0 whitespace-nowrap">
+                            <div class="w-3 h-3 rounded-full bg-secondary"></div><span
+                                class="font-label-bold text-label-bold text-secondary uppercase tracking-wider">Ayudas
+                                Activas: 17</span>
+                        </div>
+                    </div>
+                    <h4 class="text-headline-md font-headline-md text-primary-container font-bold leading-tight">
+                        Subvenciones nominativas en Álava para el fomento de actividades sociosanitarias</h4>
+                </div>
+            </article>
+
+            <!-- Card 2 -->
+            <article
+                class="p-12 rounded-[2rem] border border-primary-container bg-surface-container-lowest hover:border-2 transition-all flex flex-col md:flex-row justify-between items-start md:items-center gap-8 cursor-pointer">
+                <div class="flex flex-col gap-6 w-full">
+                    <div class="flex justify-between items-center w-full">
+                        <div class="flex gap-3"><span
+                                class="px-4 py-1 rounded-full border border-primary-container text-primary-container font-label-sm text-label-sm">Bizkaia</span><span
+                                class="px-4 py-1 rounded-full border border-primary-container text-primary-container font-label-sm text-label-sm">Empresas</span><span
+                                class="px-4 py-1 rounded-full border border-primary-container text-primary-container font-label-sm text-label-sm">I+D</span>
+                        </div>
+                        <div class="flex items-center gap-3 shrink-0 whitespace-nowrap">
+                            <div class="w-3 h-3 rounded-full bg-secondary"></div><span
+                                class="font-label-bold text-label-bold text-secondary uppercase tracking-wider">Ayudas
+                                Activas: 5</span>
+                        </div>
+                    </div>
+                    <h4 class="text-headline-md font-headline-md text-primary-container font-bold leading-tight">
+                        Programa de apoyo a la innovación tecnológica y digitalización industrial</h4>
+                </div>
+            </article>
+
+            <!-- Card 3 -->
+            <article
+                class="p-12 rounded-[2rem] border border-primary-container bg-surface-container-lowest hover:border-2 transition-all flex flex-col md:flex-row justify-between items-start md:items-center gap-8 cursor-pointer">
+                <div class="flex flex-col gap-6 w-full">
+                    <div class="flex justify-between items-center w-full">
+                        <div class="flex gap-3"><span
+                                class="px-4 py-1 rounded-full border border-primary-container text-primary-container font-label-sm text-label-sm">Gipuzkoa</span><span
+                                class="px-4 py-1 rounded-full border border-primary-container text-primary-container font-label-sm text-label-sm">Particulares</span>
+                        </div>
+                        <div class="flex items-center gap-3 shrink-0 whitespace-nowrap">
+                            <div class="w-3 h-3 rounded-full bg-secondary"></div><span
+                                class="font-label-bold text-label-bold text-secondary uppercase tracking-wider">Ayudas
+                                Activas: 12</span>
+                        </div>
+                    </div>
+                    <h4 class="text-headline-md font-headline-md text-primary-container font-bold leading-tight">Ayudas
+                        para la rehabilitación energética de viviendas y edificios residenciales</h4>
+                </div>
+            </article>
+
+            <!-- Card 4 -->
+            <article
+                class="p-12 rounded-[2rem] border border-primary-container bg-surface-container-lowest hover:border-2 transition-all flex flex-col md:flex-row justify-between items-start md:items-center gap-8 cursor-pointer">
+                <div class="flex flex-col gap-6 w-full">
+                    <div class="flex justify-between items-center w-full">
+                        <div class="flex gap-3"><span
+                                class="px-4 py-1 rounded-full border border-primary-container text-primary-container font-label-sm text-label-sm">Euskadi</span><span
+                                class="px-4 py-1 rounded-full border border-primary-container text-primary-container font-label-sm text-label-sm">Emprendedores</span>
+                        </div>
+                        <div class="flex items-center gap-3 shrink-0 whitespace-nowrap">
+                            <div class="w-3 h-3 rounded-full bg-secondary"></div><span
+                                class="font-label-bold text-label-bold text-secondary uppercase tracking-wider">Ayudas
+                                Activas: 3</span>
+                        </div>
+                    </div>
+                    <h4 class="text-headline-md font-headline-md text-primary-container font-bold leading-tight">
+                        Programa Ekintzaile para la creación de nuevas iniciativas empresariales</h4>
+                </div>
+            </article>
+
+        </section>
+
+        <div class="mt-16 flex justify-center">
+            <button
+                class="px-8 py-3 border-2 border-primary-container rounded-full text-primary-container font-label-bold text-label-bold hover:bg-primary-container hover:text-white transition-all">Cargar
+                más subvenciones</button>
+        </div>
+
+    </main>
+
+    <!-- Footer -->
+    <footer class="bg-surface-container dark:bg-surface-container-highest w-full py-16 border-t border-outline-variant">
+        <div
+            class="flex flex-col md:flex-row justify-between items-center max-w-[1280px] mx-auto px-margin-desktop gap-gutter">
+            <span class="font-label-bold text-label-bold text-primary">© 2024 Portal de Subvenciones. Gobierno
+                Digital.</span>
+            <div class="flex gap-8">
+                <a href="#"
+                    class="font-label-sm text-label-sm text-on-surface-variant hover:text-primary underline decoration-2 transition-colors">Privacidad</a>
+                <a href="#"
+                    class="font-label-sm text-label-sm text-on-surface-variant hover:text-primary underline decoration-2 transition-colors">Términos</a>
+                <a href="#"
+                    class="font-label-sm text-label-sm text-on-surface-variant hover:text-primary underline decoration-2 transition-colors">Contacto</a>
+            </div>
+        </div>
+    </footer>
+</body>
+
+</html>
