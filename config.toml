@@ -1,6 +1,6 @@
 baseURL = "https://portalconvocatorias.es/"
 languageCode = "es-es"
-title = "Portal de Subvenciones"
+title = "Portal de Convocatorias"
 
 [sitemap]
   changefreq = "daily"
