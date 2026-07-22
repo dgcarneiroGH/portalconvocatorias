@@ -5,7 +5,7 @@ region: Region de murcia
 beneficiario: Asociaciones y ong
 tag_seo: accesibilidad
 count: 4
-date: 2026-07-21
+date: 2026-07-22
 slug: subvenciones-asociaciones-region-de-murcia-accesibilidad
 ---
 
