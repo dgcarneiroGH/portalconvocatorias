@@ -6,12 +6,16 @@
         </div>
     </header>
 
-    <h2 class="section-title">Últimas Actualizaciones</h2>
+    <div class="section-heading">
+        <h2 class="section-title">Últimas Actualizaciones</h2>
+        {{ with index .Site.RegularPages 0 }}
+        <span class="last-updated">Última actualización: {{ dateFormat "02/01/2006" .Date }}</span>
+        {{ end }}
+    </div>
 
     <ul class="grant-list">
         {{ range .Site.RegularPages }}
         <li class="grant-card">
-            <span class="badge">📅 ACTUALIZADO: {{ dateFormat "02/01/2006" .Date }}</span>
             {{ with .Params.region }}<span class="badge">📍 {{ . | title }}</span>{{ end }}
             {{ with .Params.beneficiario }}<span class="badge">👥 {{ . | title }}</span>{{ end }}
 

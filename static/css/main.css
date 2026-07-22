@@ -184,6 +184,16 @@ h1, h2, h3, .font-space {
     border-bottom: 2px solid var(--navy);
 }
 
+.section-heading {
+    display: flex;
+    align-items: baseline;
+    justify-content: space-between;
+    gap: 1rem;
+    margin: 2rem 0 1rem 0;
+    padding-bottom: 0.5rem;
+    border-bottom: 3px solid var(--orange);
+}
+
 /* Título de sección (Listado de Subvenciones) */
 .section-title {
     font-family: 'Space Grotesk', sans-serif;
@@ -191,9 +201,16 @@ h1, h2, h3, .font-space {
     font-size: 18px;
     text-transform: uppercase;
     letter-spacing: 1px;
-    margin: 2rem 0 1rem 0;
-    padding-bottom: 0.5rem;
-    border-bottom: 3px solid var(--orange);
+    margin: 0;
+}
+
+.last-updated {
+    color: var(--navy);
+    font-family: 'Space Grotesk', sans-serif;
+    font-size: 13px;
+    font-weight: 700;
+    text-align: right;
+    white-space: nowrap;
 }
 
 /* Tarjeta de subvención individual - Título con cuadro naranja */
@@ -234,4 +251,17 @@ h1, h2, h3, .font-space {
     font-style: italic;
     margin: 0;
     opacity: 0.7;
+}
+
+@media (max-width: 480px) {
+    .section-heading {
+        flex-direction: column;
+        align-items: flex-start;
+        gap: 0.25rem;
+    }
+
+    .last-updated {
+        text-align: left;
+        white-space: normal;
+    }
 }
