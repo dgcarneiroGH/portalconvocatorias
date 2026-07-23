@@ -1,8 +1,8 @@
 ---
 title: Subvenciones para innovacion en Toledo para Asociaciones y ong
 description: "Recopilatorio de las 11 ayudas activas en Toledo para Asociaciones y ong dentro del sector innovacion, con presupuesto y plazos de solicitud."
-region: Toledo
-beneficiario: Asociaciones y ong
+regiones: Toledo
+para: Asociaciones y ong
 tag_seo: innovacion
 count: 11
 date: 2026-07-23
