@@ -1,8 +1,8 @@
 ---
 title: Subvenciones para vivienda en Lanzarote para Particulares
 description: "Recopilatorio de las 3 ayudas activas en Lanzarote para Particulares dentro del sector vivienda, con presupuesto y plazos de solicitud."
-region: Lanzarote
-beneficiario: Particulares
+regiones: Lanzarote
+para: Particulares
 tag_seo: vivienda
 count: 3
 date: 2026-07-23
