@@ -1,8 +1,8 @@
 ---
 title: Subvenciones para formacion en España para Asociaciones y ong
 description: "Recopilatorio de las 4 ayudas activas en España para Asociaciones y ong dentro del sector formacion, con presupuesto y plazos de solicitud."
-region: España
-beneficiario: Asociaciones y ong
+regiones: España
+para: Asociaciones y ong
 tag_seo: formacion
 count: 4
 date: 2026-07-23
