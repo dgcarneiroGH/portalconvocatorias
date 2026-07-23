@@ -1,0 +1,99 @@
+{{- $baseURL := .Site.BaseURL -}}
+{{- $orgID := printf "%s#organization" $baseURL -}}
+{{- $siteID := printf "%s#website" $baseURL -}}
+{{- $siteDescription := .Site.Params.description | default "Recopilatorio de subvenciones, ayudas y convocatorias activas en España." -}}
+
+{{- if .IsHome -}}
+  {{- $schema := dict
+    "@context" "https://schema.org"
+    "@graph" (slice
+      (dict
+        "@type" "Organization"
+        "@id" $orgID
+        "name" .Site.Title
+        "url" $baseURL
+        "logo" (dict
+          "@type" "ImageObject"
+          "url" (printf "%slogo_192x192.avif" $baseURL)
+          "width" 192
+          "height" 192
+        )
+        "description" $siteDescription
+        "sameAs" (slice)
+      )
+      (dict
+        "@type" "WebSite"
+        "@id" $siteID
+        "url" $baseURL
+        "name" .Site.Title
+        "inLanguage" "es-ES"
+        "publisher" (dict "@id" $orgID)
+      )
+    )
+  -}}
+  <script type="application/ld+json">{{ $schema | jsonify | safeJS }}</script>
+
+{{- else if .IsSection -}}
+  {{- $itemListElements := slice -}}
+  {{- range $i, $p := .Pages -}}
+    {{- $itemListElements = $itemListElements | append (dict
+      "@type" "ListItem"
+      "position" (add $i 1)
+      "url" $p.Permalink
+      "name" $p.Title
+    ) -}}
+  {{- end -}}
+  {{- $schema := dict
+    "@context" "https://schema.org"
+    "@type" "CollectionPage"
+    "name" .Title
+    "description" .Description
+    "url" .Permalink
+    "inLanguage" "es-ES"
+    "isPartOf" (dict "@id" $siteID)
+    "mainEntity" (dict
+      "@type" "ItemList"
+      "name" .Title
+      "numberOfItems" (len .Pages)
+      "itemListElement" $itemListElements
+    )
+  -}}
+  <script type="application/ld+json">{{ $schema | jsonify | safeJS }}</script>
+
+{{- else if .IsPage -}}
+  {{- $breadcrumbs := slice
+    (dict "@type" "ListItem" "position" 1 "name" "Inicio" "item" $baseURL)
+    (dict "@type" "ListItem" "position" 2 "name" "Todas las subvenciones" "item" (printf "%sgrants/" $baseURL))
+    (dict "@type" "ListItem" "position" 3 "name" .Title "item" .Permalink)
+  -}}
+  {{- $schema := dict
+    "@context" "https://schema.org"
+    "@graph" (slice
+      (dict
+        "@type" "BreadcrumbList"
+        "itemListElement" $breadcrumbs
+      )
+      (dict
+        "@type" "Article"
+        "headline" .Title
+        "description" .Description
+        "datePublished" (.Date.Format "2006-01-02T15:04:05Z07:00")
+        "dateModified" (.Date.Format "2006-01-02T15:04:05Z07:00")
+        "author" (dict "@type" "Organization" "name" .Site.Title "url" $baseURL)
+        "publisher" (dict
+          "@type" "Organization"
+          "name" .Site.Title
+          "logo" (dict
+            "@type" "ImageObject"
+            "url" (printf "%slogo_192x192.avif" $baseURL)
+            "width" 192
+            "height" 192
+          )
+        )
+        "mainEntityOfPage" .Permalink
+        "inLanguage" "es-ES"
+      )
+    )
+  -}}
+  <script type="application/ld+json">{{ $schema | jsonify | safeJS }}</script>
+{{- end -}}
