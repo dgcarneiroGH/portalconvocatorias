@@ -1,33 +1,63 @@
 {{ define "main" }}
-<article class="grant-page">
-    <header>
-        <div class="hero-title-container">
-            <h1>Bienvenido a {{ .Site.Title }}</h1>
+<div class="home-page">
+    {{ partial "home-nav.html" . }}
+
+    <main class="home-container home-content">
+        <!-- TODO: Añade el filtro -->
+        <!-- <section class="home-filter-section" aria-labelledby="filter-title">
+            <h1 id="filter-title">Filtrar Subvenciones</h1>
+            <div class="home-filter-list">
+                <button type="button">Todas</button>
+                <button type="button">Álava</button>
+                <button type="button">Bizkaia</button>
+                <button type="button">Gipuzkoa</button>
+                <button type="button">Asociaciones y ONG</button>
+                <button type="button">Empresas</button>
+                <button type="button">Particulares</button>
+            </div>
+        </section> -->
+
+        <section class="home-updates-heading" aria-labelledby="updates-title">
+            <h2 id="updates-title">Últimas actualizaciones</h2>
+            {{ with index .Site.RegularPages 0 }}
+            <span>Última actualización: {{ dateFormat "02/01/2006" .Date }}</span>
+            {{ end }}
+        </section>
+
+        <section class="home-grant-list" aria-label="Subvenciones disponibles">
+            {{ range .Site.RegularPages }}
+            <article class="home-grant-card">
+                <div class="home-grant-card-content">
+                    <div class="home-grant-card-topline">
+                        <div class="home-tag-list">
+                            {{ with .Params.region }}<span>{{ . | title }}</span>{{ end }}
+                            {{ with .Params.beneficiario }}<span>{{ . | title }}</span>{{ end }}
+                        </div>
+                        <div class="home-active-count">
+                            <span aria-hidden="true"></span>
+                            <span>Ayudas Activas: {{ .Params.count }}</span>
+                        </div>
+                    </div>
+                    <h3><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
+                </div>
+            </article>
+            {{ end }}
+        </section>
+
+        <div class="home-load-more">
+            <button type="button">Cargar más subvenciones</button>
         </div>
-    </header>
-
-    <div class="section-heading">
-        <h2 class="section-title">Últimas Actualizaciones</h2>
-        {{ with index .Site.RegularPages 0 }}
-        <span class="last-updated">Última actualización: {{ dateFormat "02/01/2006" .Date }}</span>
-        {{ end }}
-    </div>
-
-    <ul class="grant-list">
-        {{ range .Site.RegularPages }}
-        <li class="grant-card">
-            {{ with .Params.region }}<span class="badge">📍 {{ . | title }}</span>{{ end }}
-            {{ with .Params.beneficiario }}<span class="badge">👥 {{ . | title }}</span>{{ end }}
-
-            <div class="grant-item-title">
-                <a href="{{ .RelPermalink }}">{{ .Title }}</a>
-            </div>
-
-            <div class="grant-meta grant-item-meta">
-                <span>🛑 AYUDAS ACTIVAS: {{ .Params.count }}</span>
-            </div>
-        </li>
-        {{ end }}
-    </ul>
-</article>
+    </main>
+    <!-- TODO: Añade el footer -->
+    <!-- <footer class="home-footer">
+        <div class="home-container home-footer-inner">
+            <span>© 2024 Portal de Subvenciones. Gobierno Digital.</span>
+            <nav aria-label="Enlaces legales">
+                <a href="#">Privacidad</a>
+                <a href="#">Términos</a>
+                <a href="#">Contacto</a>
+            </nav>
+        </div>
+    </footer> -->
+</div>
 {{ end }}

@@ -3,8 +3,8 @@
 <head>
   {{- partial "head.html" . }}
 </head>
-<body>
-  <main>
+<body class="{{ if .IsHome }}home-body{{ end }}">
+  <main class="{{ if .IsHome }}home-main{{ end }}">
     {{- block "main" . }}{{ end }}
   </main>
 </body>

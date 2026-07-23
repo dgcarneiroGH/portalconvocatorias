@@ -1,107 +1,122 @@
 {{ define "main" }}
-<article class="grant-page">
-    <a href="/" class="btn-back">← Volver a la Portada</a>
-    <header>
-        <div class="hero-title-container">
-            <h1>{{ .Title }}</h1>
-        </div>
+<div class="grant-page-skin">
+    {{ partial "home-nav.html" . }}
 
-        <div class="grant-meta">
-            <span>▶ ÚLTIMA ACTUALIZACIÓN: {{ dateFormat "02/01/2006" .Lastmod }}</span>
-            <span>🛑 AYUDAS ACTIVAS: {{ .Params.count }}</span>
-        </div>
-    </header>
+    <main class="home-container grant-page-content">
+        <h1 class="grant-page-title">{{ .Title }}</h1>
 
-    <h2 class="section-title">Listado de Subvenciones</h2>
+        <section class="grant-page-list" aria-label="Subvenciones disponibles">
+            {{ $rawContent := .RawContent }}
+            {{ $blocks := split $rawContent "- [" }}
 
-    <ul class="grant-list">
-        {{ $rawContent := .RawContent }}
-        {{ $blocks := split $rawContent "- [" }}
+            {{ $hasCards := false }}
 
-        {{ range $blocks }}
-        {{ if findRE `\]\(.+?\) \(` . }}
+            {{ range $blocks }}
+            {{ if findRE `\]\(.+?\) \(` . }}
 
-        {{ $title := trim (replaceRE `(?ms)^(.+?)\].*` "$1" .) " \n\r" }}
-        {{ $url := replaceRE `(?ms)^.+?\]\((.+?)\).*` "$1" . }}
+            {{ $hasCards = true }}
 
-        {{ $agency := trim (replaceRE `(?ms)^.+?\]\(.+?\) \((.*?)\).*` "$1" .) " \n\r" }}
+            {{ $title := trim (replaceRE `(?ms)^(.+?)\].*` "$1" .) " \n\r" }}
+            {{ $url := replaceRE `(?ms)^.+?\]\((.+?)\).*` "$1" . }}
 
-        {{ $description := "" }}
-        {{ $descLines := findRE `(?m)^\s*- Description:.*` . }}
-        {{ if $descLines }}
-        {{ $description = trim (replaceRE `(?m)^\s*- Description:\s*` "" (index $descLines 0)) " \n\r" }}
-        {{ end }}
-
-        {{ $requirements := "" }}
-        {{ $reqLines := findRE `(?m)^\s*- Requirements:.*` . }}
-        {{ if $reqLines }}
-        {{ $requirements = trim (replaceRE `(?m)^\s*- Requirements:\s*` "" (index $reqLines 0)) " \n\r" }}
-        {{ end }}
-
-        {{ $details := "" }}
-        {{ $budgetLines := findRE `(?m).*Budget:.*` . }}
-        {{ if $budgetLines }}
-        {{ $details = index $budgetLines 0 }}
-        {{ end }}
-
-        {{ $parts := split $details " | " }}
-        {{ $budget := "" }}
-        {{ $reception := "" }}
-        {{ $start := "" }}
-        {{ $end := "" }}
-
-        {{ range $parts }}
-        {{ $trimmed := trim . " -" }}
-        {{ if hasPrefix $trimmed "Budget:" }}
-        {{ $budget = trim (strings.TrimPrefix "Budget:" $trimmed) " " }}
-        {{ else if hasPrefix $trimmed "Reception:" }}
-        {{ $reception = trim (strings.TrimPrefix "Reception:" $trimmed) " " }}
-        {{ else if hasPrefix $trimmed "Start:" }}
-        {{ $start = trim (strings.TrimPrefix "Start:" $trimmed) " " }}
-        {{ else if hasPrefix $trimmed "End:" }}
-        {{ $end = trim (strings.TrimPrefix "End:" $trimmed) " " }}
-        {{ end }}
-        {{ end }}
-
-        <li class="grant-card">
-            {{ with $agency }}
-            <span class="badge">{{ . }}</span>
+            {{ $description := "" }}
+            {{ $descLines := findRE `(?m)^\s*- Description:.*` . }}
+            {{ if $descLines }}
+            {{ $description = trim (replaceRE `(?m)^\s*- Description:\s*` "" (index $descLines 0)) " \n\r" }}
             {{ end }}
 
-            <div class="grant-item-title">
-                {{ $title }}
-            </div>
+            {{ $requirements := "" }}
+            {{ $reqLines := findRE `(?m)^\s*- Requirements:.*` . }}
+            {{ if $reqLines }}
+            {{ $requirements = trim (replaceRE `(?m)^\s*- Requirements:\s*` "" (index $reqLines 0)) " \n\r" }}
+            {{ end }}
 
-            <p class="grant-description">{{ $description }}</p>
+            {{ $details := "" }}
+            {{ $budgetLines := findRE `(?m).*Budget:.*` . }}
+            {{ if $budgetLines }}
+            {{ $details = index $budgetLines 0 }}
+            {{ end }}
 
-            <div class="grant-meta grant-item-meta">
-                <span>{{ with $budget }}💰PRESUPUESTO: {{ . }}{{end}}</span>
-                <span>{{ with $reception }} 📥RECEPCIÓN: {{ . }}{{ end }}</span>
-                <span>{{ with $start }} ▶INICIO: {{ . }}{{ end }}</span>
-                <span>{{ with $end }} 🛑FIN: {{ . }}{{ end }}</span>
-            </div>
+            {{ $parts := split $details " | " }}
+            {{ $budget := "" }}
+            {{ $reception := "" }}
+            {{ $start := "" }}
+            {{ $end := "" }}
 
-            <div class="requirements-box">
-                <p class="requirements-title">REQUISITOS</p>
-                {{ if $requirements }}
-                <ul>
-                    {{ $reqArray := split $requirements ";" }}
-                    {{ range $reqArray }}
-                    {{ $reqText := trim . " " }}
-                    {{ if ne $reqText "" }}
-                    <li>{{ $reqText }}</li>
-                    {{ end }}
-                    {{ end }}
-                </ul>
-                {{ else }}
-                <p class="requirements-empty">No se han especificado requisitos concretos.</p>
+            {{ range $parts }}
+            {{ $trimmed := trim . " -" }}
+            {{ if hasPrefix $trimmed "Budget:" }}
+            {{ $budget = trim (strings.TrimPrefix "Budget:" $trimmed) " " }}
+            {{ else if hasPrefix $trimmed "Reception:" }}
+            {{ $reception = trim (strings.TrimPrefix "Reception:" $trimmed) " " }}
+            {{ else if hasPrefix $trimmed "Start:" }}
+            {{ $start = trim (strings.TrimPrefix "Start:" $trimmed) " " }}
+            {{ else if hasPrefix $trimmed "End:" }}
+            {{ $end = trim (strings.TrimPrefix "End:" $trimmed) " " }}
+            {{ end }}
+            {{ end }}
+
+            <article class="grant-detail-card">
+                <h3>{{ $title }}</h3>
+
+                {{ with $description }}
+                <p class="grant-detail-description">{{ . }}</p>
                 {{ end }}
-            </div>
 
-            <a href="{{ $url }}" target="_blank" class="btn-primary">Ver Convocatoria Oficial</a>
-        </li>
-        {{ end }}
-        {{ end }}
-    </ul>
-</article>
+                {{ if or $budget $reception $start $end }}
+                <div class="grant-detail-meta">
+                    {{ with $budget }}<span><span class="material-symbols-outlined">payments</span> PRESUPUESTO: {{ .
+                        }}</span>{{ end }}
+                    {{ with $reception }}<span><span class="material-symbols-outlined">inbox</span> RECEPCIÓN: {{ .
+                        }}</span>{{ end }}
+                    {{ with $start }}<span><span class="material-symbols-outlined">play_arrow</span> INICIO: {{ .
+                        }}</span>{{ end }}
+                    {{ with $end }}<span><span class="material-symbols-outlined">stop_circle</span> FIN: {{ .
+                        }}</span>{{ end }}
+                </div>
+                {{ end }}
+
+                <div class="grant-detail-requirements">
+                    <h4>REQUISITOS</h4>
+                    {{ if $requirements }}
+                    <ul>
+                        {{ $reqArray := split $requirements ";" }}
+                        {{ range $reqArray }}
+                        {{ $reqText := trim . " " }}
+                        {{ if ne $reqText "" }}
+                        <li>{{ $reqText }}</li>
+                        {{ end }}
+                        {{ end }}
+                    </ul>
+                    {{ else }}
+                    <p class="grant-detail-empty">No se han especificado requisitos concretos.</p>
+                    {{ end }}
+                </div>
+
+                <a class="grant-detail-cta" href="{{ $url }}" target="_blank" rel="noopener">Acceder a la convocatoria
+                    oficial</a>
+            </article>
+
+            {{ end }}
+            {{ end }}
+
+            {{ if not $hasCards }}
+            <p class="grant-detail-empty">No hay subvenciones disponibles para mostrar.</p>
+            {{ end }}
+        </section>
+    </main>
+
+    <!-- TODO: Añade el footer -->
+    <!-- <footer class="home-footer">
+        <div class="home-container home-footer-inner">
+            <span>© 2024 Portal de Subvenciones. Gobierno Digital.</span>
+            <nav aria-label="Enlaces legales">
+                <a href="/">Volver</a>
+                <a href="#">Privacidad</a>
+                <a href="#">Términos</a>
+                <a href="#">Contacto</a>
+            </nav>
+        </div>
+    </footer> -->
+</div>
 {{ end }}
