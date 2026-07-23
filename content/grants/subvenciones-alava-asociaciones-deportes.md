@@ -1,8 +1,8 @@
 ---
 title: Subvenciones para deportes en Álava para Asociaciones y ong
 description: "Recopilatorio de las 9 ayudas activas en Álava para Asociaciones y ong dentro del sector deportes, con presupuesto y plazos de solicitud."
-region: Álava
-beneficiario: Asociaciones y ong
+regiones: Álava
+para: Asociaciones y ong
 tag_seo: deportes
 count: 9
 date: 2026-07-23
