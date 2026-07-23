@@ -2,6 +2,10 @@ baseURL = "https://portalconvocatorias.es/"
 languageCode = "es-es"
 title = "Portal de Convocatorias"
 
+[taxonomies]
+  category = ""
+  tag = ""
+
 [sitemap]
   changefreq = "daily"
   priority = 0.7

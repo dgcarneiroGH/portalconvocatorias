@@ -1,0 +1,30 @@
+{{ define "main" }}
+<div class="list-page">
+    {{ partial "home-nav.html" . }}
+    <main class="home-container list-content">
+        <header class="list-header">
+            <h1>{{ .Title }}</h1>
+            {{ with .Description }}<p class="list-description">{{ . }}</p>{{ end }}
+        </header>
+
+        {{ with .Content }}
+        <section class="list-intro">{{ . }}</section>
+        {{ end }}
+
+        {{ if .Pages }}
+        <section class="list-items" aria-label="Listado">
+            <ul>
+                {{ range .Pages.ByTitle }}
+                <li>
+                    <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+                    {{ with .Description }}<p>{{ .Plain | htmlEscape }}</p>{{ end }}
+                </li>
+                {{ end }}
+            </ul>
+        </section>
+        {{ else }}
+        <p class="list-empty">No hay elementos disponibles en esta sección.</p>
+        {{ end }}
+    </main>
+</div>
+{{ end }}

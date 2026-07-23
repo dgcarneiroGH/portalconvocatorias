@@ -1,0 +1,25 @@
+{{ define "main" }}
+<div class="list-page">
+    {{ partial "home-nav.html" . }}
+    <main class="home-container list-content">
+        <header class="list-header">
+            <h1>{{ .Title }}</h1>
+            <p class="list-description">{{ .Description }}</p>
+        </header>
+
+        {{ range .Pages.GroupByParam "region" }}
+        <section class="list-region-group">
+            <h2>{{ .Key }}</h2>
+            <ul class="list-region-items">
+                {{ range .Pages }}
+                <li>
+                    <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+                    {{ with .Params.count }}<span class="list-count">({{ . }} ayudas)</span>{{ end }}
+                </li>
+                {{ end }}
+            </ul>
+        </section>
+        {{ end }}
+    </main>
+</div>
+{{ end }}
