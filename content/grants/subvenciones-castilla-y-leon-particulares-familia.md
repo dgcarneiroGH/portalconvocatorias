@@ -1,8 +1,8 @@
 ---
 title: Subvenciones para familia en Castilla y leon para Particulares
 description: "Recopilatorio de las 19 ayudas activas en Castilla y leon para Particulares dentro del sector familia, con presupuesto y plazos de solicitud."
-region: Castilla y leon
-beneficiario: Particulares
+regiones: Castilla y leon
+para: Particulares
 tag_seo: familia
 count: 19
 date: 2026-07-23
