@@ -1,8 +1,10 @@
 ---
 title: Subvenciones para innovacion en España para Asociaciones y ong
 description: "Recopilatorio de las 5 ayudas activas en España para Asociaciones y ong dentro del sector innovacion, con presupuesto y plazos de solicitud."
-region: España
-beneficiario: Asociaciones y ong
+regiones:
+  - España
+para:
+  - Asociaciones y ong
 tag_seo: innovacion
 count: 5
 date: 2026-07-23

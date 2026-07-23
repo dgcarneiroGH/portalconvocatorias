@@ -1,8 +1,10 @@
 ---
 title: Subvenciones para salud en Canarias para Asociaciones y ong
 description: "Recopilatorio de las 5 ayudas activas en Canarias para Asociaciones y ong dentro del sector salud, con presupuesto y plazos de solicitud."
-region: Canarias
-beneficiario: Asociaciones y ong
+regiones:
+  - Canarias
+para:
+  - Asociaciones y ong
 tag_seo: salud
 count: 5
 date: 2026-07-23

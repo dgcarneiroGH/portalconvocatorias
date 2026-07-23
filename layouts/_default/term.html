@@ -1,0 +1,106 @@
+{{ define "main" }}
+<div class="term-page">
+    {{ partial "home-nav.html" . }}
+
+    <main class="home-container term-content">
+        <header class="term-header">
+            {{ partial "breadcrumbs.html" (dict
+                "page" .
+                "items" (slice
+                    (dict "name" "Inicio" "url" "/")
+                    (dict "name" .Data.Singular "url" (printf "/%s/" .Data.Plural))
+                    (dict "name" .Title "url" .RelPermalink)
+                )
+            ) }}
+
+            <h1>{{ .Title }}</h1>
+
+            {{ $region := "" }}
+            {{ $beneficiario := "" }}
+            {{ if eq .Data.Singular "regi\u00f3n" }}{{ $region = .Title }}
+            {{ else if eq .Data.Singular "beneficiario" }}{{ $beneficiario = .Title }}
+            {{ end }}
+
+            {{ if eq .Data.Singular "regi\u00f3n" }}
+            <p class="term-description">
+                Listado actualizado de los <strong>{{ len .Pages }} conjuntos de ayudas</strong> y convocatorias activas en
+                <strong>{{ .Title }}</strong> extraídas de la Base de Datos Nacional de Subvenciones (BDNS) y los portales oficiales autonómicos.
+                Incluye subvenciones para asociaciones, autónomos, empresas y particulares en distintos sectores.
+            </p>
+            {{ else if eq .Data.Singular "beneficiario" }}
+            <p class="term-description">
+                Listado completo de <strong>{{ len .Pages }} conjuntos de subvenciones, ayudas y convocatorias</strong> activas en España
+                para <strong>{{ .Title }}</strong>, clasificadas por región y sector. Datos actualizados diariamente desde la BDNS.
+            </p>
+            {{ else }}
+            <p class="term-description">
+                Listado de <strong>{{ len .Pages }} conjuntos de ayudas</strong> en la categoría <strong>{{ .Title }}</strong>.
+            </p>
+            {{ end }}
+
+            <div class="term-stats">
+                <span><strong>{{ len .Pages }}</strong> conjuntos de ayudas</span>
+                <span><strong>{{ .Title }}</strong></span>
+            </div>
+        </header>
+
+        {{ if eq .Data.Singular "regi\u00f3n" }}
+        <section class="term-by-beneficiario" aria-labelledby="term-by-benef-title">
+            <h2 id="term-by-benef-title">Filtra por beneficiario</h2>
+            <div class="term-tag-list">
+                {{ range $name, $tax := .Site.Taxonomies.beneficiario }}
+                {{ $hasRegion := false }}
+                {{ range $.Pages }}
+                    {{ if eq (lower .Params.beneficiario) $name }}
+                        {{ $hasRegion = true }}
+                    {{ end }}
+                {{ end }}
+                {{ if $hasRegion }}
+                <a href="{{ $tax.Page.RelPermalink }}">{{ $tax.Page.Title }}</a>
+                {{ end }}
+                {{ end }}
+            </div>
+        </section>
+        {{ else if eq .Data.Singular "beneficiario" }}
+        <section class="term-by-region" aria-labelledby="term-by-region-title">
+            <h2 id="term-by-region-title">Filtra por región</h2>
+            <div class="term-tag-list">
+                {{ range $name, $tax := .Site.Taxonomies.region }}
+                {{ $hasBenef := false }}
+                {{ range $.Pages }}
+                    {{ if eq (lower .Params.region) $name }}
+                        {{ $hasBenef = true }}
+                    {{ end }}
+                {{ end }}
+                {{ if $hasBenef }}
+                <a href="{{ $tax.Page.RelPermalink }}">{{ $tax.Page.Title }}</a>
+                {{ end }}
+                {{ end }}
+            </div>
+        </section>
+        {{ end }}
+
+        <section class="term-list" aria-label="Listado de ayudas">
+            <h2>Listado de ayudas activas</h2>
+            <ul class="term-list-items">
+                {{ range .Pages.ByTitle }}
+                <li>
+                    <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+                    {{ with .Params.count }}<span class="term-count">({{ . }} ayudas)</span>{{ end }}
+                    {{ with .Description }}<p>{{ . }}</p>{{ end }}
+                </li>
+                {{ end }}
+            </ul>
+        </section>
+
+        <aside class="term-related">
+            <h2>Otras formas de explorar</h2>
+            <ul>
+                <li><a href="/grants/">Ver todas las subvenciones activas</a></li>
+                <li><a href="/regiones/">Por región</a></li>
+                <li><a href="/para/">Por beneficiario</a></li>
+            </ul>
+        </aside>
+    </main>
+</div>
+{{ end }}

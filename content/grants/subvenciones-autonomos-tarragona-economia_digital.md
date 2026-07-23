@@ -1,8 +1,10 @@
 ---
 title: Subvenciones para economia digital en Tarragona para Pyme y autónomos
 description: "Recopilatorio de las 3 ayudas activas en Tarragona para Pyme y autónomos dentro del sector economia_digital, con presupuesto y plazos de solicitud."
-region: Tarragona
-beneficiario: Pyme y autónomos
+regiones:
+  - Tarragona
+para:
+  - Pyme y autónomos
 tag_seo: economia_digital
 count: 3
 date: 2026-07-23

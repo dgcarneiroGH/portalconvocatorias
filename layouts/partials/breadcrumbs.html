@@ -1,0 +1,17 @@
+{{- $page := .page -}}
+{{- $items := .items -}}
+
+<nav class="breadcrumbs" aria-label="Ruta de navegación">
+    <ol>
+        {{ range $i, $item := $items }}
+        <li>
+            {{ if and (lt $i (sub (len $items) 1)) $item.url }}
+            <a href="{{ $item.url }}">{{ $item.name }}</a>
+            <span aria-hidden="true" class="breadcrumbs-sep">›</span>
+            {{ else }}
+            <span aria-current="page">{{ $item.name }}</span>
+            {{ end }}
+        </li>
+        {{ end }}
+    </ol>
+</nav>

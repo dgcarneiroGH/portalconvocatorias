@@ -33,7 +33,7 @@
   -}}
   <script type="application/ld+json">{{ $schema | jsonify | safeJS }}</script>
 
-{{- else if .IsSection -}}
+{{- else if .IsNode -}}
   {{- $itemListElements := slice -}}
   {{- range $i, $p := .Pages -}}
     {{- $itemListElements = $itemListElements | append (dict

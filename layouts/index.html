@@ -3,19 +3,27 @@
     {{ partial "home-nav.html" . }}
 
     <main class="home-container home-content">
-        <!-- TODO: Añade el filtro -->
-        <!-- <section class="home-filter-section" aria-labelledby="filter-title">
-            <h1 id="filter-title">Filtrar Subvenciones</h1>
-            <div class="home-filter-list">
-                <button type="button">Todas</button>
-                <button type="button">Álava</button>
-                <button type="button">Bizkaia</button>
-                <button type="button">Gipuzkoa</button>
-                <button type="button">Asociaciones y ONG</button>
-                <button type="button">Empresas</button>
-                <button type="button">Particulares</button>
+        <section class="home-filter-section" aria-labelledby="filter-title">
+            <h1 id="filter-title">{{ .Site.Title }}</h1>
+            <p class="home-filter-description">{{ .Site.Params.description | default "Recopilatorio actualizado diariamente de subvenciones, ayudas y convocatorias activas en España para asociaciones, autónomos, empresas y particulares, filtrado por territorio, tipo de beneficiario y sector." }}</p>
+
+            <div class="home-filter-controls">
+                <div class="filter-group" data-filter-group="region">
+                    <strong>Región:</strong>
+                    {{ range $name, $tax := .Site.Taxonomies.regiones }}
+                    <button type="button" data-value="{{ $name | urlize }}">{{ $tax.Page.LinkTitle }}</button>
+                    {{ end }}
+                </div>
+                <div class="filter-group" data-filter-group="beneficiario">
+                    <strong>Beneficiario:</strong>
+                    {{ range $name, $tax := .Site.Taxonomies.para }}
+                    <button type="button" data-value="{{ $name | urlize }}">{{ $tax.Page.LinkTitle }}</button>
+                    {{ end }}
+                </div>
+                <button type="button" id="filter-reset" class="filter-reset">Quitar filtros</button>
+                <span id="filter-count" class="filter-count" aria-live="polite"></span>
             </div>
-        </section> -->
+        </section>
 
         <section class="home-updates-heading" aria-labelledby="updates-title">
             <h2 id="updates-title">Últimas actualizaciones</h2>
@@ -26,12 +34,18 @@
 
         <section class="home-grant-list" aria-label="Subvenciones disponibles">
             {{ range .Site.RegularPages }}
-            <article class="home-grant-card">
+            {{ $regionSlug := "" }}
+            {{ $benefSlug := "" }}
+            {{ with index .Params.regiones 0 }}{{ $regionSlug = urlize . }}{{ end }}
+            {{ with index .Params.para 0 }}{{ $benefSlug = urlize . }}{{ end }}
+            <article class="home-grant-card"
+                     data-region="{{ $regionSlug }}"
+                     data-beneficiario="{{ $benefSlug }}">
                 <div class="home-grant-card-content">
                     <div class="home-grant-card-topline">
                         <div class="home-tag-list">
-                            {{ with .Params.region }}<span>{{ . | title }}</span>{{ end }}
-                            {{ with .Params.beneficiario }}<span>{{ . | title }}</span>{{ end }}
+                            {{ with index .Params.regiones 0 }}<span>{{ . }}</span>{{ end }}
+                            {{ with index .Params.para 0 }}<span>{{ . }}</span>{{ end }}
                         </div>
                         <div class="home-active-count">
                             <span aria-hidden="true"></span>
@@ -44,21 +58,9 @@
             {{ end }}
         </section>
 
-        <!-- TODO: En el futuro puede ser interesante cargar las subvenciones de 10 en 10 para evitar problemas de rendimiento -->
-        <!-- <div class="home-load-more">
-            <button type="button">Cargar más subvenciones</button>
-        </div> -->
+        <p class="home-grant-empty" id="grant-empty" hidden>No hay ayudas que coincidan con los filtros seleccionados.</p>
     </main>
-    <!-- TODO: Añade el footer -->
-    <!-- <footer class="home-footer">
-        <div class="home-container home-footer-inner">
-            <span>© 2024 Portal de Subvenciones. Gobierno Digital.</span>
-            <nav aria-label="Enlaces legales">
-                <a href="#">Privacidad</a>
-                <a href="#">Términos</a>
-                <a href="#">Contacto</a>
-            </nav>
-        </div>
-    </footer> -->
 </div>
+
+<script src="/js/filter.js" defer></script>
 {{ end }}

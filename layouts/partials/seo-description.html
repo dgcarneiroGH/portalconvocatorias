@@ -1,0 +1,11 @@
+{{- $desc := "" -}}
+{{- if .Description -}}
+  {{- $desc = .Description | plainify | htmlEscape | chomp | truncate 160 -}}
+{{- else if eq .Data.Singular "region" -}}
+  {{- $desc = printf "Listado actualizado de las %d ayudas y convocatorias activas en %s extraídas de la BDNS y portales oficiales autonómicos. Incluye subvenciones para asociaciones, autónomos, empresas y particulares." (len .Pages) .Title -}}
+{{- else if eq .Data.Singular "beneficiario" -}}
+  {{- $desc = printf "Listado completo de %d conjuntos de subvenciones, ayudas y convocatorias activas en España para %s, clasificadas por región y sector. Datos actualizados diariamente desde la BDNS." (len .Pages) .Title -}}
+{{- end -}}
+<meta name="description" content="{{ $desc }}">
+<meta property="og:description" content="{{ $desc }}">
+<meta name="twitter:description" content="{{ $desc }}">

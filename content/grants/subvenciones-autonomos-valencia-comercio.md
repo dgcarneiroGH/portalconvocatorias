@@ -1,8 +1,10 @@
 ---
 title: Subvenciones para comercio en Valencia para Pyme y autónomos
 description: "Recopilatorio de las 9 ayudas activas en Valencia para Pyme y autónomos dentro del sector comercio, con presupuesto y plazos de solicitud."
-region: Valencia
-beneficiario: Pyme y autónomos
+regiones:
+  - Valencia
+para:
+  - Pyme y autónomos
 tag_seo: comercio
 count: 9
 date: 2026-07-23

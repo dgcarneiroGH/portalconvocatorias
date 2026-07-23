@@ -1,8 +1,10 @@
 ---
 title: Subvenciones para innovacion en Tarragona para Pyme y autónomos
 description: "Recopilatorio de las 4 ayudas activas en Tarragona para Pyme y autónomos dentro del sector innovacion, con presupuesto y plazos de solicitud."
-region: Tarragona
-beneficiario: Pyme y autónomos
+regiones:
+  - Tarragona
+para:
+  - Pyme y autónomos
 tag_seo: innovacion
 count: 4
 date: 2026-07-23

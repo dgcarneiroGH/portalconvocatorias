@@ -3,8 +3,8 @@ languageCode = "es-es"
 title = "Portal de Convocatorias"
 
 [taxonomies]
-  category = ""
-  tag = ""
+  region = "regiones"
+  beneficiario = "para"
 
 [sitemap]
   changefreq = "daily"

@@ -104,6 +104,28 @@
             <p class="grant-detail-empty">No hay subvenciones disponibles para mostrar.</p>
             {{ end }}
         </section>
+
+        {{- $region := "" -}}
+        {{- $benef := "" -}}
+        {{- with index .Params.regiones 0 -}}
+            {{- $region = . -}}
+        {{- end -}}
+        {{- with index .Params.para 0 -}}
+            {{- $benef = . -}}
+        {{- end -}}
+
+        <aside class="grant-related-lands" aria-labelledby="grant-related-title">
+            <h2 id="grant-related-title">Explora más subvenciones</h2>
+            <ul>
+                {{ with $region }}
+                <li><a href="/regiones/{{ . | urlize }}/">Todas las ayudas en {{ . }}</a></li>
+                {{ end }}
+                {{ with $benef }}
+                <li><a href="/para/{{ . | urlize }}/">Subvenciones para {{ . }}</a></li>
+                {{ end }}
+                <li><a href="/grants/">Ver todas las subvenciones activas</a></li>
+            </ul>
+        </aside>
     </main>
 
     <!-- TODO: Añade el footer -->

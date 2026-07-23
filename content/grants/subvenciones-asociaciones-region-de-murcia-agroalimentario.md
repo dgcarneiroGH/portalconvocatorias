@@ -1,8 +1,10 @@
 ---
 title: Subvenciones para agroalimentario en Region de murcia para Asociaciones y ong
 description: "Recopilatorio de las 6 ayudas activas en Region de murcia para Asociaciones y ong dentro del sector agroalimentario, con presupuesto y plazos de solicitud."
-region: Region de murcia
-beneficiario: Asociaciones y ong
+regiones:
+  - Region de murcia
+para:
+  - Asociaciones y ong
 tag_seo: agroalimentario
 count: 6
 date: 2026-07-23
