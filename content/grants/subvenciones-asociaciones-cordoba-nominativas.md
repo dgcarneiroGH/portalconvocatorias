@@ -1,8 +1,8 @@
 ---
 title: Subvenciones nominativas en Córdoba para Asociaciones y ong
 description: "Recopilatorio de las 21 ayudas activas en Córdoba para Asociaciones y ong dentro del sector nominativas, con presupuesto y plazos de solicitud."
-region: Córdoba
-beneficiario: Asociaciones y ong
+regiones: Córdoba
+para: Asociaciones y ong
 tag_seo: nominativas
 count: 21
 date: 2026-07-23
