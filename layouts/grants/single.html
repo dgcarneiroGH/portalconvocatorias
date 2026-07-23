@@ -3,9 +3,24 @@
     {{ partial "home-nav.html" . }}
 
     <main class="home-container grant-page-content">
-        <h1 class="grant-page-title">{{ .Title }}</h1>
+        {{- $region := index .Params.regiones 0 -}}
+        {{- $benef := index .Params.para 0 -}}
+        {{- $tag := .Params.tag_seo -}}
+        {{- $count := .Params.count -}}
+
+        <header class="grant-page-header">
+            <h1 class="grant-page-title">{{ .Title }}</h1>
+            <p class="grant-page-intro">
+                {{ $count }} ayudas activas en <strong>{{ $region }}</strong> para
+                <strong>{{ $benef }}</strong> dentro del sector <strong>{{ $tag }}</strong>,
+                con presupuesto total y plazos de solicitud actualizados.
+                Fuente: Base de Datos Nacional de Subvenciones (BDNS).
+            </p>
+        </header>
 
         <section class="grant-page-list" aria-label="Subvenciones disponibles">
+            <h2>Listado de convocatorias</h2>
+
             {{ $rawContent := .RawContent }}
             {{ $blocks := split $rawContent "- [" }}
 
@@ -76,9 +91,9 @@
                 </div>
                 {{ end }}
 
+                {{ if $requirements }}
                 <div class="grant-detail-requirements">
-                    <h4>REQUISITOS</h4>
-                    {{ if $requirements }}
+                    <p class="grant-detail-requirements-label">Requisitos:</p>
                     <ul>
                         {{ $reqArray := split $requirements ";" }}
                         {{ range $reqArray }}
@@ -88,10 +103,8 @@
                         {{ end }}
                         {{ end }}
                     </ul>
-                    {{ else }}
-                    <p class="grant-detail-empty">No se han especificado requisitos concretos.</p>
-                    {{ end }}
                 </div>
+                {{ end }}
 
                 <a class="grant-detail-cta" href="{{ $url }}" target="_blank" rel="noopener">Acceder a la convocatoria
                     oficial</a>
@@ -105,14 +118,15 @@
             {{ end }}
         </section>
 
-        {{- $region := "" -}}
-        {{- $benef := "" -}}
-        {{- with index .Params.regiones 0 -}}
-            {{- $region = . -}}
-        {{- end -}}
-        {{- with index .Params.para 0 -}}
-            {{- $benef = . -}}
-        {{- end -}}
+        <section class="grant-page-howto">
+            <h2>Cómo solicitar estas ayudas</h2>
+            <p>
+                Las subvenciones listadas se gestionan a través de la
+                <strong>Base de Datos Nacional de Subvenciones (BDNS)</strong> y los portales oficiales de cada comunidad autónoma.
+                Para solicitarlas, generalmente necesitarás: certificado digital, estar dado de alta en el registro correspondiente
+                y presentar la documentación específica de cada convocatoria. Los plazos varían según el organismo convocante.
+            </p>
+        </section>
 
         <aside class="grant-related-lands" aria-labelledby="grant-related-title">
             <h2 id="grant-related-title">Explora más subvenciones</h2>
@@ -127,18 +141,5 @@
             </ul>
         </aside>
     </main>
-
-    <!-- TODO: Añade el footer -->
-    <!-- <footer class="home-footer">
-        <div class="home-container home-footer-inner">
-            <span>© 2024 Portal de Subvenciones. Gobierno Digital.</span>
-            <nav aria-label="Enlaces legales">
-                <a href="/">Volver</a>
-                <a href="#">Privacidad</a>
-                <a href="#">Términos</a>
-                <a href="#">Contacto</a>
-            </nav>
-        </div>
-    </footer> -->
 </div>
 {{ end }}

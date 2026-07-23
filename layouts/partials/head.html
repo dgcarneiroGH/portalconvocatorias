@@ -1,7 +1,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <link rel="canonical" href="{{ .Permalink }}">
-<title>{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Title }} | {{ .Site.Title }}{{ end }}</title>
+<title>{{ if .IsHome }}{{ .Site.Title }}{{ else if and (eq .Section "grants") (eq .Kind "page") }}{{ $tag := .Params.tag_seo }}{{ $region := index .Params.regiones 0 }}{{ if eq $tag "nominativas" }}Subvenciones nominativas en {{ $region }}{{ else }}Subvenciones de {{ $tag }} en {{ $region }}{{ end }} | {{ .Site.Title }}{{ else }}{{ .Title }} | {{ .Site.Title }}{{ end }}</title>
 
 {{- partial "seo-description.html" . -}}
 
