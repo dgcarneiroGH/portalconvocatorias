@@ -1,8 +1,8 @@
 ---
 title: Subvenciones para innovacion en Valencia para Pyme y autónomos
 description: "Recopilatorio de las 3 ayudas activas en Valencia para Pyme y autónomos dentro del sector innovacion, con presupuesto y plazos de solicitud."
-region: Valencia
-beneficiario: Pyme y autónomos
+regiones: Valencia
+para: Pyme y autónomos
 tag_seo: innovacion
 count: 3
 date: 2026-07-23
