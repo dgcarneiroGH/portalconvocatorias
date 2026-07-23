@@ -1,8 +1,8 @@
 ---
 title: Subvenciones para literatura en España para Particulares
 description: "Recopilatorio de las 3 ayudas activas en España para Particulares dentro del sector literatura, con presupuesto y plazos de solicitud."
-region: España
-beneficiario: Particulares
+regiones: España
+para: Particulares
 tag_seo: literatura
 count: 3
 date: 2026-07-23
