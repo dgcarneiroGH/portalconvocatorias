@@ -1,8 +1,8 @@
 ---
 title: Subvenciones para accesibilidad en Region de murcia para Asociaciones y ong
 description: "Recopilatorio de las 4 ayudas activas en Region de murcia para Asociaciones y ong dentro del sector accesibilidad, con presupuesto y plazos de solicitud."
-region: Region de murcia
-beneficiario: Asociaciones y ong
+regiones: Region de murcia
+para: Asociaciones y ong
 tag_seo: accesibilidad
 count: 4
 date: 2026-07-23
