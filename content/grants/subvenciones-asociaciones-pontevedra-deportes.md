@@ -1,8 +1,8 @@
 ---
 title: Subvenciones para deportes en Pontevedra para Asociaciones y ong
 description: "Recopilatorio de las 7 ayudas activas en Pontevedra para Asociaciones y ong dentro del sector deportes, con presupuesto y plazos de solicitud."
-region: Pontevedra
-beneficiario: Asociaciones y ong
+regiones: Pontevedra
+para: Asociaciones y ong
 tag_seo: deportes
 count: 7
 date: 2026-07-23
