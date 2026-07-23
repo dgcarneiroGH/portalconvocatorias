@@ -1,8 +1,8 @@
 ---
 title: Subvenciones para familia en Canarias para Asociaciones y ong
 description: "Recopilatorio de las 3 ayudas activas en Canarias para Asociaciones y ong dentro del sector familia, con presupuesto y plazos de solicitud."
-region: Canarias
-beneficiario: Asociaciones y ong
+regiones: Canarias
+para: Asociaciones y ong
 tag_seo: familia
 count: 3
 date: 2026-07-23
