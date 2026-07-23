@@ -1,8 +1,8 @@
 ---
 title: Subvenciones para deportes en Córdoba para Asociaciones y ong
 description: "Recopilatorio de las 7 ayudas activas en Córdoba para Asociaciones y ong dentro del sector deportes, con presupuesto y plazos de solicitud."
-region: Córdoba
-beneficiario: Asociaciones y ong
+regiones: Córdoba
+para: Asociaciones y ong
 tag_seo: deportes
 count: 7
 date: 2026-07-23
