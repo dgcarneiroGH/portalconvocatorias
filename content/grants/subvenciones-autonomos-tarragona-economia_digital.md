@@ -5,7 +5,7 @@ region: Tarragona
 beneficiario: Pyme y autónomos
 tag_seo: economia_digital
 count: 3
-date: 2026-07-24
+date: 2026-07-25
 slug: subvenciones-autonomos-tarragona-economia_digital
 ---
 
