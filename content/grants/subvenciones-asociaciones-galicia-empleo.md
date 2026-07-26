@@ -1,7 +1,7 @@
 ---
 title: Subvenciones (subvenciones-asociaciones-galicia-empleo)
 slug: subvenciones-asociaciones-galicia-empleo
-date: 2026-07-25
+date: 2026-07-26
 count: 0
 _orphan: true
 ---
