@@ -5,7 +5,7 @@ region: España
 beneficiario: Gran empresa
 tag_seo: innovacion
 count: 6
-date: 2026-07-25
+date: 2026-07-26
 slug: subvenciones-empresa-espana-innovacion
 ---
 
