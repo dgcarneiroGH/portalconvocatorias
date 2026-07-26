@@ -5,7 +5,7 @@ region: España
 beneficiario: Asociaciones y ong
 tag_seo: nominativas
 count: 18
-date: 2026-07-25
+date: 2026-07-26
 slug: subvenciones-asociaciones-espana-nominativas
 ---
 
