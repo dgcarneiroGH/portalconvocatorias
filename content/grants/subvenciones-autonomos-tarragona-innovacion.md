@@ -5,7 +5,7 @@ region: Tarragona
 beneficiario: Pyme y autónomos
 tag_seo: innovacion
 count: 4
-date: 2026-07-26
+date: 2026-07-27
 slug: subvenciones-autonomos-tarragona-innovacion
 ---
 
