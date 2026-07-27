@@ -1,0 +1,59 @@
+name: Lighthouse CI
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+
+jobs:
+  lighthouse:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Setup Hugo
+        uses: peaceiris/actions-hugo@v3
+        with:
+          hugo-version: '0.163.3'
+          extended: true
+
+      - name: Build
+        run: hugo --minify --baseURL "https://portalconvocatorias.es/"
+
+      - name: Run Lighthouse CI
+        uses: treosh/lighthouse-ci-action@v11
+        with:
+          configPath: .lighthouserc.json
+          uploadArtifacts: true
+
+  seo-checks:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Setup Hugo
+        uses: peaceiris/actions-hugo@v3
+        with:
+          hugo-version: '0.163.3'
+          extended: true
+
+      - name: Build
+        run: hugo --minify --baseURL "https://portalconvocatorias.es/"
+
+      - name: Run SEO verification
+        run: |
+          node scripts/verify-seo.js
+          node scripts/validate-schema.js
