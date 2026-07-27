@@ -1,0 +1,38 @@
+{{ define "main" }}
+<div class="legal-page">
+    {{ partial "home-nav.html" . }}
+
+    <main class="home-container legal-content">
+        {{ partial "breadcrumbs.html" (dict
+            "page" .
+            "items" (slice
+                (dict "name" "Inicio" "url" "/")
+                (dict "name" .Title "url" .RelPermalink)
+            )
+        ) }}
+
+        <article class="legal-article">
+            <header class="legal-header">
+                <h1>{{ .Title }}</h1>
+                {{ with .Description }}<p class="legal-description">{{ . }}</p>{{ end }}
+            </header>
+
+            <div class="legal-body">
+                {{ .Content }}
+            </div>
+        </article>
+
+        <nav class="legal-related" aria-label="Páginas legales relacionadas">
+            <h2>También te puede interesar</h2>
+            <ul>
+                <li><a href="/aviso-legal/">Aviso legal</a></li>
+                <li><a href="/politica-privacidad/">Privacidad</a></li>
+                <li><a href="/politica-cookies/">Cookies</a></li>
+                <li><a href="/fuentes/">Fuentes oficiales</a></li>
+                <li><a href="/sobre-nosotros/">Sobre nosotros</a></li>
+                <li><a href="/contacto/">Contacto</a></li>
+            </ul>
+        </nav>
+    </main>
+</div>
+{{ end }}

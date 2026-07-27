@@ -1,0 +1,39 @@
+{{ define "main" }}
+<div class="page-skin">
+    {{ partial "home-nav.html" . }}
+
+    <main class="home-container page-content">
+        {{ partial "breadcrumbs.html" (dict
+            "page" .
+            "items" (slice
+                (dict "name" "Inicio" "url" "/")
+                (dict "name" .Title "url" .RelPermalink)
+            )
+        ) }}
+
+        <article class="page-article">
+            <header class="page-header">
+                <h1>{{ .Title }}</h1>
+                {{ with .Description }}<p class="page-description">{{ . }}</p>{{ end }}
+            </header>
+
+            <div class="page-body">
+                {{ .Content }}
+            </div>
+        </article>
+
+        <nav class="page-related" aria-label="Páginas relacionadas">
+            <h2>También te puede interesar</h2>
+            <ul>
+                <li><a href="/aviso-legal/">Aviso legal</a></li>
+                <li><a href="/politica-privacidad/">Privacidad</a></li>
+                <li><a href="/politica-cookies/">Cookies</a></li>
+                <li><a href="/fuentes/">Fuentes oficiales</a></li>
+                <li><a href="/sobre-nosotros/">Sobre nosotros</a></li>
+                <li><a href="/contacto/">Contacto</a></li>
+                <li><a href="/grants/">Ver todas las subvenciones</a></li>
+            </ul>
+        </nav>
+    </main>
+</div>
+{{ end }}

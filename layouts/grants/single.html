@@ -80,14 +80,10 @@
 
                 {{ if or $budget $reception $start $end }}
                 <div class="grant-detail-meta">
-                    {{ with $budget }}<span><span class="material-symbols-outlined">payments</span> PRESUPUESTO: {{ .
-                        }}</span>{{ end }}
-                    {{ with $reception }}<span><span class="material-symbols-outlined">inbox</span> RECEPCIÓN: {{ .
-                        }}</span>{{ end }}
-                    {{ with $start }}<span><span class="material-symbols-outlined">play_arrow</span> INICIO: {{ .
-                        }}</span>{{ end }}
-                    {{ with $end }}<span><span class="material-symbols-outlined">stop_circle</span> FIN: {{ .
-                        }}</span>{{ end }}
+                    {{ with $budget }}<span class="grant-detail-meta-item">{{ partial "icon.html" "payments" }} <span class="grant-detail-meta-label">PRESUPUESTO:</span> {{ . }}</span>{{ end }}
+                    {{ with $reception }}<span class="grant-detail-meta-item">{{ partial "icon.html" "inbox" }} <span class="grant-detail-meta-label">RECEPCIÓN:</span> {{ . }}</span>{{ end }}
+                    {{ with $start }}<span class="grant-detail-meta-item">{{ partial "icon.html" "play_arrow" }} <span class="grant-detail-meta-label">INICIO:</span> {{ . }}</span>{{ end }}
+                    {{ with $end }}<span class="grant-detail-meta-item">{{ partial "icon.html" "stop_circle" }} <span class="grant-detail-meta-label">FIN:</span> {{ . }}</span>{{ end }}
                 </div>
                 {{ end }}
 

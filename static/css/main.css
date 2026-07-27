@@ -1,3 +1,19 @@
+@font-face {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 100 900;
+    font-display: swap;
+    src: url('/fonts/inter-latin.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Space Grotesk';
+    font-style: normal;
+    font-weight: 700;
+    font-display: swap;
+    src: url('/fonts/space-grotesk-700.woff2') format('woff2');
+}
+
 :root {
     --navy: #0f3254;
     --orange: #ffa726;
@@ -667,24 +683,19 @@ h1, h2, h3, .font-space {
     font-weight: 500;
 }
 
-.grant-detail-meta span {
+.grant-detail-meta-item {
     display: inline-flex;
     align-items: center;
-    gap: 4px;
+    gap: 6px;
+    line-height: 16px;
+    font-weight: 500;
 }
 
-.material-symbols-outlined {
-    font-family: 'Material Symbols Outlined', sans-serif;
-    font-weight: 400;
-    font-style: normal;
-    font-size: 16px;
-    line-height: 1;
-    letter-spacing: normal;
-    text-transform: none;
-    display: inline-block;
-    white-space: nowrap;
-    word-wrap: normal;
-    direction: ltr;
+.grant-detail-meta-item svg {
+    flex-shrink: 0;
+    vertical-align: middle;
+    width: 16px;
+    height: 16px;
 }
 
 .grant-detail-requirements {
