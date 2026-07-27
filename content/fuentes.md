@@ -5,8 +5,6 @@ date: 2026-07-23
 slug: fuentes
 ---
 
-# Fuentes oficiales
-
 Toda la información publicada en Portal de Convocatorias proviene de **fuentes oficiales públicas**. Esta página recoge la relación completa de organismos y registros que utilizamos como origen de los datos.
 
 ## Fuente nacional principal

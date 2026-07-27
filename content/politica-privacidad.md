@@ -5,8 +5,6 @@ date: 2026-07-23
 slug: politica-privacidad
 ---
 
-# Política de privacidad
-
 En Portal de Convocatorias nos comprometemos con la protección de los datos personales de nuestros usuarios. Esta política describe qué datos recogemos, para qué los utilizamos y cuáles son tus derechos conforme al Reglamento (UE) 2016/679 (RGPD) y a la Ley Orgánica 3/2018, de Protección de Datos Personales y garantía de los derechos digitales (LOPDGDD).
 
 ## Responsable del tratamiento

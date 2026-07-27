@@ -5,8 +5,6 @@ date: 2026-07-23
 slug: contacto
 ---
 
-# Contacto
-
 Si quieres ponerte en contacto con nosotros, tienes varias opciones:
 
 ## Consultas generales, sugerencias o colaboraciones

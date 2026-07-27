@@ -5,8 +5,6 @@ date: 2026-07-23
 slug: aviso-legal
 ---
 
-# Aviso legal
-
 En cumplimiento del artículo 10 de la Ley 34/2002, de 11 de julio, de Servicios de la Sociedad de la Información y de Comercio Electrónico (LSSI-CE), se informa al usuario de los siguientes datos identificativos del titular del sitio web:
 
 ## Titular

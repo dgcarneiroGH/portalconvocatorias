@@ -5,8 +5,6 @@ date: 2026-07-23
 slug: politica-cookies
 ---
 
-# Política de cookies
-
 Este sitio web utiliza cookies propias y de terceros con distintas finalidades. A continuación te explicamos qué son las cookies, qué tipos usamos y cómo puedes configurarlas.
 
 ## ¿Qué son las cookies?
