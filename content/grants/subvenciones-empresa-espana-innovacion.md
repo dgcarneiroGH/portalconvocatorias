@@ -1,18 +1,22 @@
 ---
 title: Subvenciones para innovacion en España para Gran empresa
-description: "Recopilatorio de las 6 ayudas activas en España para Gran empresa dentro del sector innovacion, con presupuesto y plazos de solicitud."
+description: "Recopilatorio de las 7 ayudas activas en España para Gran empresa dentro del sector innovacion, con presupuesto y plazos de solicitud."
 region: España
 beneficiario: Gran empresa
 tag_seo: innovacion
-count: 6
-date: 2026-07-26
+count: 7
+date: 2026-07-27
 slug: subvenciones-empresa-espana-innovacion
 ---
 
 # Subvenciones para innovacion en empresa para espana
 
-Subvenciones activas (6):
+Subvenciones activas (7):
 
+- [PRIMERA CONVOCATORIA DEL PROGRAMA DE INCENTIVOS A PROYECTOS SINGULARES INNOVADORES DE AHORRO Y EFICIENCIA ENERGÉTICA (INNOVAE)](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/920153) ()
+  - Description: La convocatoria tiene como objetivo financiar proyectos singulares que promuevan la eficiencia energética y la reducción del consumo de energía, incluyendo iniciativas en movilidad sostenible, el sector industrial, la renovación de edificios para ser cero emisiones, y la sustitución de generadores de frío.
+  - Requirements: Empresas con personalidad jurídica propia (micro, pequeña, mediana y gran empresa); Personas físicas con actividad económica dadas de alta en el Censo de Empresarios; Consorcios y agrupaciones empresariales con personalidad jurídica propia; Universidades y Centros de Investigación y Desarrollo; El Sector Público según la Ley 40/2015; Comunidades de Propietarios o agrupaciones de Comunidades de Propietarios; Entidades sin ánimo de lucro del Tercer Sector
+  - Budget: 115000000€ | Reception: 20/07/2026 | Start: 15/09/2026 | End: 18/11/2026
 - [RESOLUCIÓN DE 13 DE MARZO DE 2026 DE LA DIRECCIÓN GENERAL DEL CDTI DE CONCESIÓN DIRECTA DE AYUDAS DEL AÑO 2026 A PROYECTOS DE I+D SELECCIONADOS EN LOS PROGRAMAS INTERNACIONALES EUROSTARS 3, ASOCIACIONES COFINANCIADAS.](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/893025) ()
   - Description: La convocatoria tiene por objetivo regular la concesión de ayudas para proyectos de investigación y desarrollo aprobados en el marco del Programa Eurostars-3 y otros programas cofinanciados relacionados con el agua, agroecología, alimentación futura y transición energética.
   - Requirements: Empresas que desarrollen proyectos de I+D en España; Proyectos seleccionados en convocatorias internacionales
