@@ -1,0 +1,99 @@
+{{ define "main" }}
+<div class="term-page">
+    {{ partial "home-nav.html" . }}
+
+    {{- $singular := .Data.Singular -}}
+    {{- $otherPlural := "" -}}
+    {{- $otherGroup := "" -}}
+    {{- $otherLabel := "" -}}
+    {{- $otherPluralLabel := "" -}}
+    {{- if eq $singular "region" -}}
+        {{- $otherPlural = "para" -}}
+        {{- $otherGroup = "beneficiario" -}}
+        {{- $otherLabel = "Beneficiario" -}}
+        {{- $otherPluralLabel = "Todos" -}}
+    {{- else if eq $singular "beneficiario" -}}
+        {{- $otherPlural = "regiones" -}}
+        {{- $otherGroup = "region" -}}
+        {{- $otherLabel = "Región" -}}
+        {{- $otherPluralLabel = "Todas" -}}
+    {{- end -}}
+
+    <main class="home-container term-content">
+        <header class="home-header">
+            <h1>{{ .Title }}</h1>
+
+            {{ if eq $singular "region" }}
+            <p class="home-intro">
+                Listado actualizado de los <strong>{{ len .Pages }} conjuntos de ayudas</strong> y convocatorias activas en
+                <strong>{{ .Title }}</strong> extraídas de la Base de Datos Nacional de Subvenciones (BDNS) y los portales oficiales autonómicos.
+                Incluye subvenciones para asociaciones, autónomos, empresas y particulares.
+            </p>
+            {{ else if eq $singular "beneficiario" }}
+            <p class="home-intro">
+                Listado completo de <strong>{{ len .Pages }} conjuntos de subvenciones, ayudas y convocatorias</strong> activas en España
+                para <strong>{{ .Title }}</strong>, clasificadas por región y sector. Datos actualizados diariamente desde la BDNS.
+            </p>
+            {{ else }}
+            <p class="home-intro">
+                Listado de <strong>{{ len .Pages }} conjuntos de ayudas</strong> en la categoría <strong>{{ .Title }}</strong>.
+            </p>
+            {{ end }}
+        </header>
+
+        {{ if $otherPlural }}
+        <section class="filter-section" aria-labelledby="filter-heading">
+            <h2 id="filter-heading" class="filter-heading">Filtrar por {{ $otherLabel | lower }}</h2>
+            <div class="filter-pills" role="radiogroup" aria-label="Filtrar por {{ $otherLabel | lower }}">
+                <button type="button" class="filter-pill is-active" data-action="reset" data-group="{{ $otherGroup }}" aria-checked="true">{{ $otherPluralLabel }}</button>
+                {{ range $name, $tax := index .Site.Taxonomies $otherPlural }}
+                <button type="button" class="filter-pill" data-group="{{ $otherGroup }}" data-value="{{ $name | urlize }}" role="radio" aria-checked="false">{{ $tax.Page.LinkTitle }}</button>
+                {{ end }}
+            </div>
+            <p class="filter-count" id="filter-count" aria-live="polite"></p>
+        </section>
+        {{ end }}
+
+        <section class="home-grant-list" aria-label="Subvenciones disponibles">
+            {{ range .Pages.ByTitle }}
+            {{ $regionSlug := "" }}
+            {{ $benefSlug := "" }}
+            {{ with index .Params.regiones 0 }}{{ $regionSlug = urlize . }}{{ end }}
+            {{ with index .Params.para 0 }}{{ $benefSlug = urlize . }}{{ end }}
+            <article class="home-grant-card"
+                     data-region="{{ $regionSlug }}"
+                     data-beneficiario="{{ $benefSlug }}">
+                <a class="home-grant-card-link" href="{{ .RelPermalink }}">
+                    <div class="home-grant-card-content">
+                        <div class="home-grant-card-topline">
+                            <div class="home-tag-list">
+                                {{ with index .Params.regiones 0 }}<span>{{ . }}</span>{{ end }}
+                                {{ with index .Params.para 0 }}<span>{{ . }}</span>{{ end }}
+                            </div>
+                            <div class="home-active-count">
+                                <span class="home-active-dot" aria-hidden="true"></span>
+                                <span>Ayudas Activas: {{ .Params.count }}</span>
+                            </div>
+                        </div>
+                        <h3 class="home-grant-card-title">{{ .Title }}</h3>
+                    </div>
+                </a>
+            </article>
+            {{ end }}
+        </section>
+
+        <p class="home-grant-empty" id="grant-empty" hidden>No hay ayudas que coincidan con los filtros seleccionados.</p>
+
+        <aside class="grant-related-lands">
+            <h2>Otras formas de explorar</h2>
+            <ul>
+                <li><a href="/grants/">Ver todas las subvenciones activas</a></li>
+                <li><a href="/regiones/">Por región</a></li>
+                <li><a href="/para/">Por beneficiario</a></li>
+            </ul>
+        </aside>
+    </main>
+</div>
+
+<script src="/js/filter.js" defer></script>
+{{ end }}

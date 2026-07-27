@@ -1,0 +1,11 @@
+{{- $desc := "" -}}
+{{- if .Description -}}
+  {{- $desc = .Description | plainify | htmlEscape | chomp | truncate 160 -}}
+{{- else if eq .Data.Singular "region" -}}
+  {{- $desc = printf "Lista actualizada de %d ayudas y convocatorias activas en %s. Datos de la BDNS y portales oficiales." (len .Pages) .Title -}}
+{{- else if eq .Data.Singular "beneficiario" -}}
+  {{- $desc = printf "%d conjuntos de ayudas activas en España para %s. Datos diarios de la BDNS." (len .Pages) .Title -}}
+{{- end -}}
+<meta name="description" content="{{ $desc }}">
+<meta property="og:description" content="{{ $desc }}">
+<meta name="twitter:description" content="{{ $desc }}">

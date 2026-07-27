@@ -1,0 +1,23 @@
+{
+  "name": "portalconvocatorias",
+  "version": "1.0.0",
+  "description": "Portal de Convocatorias - Recopilatorio de subvenciones y ayudas en Espana",
+  "private": true,
+  "scripts": {
+    "build": "hugo --minify --baseURL https://portalconvocatorias.es/",
+    "dev": "hugo server -D",
+    "verify": "node scripts/verify-seo.js",
+    "validate-schema": "node scripts/validate-schema.js",
+    "check": "npm run build && npm run verify && npm run validate-schema"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "keywords": [
+    "hugo",
+    "seo",
+    "subvenciones",
+    "convocatorias"
+  ],
+  "license": "MIT"
+}

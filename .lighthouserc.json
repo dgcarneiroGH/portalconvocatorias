@@ -1,0 +1,28 @@
+{
+  "ci": {
+    "collect": {
+      "url": [
+        "http://localhost:1313/",
+        "http://localhost:1313/grants/",
+        "http://localhost:1313/regiones/alava/",
+        "http://localhost:1313/para/asociaciones-y-ong/",
+        "http://localhost:1313/subvenciones-alava-asociaciones-deportes/",
+        "http://localhost:1313/aviso-legal/"
+      ],
+      "startServerCommand": "hugo server --port 1313",
+      "numberOfRuns": 1,
+      "settings": {
+        "preset": "desktop"
+      }
+    },
+    "assert": {
+      "preset": "lighthouse:recommended",
+      "assertions": {
+        "categories:performance": ["warn", { "minScore": 0.85 }],
+        "categories:accessibility": ["error", { "minScore": 0.9 }],
+        "categories:best-practices": ["warn", { "minScore": 0.85 }],
+        "categories:seo": ["error", { "minScore": 0.95 }]
+      }
+    }
+  }
+}

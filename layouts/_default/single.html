@@ -1,0 +1,18 @@
+{{ define "main" }}
+<div class="page-skin">
+    {{ partial "home-nav.html" . }}
+
+    <main class="home-container page-content">
+        <article class="page-article">
+            <header class="page-header">
+                <h1>{{ .Title }}</h1>
+                {{ with .Description }}<p class="page-description">{{ . }}</p>{{ end }}
+            </header>
+
+            <div class="page-body">
+                {{ .Content }}
+            </div>
+        </article>
+    </main>
+</div>
+{{ end }}

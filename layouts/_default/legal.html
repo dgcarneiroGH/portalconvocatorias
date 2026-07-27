@@ -1,0 +1,26 @@
+{{ define "main" }}
+<div class="legal-page">
+    {{ partial "home-nav.html" . }}
+
+    <main class="home-container legal-content">
+        {{ partial "breadcrumbs.html" (dict
+            "page" .
+            "items" (slice
+                (dict "name" "Inicio" "url" "/")
+                (dict "name" .Title "url" .RelPermalink)
+            )
+        ) }}
+
+        <article class="legal-article">
+            <header class="legal-header">
+                <h1>{{ .Title }}</h1>
+                {{ with .Description }}<p class="legal-description">{{ . }}</p>{{ end }}
+            </header>
+
+            <div class="legal-body">
+                {{ .Content }}
+            </div>
+        </article>
+    </main>
+</div>
+{{ end }}
