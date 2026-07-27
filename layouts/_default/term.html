@@ -4,15 +4,6 @@
 
     <main class="home-container term-content">
         <header class="term-header">
-            {{ partial "breadcrumbs.html" (dict
-                "page" .
-                "items" (slice
-                    (dict "name" "Inicio" "url" "/")
-                    (dict "name" .Data.Singular "url" (printf "/%s/" .Data.Plural))
-                    (dict "name" .Title "url" .RelPermalink)
-                )
-            ) }}
-
             <h1>{{ .Title }}</h1>
 
             {{ $region := "" }}

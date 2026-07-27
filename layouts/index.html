@@ -3,37 +3,46 @@
     {{ partial "home-nav.html" . }}
 
     <main class="home-container home-content">
-        <section class="home-filter-section" aria-labelledby="filter-title">
+        <header class="home-header">
             <h1 id="filter-title">{{ .Site.Title }}</h1>
-            <p class="home-filter-description">{{ .Site.Params.description | default "Recopilatorio actualizado diariamente de subvenciones, ayudas y convocatorias activas en España para asociaciones, autónomos, empresas y particulares, filtrado por territorio, tipo de beneficiario y sector." }}</p>
+            <p class="home-intro">{{ .Site.Params.description }}</p>
+        </header>
 
-            <div class="home-filter-controls">
-                <div class="filter-group" data-filter-group="region">
-                    <strong>Región:</strong>
+        <section class="filter-section" aria-labelledby="filter-heading">
+            <h2 id="filter-heading" class="filter-heading">Filtrar Subvenciones</h2>
+
+            <div class="filter-group">
+                <h3 class="filter-group-label">Región</h3>
+                <div class="filter-pills" role="radiogroup" aria-label="Filtrar por región">
+                    <button type="button" class="filter-pill is-active" data-action="reset" data-group="region" aria-checked="true">Todas</button>
                     {{ range $name, $tax := .Site.Taxonomies.regiones }}
-                    <button type="button" data-value="{{ $name | urlize }}">{{ $tax.Page.LinkTitle }}</button>
+                    <button type="button" class="filter-pill" data-group="region" data-value="{{ $name | urlize }}" role="radio" aria-checked="false">{{ $tax.Page.LinkTitle }}</button>
                     {{ end }}
                 </div>
-                <div class="filter-group" data-filter-group="beneficiario">
-                    <strong>Beneficiario:</strong>
-                    {{ range $name, $tax := .Site.Taxonomies.para }}
-                    <button type="button" data-value="{{ $name | urlize }}">{{ $tax.Page.LinkTitle }}</button>
-                    {{ end }}
-                </div>
-                <button type="button" id="filter-reset" class="filter-reset">Quitar filtros</button>
-                <span id="filter-count" class="filter-count" aria-live="polite"></span>
             </div>
+
+            <div class="filter-group">
+                <h3 class="filter-group-label">Beneficiario</h3>
+                <div class="filter-pills" role="radiogroup" aria-label="Filtrar por beneficiario">
+                    <button type="button" class="filter-pill is-active" data-action="reset" data-group="beneficiario" aria-checked="true">Todos</button>
+                    {{ range $name, $tax := .Site.Taxonomies.para }}
+                    <button type="button" class="filter-pill" data-group="beneficiario" data-value="{{ $name | urlize }}" role="radio" aria-checked="false">{{ $tax.Page.LinkTitle }}</button>
+                    {{ end }}
+                </div>
+            </div>
+
+            <p class="filter-count" id="filter-count" aria-live="polite"></p>
         </section>
 
         <section class="home-updates-heading" aria-labelledby="updates-title">
             <h2 id="updates-title">Últimas actualizaciones</h2>
-            {{ with index .Site.RegularPages 0 }}
+            {{ with index (where .Site.RegularPages "Section" "grants") 0 }}
             <span>Última actualización: {{ dateFormat "02/01/2006" .Date }}</span>
             {{ end }}
         </section>
 
         <section class="home-grant-list" aria-label="Subvenciones disponibles">
-            {{ range .Site.RegularPages }}
+            {{ range where .Site.RegularPages "Section" "grants" }}
             {{ $regionSlug := "" }}
             {{ $benefSlug := "" }}
             {{ with index .Params.regiones 0 }}{{ $regionSlug = urlize . }}{{ end }}
@@ -41,19 +50,21 @@
             <article class="home-grant-card"
                      data-region="{{ $regionSlug }}"
                      data-beneficiario="{{ $benefSlug }}">
-                <div class="home-grant-card-content">
-                    <div class="home-grant-card-topline">
-                        <div class="home-tag-list">
-                            {{ with index .Params.regiones 0 }}<span>{{ . }}</span>{{ end }}
-                            {{ with index .Params.para 0 }}<span>{{ . }}</span>{{ end }}
+                <a class="home-grant-card-link" href="{{ .RelPermalink }}">
+                    <div class="home-grant-card-content">
+                        <div class="home-grant-card-topline">
+                            <div class="home-tag-list">
+                                {{ with index .Params.regiones 0 }}<span>{{ . }}</span>{{ end }}
+                                {{ with index .Params.para 0 }}<span>{{ . }}</span>{{ end }}
+                            </div>
+                            <div class="home-active-count">
+                                <span class="home-active-dot" aria-hidden="true"></span>
+                                <span>Ayudas Activas: {{ .Params.count }}</span>
+                            </div>
                         </div>
-                        <div class="home-active-count">
-                            <span aria-hidden="true"></span>
-                            <span>Ayudas Activas: {{ .Params.count }}</span>
-                        </div>
+                        <h3 class="home-grant-card-title">{{ .Title }}</h3>
                     </div>
-                    <h3><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
-                </div>
+                </a>
             </article>
             {{ end }}
         </section>
