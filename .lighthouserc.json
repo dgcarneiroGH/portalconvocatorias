@@ -2,12 +2,12 @@
   "ci": {
     "collect": {
       "url": [
-        "http://localhost:1313/",
-        "http://localhost:1313/grants/",
-        "http://localhost:1313/regiones/alava/",
-        "http://localhost:1313/para/asociaciones-y-ong/",
-        "http://localhost:1313/subvenciones-alava-asociaciones-deportes/",
-        "http://localhost:1313/aviso-legal/"
+        "http://portalconvocatorias.es/",
+        "http://portalconvocatorias.es/grants/",
+        "http://portalconvocatorias.es/regiones/alava/",
+        "http://portalconvocatorias.es/para/asociaciones-y-ong/",
+        "http://portalconvocatorias.es/subvenciones-alava-asociaciones-deportes/",
+        "http://portalconvocatorias.es/aviso-legal/"
       ],
       "startServerCommand": "hugo server --port 1313",
       "numberOfRuns": 1,
@@ -18,10 +18,30 @@
     "assert": {
       "preset": "lighthouse:recommended",
       "assertions": {
-        "categories:performance": ["warn", { "minScore": 0.85 }],
-        "categories:accessibility": ["error", { "minScore": 0.9 }],
-        "categories:best-practices": ["warn", { "minScore": 0.85 }],
-        "categories:seo": ["error", { "minScore": 0.95 }]
+        "categories:performance": [
+          "warn",
+          {
+            "minScore": 0.85
+          }
+        ],
+        "categories:accessibility": [
+          "error",
+          {
+            "minScore": 0.9
+          }
+        ],
+        "categories:best-practices": [
+          "warn",
+          {
+            "minScore": 0.85
+          }
+        ],
+        "categories:seo": [
+          "error",
+          {
+            "minScore": 0.95
+          }
+        ]
       }
     }
   }
