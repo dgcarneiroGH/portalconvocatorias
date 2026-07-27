@@ -5,7 +5,7 @@ region: Lanzarote
 beneficiario: Particulares
 tag_seo: vivienda
 count: 3
-date: 2026-07-26
+date: 2026-07-27
 slug: subvenciones-lanzarote-particulares-vivienda
 ---
 
