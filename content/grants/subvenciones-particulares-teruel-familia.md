@@ -5,7 +5,7 @@ region: Teruel
 beneficiario: Particulares
 tag_seo: familia
 count: 4
-date: 2026-07-26
+date: 2026-07-27
 slug: subvenciones-particulares-teruel-familia
 ---
 
