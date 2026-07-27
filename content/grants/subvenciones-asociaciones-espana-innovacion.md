@@ -5,7 +5,7 @@ region: España
 beneficiario: Asociaciones y ong
 tag_seo: innovacion
 count: 5
-date: 2026-07-26
+date: 2026-07-27
 slug: subvenciones-asociaciones-espana-innovacion
 ---
 
