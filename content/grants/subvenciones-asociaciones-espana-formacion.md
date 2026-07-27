@@ -1,17 +1,17 @@
 ---
 title: Subvenciones para formacion en España para Asociaciones y ong
-description: "Recopilatorio de las 4 ayudas activas en España para Asociaciones y ong dentro del sector formacion, con presupuesto y plazos de solicitud."
+description: "Recopilatorio de las 3 ayudas activas en España para Asociaciones y ong dentro del sector formacion, con presupuesto y plazos de solicitud."
 region: España
 beneficiario: Asociaciones y ong
 tag_seo: formacion
-count: 4
-date: 2026-07-26
+count: 3
+date: 2026-07-27
 slug: subvenciones-asociaciones-espana-formacion
 ---
 
 # Subvenciones para formacion en asociaciones para espana
 
-Subvenciones activas (4):
+Subvenciones activas (3):
 
 - [RESOLUCIÓN DE LA AGENCIA ESPAÑOLA DE PROTECCIÓN DE DATOS POR LA QUE SE APRUEBAN LAS BASES REGULADORAS Y SE CONVOCA EL PREMIO A LA FORMACIÓN, EDUCACIÓN Y CONCIENCIACIÓN EN PROTECCIÓN DE DATOS, PARA EL AÑO 2026](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/918353) ()
   - Description: El premio tiene como objetivo premiar iniciativas que promuevan el conocimiento y ejercicio del derecho a la protección de datos en el entorno digital, especialmente en educación y en el uso de la inteligencia artificial.
@@ -25,7 +25,3 @@ Subvenciones activas (4):
   - Description: Este convenio busca facilitar la inclusión sociolaboral de la población gitana en Zaragoza, mediante el desarrollo de un proyecto que mejora su presencia en el mercado laboral y sus competencias profesionales durante el año 2026.
   - Requirements: Dirigido a personas de etnia gitana; Ubicación: Ciudad de Zaragoza; Población general de la zona también es beneficiaria
   - Budget: 35000€ | Reception: 14/07/2026 | Start: 01/01/2026 | End: 31/12/2026
-- [RESOLUCIÓN DE LA AGENCIA ESPAÑOLA DE PROTECCIÓN DE DATOS POR LA QUE SE APRUEBAN LAS BASES REGULADORAS Y SE CONVOCA EL PREMIO A LA PROTECCIÓN DE DATOS PERSONALES DE COLECTIVOS VULNERABLES Y FRENTE A LA VIOLENCIA DIGITAL, PARA EL AÑO 2026](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/918358) ()
-  - Description: Convocar un premio para reconocer proyectos que mejoren la protección de datos personales de colectivos vulnerables y combatan la violencia digital, promoviendo la sensibilización y educación sobre los riesgos del tratamiento de datos en el entorno digital.
-  - Requirements: Cualquier persona física, entidad pública o privada puede participar; No pueden participar miembros del jurado ni personal de la AEPD; Las solicitudes deben ser personales o a través de representante; Los proyectos deben haberse ejecutado antes del 15 de octubre de 2026
-  - Budget: 45000€ | Reception: 09/07/2026 | Start: 10/07/2026 | End: 15/10/2026
