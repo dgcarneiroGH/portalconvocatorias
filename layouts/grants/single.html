@@ -3,8 +3,8 @@
     {{ partial "home-nav.html" . }}
 
     <main class="home-container grant-page-content">
-        {{- $region := index .Params.regiones 0 -}}
-        {{- $benef := index .Params.para 0 -}}
+        {{- $region := .Params.regiones -}}
+        {{- $benef := .Params.para -}}
         {{- $tag := .Params.tag_seo -}}
         {{- $count := .Params.count -}}
 

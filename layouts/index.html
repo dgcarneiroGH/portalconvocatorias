@@ -45,8 +45,8 @@
             {{ range where .Site.RegularPages "Section" "grants" }}
             {{ $regionSlug := "" }}
             {{ $benefSlug := "" }}
-            {{ with index .Params.regiones 0 }}{{ $regionSlug = urlize . }}{{ end }}
-            {{ with index .Params.para 0 }}{{ $benefSlug = urlize . }}{{ end }}
+            {{ with .Params.regiones }}{{ $regionSlug = urlize . }}{{ end }}
+            {{ with .Params.para }}{{ $benefSlug = urlize . }}{{ end }}
             <article class="home-grant-card"
                      data-region="{{ $regionSlug }}"
                      data-beneficiario="{{ $benefSlug }}">
@@ -54,8 +54,8 @@
                     <div class="home-grant-card-content">
                         <div class="home-grant-card-topline">
                             <div class="home-tag-list">
-                                {{ with index .Params.regiones 0 }}<span>{{ . }}</span>{{ end }}
-                                {{ with index .Params.para 0 }}<span>{{ . }}</span>{{ end }}
+                                {{ with .Params.regiones }}<span>{{ . }}</span>{{ end }}
+                                {{ with .Params.para }}<span>{{ . }}</span>{{ end }}
                             </div>
                             <div class="home-active-count">
                                 <span class="home-active-dot" aria-hidden="true"></span>
