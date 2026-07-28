@@ -1,8 +1,8 @@
 ---
 title: Ayudas nominativas en Canarias para Asociaciones y ong
 description: "Recopilatorio de las 17 ayudas activas en Canarias para Asociaciones y ong dentro del sector nominativas, con presupuesto y plazos de solicitud."
-regiones: Canarias
-para: Asociaciones y ong
+region: Canarias
+beneficiario: Asociaciones y ong
 tag_seo: nominativas
 count: 17
 date: 2026-07-28
