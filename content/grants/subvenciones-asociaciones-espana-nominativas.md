@@ -1,8 +1,8 @@
 ---
 title: Ayudas nominativas en España para Asociaciones y ong
 description: "Recopilatorio de las 30 ayudas activas en España para Asociaciones y ong dentro del sector nominativas, con presupuesto y plazos de solicitud."
-regiones: España
-para: Asociaciones y ong
+region: España
+beneficiario: Asociaciones y ong
 tag_seo: nominativas
 count: 30
 date: 2026-07-28
