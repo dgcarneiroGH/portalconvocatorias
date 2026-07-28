@@ -15,7 +15,7 @@ En cumplimiento del artículo 10 de la Ley 34/2002, de 11 de julio, de Servicios
 
 ## Objeto
 
-El presente sitio web tiene como objeto ofrecer al usuario un recopilatorio actualizado de las ayudas, ayudas y convocatorias públicas activas en España, extraídas de la Base de Datos Nacional de Ayudas (BDNS) y de los portales oficiales autonómicos y locales.
+El presente sitio web tiene como objeto ofrecer al usuario un recopilatorio actualizado de las ayudas y convocatorias públicas activas en España, extraídas de la Base de Datos Nacional de Ayudas (BDNS) y de los portales oficiales autonómicos y locales.
 
 ## Naturaleza del servicio
 

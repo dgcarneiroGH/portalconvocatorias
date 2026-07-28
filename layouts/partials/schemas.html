@@ -1,7 +1,7 @@
 {{- $baseURL := .Site.BaseURL -}}
 {{- $orgID := printf "%s#organization" $baseURL -}}
 {{- $siteID := printf "%s#website" $baseURL -}}
-{{- $siteDescription := .Site.Params.description | default "Recopilatorio de ayudas, ayudas y convocatorias activas en España." -}}
+{{- $siteDescription := .Site.Params.description | default "Recopilatorio de ayudas y convocatorias activas en España." -}}
 
 {{- if .IsHome -}}
   {{- $schema := dict

@@ -1,0 +1,58 @@
+# Portal de Convocatorias
+
+> Recopilatorio diario y gratuito de ayudas y convocatorias públicas activas en España, extraídas de la Base de Datos Nacional de Ayudas (BDNS) y de los portales oficiales autonómicos y locales.
+
+## Qué es
+
+Portal de Convocatorias es un proyecto independiente que unifica y filtra la información pública de ayudas y subvenciones activas en España. Cubre todas las comunidades autónomas, diputaciones y cabildos. Las fichas se actualizan diariamente y enlazan siempre a la fuente oficial original.
+
+## Qué cubre
+
+- Ayudas para asociaciones y ONG, pymes y autónomos, gran empresa, y particulares.
+- Todas las comunidades autónomas, diputaciones provinciales y cabildos insulares.
+- Sectores: deportes, empleo, familia, formación, innovación, investigación y ciencia, juventud, vivienda, salud, accesibilidad, agroalimentario, comercio, economía digital, literatura, artes plásticas, y nominativas.
+- Datos: número de ayudas activas, presupuesto por convocatoria, fechas de inicio y fin de plazo, organismo convocante, requisitos, y enlace a la ficha oficial de la BDNS.
+
+## Qué NO cubre
+
+- Ayudas cerradas o con plazo finalizado.
+- Becas de estudio (no están en la BDNS).
+- Subvenciones de la UE gestionadas directamente por la Comisión Europea.
+- Información que no provenga de fuentes oficiales públicas.
+
+## A quién va dirigido
+
+- Asociaciones y ONG que buscan financiación para proyectos sociales, culturales o deportivos.
+- Pymes y autónomos que necesitan ayudas para comercio, empleo, innovación, formación o economía digital.
+- Grandes empresas que aplican a programas nacionales de I+D o cooperación internacional.
+- Particulares que consultan ayudas de vivienda, familia, literatura, artes plásticas, deportes o juventud.
+
+## Fuente de los datos
+
+Toda la información proviene de fuentes oficiales públicas. La fuente principal es la Base de Datos Nacional de Ayudas (BDNS), gestionada por la Intervención General del Estado (Ministerio de Hacienda). Los datos autonómicos y locales se cruzan con los portales de transparencia y boletines oficiales de cada territorio.
+
+Más detalle en [/fuentes/](https://portalconvocatorias.es/fuentes/).
+
+## Cómo se usa
+
+1. Visita la portada: https://portalconvocatorias.es/
+2. Filtra por región (comunidad autónoma, provincia o isla) y por tipo de beneficiario.
+3. Abre una convocatoria concreta para ver presupuesto, plazos, requisitos y enlace a la BDNS.
+4. Pulsa "Acceder a la convocatoria oficial" para presentar la solicitud en la fuente original.
+
+## Estructura del sitio
+
+- [Portada](https://portalconvocatorias.es/) — listado completo con filtros.
+- [Por región](https://portalconvocatorias.es/regiones/) — todas las comunidades autónomas, provincias y cabildos.
+- [Por beneficiario](https://portalconvocatorias.es/para/) — asociaciones y ONG, pymes y autónomos, gran empresa, particulares.
+- [Sobre nosotros](https://portalconvocatorias.es/sobre-nosotros/) — metodología, frecuencia de actualización, compromiso editorial.
+- [Fuentes oficiales](https://portalconvocatorias.es/fuentes/) — listado completo de organismos y registros que alimentan el portal.
+- [Preguntas frecuentes](https://portalconvocatorias.es/preguntas-frecuentes/) — dudas habituales sobre la BDNS, plazos, requisitos y solicitudes.
+- [Contacto](https://portalconvocatorias.es/contacto/) — para reportar errores o sugerir correcciones.
+
+## Información técnica
+
+- Idioma: español (es-ES).
+- Formato: sitio estático Hugo. Cobertura: nacional (todas las comunidades autónomas) + provincial + insular.
+- Frecuencia de actualización: diaria.
+- Última revisión de este archivo: 2026-07-28.

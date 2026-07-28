@@ -1,0 +1,90 @@
+{{ define "main" }}
+<div class="term-page">
+    {{ partial "home-nav.html" . }}
+
+    {{- $singular := .Data.Singular -}}
+    {{- $introLabel := "" -}}
+    {{- if eq $singular "region" -}}
+        {{- $introLabel = "Comunidades autónomas, provincias y cabildos" -}}
+    {{- else if eq $singular "beneficiario" -}}
+        {{- $introLabel = "Tipos de beneficiario" -}}
+    {{- end -}}
+
+    <main class="home-container terms-content">
+        <header class="home-header">
+            <h1>{{ .Title }}</h1>
+            <p class="home-intro">
+                {{ if eq $singular "region" }}
+                Listado completo de <strong>todas las comunidades autónomas, provincias y cabildos</strong> con ayudas activas. Filtra por tipo de beneficiario o pulsa en una región para ver las convocatorias abiertas en ese territorio.
+                {{ else if eq $singular "beneficiario" }}
+                Listado completo de <strong>todos los tipos de beneficiario</strong> con ayudas activas. Filtra por región o pulsa en un perfil para ver las convocatorias abiertas para ese colectivo.
+                {{ else }}
+                Listado de categorías disponibles en <strong>{{ .Title }}</strong>.
+                {{ end }}
+            </p>
+        </header>
+
+        {{- $sorted := sort .Data.Terms "Pages" "desc" -}}
+        {{- $top := first 10 $sorted -}}
+
+        {{- if gt (len $top) 0 -}}
+        <section class="terms-ranking" aria-labelledby="terms-ranking-title">
+            <h2 id="terms-ranking-title">Top 10 por número de ayudas activas</h2>
+            <p>Las diez categorías con más ayudas activas en este momento, ordenadas de mayor a menor:</p>
+            <table class="terms-ranking-table">
+                <thead>
+                    <tr>
+                        <th scope="col">#</th>
+                        <th scope="col">{{ $introLabel }}</th>
+                        <th scope="col">Conjuntos de ayudas</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    {{- range $i, $t := $top -}}
+                    <tr>
+                        <td>{{ add $i 1 }}</td>
+                        <td><a href="{{ $t.Page.RelPermalink }}">{{ $t.Page.LinkTitle }}</a></td>
+                        <td>{{ len $t.Pages }}</td>
+                    </tr>
+                    {{- end -}}
+                </tbody>
+            </table>
+        </section>
+
+        <section class="terms-grid" aria-labelledby="terms-grid-title">
+            <h2 id="terms-grid-title">Todas las categorías</h2>
+            <ul class="terms-grid-list">
+                {{- range .Data.Terms.ByCount -}}
+                <li>
+                    <a href="{{ .Page.RelPermalink }}">{{ .Page.LinkTitle }}</a>
+                    <span class="terms-grid-count">{{ len .Pages }} {{ if eq $singular "region" }}conjuntos{{ else }}perfiles{{ end }}</span>
+                </li>
+                {{- end -}}
+            </ul>
+        </section>
+        {{- else -}}
+        <p class="terms-empty">No hay categorías con ayudas activas en este momento.</p>
+        {{- end -}}
+    </main>
+</div>
+
+{{- $items := slice -}}
+{{- range $i, $t := $top -}}
+    {{- $items = $items | append (dict
+        "@type" "ListItem"
+        "position" (add $i 1)
+        "url" $t.Page.Permalink
+        "name" $t.Page.LinkTitle
+    ) -}}
+{{- end -}}
+{{- if gt (len $items) 0 -}}
+{{- $itemList := dict
+    "@context" "https://schema.org"
+    "@type" "ItemList"
+    "name" (printf "Top 10 %s con más ayudas activas" $introLabel)
+    "numberOfItems" (len $items)
+    "itemListElement" $items
+-}}
+<script type="application/ld+json">{{ $itemList | jsonify | safeJS }}</script>
+{{- end -}}
+{{ end }}

@@ -3,20 +3,26 @@
     {{ partial "home-nav.html" . }}
 
     <main class="home-container grant-page-content">
-        {{- $region := .Params.regiones -}}
-        {{- $benef := .Params.para -}}
-        {{- $tag := .Params.tag_seo -}}
+        {{- $region := .Params.region -}}
+        {{- $benef := .Params.beneficiario -}}
+        {{- $tag := .Params.tag_seo | default "" -}}
         {{- $count := .Params.count -}}
+        {{- $tagLabel := index hugo.Data.sectores.sectores $tag | default $tag -}}
 
         <header class="grant-page-header">
             <h1 class="grant-page-title">{{ .Title }}</h1>
             <p class="grant-page-intro">
                 {{ $count }} ayudas activas en <strong>{{ $region }}</strong> para
-                <strong>{{ $benef }}</strong> dentro del sector <strong>{{ $tag }}</strong>,
+                <strong>{{ $benef }}</strong> dentro del sector <strong>{{ $tagLabel }}</strong>,
                 con presupuesto total y plazos de solicitud actualizados.
                 Fuente: Base de Datos Nacional de Ayudas (BDNS).
             </p>
         </header>
+
+        <section class="grant-page-summary" aria-label="Resumen de las ayudas">
+            <h2>Resumen</h2>
+            <p>Esta página reúne <strong>{{ $count }} ayudas y convocatorias activas</strong> convocadas por organismos públicos de <strong>{{ $region }}</strong> (o de ámbito estatal aplicables a este territorio) y dirigidas a <strong>{{ $benef }}</strong> dentro del sector <strong>{{ $tagLabel }}</strong>. Los datos proceden de la Base de Datos Nacional de Ayudas (BDNS) y se actualizan a diario. Cada ficha incluye presupuesto, plazos de solicitud, requisitos y enlace directo a la convocatoria oficial.</p>
+        </section>
 
         <section class="grant-page-list" aria-label="Ayudas disponibles">
             <h2>Listado de convocatorias</h2>
@@ -114,6 +120,40 @@
             {{ end }}
         </section>
 
+        <section class="grant-page-faq" aria-label="Preguntas frecuentes sobre estas ayudas">
+            <h2>Preguntas frecuentes</h2>
+
+            <section class="grant-faq-item">
+                <h3>¿Qué ayudas hay para {{ $benef }} en {{ $region }} dentro del sector {{ $tagLabel }}?</h3>
+                <p>En esta página se listan <strong>{{ $count }} ayudas activas</strong> convocadas por organismos públicos de {{ $region }} o de ámbito estatal aplicables a este territorio, dirigidas a {{ $benef }} en el sector {{ $tagLabel }}. Cada una incluye presupuesto, plazos, requisitos y enlace a la convocatoria oficial en la BDNS.</p>
+            </section>
+
+            <section class="grant-faq-item">
+                <h3>¿Cuál es el presupuesto total disponible?</h3>
+                <p>El presupuesto agregado se calcula sumando los importes de cada convocatoria listada. Lo verás desglosado en cada ficha individual con su importe específico. La suma puede variar a medida que se publican o se cierran ayudas.</p>
+            </section>
+
+            <section class="grant-faq-item">
+                <h3>¿Hasta cuándo se puede solicitar?</h3>
+                <p>Cada convocatoria tiene su propio plazo. En cada ficha aparecen las fechas de inicio y fin. Si una convocatoria no muestra fecha de fin, suele estar abierta de forma continuada hasta agotar crédito. Te recomendamos pulsar el enlace "Acceder a la convocatoria oficial" para confirmar el plazo vigente en la BDNS.</p>
+            </section>
+
+            <section class="grant-faq-item">
+                <h3>¿Quién puede acceder a estas ayudas?</h3>
+                <p>Las ayudas recogidas en esta página están dirigidas a <strong>{{ $benef }}</strong>. Dentro de este perfil puede haber requisitos adicionales (antigüedad, forma jurídica, ámbito geográfico, importe mínimo, etc.) que se detallan en el apartado "Requisitos" de cada ficha y en la convocatoria oficial.</p>
+            </section>
+
+            <section class="grant-faq-item">
+                <h3>¿Dónde se presenta la solicitud?</h3>
+                <p>La solicitud se presenta en el portal del organismo convocante, nunca en este portal. Pulsa el botón "Acceder a la convocatoria oficial" de la ficha que te interese para ir al formulario de solicitud en la BDNS o en la sede electrónica correspondiente.</p>
+            </section>
+
+            <section class="grant-faq-item">
+                <h3>¿Esta información sustituye a la convocatoria oficial?</h3>
+                <p>No. Este portal es meramente informativo. La información publicada no sustituye a la publicación oficial de cada convocatoria. Para presentar solicitudes o resolver dudas legales consulta siempre la fuente oficial enlazada en cada ficha.</p>
+            </section>
+        </section>
+
         <section class="grant-page-howto">
             <h2>Cómo solicitar estas ayudas</h2>
             <p>
@@ -138,4 +178,48 @@
         </aside>
     </main>
 </div>
+
+{{- $faqs := slice
+    (dict
+        "question" (printf "¿Qué ayudas hay para %s en %s dentro del sector %s?" $benef $region $tagLabel)
+        "answer" (printf "En esta página se listan %d ayudas activas convocadas por organismos públicos de %s o de ámbito estatal aplicables a este territorio, dirigidas a %s en el sector %s. Cada una incluye presupuesto, plazos, requisitos y enlace a la convocatoria oficial en la BDNS." $count $region $benef $tagLabel)
+    )
+    (dict
+        "question" "¿Cuál es el presupuesto total disponible?"
+        "answer" "El presupuesto agregado se calcula sumando los importes de cada convocatoria listada. Lo verás desglosado en cada ficha individual con su importe específico. La suma puede variar a medida que se publican o se cierran ayudas."
+    )
+    (dict
+        "question" "¿Hasta cuándo se puede solicitar?"
+        "answer" "Cada convocatoria tiene su propio plazo. En cada ficha aparecen las fechas de inicio y fin. Si una convocatoria no muestra fecha de fin, suele estar abierta de forma continuada hasta agotar crédito. Te recomendamos pulsar el enlace Acceder a la convocatoria oficial para confirmar el plazo vigente en la BDNS."
+    )
+    (dict
+        "question" (printf "¿Quién puede acceder a estas ayudas para %s?" $benef)
+        "answer" (printf "Las ayudas recogidas en esta página están dirigidas a %s. Dentro de este perfil puede haber requisitos adicionales (antigüedad, forma jurídica, ámbito geográfico, importe mínimo, etc.) que se detallan en el apartado Requisitos de cada ficha y en la convocatoria oficial." $benef)
+    )
+    (dict
+        "question" "¿Dónde se presenta la solicitud?"
+        "answer" "La solicitud se presenta en el portal del organismo convocante, nunca en este portal. Pulsa el botón Acceder a la convocatoria oficial de la ficha que te interese para ir al formulario de solicitud en la BDNS o en la sede electrónica correspondiente."
+    )
+    (dict
+        "question" "¿Esta información sustituye a la convocatoria oficial?"
+        "answer" "No. Este portal es meramente informativo. La información publicada no sustituye a la publicación oficial de cada convocatoria. Para presentar solicitudes o resolver dudas legales consulta siempre la fuente oficial enlazada en cada ficha."
+    )
+-}}
+{{- $mainEntity := slice -}}
+{{- range $f := $faqs -}}
+    {{- $mainEntity = $mainEntity | append (dict
+        "@type" "Question"
+        "name" $f.question
+        "acceptedAnswer" (dict
+            "@type" "Answer"
+            "text" $f.answer
+        )
+    ) -}}
+{{- end -}}
+{{- $faqSchema := dict
+    "@context" "https://schema.org"
+    "@type" "FAQPage"
+    "mainEntity" $mainEntity
+-}}
+<script type="application/ld+json">{{ $faqSchema | jsonify | safeJS }}</script>
 {{ end }}

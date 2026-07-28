@@ -1,0 +1,50 @@
+{{ define "main" }}
+{{- $faqs := .Params.faq -}}
+<div class="page-skin">
+    {{ partial "home-nav.html" . }}
+
+    <main class="home-container page-content">
+        <article class="page-article">
+            <header class="page-header">
+                <h1>{{ .Title }}</h1>
+                {{ with .Description }}<p class="page-description">{{ . }}</p>{{ end }}
+            </header>
+
+            <div class="page-body">
+                <p>Respuestas a las dudas más habituales sobre el Portal de Convocatorias, la Base de Datos Nacional de Ayudas (BDNS), los plazos de solicitud y los requisitos de cada convocatoria. Si tu pregunta no aparece aquí, consulta la página de <a href="/fuentes/">Fuentes oficiales</a> o utiliza el <a href="/contacto/">formulario de contacto</a>.</p>
+
+                {{ range $i, $f := $faqs }}
+                <section class="faq-item" aria-labelledby="faq-{{ $i }}">
+                    <h2 id="faq-{{ $i }}">{{ $f.question }}</h2>
+                    <p>{{ $f.answer | safeHTML }}</p>
+                </section>
+                {{ end }}
+
+                <section class="faq-item">
+                    <h2>¿No encuentras tu respuesta?</h2>
+                    <p>Si tu duda no aparece en esta lista, consulta la página de <a href="/fuentes/">Fuentes oficiales</a> para entender de dónde provienen los datos, o utiliza el <a href="/contacto/">formulario de contacto</a> para escribirnos. Toda corrección se revisa antes de publicarse.</p>
+                </section>
+            </div>
+        </article>
+    </main>
+</div>
+
+{{- $mainEntity := slice -}}
+{{- range $f := $faqs -}}
+    {{- $qa := dict
+        "@type" "Question"
+        "name" $f.question
+        "acceptedAnswer" (dict
+            "@type" "Answer"
+            "text" ($f.answer | plainify)
+        )
+    -}}
+    {{- $mainEntity = $mainEntity | append $qa -}}
+{{- end -}}
+{{- $faqSchema := dict
+    "@context" "https://schema.org"
+    "@type" "FAQPage"
+    "mainEntity" $mainEntity
+-}}
+<script type="application/ld+json">{{ $faqSchema | jsonify | safeJS }}</script>
+{{ end }}

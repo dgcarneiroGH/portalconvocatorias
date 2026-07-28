@@ -5,7 +5,7 @@ date: 2026-07-23
 slug: sobre-nosotros
 ---
 
-Portal de Convocatorias es un proyecto independiente nacido con un objetivo claro: **facilitar el acceso a la información pública sobre ayudas, ayudas y convocatorias en España**.
+Portal de Convocatorias es un proyecto independiente nacido con un objetivo claro: **facilitar el acceso a la información pública sobre ayudas y convocatorias en España**.
 
 ## ¿Qué hacemos?
 

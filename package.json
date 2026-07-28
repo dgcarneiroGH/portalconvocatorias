@@ -9,7 +9,9 @@
     "verify": "node scripts/verify-seo.js",
     "test": "npm run build && node scripts/verify-category-rendering.js",
     "validate-schema": "node scripts/validate-schema.js",
-    "check": "npm run build && npm run verify && npm run validate-schema",
+    "validate-sectores": "node scripts/validate-sectores.js",
+    "audit-aeo": "node scripts/audit-aeo.js",
+    "check": "npm run build && npm run verify && npm run validate-schema && npm run validate-sectores",
     "og:build": "node scripts/embed-logo.js && node scripts/og-render.js",
     "logo:convert": "node scripts/convert-logo.js"
   },
