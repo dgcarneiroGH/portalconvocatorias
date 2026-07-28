@@ -1,8 +1,8 @@
 ---
-title: Ayudas nominativas en Region de murcia para Asociaciones y ong
-description: "Recopilatorio de las 21 ayudas activas en Region de murcia para Asociaciones y ong dentro del sector nominativas, con presupuesto y plazos de solicitud."
-regiones: Region de murcia
-para: Asociaciones y ong
+title: Ayudas nominativas en Región de murcia para Asociaciones y ong
+description: "Recopilatorio de las 21 ayudas activas en Región de murcia para Asociaciones y ong dentro del sector nominativas, con presupuesto y plazos de solicitud."
+region: Región de murcia
+beneficiario: Asociaciones y ong
 tag_seo: nominativas
 count: 21
 date: 2026-07-28
