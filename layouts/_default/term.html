@@ -42,12 +42,29 @@
         </header>
 
         {{ if $otherPlural }}
+        {{- $otherOptions := slice -}}
+        {{- $otherKey := "" -}}
+        {{- if eq $otherGroup "region" -}}
+            {{- $otherKey = "region" -}}
+        {{- else -}}
+            {{- $otherKey = "beneficiario" -}}
+        {{- end -}}
+        {{- range .Site.RegularPages -}}
+            {{- if eq .Section "grants" -}}
+                {{- with (index .Params $otherKey) -}}
+                    {{- $slug := urlize . -}}
+                    {{- if not (where $otherOptions "slug" $slug) -}}
+                        {{- $otherOptions = $otherOptions | append (dict "slug" $slug "label" .) -}}
+                    {{- end -}}
+                {{- end -}}
+            {{- end -}}
+        {{- end -}}
         <section class="filter-section" aria-labelledby="filter-heading">
             <h2 id="filter-heading" class="filter-heading">Filtrar por {{ $otherLabel | lower }}</h2>
             <div class="filter-pills" role="radiogroup" aria-label="Filtrar por {{ $otherLabel | lower }}">
                 <button type="button" class="filter-pill is-active" data-action="reset" data-group="{{ $otherGroup }}" role="radio" aria-checked="true">{{ $otherPluralLabel }}</button>
-                {{ range $name, $tax := index .Site.Taxonomies $otherPlural }}
-                <button type="button" class="filter-pill" data-group="{{ $otherGroup }}" data-value="{{ $name | urlize }}" role="radio" aria-checked="false">{{ $tax.Page.LinkTitle }}</button>
+                {{ range sort $otherOptions "label" "asc" }}
+                <button type="button" class="filter-pill" data-group="{{ $otherGroup }}" data-value="{{ .slug }}" role="radio" aria-checked="false">{{ .label }}</button>
                 {{ end }}
             </div>
             <p class="filter-count" id="filter-count" aria-live="polite"></p>

@@ -1,0 +1,59 @@
+{{- /*
+  Partial: grants-parse
+  Parsea el markdown de una pagina de grants y devuelve una slice de dicts:
+  [{title, url, description, requirements, budget, reception, start, end}, ...]
+
+  Uso: {{ $grants := partial "grants-parse.html" . }}
+*/ -}}
+{{- $rawContent := .RawContent -}}
+{{- $blocks := split $rawContent "- [" -}}
+{{- $grants := slice -}}
+{{- range $blocks -}}
+    {{- if findRE `\]\(.+?\) \(` . -}}
+        {{- $title := trim (replaceRE `(?ms)^(.+?)\].*` "$1" .) " \n\r" -}}
+        {{- $url := replaceRE `(?ms)^.+?\]\((.+?)\).*` "$1" . -}}
+        {{- $description := "" -}}
+        {{- $descLines := findRE `(?m)^\s*- Description:.*` . -}}
+        {{- if $descLines -}}
+            {{- $description = trim (replaceRE `(?m)^\s*- Description:\s*` "" (index $descLines 0)) " \n\r" -}}
+        {{- end -}}
+        {{- $requirements := "" -}}
+        {{- $reqLines := findRE `(?m)^\s*- Requirements:.*` . -}}
+        {{- if $reqLines -}}
+            {{- $requirements = trim (replaceRE `(?m)^\s*- Requirements:\s*` "" (index $reqLines 0)) " \n\r" -}}
+        {{- end -}}
+        {{- $details := "" -}}
+        {{- $budgetLines := findRE `(?m).*Budget:.*` . -}}
+        {{- if $budgetLines -}}
+            {{- $details = index $budgetLines 0 -}}
+        {{- end -}}
+        {{- $parts := split $details " | " -}}
+        {{- $budget := "" -}}
+        {{- $reception := "" -}}
+        {{- $start := "" -}}
+        {{- $end := "" -}}
+        {{- range $parts -}}
+            {{- $trimmed := trim . " -" -}}
+            {{- if hasPrefix $trimmed "Budget:" -}}
+                {{- $budget = trim (strings.TrimPrefix "Budget:" $trimmed) " " -}}
+            {{- else if hasPrefix $trimmed "Reception:" -}}
+                {{- $reception = trim (strings.TrimPrefix "Reception:" $trimmed) " " -}}
+            {{- else if hasPrefix $trimmed "Start:" -}}
+                {{- $start = trim (strings.TrimPrefix "Start:" $trimmed) " " -}}
+            {{- else if hasPrefix $trimmed "End:" -}}
+                {{- $end = trim (strings.TrimPrefix "End:" $trimmed) " " -}}
+            {{- end -}}
+        {{- end -}}
+        {{- $grants = $grants | append (dict
+            "title" $title
+            "url" $url
+            "description" $description
+            "requirements" $requirements
+            "budget" $budget
+            "reception" $reception
+            "start" $start
+            "end" $end
+        ) -}}
+    {{- end -}}
+{{- end -}}
+{{- return $grants -}}

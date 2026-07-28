@@ -12,12 +12,29 @@
         <section class="filter-section" aria-labelledby="filter-heading">
             <h2 id="filter-heading" class="filter-heading">Filtrar Ayudas</h2>
 
+            {{- $regionOptions := slice -}}
+            {{- $benefOptions := slice -}}
+            {{- range where .Site.RegularPages "Section" "grants" -}}
+                {{- with .Params.region -}}
+                    {{- $slug := urlize . -}}
+                    {{- if not (where $regionOptions "slug" $slug) -}}
+                        {{- $regionOptions = $regionOptions | append (dict "slug" $slug "label" .) -}}
+                    {{- end -}}
+                {{- end -}}
+                {{- with .Params.beneficiario -}}
+                    {{- $slug := urlize . -}}
+                    {{- if not (where $benefOptions "slug" $slug) -}}
+                        {{- $benefOptions = $benefOptions | append (dict "slug" $slug "label" .) -}}
+                    {{- end -}}
+                {{- end -}}
+            {{- end -}}
+
             <div class="filter-group">
                 <h3 class="filter-group-label">Región</h3>
                 <div class="filter-pills" role="radiogroup" aria-label="Filtrar por región">
                     <button type="button" class="filter-pill is-active" data-action="reset" data-group="region" role="radio" aria-checked="true">Todas</button>
-                    {{ range $name, $tax := .Site.Taxonomies.regiones }}
-                    <button type="button" class="filter-pill" data-group="region" data-value="{{ $name | urlize }}" role="radio" aria-checked="false">{{ $tax.Page.LinkTitle }}</button>
+                    {{ range sort $regionOptions "label" "asc" }}
+                    <button type="button" class="filter-pill" data-group="region" data-value="{{ .slug }}" role="radio" aria-checked="false">{{ .label }}</button>
                     {{ end }}
                 </div>
             </div>
@@ -26,8 +43,8 @@
                 <h3 class="filter-group-label">Beneficiario</h3>
                 <div class="filter-pills" role="radiogroup" aria-label="Filtrar por beneficiario">
                     <button type="button" class="filter-pill is-active" data-action="reset" data-group="beneficiario" role="radio" aria-checked="true">Todos</button>
-                    {{ range $name, $tax := .Site.Taxonomies.para }}
-                    <button type="button" class="filter-pill" data-group="beneficiario" data-value="{{ $name | urlize }}" role="radio" aria-checked="false">{{ $tax.Page.LinkTitle }}</button>
+                    {{ range sort $benefOptions "label" "asc" }}
+                    <button type="button" class="filter-pill" data-group="beneficiario" data-value="{{ .slug }}" role="radio" aria-checked="false">{{ .label }}</button>
                     {{ end }}
                 </div>
             </div>

@@ -9,6 +9,8 @@
         {{- $count := .Params.count -}}
         {{- $tagLabel := index hugo.Data.sectores.sectores $tag | default $tag -}}
 
+        {{- $grants := partial "grants-parse.html" . -}}
+
         <header class="grant-page-header">
             <h1 class="grant-page-title">{{ .Title }}</h1>
             <p class="grant-page-intro">
@@ -27,77 +29,32 @@
         <section class="grant-page-list" aria-label="Ayudas disponibles">
             <h2>Listado de convocatorias</h2>
 
-            {{ $rawContent := .RawContent }}
-            {{ $blocks := split $rawContent "- [" }}
-
             {{ $hasCards := false }}
 
-            {{ range $blocks }}
-            {{ if findRE `\]\(.+?\) \(` . }}
-
+            {{ range $grants }}
             {{ $hasCards = true }}
 
-            {{ $title := trim (replaceRE `(?ms)^(.+?)\].*` "$1" .) " \n\r" }}
-            {{ $url := replaceRE `(?ms)^.+?\]\((.+?)\).*` "$1" . }}
-
-            {{ $description := "" }}
-            {{ $descLines := findRE `(?m)^\s*- Description:.*` . }}
-            {{ if $descLines }}
-            {{ $description = trim (replaceRE `(?m)^\s*- Description:\s*` "" (index $descLines 0)) " \n\r" }}
-            {{ end }}
-
-            {{ $requirements := "" }}
-            {{ $reqLines := findRE `(?m)^\s*- Requirements:.*` . }}
-            {{ if $reqLines }}
-            {{ $requirements = trim (replaceRE `(?m)^\s*- Requirements:\s*` "" (index $reqLines 0)) " \n\r" }}
-            {{ end }}
-
-            {{ $details := "" }}
-            {{ $budgetLines := findRE `(?m).*Budget:.*` . }}
-            {{ if $budgetLines }}
-            {{ $details = index $budgetLines 0 }}
-            {{ end }}
-
-            {{ $parts := split $details " | " }}
-            {{ $budget := "" }}
-            {{ $reception := "" }}
-            {{ $start := "" }}
-            {{ $end := "" }}
-
-            {{ range $parts }}
-            {{ $trimmed := trim . " -" }}
-            {{ if hasPrefix $trimmed "Budget:" }}
-            {{ $budget = trim (strings.TrimPrefix "Budget:" $trimmed) " " }}
-            {{ else if hasPrefix $trimmed "Reception:" }}
-            {{ $reception = trim (strings.TrimPrefix "Reception:" $trimmed) " " }}
-            {{ else if hasPrefix $trimmed "Start:" }}
-            {{ $start = trim (strings.TrimPrefix "Start:" $trimmed) " " }}
-            {{ else if hasPrefix $trimmed "End:" }}
-            {{ $end = trim (strings.TrimPrefix "End:" $trimmed) " " }}
-            {{ end }}
-            {{ end }}
-
             <article class="grant-detail-card">
-                <h3>{{ $title }}</h3>
+                <h3>{{ .title }}</h3>
 
-                {{ with $description }}
+                {{ with .description }}
                 <p class="grant-detail-description">{{ . }}</p>
                 {{ end }}
 
-                {{ if or $budget $reception $start $end }}
+                {{ if or .budget .reception .start .end }}
                 <div class="grant-detail-meta">
-                    {{ with $budget }}<span class="grant-detail-meta-item">{{ partial "icon.html" "payments" }} <span class="grant-detail-meta-label">PRESUPUESTO:</span> {{ . }}</span>{{ end }}
-                    {{ with $reception }}<span class="grant-detail-meta-item">{{ partial "icon.html" "inbox" }} <span class="grant-detail-meta-label">RECEPCIÓN:</span> {{ . }}</span>{{ end }}
-                    {{ with $start }}<span class="grant-detail-meta-item">{{ partial "icon.html" "play_arrow" }} <span class="grant-detail-meta-label">INICIO:</span> {{ . }}</span>{{ end }}
-                    {{ with $end }}<span class="grant-detail-meta-item">{{ partial "icon.html" "stop_circle" }} <span class="grant-detail-meta-label">FIN:</span> {{ . }}</span>{{ end }}
+                    {{ with .budget }}<span class="grant-detail-meta-item">{{ partial "icon.html" "payments" }} <span class="grant-detail-meta-label">PRESUPUESTO:</span> {{ . }}</span>{{ end }}
+                    {{ with .reception }}<span class="grant-detail-meta-item">{{ partial "icon.html" "inbox" }} <span class="grant-detail-meta-label">RECEPCIÓN:</span> {{ . }}</span>{{ end }}
+                    {{ with .start }}<span class="grant-detail-meta-item">{{ partial "icon.html" "play_arrow" }} <span class="grant-detail-meta-label">INICIO:</span> {{ . }}</span>{{ end }}
+                    {{ with .end }}<span class="grant-detail-meta-item">{{ partial "icon.html" "stop_circle" }} <span class="grant-detail-meta-label">FIN:</span> {{ . }}</span>{{ end }}
                 </div>
                 {{ end }}
 
-                {{ if $requirements }}
+                {{ if .requirements }}
                 <div class="grant-detail-requirements">
                     <p class="grant-detail-requirements-label">Requisitos:</p>
                     <ul>
-                        {{ $reqArray := split $requirements ";" }}
+                        {{ $reqArray := split .requirements ";" }}
                         {{ range $reqArray }}
                         {{ $reqText := trim . " " }}
                         {{ if ne $reqText "" }}
@@ -108,11 +65,10 @@
                 </div>
                 {{ end }}
 
-                <a class="grant-detail-cta" href="{{ $url }}" target="_blank" rel="noopener">Acceder a la convocatoria
+                <a class="grant-detail-cta" href="{{ .url }}" target="_blank" rel="noopener">Acceder a la convocatoria
                     oficial</a>
             </article>
 
-            {{ end }}
             {{ end }}
 
             {{ if not $hasCards }}
@@ -179,6 +135,90 @@
     </main>
 </div>
 
+{{- /*
+  Schema JSON-LD para grant pages.
+  Incluye: Article + ItemList of Grant + BreadcrumbList + SpeakableSpecification.
+  Organization y WebSite referenciados por @id, definidos en home.
+*/ -}}
+{{- $orgID := printf "%s#organization" .Site.BaseURL -}}
+{{- $siteID := printf "%s#website" .Site.BaseURL -}}
+
+{{- $grantItems := slice -}}
+{{- range $i, $g := $grants -}}
+    {{- $identifier := "" -}}
+    {{- if findRE `convocatoria/(\d+)` $g.url -}}
+        {{- $identifier = replaceRE `.*convocatoria/(\d+).*` "$1" $g.url -}}
+    {{- end -}}
+    {{- $grantItem := dict
+        "@type" "Grant"
+        "name" $g.title
+        "url" $g.url
+    -}}
+    {{- if $identifier -}}
+        {{- $grantItem = merge $grantItem (dict "identifier" $identifier) -}}
+    {{- end -}}
+    {{- if $g.description -}}
+        {{- $grantItem = merge $grantItem (dict "description" ($g.description | plainify)) -}}
+    {{- end -}}
+    {{- if $g.budget -}}
+        {{- $grantItem = merge $grantItem (dict "amount" (dict "@type" "MonetaryAmount" "description" $g.budget)) -}}
+    {{- end -}}
+    {{- $grantItems = $grantItems | append $grantItem -}}
+{{- end -}}
+
+{{- $itemList := dict
+    "@type" "ItemList"
+    "name" (printf "Listado de ayudas en %s para %s" $region $benef)
+    "numberOfItems" (len $grantItems)
+    "itemListElement" $grantItems
+-}}
+
+{{- $breadcrumbs := (slice
+    (dict "@type" "ListItem" "position" 1 "name" "Inicio" "item" .Site.BaseURL)
+    (dict "@type" "ListItem" "position" 2 "name" (printf "Ayudas en %s" $region) "item" (printf "%sregiones/%s/" .Site.BaseURL ($region | urlize)))
+    (dict "@type" "ListItem" "position" 3 "name" .Title "item" .Permalink)
+) -}}
+
+{{- $speakable := dict
+    "@type" "SpeakableSpecification"
+    "xpath" (slice
+        "/html/head/title"
+        "//*[@class='grant-page-title']"
+        "//*[@class='grant-page-intro']"
+        "//*[@class='home-definition']"
+    )
+-}}
+
+{{- $schema := dict
+    "@context" "https://schema.org"
+    "@graph" (slice
+        (dict
+            "@type" "Article"
+            "headline" .Title
+            "description" .Description
+            "datePublished" (.Date.Format "2006-01-02T15:04:05Z07:00")
+            "dateModified" (.Date.Format "2006-01-02T15:04:05Z07:00")
+            "author" (dict "@type" "Organization" "name" .Site.Title "url" .Site.BaseURL "@id" $orgID)
+            "publisher" (dict "@type" "Organization" "name" .Site.Title "url" .Site.BaseURL "@id" $orgID)
+            "mainEntityOfPage" .Permalink
+            "inLanguage" "es-ES"
+            "isPartOf" (dict "@id" $siteID)
+            "speakable" $speakable
+            "mainEntity" $itemList
+        )
+        $itemList
+        (dict
+            "@type" "BreadcrumbList"
+            "itemListElement" $breadcrumbs
+        )
+    )
+-}}
+<script type="application/ld+json">{{ $schema | jsonify | safeJS }}</script>
+
+{{- /*
+  Schema FAQPage adicional: cada grant page tiene 6 preguntas frecuentes
+  con variables (region, beneficiario, tag). Complementa el @graph principal.
+*/ -}}
 {{- $faqs := slice
     (dict
         "question" (printf "¿Qué ayudas hay para %s en %s dentro del sector %s?" $benef $region $tagLabel)

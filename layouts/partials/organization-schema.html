@@ -1,0 +1,77 @@
+{{- /*
+  Partial: organization-schema
+  Emite el JSON-LD del Organization de Portal de Convocatorias.
+
+  Parametros (todos via .Site por ahora):
+    .Site.BaseURL   - URL base del sitio
+    .Site.Title     - Nombre
+    .Site.Params.description - Descripcion
+*/ -}}
+{{- $baseURL := .Site.BaseURL -}}
+{{- $orgID := printf "%s#organization" $baseURL -}}
+{{- $siteDescription := .Site.Params.description | default "Recopilatorio de ayudas y convocatorias activas en España." -}}
+{{- $knowsAbout := slice
+    "ayudas públicas"
+    "subvenciones"
+    "convocatorias públicas"
+    "BDNS"
+    "Base de Datos Nacional de Ayudas"
+    "asociaciones"
+    "ONG"
+    "pymes"
+    "autónomos"
+    "gran empresa"
+    "particulares"
+    "comunidades autónomas"
+    "diputaciones provinciales"
+    "cabildos insulares"
+-}}
+{{- $areaServed := slice
+    (dict "@type" "Country" "name" "España")
+    (dict "@type" "AdministrativeArea" "name" "Andalucía")
+    (dict "@type" "AdministrativeArea" "name" "Aragón")
+    (dict "@type" "AdministrativeArea" "name" "Asturias")
+    (dict "@type" "AdministrativeArea" "name" "Baleares")
+    (dict "@type" "AdministrativeArea" "name" "Canarias")
+    (dict "@type" "AdministrativeArea" "name" "Cantabria")
+    (dict "@type" "AdministrativeArea" "name" "Castilla y León")
+    (dict "@type" "AdministrativeArea" "name" "Castilla-La Mancha")
+    (dict "@type" "AdministrativeArea" "name" "Cataluña")
+    (dict "@type" "AdministrativeArea" "name" "Comunidad Valenciana")
+    (dict "@type" "AdministrativeArea" "name" "Extremadura")
+    (dict "@type" "AdministrativeArea" "name" "Galicia")
+    (dict "@type" "AdministrativeArea" "name" "La Rioja")
+    (dict "@type" "AdministrativeArea" "name" "Madrid")
+    (dict "@type" "AdministrativeArea" "name" "Murcia")
+    (dict "@type" "AdministrativeArea" "name" "Navarra")
+    (dict "@type" "AdministrativeArea" "name" "País Vasco")
+-}}
+{{- $sameAs := slice
+    "https://www.pap.hacienda.gob.es/bdnstrans/GE/es/index"
+-}}
+{{- $org := dict
+    "@type" "Organization"
+    "@id" $orgID
+    "name" .Site.Title
+    "alternateName" "Portal Convocatorias"
+    "url" $baseURL
+    "logo" (dict
+        "@type" "ImageObject"
+        "url" (printf "%slogo_192x192.avif" $baseURL)
+        "width" 192
+        "height" 192
+    )
+    "description" $siteDescription
+    "foundingDate" "2026"
+    "inLanguage" "es-ES"
+    "areaServed" $areaServed
+    "knowsAbout" $knowsAbout
+    "contactPoint" (dict
+        "@type" "ContactPoint"
+        "url" (printf "%scontacto/" $baseURL)
+        "contactType" "customer support"
+        "availableLanguage" (slice "Spanish")
+    )
+    "sameAs" $sameAs
+-}}
+{{- return $org -}}

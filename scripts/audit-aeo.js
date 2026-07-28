@@ -94,6 +94,49 @@ termPages.forEach(f => {
 });
 console.log('Taxonomy pages with ItemList schema:', hasItemList);
 
+let hasBreadcrumb = 0;
+files.forEach(f => {
+    const h = fs.readFileSync(f, 'utf8');
+    if (/"@type"\s*:\s*"BreadcrumbList"/.test(h)) hasBreadcrumb++;
+});
+console.log('Pages with BreadcrumbList schema:', hasBreadcrumb);
+
+let hasSpeakable = 0;
+files.forEach(f => {
+    const h = fs.readFileSync(f, 'utf8');
+    if (/"@type"\s*:\s*"SpeakableSpecification"/.test(h)) hasSpeakable++;
+});
+console.log('Pages with SpeakableSpecification:', hasSpeakable);
+
+let grantPagesWithGrantItems = 0;
+const grantFiles = files.filter(f => /ayudas-[^/]+\/index\.html$/.test(f.replace(/\\/g, '/')));
+grantFiles.forEach(f => {
+    const h = fs.readFileSync(f, 'utf8');
+    const scripts = [...h.matchAll(/<script type=application\/ld\+json>([\s\S]*?)<\/script>/g)];
+    let found = false;
+    for (const m of scripts) {
+        try {
+            const data = JSON.parse(m[1]);
+            const graph = data['@graph'] || [data];
+            const itemList = graph.find(item => item['@type'] === 'ItemList');
+            if (itemList && Array.isArray(itemList.itemListElement) &&
+                itemList.itemListElement.some(el => el['@type'] === 'Grant')) {
+                found = true;
+                break;
+            }
+        } catch (e) {}
+    }
+    if (found) grantPagesWithGrantItems++;
+});
+console.log('Grant pages with Grant items in ItemList:', grantPagesWithGrantItems);
+
+let orgEnriched = 0;
+files.forEach(f => {
+    const h = fs.readFileSync(f, 'utf8');
+    if (/"foundingDate"\s*:/.test(h) && /"areaServed"\s*:/.test(h) && /"knowsAbout"\s*:/.test(h)) orgEnriched++;
+});
+console.log('Pages with enriched Organization (foundingDate + areaServed + knowsAbout):', orgEnriched);
+
 const fs2 = require('fs');
 const llmsExists = fs2.existsSync('public/llms.txt');
 console.log('llms.txt present:', llmsExists);
