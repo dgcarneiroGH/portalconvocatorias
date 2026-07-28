@@ -169,13 +169,73 @@
 }
 
 .home-intro {
-    margin: auto;
-    max-width: 720px;
+    margin-bottom: 3rem;
+    
     color: #47464f;
     font-family: 'Inter', sans-serif;
     font-size: 18px;
     line-height: 28px;
     font-weight: 400;
+}
+
+.home-stats {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 0;
+    margin: 32px 0 0;
+    padding: 0;
+    list-style: none;
+}
+
+.home-stat {
+    display: flex;
+    flex-direction: column;
+    gap: 4px;
+    padding: 0 32px;
+    border-right: 1px solid rgba(30, 27, 75, 0.3);
+}
+
+.home-stat:first-child {
+    padding-left: 0;
+}
+
+.home-stat:last-child {
+    border-right: none;
+    padding-right: 0;
+}
+
+.home-stat-value {
+    font-family: 'Inter', sans-serif;
+    font-size: 32px;
+    line-height: 40px;
+    letter-spacing: -0.02em;
+    font-weight: 700;
+    color: #1e1b4b;
+}
+
+.home-stat-label {
+    font-family: 'Inter', sans-serif;
+    font-size: 12px;
+    line-height: 16px;
+    letter-spacing: 0.08em;
+    font-weight: 600;
+    text-transform: uppercase;
+    color: #47464f;
+}
+
+@media (max-width: 767px) {
+    .home-stats {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        gap: 24px 16px;
+    }
+
+    .home-stat {
+        padding: 0;
+        border-right: none;
+    }
 }
 
 .filter-section {

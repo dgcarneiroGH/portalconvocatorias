@@ -4,19 +4,14 @@
 
     <main class="home-container home-content">
         <header class="home-header">
-            <h1 id="filter-title">{{ .Site.Title }}</h1>
-            <p class="home-intro">{{ .Site.Params.description }}</p>
+            <h1 id="filter-title">{{ .Site.Title }}</h1>            
             <p class="home-definition"><strong>Portal de Convocatorias</strong> es un recopilatorio diario y gratuito de ayudas y convocatorias públicas activas en España, extraídas de la Base de Datos Nacional de Ayudas (BDNS) y de los portales oficiales autonómicos y locales. Cubre asociaciones y ONG, pymes y autónomos, gran empresa y particulares en las 17 comunidades autónomas, 2 ciudades autónomas, diputaciones provinciales y cabildos insulares. Cada ficha enlaza a la fuente oficial original.</p>
             {{- $grants := where .Site.RegularPages "Section" "grants" -}}
             {{- $totalAyudas := 0 -}}
-            {{- $lastUpdate := "" -}}
             {{- $regions := slice -}}
             {{- $benefs := slice -}}
             {{- range $grants -}}
                 {{- $totalAyudas = add $totalAyudas (int (or .Params.count 0)) -}}
-                {{- if not $lastUpdate -}}
-                    {{- $lastUpdate = .Date -}}
-                {{- end -}}
                 {{- with .Params.region -}}
                     {{- $regions = $regions | append . -}}
                 {{- end -}}
@@ -27,13 +22,22 @@
             {{- $uniqueRegions := $regions | uniq -}}
             {{- $uniqueBenefs := $benefs | uniq -}}
             <ul class="home-stats" aria-label="Cifras del portal">
-                <li><strong>{{ $totalAyudas }}</strong> ayudas activas</li>
-                <li><strong>{{ len $grants }}</strong> páginas de convocatorias</li>
-                <li><strong>{{ len $uniqueRegions }}</strong> regiones cubiertas</li>
-                <li><strong>{{ len $uniqueBenefs }}</strong> perfiles de beneficiario</li>
-                {{- with $lastUpdate -}}
-                <li><strong>Última actualización:</strong> <time datetime="{{ .Format "2006-01-02" }}">{{ .Format "2" }} de {{ index (slice "enero" "febrero" "marzo" "abril" "mayo" "junio" "julio" "agosto" "septiembre" "octubre" "noviembre" "diciembre") (sub .Month 1) }} de {{ .Format "2006" }}</time></li>
-                {{- end -}}
+                <li class="home-stat">
+                    <span class="home-stat-value">{{ $totalAyudas }}</span>
+                    <span class="home-stat-label">ayudas activas</span>
+                </li>
+                <li class="home-stat">
+                    <span class="home-stat-value">{{ len $grants }}</span>
+                    <span class="home-stat-label">páginas de convocatorias</span>
+                </li>
+                <li class="home-stat">
+                    <span class="home-stat-value">{{ len $uniqueRegions }}</span>
+                    <span class="home-stat-label">regiones cubiertas</span>
+                </li>
+                <li class="home-stat">
+                    <span class="home-stat-value">{{ len $uniqueBenefs }}</span>
+                    <span class="home-stat-label">perfiles de beneficiario</span>
+                </li>
             </ul>
         </header>
 

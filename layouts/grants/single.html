@@ -13,18 +13,11 @@
 
         <header class="grant-page-header">
             <h1 class="grant-page-title">{{ .Title }}</h1>
-            <p class="grant-page-intro">
-                {{ $count }} ayudas activas en <strong>{{ $region }}</strong> para
-                <strong>{{ $benef }}</strong> dentro del sector <strong>{{ $tagLabel }}</strong>,
-                con presupuesto total y plazos de solicitud actualizados.
-                Fuente: Base de Datos Nacional de Ayudas (BDNS).
-            </p>
-            <p class="grant-page-updated"><strong>Última actualización:</strong> <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "2" }} de {{ index (slice "enero" "febrero" "marzo" "abril" "mayo" "junio" "julio" "agosto" "septiembre" "octubre" "noviembre" "diciembre") (sub .Date.Month 1) }} de {{ .Date.Format "2006" }}</time>. Datos de la BDNS revisados y publicados automáticamente a diario.</p>
         </header>
-
+        
         <section class="grant-page-summary" aria-label="Resumen de las ayudas">
-            <h2>Resumen</h2>
             <p>Esta página reúne <strong>{{ $count }} ayudas y convocatorias activas</strong> convocadas por organismos públicos de <strong>{{ $region }}</strong> (o de ámbito estatal aplicables a este territorio) y dirigidas a <strong>{{ $benef }}</strong> dentro del sector <strong>{{ $tagLabel }}</strong>. Los datos proceden de la Base de Datos Nacional de Ayudas (BDNS) y se actualizan a diario. Cada ficha incluye presupuesto, plazos de solicitud, requisitos y enlace directo a la convocatoria oficial.</p>
+            <p class="grant-page-updated"><strong>Última actualización:</strong> <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "2" }} de {{ index (slice "enero" "febrero" "marzo" "abril" "mayo" "junio" "julio" "agosto" "septiembre" "octubre" "noviembre" "diciembre") (sub .Date.Month 1) }} de {{ .Date.Format "2006" }}</time>. Datos de la BDNS revisados y publicados automáticamente a diario.</p>
         </section>
 
         <section class="grant-page-list" aria-label="Ayudas disponibles">
@@ -120,19 +113,6 @@
                 y presentar la documentación específica de cada convocatoria. Los plazos varían según el organismo convocante.
             </p>
         </section>
-
-        <aside class="grant-related-lands" aria-labelledby="grant-related-title">
-            <h2 id="grant-related-title">Explora más ayudas</h2>
-            <ul>
-                {{ with $region }}
-                <li><a href="/regiones/{{ . | urlize }}/">Todas las ayudas en {{ . }}</a></li>
-                {{ end }}
-                {{ with $benef }}
-                <li><a href="/para/{{ . | urlize }}/">Ayudas para {{ . }}</a></li>
-                {{ end }}
-                <li><a href="/">Ver todas las ayudas activas</a></li>
-            </ul>
-        </aside>
     </main>
 </div>
 
