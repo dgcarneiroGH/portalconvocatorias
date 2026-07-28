@@ -1,8 +1,8 @@
 ---
 title: Ayudas para empleo en Tarragona para Pyme y autónomos
 description: "Recopilatorio de las 6 ayudas activas en Tarragona para Pyme y autónomos dentro del sector empleo, con presupuesto y plazos de solicitud."
-regiones: Tarragona
-para: Pyme y autónomos
+region: Tarragona
+beneficiario: Pyme y autónomos
 tag_seo: empleo
 count: 6
 date: 2026-07-28
