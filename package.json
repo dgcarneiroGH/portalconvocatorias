@@ -9,7 +9,9 @@
     "verify": "node scripts/verify-seo.js",
     "test": "npm run build && node scripts/verify-category-rendering.js",
     "validate-schema": "node scripts/validate-schema.js",
-    "check": "npm run build && npm run verify && npm run validate-schema"
+    "check": "npm run build && npm run verify && npm run validate-schema",
+    "og:build": "node scripts/embed-logo.js && node scripts/og-render.js",
+    "logo:convert": "node scripts/convert-logo.js"
   },
   "engines": {
     "node": ">=18"
@@ -20,5 +22,9 @@
     "subvenciones",
     "convocatorias"
   ],
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "playwright": "^1.62.0",
+    "sharp": "^0.35.3"
+  }
 }

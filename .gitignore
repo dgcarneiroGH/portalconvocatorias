@@ -1,6 +1,38 @@
 # See http://help.github.com/ignore-files/ for more about ignoring files.
 
-# Hugo files
+# Hugo
 /public
 /.hugo_build.lock
 /resources
+
+# Node
+/node_modules
+/npm-debug.log*
+/yarn-debug.log*
+/yarn-error.log*
+/pnpm-debug.log*
+/package-lock.json.bak
+.npm
+
+# Entornos y secretos
+.env
+.env.*
+!.env.example
+
+# Editores y sistema operativo
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs y reportes locales
+*.log
+localhost_*.report.html
+
+# Temporales
+*.tmp
+.tmp/
