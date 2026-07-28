@@ -7,7 +7,8 @@
             <p class="list-description">{{ .Description }}</p>
         </header>
 
-        {{ range .Pages.GroupByParam "regiones" }}
+        {{ $paginasValidas := where .Pages "Params.regiones" "!=" nil }}
+        {{ range $paginasValidas.GroupByParam "regiones" }}
         <section class="list-region-group">
             <h2>{{ .Key }}</h2>
             <ul class="list-region-items">
