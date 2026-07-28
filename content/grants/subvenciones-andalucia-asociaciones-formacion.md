@@ -1,8 +1,8 @@
 ---
 title: Ayudas para formacion en Andalucia para Asociaciones y ong
 description: "Recopilatorio de las 13 ayudas activas en Andalucia para Asociaciones y ong dentro del sector formacion, con presupuesto y plazos de solicitud."
-regiones: Andalucia
-para: Asociaciones y ong
+region: Andalucia
+beneficiario: Asociaciones y ong
 tag_seo: formacion
 count: 13
 date: 2026-07-28
