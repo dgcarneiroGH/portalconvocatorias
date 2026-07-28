@@ -1,8 +1,8 @@
 ---
 title: Ayudas nominativas en Zamora para Particulares
 description: "Recopilatorio de las 3 ayudas activas en Zamora para Particulares dentro del sector nominativas, con presupuesto y plazos de solicitud."
-regiones: Zamora
-para: Particulares
+region: Zamora
+beneficiario: Particulares
 tag_seo: nominativas
 count: 3
 date: 2026-07-28
