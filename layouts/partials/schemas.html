@@ -16,6 +16,8 @@
 {{- $org := partial "organization-schema.html" . -}}
 
 {{- if .IsHome -}}
+    {{- $author := partial "author-schema.html" . -}}
+    {{- $authorID := printf "%s#author" $baseURL -}}
     {{- $schema := dict
         "@context" "https://schema.org"
         "@graph" (slice
@@ -30,6 +32,7 @@
                 "publisher" (dict "@id" $orgID)
                 "inLanguage" "es-ES"
             )
+            $author
             (dict
                 "@type" "WebPage"
                 "@id" (printf "%s#" $baseURL)
@@ -51,6 +54,7 @@
                     "name" "Ayudas y convocatorias públicas en España"
                     "description" $siteDescription
                 )
+                "author" (dict "@type" "Person" "@id" $authorID)
             )
         )
     -}}

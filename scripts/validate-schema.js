@@ -147,6 +147,14 @@ function validateType(item, page) {
         if (!item.name) errors.push(`${page}: WebPage sin name`);
     }
 
+    if (type === 'Person') {
+        if (!item.name) errors.push(`${page}: Person sin name`);
+        if (!item.url) warnings.push(`${page}: Person sin url (recomendado para E-E-A-T)`);
+        if (!item.description) warnings.push(`${page}: Person sin description (recomendado para E-E-A-T)`);
+        if (!item.jobTitle) warnings.push(`${page}: Person sin jobTitle (recomendado para E-E-A-T)`);
+        if (!item.knowsAbout) warnings.push(`${page}: Person sin knowsAbout (recomendado para E-E-A-T)`);
+    }
+
     if (type === 'Organization') {
         if (!item.name) errors.push(`${page}: Organization sin name`);
         if (!item.url) warnings.push(`${page}: Organization sin url`);

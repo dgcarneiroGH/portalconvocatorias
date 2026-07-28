@@ -60,8 +60,7 @@ console.log('\nGrant pages count:', grantsPages.length);
 let grantsWithVisibleDate = 0;
 grantsPages.forEach(f => {
     const h = fs.readFileSync(f, 'utf8');
-    const dateMatch = h.match(/[Uu]ltima\s+actualizaci[oó]n/i) || h.match(/[Aa]ctualizado\s+a\s+\d/i);
-    if (dateMatch) grantsWithVisibleDate++;
+    if (/ltima\s+actualizaci[oó]n/i.test(h) && /<time\s+datetime=/.test(h)) grantsWithVisibleDate++;
 });
 console.log('Grant pages with visible date:', grantsWithVisibleDate);
 

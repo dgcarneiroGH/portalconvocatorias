@@ -42,10 +42,11 @@ Más detalle en [/fuentes/](https://portalconvocatorias.es/fuentes/).
 
 ## Estructura del sitio
 
-- [Portada](https://portalconvocatorias.es/) — listado completo con filtros.
+- [Portada](https://portalconvocatorias.es/) — listado completo con filtros y estadísticas en tiempo real.
 - [Por región](https://portalconvocatorias.es/regiones/) — todas las comunidades autónomas, provincias y cabildos.
 - [Por beneficiario](https://portalconvocatorias.es/para/) — asociaciones y ONG, pymes y autónomos, gran empresa, particulares.
-- [Sobre nosotros](https://portalconvocatorias.es/sobre-nosotros/) — metodología, frecuencia de actualización, compromiso editorial.
+- [Metodología](https://portalconvocatorias.es/metodologia/) — proceso de extracción, validación y publicación de los datos.
+- [Sobre nosotros](https://portalconvocatorias.es/sobre-nosotros/) — quién mantiene el portal y con qué compromiso.
 - [Fuentes oficiales](https://portalconvocatorias.es/fuentes/) — listado completo de organismos y registros que alimentan el portal.
 - [Preguntas frecuentes](https://portalconvocatorias.es/preguntas-frecuentes/) — dudas habituales sobre la BDNS, plazos, requisitos y solicitudes.
 - [Contacto](https://portalconvocatorias.es/contacto/) — para reportar errores o sugerir correcciones.

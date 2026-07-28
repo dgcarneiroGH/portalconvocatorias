@@ -19,6 +19,7 @@
                 con presupuesto total y plazos de solicitud actualizados.
                 Fuente: Base de Datos Nacional de Ayudas (BDNS).
             </p>
+            <p class="grant-page-updated"><strong>Última actualización:</strong> <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "2" }} de {{ index (slice "enero" "febrero" "marzo" "abril" "mayo" "junio" "julio" "agosto" "septiembre" "octubre" "noviembre" "diciembre") (sub .Date.Month 1) }} de {{ .Date.Format "2006" }}</time>. Datos de la BDNS revisados y publicados automáticamente a diario.</p>
         </header>
 
         <section class="grant-page-summary" aria-label="Resumen de las ayudas">
@@ -138,10 +139,12 @@
 {{- /*
   Schema JSON-LD para grant pages.
   Incluye: Article + ItemList of Grant + BreadcrumbList + SpeakableSpecification.
-  Organization y WebSite referenciados por @id, definidos en home.
+  Organization, WebSite y Person referenciados por @id, definidos en home.
 */ -}}
 {{- $orgID := printf "%s#organization" .Site.BaseURL -}}
 {{- $siteID := printf "%s#website" .Site.BaseURL -}}
+{{- $authorID := printf "%s#author" .Site.BaseURL -}}
+{{- $author := partial "author-schema.html" . -}}
 
 {{- $grantItems := slice -}}
 {{- range $i, $g := $grants -}}
@@ -198,7 +201,7 @@
             "description" .Description
             "datePublished" (.Date.Format "2006-01-02T15:04:05Z07:00")
             "dateModified" (.Date.Format "2006-01-02T15:04:05Z07:00")
-            "author" (dict "@type" "Organization" "name" .Site.Title "url" .Site.BaseURL "@id" $orgID)
+            "author" (dict "@type" "Person" "@id" $authorID)
             "publisher" (dict "@type" "Organization" "name" .Site.Title "url" .Site.BaseURL "@id" $orgID)
             "mainEntityOfPage" .Permalink
             "inLanguage" "es-ES"

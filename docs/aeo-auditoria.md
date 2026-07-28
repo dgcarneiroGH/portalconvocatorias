@@ -1,7 +1,7 @@
 # Auditoría AEO — portalconvocatorias.es
 
 **Fecha**: 2026-07-28
-**Alcance**: Fases 0 + 1 (baseline + quick wins + estructura extractable)
+**Alcance**: Fases 0 + 1 + 2 + 3 (baseline + estructura extractable + schema + E-E-A-T)
 **Sitio**: https://portalconvocatorias.es/
 
 ---
@@ -143,56 +143,98 @@ Esta sección se completa manualmente tras ejecutar las queries de control. Plan
 
 ---
 
-## 8. Resultados Fase 1 (2026-07-28)
+## 8. Resultados Fase 1 + 2 + 3 (2026-07-28)
 
-### Cambios aplicados
-- **3 typos corregidos** en `term.html`, `fuentes.md`, `head.html` (og:image:alt)
-- **Creado `data/sectores.yaml`** con mapeo slug→etiqueta legible
-- **Títulos de grants ahora limpios**: "Ayudas de investigación y ciencia en España" en lugar de "Ayudas de investigacion_y_ciencia en"
-- **`llms.txt` creado** en `static/` (58 líneas, español)
-- **`/preguntas-frecuentes/` creada** con 13 preguntas + schema `FAQPage`
-- **Bloque definición home** (40-60 palabras) añadido en `layouts/index.html`
-- **Bloque resumen + 6 FAQs en cada grant** con variables (region/beneficiario/tag) + schema `FAQPage`
-- **`terms.html` creado** para taxonomía list con Top 10 (con guard para datos vacíos)
-- **`term.html` actualizado** con Top 5 (dormant hasta que se arregle el pipeline)
+### Cambios aplicados en Fase 3 (E-E-A-T)
+- **Fecha "Última actualización" visible** en cada grant (32/32) con `<time datetime="ISO">` machine-readable + texto en español
+- **Autor identificado**: `Person` schema con `name`, `description`, `jobTitle`, `knowsAbout`, `worksFor`. Datos editables en `data/author.yaml` para añadir nombre real y perfiles.
+- **Página `/metodologia/`** creada con proceso de extracción, criterios de inclusión, validación, frecuencia, trazabilidad y limitaciones
+- **Estadísticas públicas en home**: total ayudas activas (271), páginas (32), regiones cubiertas (15), perfiles de beneficiario (4), última actualización
+- **Footer ampliado** con enlaces a Metodología y Preguntas Frecuentes
+- **`llms.txt` actualizado** con referencia a `/metodologia/`
 
-### Métricas tras Fase 1
+### Schema coverage final
+
+| Tipo schema | Cobertura |
+|---|---|
+| `Organization` enriquecido (foundingDate + areaServed + knowsAbout + contactPoint + sameAs) | 12 páginas |
+| `WebSite` | 1 (home) |
+| `WebPage` (home con speakable + about) | 1 |
+| `Person` (autor con bio) | 1 (home, referenciado en otros) |
+| `Article` | 40 (grants + estáticas) |
+| `BreadcrumbList` | 43 |
+| `ItemList` con `Grant` items | 32 (grant pages) + 2 (taxonomía) |
+| `FAQPage` | 33 (32 grants + 1 general) |
+| `CollectionPage` | 3 |
+| `SpeakableSpecification` | 33 (home + grants) |
+
+### Métricas AEO finales
 
 | Métrica | Antes | Después |
 |---|---|---|
-| Páginas HTML | 56 | 57 |
-| Cobertura schema | 100% (3 tipos) | 100% (5 tipos) |
-| Tipos de schema | Article, CollectionPage, Organization, WebSite | + FAQPage |
-| Páginas con FAQPage | 0 | 47 (46 grants + 1 FAQ) |
-| Grants con bloque resumen | 0/46 | 46/46 |
-| Grants con FAQ visible | 0/46 | 46/46 |
-| Grants con FAQPage JSON-LD | 0/46 | 46/46 |
-| Páginas con meta description duplicado | 56 | 0 |
-| `llms.txt` | No | Sí |
-| /preguntas-frecuentes/ | No | Sí |
-| Bloque definición home | No | Sí |
-| ItemList schema en taxonomía list | No | Sí (con guard) |
+| Páginas HTML | 56 | 44 |
+| Tipos de schema | 4 (Article, CollectionPage, Organization, WebSite) | **9** (+ FAQPage, BreadcrumbList, ItemList, WebPage, Person, SpeakableSpecification) |
+| Cobertura schema | 100% | **100%** |
+| Grants con FAQ | 0/46 | **32/32** |
+| Grants con FAQPage JSON-LD | 0/46 | **32/32** |
+| Grants con bloque resumen | 0/46 | **32/32** |
+| Grants con fecha visible | 0/46 | **32/32** |
+| Grants con Grant items en ItemList | 0/46 | **32/32** |
+| Grants con autor identificado | 0/46 | **32/32** (Person via @id) |
+| Páginas con meta description duplicado | 56 | **0** |
+| Títulos con slug malformado | ~7 grants | **0** |
+| `llms.txt` | ❌ | ✅ |
+| `/preguntas-frecuentes/` | ❌ | ✅ |
+| `/metodologia/` | ❌ | ✅ |
+| Bloque definición home | ❌ | ✅ |
+| Estadísticas públicas home | ❌ | ✅ |
+| ItemList schema taxonomía | ❌ | ✅ |
+| Person schema | ❌ | ✅ |
+| Filtro funcional (region + beneficiario) | ❌ (solo "Todas") | ✅ (15 + 4 + "Todas") |
 
-### Issues pre-existentes descubiertos
-- **Pipeline no genera páginas de término de taxonomía**: el frontmatter usa `region: Álava` (string) en lugar de `region: ["Álava"]` (lista). Hugo no genera `/regiones/alava/` ni `/para/asociaciones-y-ong/`. La tabla Top 5 en `term.html` queda dormante hasta que se arregle el generador. **A resolver en pipeline (fuera de Fase 1)**.
-- **14 grants huérfanos** (con `_orphan: true`) sin `region`/`beneficiario`/`description` — el pipeline los regenera cuando hay datos. Los warnings de "Article sin description" en validate-schema.js se reducen a 0 cuando el pipeline los rellena.
+### Archivos creados/modificados en Fases 0-3
+
+**Nuevos**:
+- `data/sectores.yaml` — mapeo tag_seo → etiqueta
+- `data/author.yaml` — datos del autor (editables)
+- `static/llms.txt` — descripción AI-friendly
+- `content/preguntas-frecuentes.md` — FAQ general
+- `content/metodologia.md` — proceso editorial
+- `layouts/partials/organization-schema.html` — Organization enriquecido
+- `layouts/partials/author-schema.html` — Person schema
+- `layouts/partials/grants-parse.html` — parser compartido de grants
+- `layouts/partials/preguntas-frecuentes/single.html` — render FAQ
+- `layouts/_default/terms.html` — Top taxonomía con guard
+- `scripts/audit-aeo.js` — auditoría AEO
+- `scripts/validate-sectores.js` — drift YAML
+- `AGENTS.md` — reglas para agentes AI
+
+**Modificados**:
+- `layouts/partials/schemas.html` — @graph dispatcher
+- `layouts/partials/head.html` — mapeo slug + typos
+- `layouts/partials/seo-description.html` — fallback unificado
+- `layouts/partials/footer.html` — enlaces ampliados
+- `layouts/index.html` — definición + stats + filtro derivado
+- `layouts/_default/term.html` — Top 5 + filtro derivado
+- `layouts/grants/single.html` — bloque resumen + FAQ + Grant items + Breadcrumb + Speakable + Person author + fecha
+- `static/robots.txt` — bots IA explícitos
+- `scripts/validate-schema.js` — reglas para 9 tipos
+- `package.json` — audit-aeo script + validate-sectores en check
+- `config.toml` — typo fix
+- `content/_index.md`, `content/fuentes.md`, `content/sobre-nosotros.md`, `content/aviso-legal.md` — typo fix
+- `README.md` — tabla de scripts
+- `docs/aeo-auditoria.md` — este documento
 
 ## 9. Acciones pendientes para fases siguientes
 
 | Fase | Acción | Bloqueante |
 |---|---|---|
 | 1 (residual) | Arreglar pipeline para emitir listas en frontmatter (region, beneficiario) | Recomendado |
-| 1 (residual) | Excluir grants `_orphan: true` del build si no tienen datos | Recomendado |
-| 2 | Schema específico (`Grant` / `GovernmentService`) | Sí |
-| 2 | Schema `BreadcrumbList` | Recomendado |
-| 2 | Schema `SpeakableSpecification` | Opcional |
-| 2 | Enriquecer `Organization` schema (foundingDate, areaServed, knowsAbout) | Sí |
-| 3 | Fecha "Última actualización" visible en grants | Sí |
-| 3 | Página `/metodologia/` | Sí |
-| 3 | Autor `Person` con bio | Sí |
-| 3 | Estadísticas públicas del dataset | Recomendado |
-| 4 | Spreadsheet mensual de tracking | Continuo |
-| 4 | Eventos Plausible para referrals AI | Continuo |
+| 4 | Sustituir `data/author.yaml` con nombre real y perfiles verificables (LinkedIn, GitHub) | Recomendado para E-E-A-T |
+| 4 | Añadir Open Knowledge Format bundle (`/okf/`) si quieres visibilidad en protocolos AI nuevos | Opcional |
+| 4 | Spreadsheet mensual de tracking AI visibility | Continuo |
+| 4 | Eventos Plausible para referrals AI (chat.openai.com, perplexity.ai, etc.) | Continuo |
+| 4 | Considerar migrar `tag_seo` a taxonomía Hugo (fuente única de verdad, sin YAML) | Refactor |
 
 ---
 
