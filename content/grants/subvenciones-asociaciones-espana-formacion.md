@@ -1,8 +1,8 @@
 ---
 title: Ayudas para formacion en España para Asociaciones y ong
 description: "Recopilatorio de las 3 ayudas activas en España para Asociaciones y ong dentro del sector formacion, con presupuesto y plazos de solicitud."
-regiones: España
-para: Asociaciones y ong
+region: España
+beneficiario: Asociaciones y ong
 tag_seo: formacion
 count: 3
 date: 2026-07-28
