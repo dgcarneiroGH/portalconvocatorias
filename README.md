@@ -1,7 +1,3 @@
-## Hugo
-
-Para arrancar el servidor de Hugo en local, ejecuta `hugo server -D`
-
 ## Scripts npm
 
 Todos los scripts definidos en `package.json`:
@@ -26,7 +22,3 @@ npm run dev          # desarrollo local con recarga
 npm run check        # antes de commit: build + 4 verificadores
 npm run og:build     # solo si cambias el logo o la identidad visual
 ```
-
-## OG Images
-
-Para regenerar las OG images, ejecuta `npm run og:build`
