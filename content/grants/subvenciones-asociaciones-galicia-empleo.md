@@ -1,8 +1,8 @@
 ---
 title: Ayudas para empleo en Galicia para Asociaciones y ong
 description: "Recopilatorio de las 1 ayudas activas en Galicia para Asociaciones y ong dentro del sector empleo, con presupuesto y plazos de solicitud."
-regiones: Galicia
-para: Asociaciones y ong
+region: Galicia
+beneficiario: Asociaciones y ong
 tag_seo: empleo
 count: 1
 date: 2026-07-28
