@@ -14,7 +14,7 @@
             <div class="filter-group">
                 <h3 class="filter-group-label">Región</h3>
                 <div class="filter-pills" role="radiogroup" aria-label="Filtrar por región">
-                    <button type="button" class="filter-pill is-active" data-action="reset" data-group="region" aria-checked="true">Todas</button>
+                    <button type="button" class="filter-pill is-active" data-action="reset" data-group="region" role="radio" aria-checked="true">Todas</button>
                     {{ range $name, $tax := .Site.Taxonomies.regiones }}
                     <button type="button" class="filter-pill" data-group="region" data-value="{{ $name | urlize }}" role="radio" aria-checked="false">{{ $tax.Page.LinkTitle }}</button>
                     {{ end }}
@@ -24,7 +24,7 @@
             <div class="filter-group">
                 <h3 class="filter-group-label">Beneficiario</h3>
                 <div class="filter-pills" role="radiogroup" aria-label="Filtrar por beneficiario">
-                    <button type="button" class="filter-pill is-active" data-action="reset" data-group="beneficiario" aria-checked="true">Todos</button>
+                    <button type="button" class="filter-pill is-active" data-action="reset" data-group="beneficiario" role="radio" aria-checked="true">Todos</button>
                     {{ range $name, $tax := .Site.Taxonomies.para }}
                     <button type="button" class="filter-pill" data-group="beneficiario" data-value="{{ $name | urlize }}" role="radio" aria-checked="false">{{ $tax.Page.LinkTitle }}</button>
                     {{ end }}

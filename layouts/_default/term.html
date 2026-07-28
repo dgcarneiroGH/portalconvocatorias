@@ -45,7 +45,7 @@
         <section class="filter-section" aria-labelledby="filter-heading">
             <h2 id="filter-heading" class="filter-heading">Filtrar por {{ $otherLabel | lower }}</h2>
             <div class="filter-pills" role="radiogroup" aria-label="Filtrar por {{ $otherLabel | lower }}">
-                <button type="button" class="filter-pill is-active" data-action="reset" data-group="{{ $otherGroup }}" aria-checked="true">{{ $otherPluralLabel }}</button>
+                <button type="button" class="filter-pill is-active" data-action="reset" data-group="{{ $otherGroup }}" role="radio" aria-checked="true">{{ $otherPluralLabel }}</button>
                 {{ range $name, $tax := index .Site.Taxonomies $otherPlural }}
                 <button type="button" class="filter-pill" data-group="{{ $otherGroup }}" data-value="{{ $name | urlize }}" role="radio" aria-checked="false">{{ $tax.Page.LinkTitle }}</button>
                 {{ end }}
