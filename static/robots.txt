@@ -1,3 +1,57 @@
+# Reglas generales: por defecto todo permitido
 User-agent: *
 Allow: /
+
+# Referencia al sitemap
 Sitemap: https://portalconvocatorias.es/sitemap.xml
+
+# Bots de IA: permitir acceso para citabilidad
+# OpenAI (ChatGPT)
+User-agent: GPTBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: OAI-SearchBot
+Allow: /
+
+# Anthropic (Claude)
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: Claude-User
+Allow: /
+
+User-agent: anthropic-ai
+Allow: /
+
+# Perplexity
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Perplexity-User
+Allow: /
+
+# Google (AI Overviews, Gemini, Vertex)
+User-agent: Google-Extended
+Allow: /
+
+User-agent: GoogleOther
+Allow: /
+
+# Microsoft (Copilot / Bing)
+User-agent: MSNBot-Media
+Allow: /
+
+# Apple Intelligence
+User-agent: Applebot-Extended
+Allow: /
+
+# Meta
+User-agent: Meta-ExternalAgent
+Allow: /
+
+# Common Crawl (datos de entrenamiento, no afecta citabilidad directa)
+User-agent: CCBot
+Allow: /

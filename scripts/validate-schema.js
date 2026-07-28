@@ -107,6 +107,60 @@ function validateType(item, page) {
         if (typeof item.numberOfItems !== 'number') {
             warnings.push(`${page}: ItemList sin numberOfItems`);
         }
+        if (!Array.isArray(item.itemListElement)) {
+            errors.push(`${page}: ItemList sin itemListElement array`);
+        }
+    }
+
+    if (type === 'BreadcrumbList') {
+        if (!Array.isArray(item.itemListElement)) {
+            errors.push(`${page}: BreadcrumbList sin itemListElement array`);
+        } else {
+            item.itemListElement.forEach((bc, i) => {
+                if (bc.position !== i + 1) {
+                    warnings.push(`${page}: BreadcrumbList item ${i} tiene position ${bc.position} (esperado ${i + 1})`);
+                }
+                if (!bc.name || !bc.item) {
+                    errors.push(`${page}: BreadcrumbList item ${i} incompleto`);
+                }
+            });
+        }
+    }
+
+    if (type === 'Grant') {
+        if (!item.name) errors.push(`${page}: Grant sin name`);
+        if (!item.url) errors.push(`${page}: Grant sin url`);
+    }
+
+    if (type === 'SpeakableSpecification') {
+        if (!Array.isArray(item.xpath)) {
+            errors.push(`${page}: SpeakableSpecification sin xpath array`);
+        }
+    }
+
+    if (type === 'WebSite') {
+        if (!item.name) errors.push(`${page}: WebSite sin name`);
+        if (!item.url) warnings.push(`${page}: WebSite sin url`);
+    }
+
+    if (type === 'WebPage') {
+        if (!item.name) errors.push(`${page}: WebPage sin name`);
+    }
+
+    if (type === 'Person') {
+        if (!item.name) errors.push(`${page}: Person sin name`);
+        if (!item.url) warnings.push(`${page}: Person sin url (recomendado para E-E-A-T)`);
+        if (!item.description) warnings.push(`${page}: Person sin description (recomendado para E-E-A-T)`);
+        if (!item.jobTitle) warnings.push(`${page}: Person sin jobTitle (recomendado para E-E-A-T)`);
+        if (!item.knowsAbout) warnings.push(`${page}: Person sin knowsAbout (recomendado para E-E-A-T)`);
+    }
+
+    if (type === 'Organization') {
+        if (!item.name) errors.push(`${page}: Organization sin name`);
+        if (!item.url) warnings.push(`${page}: Organization sin url`);
+        if (!item.areaServed) warnings.push(`${page}: Organization sin areaServed (recomendado para AEO)`);
+        if (!item.knowsAbout) warnings.push(`${page}: Organization sin knowsAbout (recomendado para AEO)`);
+        if (!item.foundingDate) warnings.push(`${page}: Organization sin foundingDate (recomendado para E-E-A-T)`);
     }
 
     if (type === 'CollectionPage') {

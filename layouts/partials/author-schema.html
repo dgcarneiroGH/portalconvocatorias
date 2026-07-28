@@ -1,0 +1,26 @@
+{{- /*
+  Partial: author-schema
+  Emite el JSON-LD de la persona o equipo autor del portal.
+  Datos leidos de data/author.yaml.
+
+  Devuelve un dict con @type Person listo para incluir en @graph.
+*/ -}}
+{{- $author := hugo.Data.author.author | default dict -}}
+{{- $name := $author.name | default "Equipo de Portal de Convocatorias" -}}
+{{- $authorID := printf "%s#author" .Site.BaseURL -}}
+{{- $person := dict
+    "@type" "Person"
+    "@id" $authorID
+    "name" $name
+    "url" ($author.url | default (printf "%ssobre-nosotros/" .Site.BaseURL))
+    "description" ($author.description | default "")
+    "jobTitle" ($author.jobTitle | default "")
+    "worksFor" (dict "@type" "Organization" "name" .Site.Title "url" .Site.BaseURL)
+-}}
+{{- if $author.knowsAbout -}}
+    {{- $person = merge $person (dict "knowsAbout" $author.knowsAbout) -}}
+{{- end -}}
+{{- if $author.sameAs -}}
+    {{- $person = merge $person (dict "sameAs" $author.sameAs) -}}
+{{- end -}}
+{{- return $person -}}

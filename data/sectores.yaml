@@ -1,0 +1,21 @@
+# Mapeo slug tag_seo -> etiqueta legible
+# Usado en layouts/partials/head.html para generar titulos limpios.
+#
+# Mantener sincronizado con los valores de tag_seo en content/grants/*.md.
+sectores:
+  accesibilidad: "accesibilidad"
+  agroalimentario: "agroalimentario"
+  artes_plasticas: "artes plásticas"
+  comercio: "comercio"
+  deportes: "deportes"
+  economia_digital: "economía digital"
+  empleo: "empleo"
+  familia: "familia"
+  formacion: "formación"
+  innovacion: "innovación"
+  investigacion_y_ciencia: "investigación y ciencia"
+  juventud: "juventud"
+  literatura: "literatura"
+  nominativas: "nominativas"
+  salud: "salud"
+  vivienda: "vivienda"

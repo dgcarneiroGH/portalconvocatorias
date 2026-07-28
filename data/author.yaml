@@ -1,0 +1,19 @@
+# Informacion del autor/equipo editorial de Portal de Convocatorias.
+# Editable directamente para reflejar el responsable real.
+#
+# Para mejorar E-E-A-T (señal de autoria real):
+# - Reemplaza `name` con el nombre de la persona o equipo.
+# - Anade credenciales en `description` (formacion, experiencia relevante).
+# - Completa `sameAs` con perfiles verificables (LinkedIn, GitHub, etc.).
+author:
+  name: "Diego Carneiro Planes"
+  alternateName: "Portal Convocatorias"
+  description: "Desarrollador especializado en IA y IA Generativa, con experiencia en la creacion de herramientas y plataformas para la gestion de convocatorias publicas."
+  url: "https://portalconvocatorias.es/sobre-nosotros/"
+  jobTitle: "Desarrollador Senior especializado en Front-end, IA y IA Generativa"
+  knowsAbout:
+    - "ayudas publicas"
+    - "subvenciones"
+    - "Base de Datos Nacional de Ayudas (BDNS)"
+    - "politicas publicas de financiacion"
+  sameAs: ["https://www.linkedin.com/in/nomacoda/","https://www.instagram.com/nomacoda/","https://github.com/dgcarneiroGH","https://nomacoda.com"]

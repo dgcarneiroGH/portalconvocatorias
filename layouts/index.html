@@ -6,17 +6,63 @@
         <header class="home-header">
             <h1 id="filter-title">{{ .Site.Title }}</h1>
             <p class="home-intro">{{ .Site.Params.description }}</p>
+            <p class="home-definition"><strong>Portal de Convocatorias</strong> es un recopilatorio diario y gratuito de ayudas y convocatorias públicas activas en España, extraídas de la Base de Datos Nacional de Ayudas (BDNS) y de los portales oficiales autonómicos y locales. Cubre asociaciones y ONG, pymes y autónomos, gran empresa y particulares en las 17 comunidades autónomas, 2 ciudades autónomas, diputaciones provinciales y cabildos insulares. Cada ficha enlaza a la fuente oficial original.</p>
+            {{- $grants := where .Site.RegularPages "Section" "grants" -}}
+            {{- $totalAyudas := 0 -}}
+            {{- $lastUpdate := "" -}}
+            {{- $regions := slice -}}
+            {{- $benefs := slice -}}
+            {{- range $grants -}}
+                {{- $totalAyudas = add $totalAyudas (int (or .Params.count 0)) -}}
+                {{- if not $lastUpdate -}}
+                    {{- $lastUpdate = .Date -}}
+                {{- end -}}
+                {{- with .Params.region -}}
+                    {{- $regions = $regions | append . -}}
+                {{- end -}}
+                {{- with .Params.beneficiario -}}
+                    {{- $benefs = $benefs | append . -}}
+                {{- end -}}
+            {{- end -}}
+            {{- $uniqueRegions := $regions | uniq -}}
+            {{- $uniqueBenefs := $benefs | uniq -}}
+            <ul class="home-stats" aria-label="Cifras del portal">
+                <li><strong>{{ $totalAyudas }}</strong> ayudas activas</li>
+                <li><strong>{{ len $grants }}</strong> páginas de convocatorias</li>
+                <li><strong>{{ len $uniqueRegions }}</strong> regiones cubiertas</li>
+                <li><strong>{{ len $uniqueBenefs }}</strong> perfiles de beneficiario</li>
+                {{- with $lastUpdate -}}
+                <li><strong>Última actualización:</strong> <time datetime="{{ .Format "2006-01-02" }}">{{ .Format "2" }} de {{ index (slice "enero" "febrero" "marzo" "abril" "mayo" "junio" "julio" "agosto" "septiembre" "octubre" "noviembre" "diciembre") (sub .Month 1) }} de {{ .Format "2006" }}</time></li>
+                {{- end -}}
+            </ul>
         </header>
 
         <section class="filter-section" aria-labelledby="filter-heading">
             <h2 id="filter-heading" class="filter-heading">Filtrar Ayudas</h2>
 
+            {{- $regionOptions := slice -}}
+            {{- $benefOptions := slice -}}
+            {{- range where .Site.RegularPages "Section" "grants" -}}
+                {{- with .Params.region -}}
+                    {{- $slug := urlize . -}}
+                    {{- if not (where $regionOptions "slug" $slug) -}}
+                        {{- $regionOptions = $regionOptions | append (dict "slug" $slug "label" .) -}}
+                    {{- end -}}
+                {{- end -}}
+                {{- with .Params.beneficiario -}}
+                    {{- $slug := urlize . -}}
+                    {{- if not (where $benefOptions "slug" $slug) -}}
+                        {{- $benefOptions = $benefOptions | append (dict "slug" $slug "label" .) -}}
+                    {{- end -}}
+                {{- end -}}
+            {{- end -}}
+
             <div class="filter-group">
                 <h3 class="filter-group-label">Región</h3>
                 <div class="filter-pills" role="radiogroup" aria-label="Filtrar por región">
                     <button type="button" class="filter-pill is-active" data-action="reset" data-group="region" role="radio" aria-checked="true">Todas</button>
-                    {{ range $name, $tax := .Site.Taxonomies.regiones }}
-                    <button type="button" class="filter-pill" data-group="region" data-value="{{ $name | urlize }}" role="radio" aria-checked="false">{{ $tax.Page.LinkTitle }}</button>
+                    {{ range sort $regionOptions "label" "asc" }}
+                    <button type="button" class="filter-pill" data-group="region" data-value="{{ .slug }}" role="radio" aria-checked="false">{{ .label }}</button>
                     {{ end }}
                 </div>
             </div>
@@ -25,8 +71,8 @@
                 <h3 class="filter-group-label">Beneficiario</h3>
                 <div class="filter-pills" role="radiogroup" aria-label="Filtrar por beneficiario">
                     <button type="button" class="filter-pill is-active" data-action="reset" data-group="beneficiario" role="radio" aria-checked="true">Todos</button>
-                    {{ range $name, $tax := .Site.Taxonomies.para }}
-                    <button type="button" class="filter-pill" data-group="beneficiario" data-value="{{ $name | urlize }}" role="radio" aria-checked="false">{{ $tax.Page.LinkTitle }}</button>
+                    {{ range sort $benefOptions "label" "asc" }}
+                    <button type="button" class="filter-pill" data-group="beneficiario" data-value="{{ .slug }}" role="radio" aria-checked="false">{{ .label }}</button>
                     {{ end }}
                 </div>
             </div>
@@ -45,8 +91,8 @@
             {{ range where .Site.RegularPages "Section" "grants" }}
             {{ $regionSlug := "" }}
             {{ $benefSlug := "" }}
-            {{ with .Params.regiones }}{{ $regionSlug = urlize . }}{{ end }}
-            {{ with .Params.para }}{{ $benefSlug = urlize . }}{{ end }}
+            {{ with .Params.region }}{{ $regionSlug = urlize . }}{{ end }}
+            {{ with .Params.beneficiario }}{{ $benefSlug = urlize . }}{{ end }}
             <article class="home-grant-card"
                      data-region="{{ $regionSlug }}"
                      data-beneficiario="{{ $benefSlug }}">
@@ -54,8 +100,8 @@
                     <div class="home-grant-card-content">
                         <div class="home-grant-card-topline">
                             <div class="home-tag-list">
-                                {{ with .Params.regiones }}<span>{{ . }}</span>{{ end }}
-                                {{ with .Params.para }}<span>{{ . }}</span>{{ end }}
+                                {{ with .Params.region }}<span>{{ . }}</span>{{ end }}
+                                {{ with .Params.beneficiario }}<span>{{ . }}</span>{{ end }}
                             </div>
                             <div class="home-active-count">
                                 <span class="home-active-dot" aria-hidden="true"></span>

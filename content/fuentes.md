@@ -1,6 +1,6 @@
 ---
 title: Fuentes oficiales de datos
-description: Relación completa de las fuentes oficiales públicas de las que Portal de Convocatorias extrae los datos de ayudas y ayudas.
+description: Relación completa de las fuentes oficiales públicas de las que Portal de Convocatorias extrae los datos de ayudas y convocatorias.
 date: 2026-07-23
 slug: fuentes
 ---
