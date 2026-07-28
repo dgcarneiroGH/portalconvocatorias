@@ -1,8 +1,8 @@
 ---
 title: Ayudas nominativas en Valencia para Pyme y autónomos
 description: "Recopilatorio de las 4 ayudas activas en Valencia para Pyme y autónomos dentro del sector nominativas, con presupuesto y plazos de solicitud."
-regiones: Valencia
-para: Pyme y autónomos
+region: Valencia
+beneficiario: Pyme y autónomos
 tag_seo: nominativas
 count: 4
 date: 2026-07-28
