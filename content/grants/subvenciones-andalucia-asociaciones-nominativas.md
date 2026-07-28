@@ -1,8 +1,8 @@
 ---
 title: Ayudas nominativas en Andalucia para Asociaciones y ong
 description: "Recopilatorio de las 17 ayudas activas en Andalucia para Asociaciones y ong dentro del sector nominativas, con presupuesto y plazos de solicitud."
-regiones: Andalucia
-para: Asociaciones y ong
+region: Andalucia
+beneficiario: Asociaciones y ong
 tag_seo: nominativas
 count: 17
 date: 2026-07-28
