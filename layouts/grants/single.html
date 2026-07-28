@@ -14,11 +14,11 @@
                 {{ $count }} ayudas activas en <strong>{{ $region }}</strong> para
                 <strong>{{ $benef }}</strong> dentro del sector <strong>{{ $tag }}</strong>,
                 con presupuesto total y plazos de solicitud actualizados.
-                Fuente: Base de Datos Nacional de Subvenciones (BDNS).
+                Fuente: Base de Datos Nacional de Ayudas (BDNS).
             </p>
         </header>
 
-        <section class="grant-page-list" aria-label="Subvenciones disponibles">
+        <section class="grant-page-list" aria-label="Ayudas disponibles">
             <h2>Listado de convocatorias</h2>
 
             {{ $rawContent := .RawContent }}
@@ -110,30 +110,30 @@
             {{ end }}
 
             {{ if not $hasCards }}
-            <p class="grant-detail-empty">No hay subvenciones disponibles para mostrar.</p>
+            <p class="grant-detail-empty">No hay ayudas disponibles para mostrar.</p>
             {{ end }}
         </section>
 
         <section class="grant-page-howto">
             <h2>Cómo solicitar estas ayudas</h2>
             <p>
-                Las subvenciones listadas se gestionan a través de la
-                <strong>Base de Datos Nacional de Subvenciones (BDNS)</strong> y los portales oficiales de cada comunidad autónoma.
+                Las ayudas listadas se gestionan a través de la
+                <strong>Base de Datos Nacional de Ayudas (BDNS)</strong> y los portales oficiales de cada comunidad autónoma.
                 Para solicitarlas, generalmente necesitarás: certificado digital, estar dado de alta en el registro correspondiente
                 y presentar la documentación específica de cada convocatoria. Los plazos varían según el organismo convocante.
             </p>
         </section>
 
         <aside class="grant-related-lands" aria-labelledby="grant-related-title">
-            <h2 id="grant-related-title">Explora más subvenciones</h2>
+            <h2 id="grant-related-title">Explora más ayudas</h2>
             <ul>
                 {{ with $region }}
                 <li><a href="/regiones/{{ . | urlize }}/">Todas las ayudas en {{ . }}</a></li>
                 {{ end }}
                 {{ with $benef }}
-                <li><a href="/para/{{ . | urlize }}/">Subvenciones para {{ . }}</a></li>
+                <li><a href="/para/{{ . | urlize }}/">Ayudas para {{ . }}</a></li>
                 {{ end }}
-                <li><a href="/">Ver todas las subvenciones activas</a></li>
+                <li><a href="/">Ver todas las ayudas activas</a></li>
             </ul>
         </aside>
     </main>

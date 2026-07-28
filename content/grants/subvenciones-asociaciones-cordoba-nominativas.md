@@ -1,17 +1,17 @@
 ---
-title: Subvenciones nominativas en Córdoba para Asociaciones y ong
+title: Ayudas nominativas en Córdoba para Asociaciones y ong
 description: "Recopilatorio de las 21 ayudas activas en Córdoba para Asociaciones y ong dentro del sector nominativas, con presupuesto y plazos de solicitud."
 region: Córdoba
 beneficiario: Asociaciones y ong
 tag_seo: nominativas
 count: 21
 date: 2026-07-28
-slug: subvenciones-asociaciones-cordoba-nominativas
+slug: ayudas-asociaciones-cordoba-nominativas
 ---
 
-# Subvenciones para nominativas en asociaciones para cordoba
+# Ayudas para nominativas en asociaciones para cordoba
 
-Subvenciones activas (21):
+Ayudas activas (21):
 
 - [CONVENIO CON EL CLUB DEPORTIVO OPEN TENIS CIUDAD DE POZOBLANCO PARA LA EJECUCIÓN DEL PROYECTO OPEN COVAP CIUDAD DE POZOBLANCO, MEMORIAL FABIÁN DORADO (INTERNACIONALES DE ANDALUCÍA EN PISTA RÁPIDA)](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/915905) ()
   - Description: El convenio tiene como objetivo principal el desarrollo del proyecto 'Open Covap Ciudad de Pozoblanco', que promueve actividades relacionadas con el tenis a nivel internacional y busca dinamizar económicamente la zona norte de Córdoba.
@@ -31,11 +31,11 @@ Subvenciones activas (21):
   - Budget: 40000€ | Reception: 29/06/2026
 - [SUBVENCIÓN POR CONCESIÓN DIRECTA A LA ASOCIACIÓN CLUB DEPORTIVO VESPERTINA PERRO VERDE, C.F.](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/916587) ()
   - Description: Este convenio tiene como objetivo colaborar en la realización de actividades del CLUB DEPORTIVO VESPERTINA EL PERRO VERDE HORNACHUELOS F.C., con un enfoque en la participación en ligas federadas de fútbol para el año 2026.
-  - Requirements: Ser el CLUB DEPORTIVO VESPERTINA EL PERRO VERDE HORNACHUELOS F.C.; No estar incursos en prohibiciones según la Ley General de Subvenciones; Estar al corriente de obligaciones tributarias y de la Seguridad Social
+  - Requirements: Ser el CLUB DEPORTIVO VESPERTINA EL PERRO VERDE HORNACHUELOS F.C.; No estar incursos en prohibiciones según la Ley General de Ayudas; Estar al corriente de obligaciones tributarias y de la Seguridad Social
   - Budget: 11000€ | Reception: 01/07/2026
 - [CONVENIO CON EL CLUB DEPORTIVO CIUDAD DE LUCENA C. F. PARA LA EJECUCIÓN DEL PROYECTO PRIMER EQUIPO CIUDAD DE LUCENA TEMPORADA 2026/2027](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/916682) ()
   - Description: Este convenio tiene como objetivo el desarrollo del proyecto del Primer equipo Ciudad de Lucena para la temporada 2026/2027, buscando fomentar el deporte en la región y fortalecer la identidad local mediante el fútbol.
-  - Requirements: Entidad que solicita la subvención: Club Deportivo Ciudad de Lucena; Presupuesto del proyecto: 52.950 €; La Diputación aporta 40.000 €; Se desarrollará en la provincia de Córdoba; Principales beneficiarios: abonados, población lucentina, centros educativos, asociaciones culturales y sin ánimo de lucro, miembros del primer equipo
+  - Requirements: Entidad que solicita la ayuda: Club Deportivo Ciudad de Lucena; Presupuesto del proyecto: 52.950 €; La Diputación aporta 40.000 €; Se desarrollará en la provincia de Córdoba; Principales beneficiarios: abonados, población lucentina, centros educativos, asociaciones culturales y sin ánimo de lucro, miembros del primer equipo
   - Budget: 40000€ | Reception: 02/07/2026
 - [CONVENIO CON LA FEDERACIÓN ANDALUZA DE TENIS PARA LA EJECUCIÓN DEL PROYECTO CAMPEONATO DE ANDALUCÍA ABSOLUTO DE TENIS 2026](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/916687) ()
   - Description: El objetivo de este convenio es desarrollar el proyecto del Campeonato de Andalucía Absoluto de Tenis 2026, promoviendo la práctica y desarrollo del tenis en la comunidad autónoma y apoyando la participación activa de los deportistas.
@@ -61,7 +61,7 @@ Subvenciones activas (21):
   - Budget: 4000€ | Reception: 15/07/2026
 - [CONVENIO CON LA FEDERACIÓN ANDALUZA DE AUTOMOVILISMO PARA LA EJECUCIÓN DEL PROYECTO CAMPEONATO DE ANDALUCÍA DE KARTING EN VILLAFRANCA 2026](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/919291) ()
   - Description: El objetivo de este convenio es el desarrollo del proyecto 'Campeonato de Andalucía de Karting de Villafranca 2026', que busca fomentar el deporte entre menores de edad a través de competiciones y formación en karting.
-  - Requirements: Entidad solicitante: Federación Andaluza de Automovilismo; Beneficiarios: menores de edad que participan en el campeonato; Ubicación: circuito de karting de Villafranca; No se permite la agrupación con entidades prohibidas según la Ley General de Subvenciones
+  - Requirements: Entidad solicitante: Federación Andaluza de Automovilismo; Beneficiarios: menores de edad que participan en el campeonato; Ubicación: circuito de karting de Villafranca; No se permite la agrupación con entidades prohibidas según la Ley General de Ayudas
   - Budget: 9000€ | Reception: 15/07/2026
 - [CONVENIO CON LA FEDERACIÓN ANDALUZA DE NATACIÓN PARA LA EJECUCIÓN DEL PROYECTO V CIRCUITO AGUAS ABIERTAS DIPUTACIÓN DE CÓRDOBA 2026](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/919292) ()
   - Description: El objetivo de este convenio es el desarrollo del V Circuito de Aguas Abiertas en la provincia de Córdoba, promoviendo la natación y la actividad física en el medio natural.
@@ -76,14 +76,14 @@ Subvenciones activas (21):
   - Requirements: Abierto a todos los sectores de la población; Destinado a ciclistas de todas las edades y exigencias deportivas; Se puede participar en familia, con amigos o de manera individual; No hay límite de edad para participar
   - Budget: 15000€ | Reception: 15/07/2026
 - [CONVENIO CON EL CLUB DEPORTIVO MAR ALEGRE PARA LA EJECUCIÓN DEL PROYECTO VI CXM EPORA TRAIL MMXXVI TIERRA DE ACEITE](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/919313) ()
-  - Description: El objetivo de esta subvención es financiar el desarrollo del proyecto deportivo 'VI CxM Epora Trail MMXXVI Tierra de aceite', que busca fomentar la práctica del deporte en la naturaleza, promoviendo el turismo sostenible y la dinamización económica local en Montoro, Córdoba.
+  - Description: El objetivo de esta ayuda es financiar el desarrollo del proyecto deportivo 'VI CxM Epora Trail MMXXVI Tierra de aceite', que busca fomentar la práctica del deporte en la naturaleza, promoviendo el turismo sostenible y la dinamización económica local en Montoro, Córdoba.
   - Budget: 3000€ | Reception: 15/07/2026
 - [CONVENIO DE COLABORACIÓN ENTRE EL PPTC Y LA ASOCIACIÓN AMIGOS DE LOS PATIOS CORDOBESES](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/920179) ()
   - Description: El convenio tiene como objetivo la colaboración en el mantenimiento y promoción turística de los Patios de Córdoba, fomentando actividades promocionales a través de la marca turística 'PATIOS DE CÓRDOBA' para atraer más visitantes durante el año 2026.
   - Budget: 5000€ | Reception: 20/07/2026 | Start: 01/04/2026 | End: 31/12/2026
 - [ACUERDO DE LA JUNTA DE GOBIERNO LOCAL DEL AYUNTAMIENTO DE POZOBLANCO DE 18/06/2026 POR LA QUE SE CONCEDE SUBVENCIÓN NOMINATIVA
 PARA "CD LA DESCARGA"](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/920244) ()
-  - Description: El convenio entre el Ayuntamiento de Pozoblanco y el Club Deportivo La Descarga tiene como objetivo fomentar el legado cultural, artístico y educativo del municipio a través de la ejecución de un proyecto deportivo específico que recibirá una subvención de 7.500 euros.
+  - Description: El convenio entre el Ayuntamiento de Pozoblanco y el Club Deportivo La Descarga tiene como objetivo fomentar el legado cultural, artístico y educativo del municipio a través de la ejecución de un proyecto deportivo específico que recibirá una ayuda de 7.500 euros.
   - Requirements: Los solicitantes deben ser entidades del sector público o privado que desarrollen iniciativas en Pozoblanco.; El beneficiario debe cumplir los requisitos establecidos en el artículo 13 de la LGS y en el artículo 8 de la Ordenanza Municipal.
   - Budget: 7500€ | Reception: 20/07/2026 | Start: 01/01/2026 | End: 31/12/2026
 - [ACUERDO DE LA JUNTA DE GOBIERNO LOCAL DEL AYUNTAMIENTO DE POZOBLANCO DE 18/06/2026 POR LA QUE SE CONCEDE SUBVENCIÓN NOMINATIVA

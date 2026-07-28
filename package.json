@@ -1,7 +1,7 @@
 {
   "name": "portalconvocatorias",
   "version": "1.0.0",
-  "description": "Portal de Convocatorias - Recopilatorio de subvenciones y ayudas en Espana",
+  "description": "Portal de Convocatorias - Recopilatorio de ayudas y ayudas en Espana",
   "private": true,
   "scripts": {
     "build": "hugo --minify --baseURL https://portalconvocatorias.es/",
@@ -19,7 +19,7 @@
   "keywords": [
     "hugo",
     "seo",
-    "subvenciones",
+    "ayudas",
     "convocatorias"
   ],
   "license": "MIT",

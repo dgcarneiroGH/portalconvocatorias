@@ -209,8 +209,8 @@ function checkMetaTags() {
 // 6. Verificar jerarquía de headings en fichas
 function checkHeadingHierarchy() {
     info('=== Verificando jerarquia de headings ===');
-    const grantFiles = findHtmlFiles(path.join(PUBLIC_DIR, 'subvenciones-alava-asociaciones-deportes')).concat(
-        ['public/subvenciones-alava-asociaciones-deportes/index.html']
+    const grantFiles = findHtmlFiles(path.join(PUBLIC_DIR, 'ayudas-alava-asociaciones-deportes')).concat(
+        ['public/ayudas-alava-asociaciones-deportes/index.html']
     );
 
     let withoutH1 = 0;

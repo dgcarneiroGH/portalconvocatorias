@@ -1,24 +1,24 @@
 ---
-title: Subvenciones para formacion en Castilla y leon para Particulares
+title: Ayudas para formacion en Castilla y leon para Particulares
 description: "Recopilatorio de las 5 ayudas activas en Castilla y leon para Particulares dentro del sector formacion, con presupuesto y plazos de solicitud."
 region: Castilla y leon
 beneficiario: Particulares
 tag_seo: formacion
 count: 5
 date: 2026-07-28
-slug: subvenciones-castilla-y-leon-particulares-formacion
+slug: ayudas-castilla-y-leon-particulares-formacion
 ---
 
-# Subvenciones para formacion en castilla-y-leon para particulares
+# Ayudas para formacion en castilla-y-leon para particulares
 
-Subvenciones activas (5):
+Ayudas activas (5):
 
 - [II EDICIÓN CONVOCATORIA DE AYUDAS PARA LA DEFENSA DE TESIS DOCTORALES, COFINANCIADAS POR BANCO SANTANDER S.A., AÑO 2026](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/902873) ()
   - Description: El objetivo de esta convocatoria es mejorar la calidad de las tesis doctorales defendidas en la Universidad de Burgos, apoyando su desarrollo y aumentando la producción científica de calidad mediante la cobertura de gastos asociados.
   - Requirements: Doctorandos que defiendan la tesis doctoral en la Universidad de Burgos durante 2026
   - Budget: 20800€ | Reception: 30/04/2026 | Start: 01/05/2026 | End: 31/08/2026
 - [CONVOCATORIA DE LA SUBVENCIÓN PARA LA ADQUISICIÓN DE LIBROS DE TEXTO DE EDUCACIÓN INFANTIL “MANUEL PAINO” PARA EL CURSO ESCOLAR 2026-2027](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/911465) ()
-  - Description: La subvención tiene como objetivo ayudar a las familias en la adquisición de libros de texto para el 2º ciclo de educación infantil, dirigido a niños de 3 a 6 años, para el curso escolar 2026/2027.
+  - Description: La ayuda tiene como objetivo ayudar a las familias en la adquisición de libros de texto para el 2º ciclo de educación infantil, dirigido a niños de 3 a 6 años, para el curso escolar 2026/2027.
   - Requirements: Familias con niños de 3 a 6 años; Residencia en el municipio de Benavente; No se especifican exclusiones particulares
   - Budget: 17000€ | Reception: 09/06/2026 | Start: 10/06/2026 | End: 07/07/2026
 - [BASES DEL CONCURSO DE IDEAS “III BECA RODRIGO DE DUEÑAS: EL FUTURO DE MEDINA, MI FUTURO.](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/914129) ()

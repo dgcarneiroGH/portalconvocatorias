@@ -1,17 +1,17 @@
 ---
-title: Subvenciones para salud en Canarias para Asociaciones y ong
+title: Ayudas para salud en Canarias para Asociaciones y ong
 description: "Recopilatorio de las 5 ayudas activas en Canarias para Asociaciones y ong dentro del sector salud, con presupuesto y plazos de solicitud."
 region: Canarias
 beneficiario: Asociaciones y ong
 tag_seo: salud
 count: 5
 date: 2026-07-28
-slug: subvenciones-asociaciones-canarias-salud
+slug: ayudas-asociaciones-canarias-salud
 ---
 
-# Subvenciones para salud en asociaciones para canarias
+# Ayudas para salud en asociaciones para canarias
 
-Subvenciones activas (5):
+Ayudas activas (5):
 
 - [ALOJAMIENTO ALTERNATIVO PARA PACIENTES DERIVADOS DEL SERVICIO CANARIO DE LA SALUD](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/914781) ()
   - Budget: 535863€ | Reception: 23/06/2026 | Start: 12/05/2026 | End: 31/12/2026

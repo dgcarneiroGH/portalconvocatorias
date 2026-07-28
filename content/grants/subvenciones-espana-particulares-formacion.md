@@ -1,17 +1,17 @@
 ---
-title: Subvenciones para formacion en España para Particulares
+title: Ayudas para formacion en España para Particulares
 description: "Recopilatorio de las 12 ayudas activas en España para Particulares dentro del sector formacion, con presupuesto y plazos de solicitud."
 region: España
 beneficiario: Particulares
 tag_seo: formacion
 count: 12
 date: 2026-07-28
-slug: subvenciones-espana-particulares-formacion
+slug: ayudas-espana-particulares-formacion
 ---
 
-# Subvenciones para formacion en espana para particulares
+# Ayudas para formacion en espana para particulares
 
-Subvenciones activas (12):
+Ayudas activas (12):
 
 - [ACUERDO DE EL 17 DE JUNIO DE 2026 DE LA VICERRECTORA DE FORMACIÓN PERMANENTE, EMPLEABILIDAD Y EMPRENDIMIENTO, POR LA QUE SE CONVOCA LA XIV EDICIÓN DE LOS PREMIOS EMPRENDIMIENTO UNIVERSITARIO 2026 DE LA UNIVERSIDAD COMPLUTENSE DE MADRID](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/913635) ()
   - Budget: 22750€ | Reception: 17/06/2026 | Start: 18/06/2026 | End: 15/07/2026

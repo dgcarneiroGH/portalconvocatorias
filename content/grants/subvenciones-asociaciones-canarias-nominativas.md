@@ -1,17 +1,17 @@
 ---
-title: Subvenciones nominativas en Canarias para Asociaciones y ong
+title: Ayudas nominativas en Canarias para Asociaciones y ong
 description: "Recopilatorio de las 17 ayudas activas en Canarias para Asociaciones y ong dentro del sector nominativas, con presupuesto y plazos de solicitud."
 region: Canarias
 beneficiario: Asociaciones y ong
 tag_seo: nominativas
 count: 17
 date: 2026-07-28
-slug: subvenciones-asociaciones-canarias-nominativas
+slug: ayudas-asociaciones-canarias-nominativas
 ---
 
-# Subvenciones para nominativas en asociaciones para canarias
+# Ayudas para nominativas en asociaciones para canarias
 
-Subvenciones activas (17):
+Ayudas activas (17):
 
 - [PEF GENERAL 2026](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/910134) ()
   - Budget: 30000€ | Reception: 02/06/2026 | Start: 01/01/2026 | End: 31/12/2026

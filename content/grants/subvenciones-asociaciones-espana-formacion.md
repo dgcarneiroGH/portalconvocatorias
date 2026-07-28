@@ -1,25 +1,25 @@
 ---
-title: Subvenciones para formacion en España para Asociaciones y ong
+title: Ayudas para formacion en España para Asociaciones y ong
 description: "Recopilatorio de las 3 ayudas activas en España para Asociaciones y ong dentro del sector formacion, con presupuesto y plazos de solicitud."
 region: España
 beneficiario: Asociaciones y ong
 tag_seo: formacion
 count: 3
 date: 2026-07-28
-slug: subvenciones-asociaciones-espana-formacion
+slug: ayudas-asociaciones-espana-formacion
 ---
 
-# Subvenciones para formacion en asociaciones para espana
+# Ayudas para formacion en asociaciones para espana
 
-Subvenciones activas (3):
+Ayudas activas (3):
 
 - [RESOLUCIÓN DE LA AGENCIA ESPAÑOLA DE PROTECCIÓN DE DATOS POR LA QUE SE APRUEBAN LAS BASES REGULADORAS Y SE CONVOCA EL PREMIO A LA FORMACIÓN, EDUCACIÓN Y CONCIENCIACIÓN EN PROTECCIÓN DE DATOS, PARA EL AÑO 2026](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/918353) ()
   - Description: El premio tiene como objetivo premiar iniciativas que promuevan el conocimiento y ejercicio del derecho a la protección de datos en el entorno digital, especialmente en educación y en el uso de la inteligencia artificial.
   - Requirements: Centros educativos; Docentes; Comunidades de aprendizaje; Universidades; Asociaciones de estudiantes o profesorado; Grupos de investigación; Organizaciones; Asociaciones; Fundaciones; Plataformas; Investigadores/as
   - Budget: 9000€ | Reception: 09/07/2026 | Start: 10/07/2026 | End: 15/10/2026
 - [202604005029 CONVOCATORIA DE SUBVENCIONES A CENTROS PÚBLICOS DE ENSEÑANZA SECUNDARIA DEL  MUNICIPIO PARA LA REALIZACIÓN DE ACTIVIDADES EXTRAESCOLARES Y EDUCATIVAS NO CURRICULARES DURANTE EL CURSO 2026/2027_918833](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/918833) ()
-  - Description: Esta subvención tiene como objetivo financiar programas de actividades extraescolares y complementarias no curriculares en centros de educación secundaria pública del municipio de Murcia, fomentando el desarrollo integral del alumnado durante el curso escolar 2026/2027.
-  - Requirements: Centros de Educación Secundaria de titularidad pública del municipio de Murcia; No estar incurso en circunstancias de exclusión según la Ley General de Subvenciones; Cumplir con los requisitos de protección integral a la infancia y adolescencia; Estar al corriente en obligaciones tributarias y frente a la Seguridad Social; Justificar previamente cualquier subvención concedida anteriormente
+  - Description: Esta ayuda tiene como objetivo financiar programas de actividades extraescolares y complementarias no curriculares en centros de educación secundaria pública del municipio de Murcia, fomentando el desarrollo integral del alumnado durante el curso escolar 2026/2027.
+  - Requirements: Centros de Educación Secundaria de titularidad pública del municipio de Murcia; No estar incurso en circunstancias de exclusión según la Ley General de Ayudas; Cumplir con los requisitos de protección integral a la infancia y adolescencia; Estar al corriente en obligaciones tributarias y frente a la Seguridad Social; Justificar previamente cualquier ayuda concedida anteriormente
   - Budget: 100000€ | Reception: 13/07/2026 | Start: 14/07/2026 | End: 30/09/2026
 - [CONVENIO FUNDACIÓN SECRETARIADO GITANO: FORMACIÓN Y CAPACITACIÓN](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/918978) ()
   - Description: Este convenio busca facilitar la inclusión sociolaboral de la población gitana en Zaragoza, mediante el desarrollo de un proyecto que mejora su presencia en el mercado laboral y sus competencias profesionales durante el año 2026.

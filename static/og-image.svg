@@ -51,7 +51,7 @@
   <rect x="198" y="260" width="120" height="4" fill="#b90538" rx="2"/>
 
   <!-- Subtítulo -->
-  <text x="600" y="350" class="subtitle" text-anchor="middle">Subvenciones y ayudas activas en España</text>
+  <text x="600" y="350" class="subtitle" text-anchor="middle">Ayudas y ayudas activas en España</text>
 
   <!-- Pills de beneficiarios (centradas) -->
   <g transform="translate(310, 460)">

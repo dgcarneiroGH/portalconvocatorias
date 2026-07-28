@@ -1,11 +1,11 @@
 ---
-title: Subvenciones (subvenciones-autonomos-valencia-innovacion)
-slug: subvenciones-autonomos-valencia-innovacion
+title: Ayudas (ayudas-autonomos-valencia-innovacion)
+slug: ayudas-autonomos-valencia-innovacion
 date: 2026-07-28
 count: 0
 _orphan: true
 ---
 
-# Subvenciones (subvenciones-autonomos-valencia-innovacion)
+# Ayudas (ayudas-autonomos-valencia-innovacion)
 
 _Esta página está pendiente de regenerar. Sin datos activos._

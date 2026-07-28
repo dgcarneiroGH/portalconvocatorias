@@ -2,7 +2,7 @@ const assert = require('node:assert/strict');
 const fs = require('node:fs');
 
 const home = fs.readFileSync('public/index.html', 'utf8');
-const grant = fs.readFileSync('public/subvenciones-alava-asociaciones-nominativas/index.html', 'utf8');
+const grant = fs.readFileSync('public/ayudas-alava-asociaciones-nominativas/index.html', 'utf8');
 const content = fs.readFileSync('public/sobre-nosotros/index.html', 'utf8');
 
 const stylesheetNames = html => [...html.matchAll(/href=(?:"|)[^\s>]*\/([^/.\s]+)(?:\.min)?\.[a-f0-9]+\.css/g)].map(match => match[1]);

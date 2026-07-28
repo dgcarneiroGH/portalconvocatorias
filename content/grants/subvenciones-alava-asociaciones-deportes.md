@@ -1,17 +1,17 @@
 ---
-title: Subvenciones para deportes en Álava para Asociaciones y ong
+title: Ayudas para deportes en Álava para Asociaciones y ong
 description: "Recopilatorio de las 9 ayudas activas en Álava para Asociaciones y ong dentro del sector deportes, con presupuesto y plazos de solicitud."
 region: Álava
 beneficiario: Asociaciones y ong
 tag_seo: deportes
 count: 9
 date: 2026-07-28
-slug: subvenciones-alava-asociaciones-deportes
+slug: ayudas-alava-asociaciones-deportes
 ---
 
-# Subvenciones para deportes en alava para asociaciones
+# Ayudas para deportes en alava para asociaciones
 
-Subvenciones activas (9):
+Ayudas activas (9):
 
 - [CONVENIO COLABORACIÓN PARA ACTIVIDADES DEPORTIVAS CON AMURRIO CLUB DE FÚTBOL 2026](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/906696) ()
   - Budget: 36404€ | Reception: 20/05/2026

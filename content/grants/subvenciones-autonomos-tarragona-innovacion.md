@@ -1,11 +1,11 @@
 ---
-title: Subvenciones (subvenciones-autonomos-tarragona-innovacion)
-slug: subvenciones-autonomos-tarragona-innovacion
+title: Ayudas (ayudas-autonomos-tarragona-innovacion)
+slug: ayudas-autonomos-tarragona-innovacion
 date: 2026-07-28
 count: 0
 _orphan: true
 ---
 
-# Subvenciones (subvenciones-autonomos-tarragona-innovacion)
+# Ayudas (ayudas-autonomos-tarragona-innovacion)
 
 _Esta página está pendiente de regenerar. Sin datos activos._

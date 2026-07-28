@@ -1,6 +1,6 @@
 ---
 title: Fuentes oficiales de datos
-description: Relación completa de las fuentes oficiales públicas de las que Portal de Convocatorias extrae los datos de ayudas y subvenciones.
+description: Relación completa de las fuentes oficiales públicas de las que Portal de Convocatorias extrae los datos de ayudas y ayudas.
 date: 2026-07-23
 slug: fuentes
 ---
@@ -9,7 +9,7 @@ Toda la información publicada en Portal de Convocatorias proviene de **fuentes 
 
 ## Fuente nacional principal
 
-### Base de Datos Nacional de Subvenciones (BDNS)
+### Base de Datos Nacional de Ayudas (BDNS)
 
 - **Organismo**: Intervención General del Estado (Ministerio de Hacienda).
 - **URL**: https://www.pap.hacienda.gob.es/bdnstrans/GE/es/index
@@ -19,10 +19,10 @@ Toda la información publicada en Portal de Convocatorias proviene de **fuentes 
 
 ## Fuentes autonómicas
 
-Cada comunidad autónoma publica información complementaria en sus propios portales de transparencia y de subvenciones:
+Cada comunidad autónoma publica información complementaria en sus propios portales de transparencia y de ayudas:
 
-- **Andalucía**: [Junta de Andalucía - Subvenciones](https://www.juntadeandalucia.es/organismos/transformacioneconomicaindustriaconocimientouniversidad/temas/subvenciones.html)
-- **Aragón**: [Gobierno de Aragón - Subvenciones](https://www.aragon.es/-/subvenciones)
+- **Andalucía**: [Junta de Andalucía - Ayudas](https://www.juntadeandalucia.es/organismos/transformacioneconomicaindustriaconocimientouniversidad/temas/ayudas.html)
+- **Aragón**: [Gobierno de Aragón - Ayudas](https://www.aragon.es/-/ayudas)
 - **Asturias**: [Gobierno del Principado de Asturias](https://www.asturias.es/)
 - **Baleares**: [Govern de les Illes Balears](https://www.caib.es/)
 - **Canarias**: [Gobierno de Canarias](https://www3.gobiernodecanarias.org/medusa/wiki/)

@@ -1,20 +1,20 @@
 ---
-title: Subvenciones para empleo en Tarragona para Pyme y autónomos
+title: Ayudas para empleo en Tarragona para Pyme y autónomos
 description: "Recopilatorio de las 6 ayudas activas en Tarragona para Pyme y autónomos dentro del sector empleo, con presupuesto y plazos de solicitud."
 region: Tarragona
 beneficiario: Pyme y autónomos
 tag_seo: empleo
 count: 6
 date: 2026-07-28
-slug: subvenciones-autonomos-tarragona-empleo
+slug: ayudas-autonomos-tarragona-empleo
 ---
 
-# Subvenciones para empleo en autonomos para tarragona
+# Ayudas para empleo en autonomos para tarragona
 
-Subvenciones activas (6):
+Ayudas activas (6):
 
 - [CONCESIÓN DE SUBVENCIONES DESTINADAS A LAS EMPRESAS Y NUEVOS EMPRENDEDORES PARA LA PROMOCIÓN DEL EMPLEO EN EL MUNICIPIO DE LA CANONJA](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/887340) ()
-  - Description: Convocatoria de subvenciones para fomentar la creación de empleo y apoyar a nuevos emprendedores en el municipio de la Canonja, con el objetivo de incentivar la contratación de trabajadores empadronados y facilitar la creación de nuevas empresas.
+  - Description: Convocatoria de ayudas para fomentar la creación de empleo y apoyar a nuevos emprendedores en el municipio de la Canonja, con el objetivo de incentivar la contratación de trabajadores empadronados y facilitar la creación de nuevas empresas.
   - Requirements: Empresas y autónomos que contraten personas empadronadas en la Canonja; Personas físicas o jurídicas con limitación de responsabilidad empadronadas en la Canonja con un año de antigüedad; Personas físicas o jurídicas no empadronadas que contraten un trabajador empadronado en la Canonja; Las contrataciones deben aumentar el número de trabajadores de la empresa; Obligatorio tener autorización administrativa para ejercer la actividad
   - Budget: 30000€ | Reception: 16/02/2026 | Start: 16/02/2026
 - [AYUDAS DE LA CONTRATACIÓN TALENTO JOVEN CÁMARA DE COMERCIO DE TARRAGONA 2026](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/899190) ()
@@ -30,7 +30,7 @@ Subvenciones activas (6):
   - Requirements: Personas físicas o jurídicas con domicilio fiscal en la Pobla de Mafumet; Contratación de personas empadronadas en el municipio; Instalación de nuevas actividades dentro del término municipal
   - Budget: 50000€ | Reception: 05/05/2026 | Start: 06/05/2026 | End: 31/08/2026
 - [CONVOCATORIA PARA EL OTORGAMIENTO DE SUBVENCIONES A LA CONTRATACIÓN (2026)](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/912086) ()
-  - Description: El objetivo principal de esta subvención es financiar la contratación de personas desempleadas en el municipio de Vandellòs y l'Hospitalet de l'Infant durante el periodo del 1 de octubre de 2025 al 30 de septiembre de 2026.
+  - Description: El objetivo principal de esta ayuda es financiar la contratación de personas desempleadas en el municipio de Vandellòs y l'Hospitalet de l'Infant durante el periodo del 1 de octubre de 2025 al 30 de septiembre de 2026.
   - Requirements: Empreses del municipi de Vandellòs i l'Hospitalet de l'Infant.; Contractació de treballadors aturats.; Compliment de les obligacions tributàries i amb la Seguretat Social.; Acreditar la situació de col·lectius vulnerables per a bonificacions addicionals.
   - Budget: 10000€ | Reception: 10/06/2026 | Start: 11/06/2026 | End: 30/09/2026
 - [CONVOCATORIA PARA LA CONCESIÓN DE INCENTIVOS A LAS EMPRESAS Y NUEVOS EMPRENDEDORES PARA LA PROMOCIÓN DEL EMPLEO, AÑO 2026.](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/916493) ()

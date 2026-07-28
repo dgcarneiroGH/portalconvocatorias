@@ -1,17 +1,17 @@
 ---
-title: Subvenciones para formacion en Álava para Asociaciones y ong
+title: Ayudas para formacion en Álava para Asociaciones y ong
 description: "Recopilatorio de las 4 ayudas activas en Álava para Asociaciones y ong dentro del sector formacion, con presupuesto y plazos de solicitud."
 region: Álava
 beneficiario: Asociaciones y ong
 tag_seo: formacion
 count: 4
 date: 2026-07-28
-slug: subvenciones-alava-asociaciones-formacion
+slug: ayudas-alava-asociaciones-formacion
 ---
 
-# Subvenciones para formacion en alava para asociaciones
+# Ayudas para formacion en alava para asociaciones
 
-Subvenciones activas (4):
+Ayudas activas (4):
 
 - [CONVOCATORIA DE SUBVENCIONES DE CONCURRENCIA COMPETITIVA DIRIGIDA A ENTIDADES Y/O ASOCIACIONES SIN ÁNIMO DE LUCRO QUE ACTÚEN EN EL ÁMBITO DE LA IGUALDAD DE MUJERES Y HOMBRES EN EL AÑO 2026](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/909613) ()
   - Budget: 28500€ | Reception: 01/06/2026 | Start: 02/06/2026 | End: 29/06/2026

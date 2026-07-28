@@ -1,17 +1,17 @@
 ---
-title: Subvenciones nominativas en Álava para Asociaciones y ong
+title: Ayudas nominativas en Álava para Asociaciones y ong
 description: "Recopilatorio de las 17 ayudas activas en Álava para Asociaciones y ong dentro del sector nominativas, con presupuesto y plazos de solicitud."
 region: Álava
 beneficiario: Asociaciones y ong
 tag_seo: nominativas
 count: 17
 date: 2026-07-28
-slug: subvenciones-alava-asociaciones-nominativas
+slug: ayudas-alava-asociaciones-nominativas
 ---
 
-# Subvenciones para nominativas en alava para asociaciones
+# Ayudas para nominativas en alava para asociaciones
 
-Subvenciones activas (17):
+Ayudas activas (17):
 
 - [SUBVENCIONES NOMINATIVAS ÁREA DE IGUALDAD Y BIENESTAR SOCIAL 2026](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/906751) ()
   - Budget: 14354.14€ | Reception: 20/05/2026

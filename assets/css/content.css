@@ -87,7 +87,7 @@
     justify-content: space-around;
 }
 
-/* Listado de Subvenciones (list.html) */
+/* Listado de Ayudas (list.html) */
 .grant-list { 
     list-style: none; 
     padding: 0; 
@@ -201,7 +201,7 @@
     border-bottom: 3px solid var(--orange);
 }
 
-/* Título de sección (Listado de Subvenciones) */
+/* Título de sección (Listado de Ayudas) */
 .section-title {
     font-family: 'Space Grotesk', sans-serif;
     color: var(--navy);
@@ -220,7 +220,7 @@
     white-space: nowrap;
 }
 
-/* Tarjeta de subvención individual - Título con cuadro naranja */
+/* Tarjeta de ayuda individual - Título con cuadro naranja */
 .grant-item-title {
     text-align: center;
     font-family: "Space Grotesk", Arial, sans-serif;

@@ -1,28 +1,28 @@
 ---
-title: Subvenciones para comercio en Valencia para Pyme y autónomos
+title: Ayudas para comercio en Valencia para Pyme y autónomos
 description: "Recopilatorio de las 9 ayudas activas en Valencia para Pyme y autónomos dentro del sector comercio, con presupuesto y plazos de solicitud."
 region: Valencia
 beneficiario: Pyme y autónomos
 tag_seo: comercio
 count: 9
 date: 2026-07-28
-slug: subvenciones-autonomos-valencia-comercio
+slug: ayudas-autonomos-valencia-comercio
 ---
 
-# Subvenciones para comercio en autonomos para valencia
+# Ayudas para comercio en autonomos para valencia
 
-Subvenciones activas (9):
+Ayudas activas (9):
 
 - [EXPEDIENTE 2746210F: PREMIS A L'ÚS DEL VALENCIÀ EN EL COMERÇ LOCAL 2026](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/903852) ()
   - Description: Las ayudas están destinadas a fomentar el uso del valenciano en el sector comercial de Picassent. Se otorgan premios a los comercios, servicios y microempresas que promuevan este idioma mediante la rotulación, publicidad y uso en redes sociales.
-  - Requirements: Ser persona física o jurídica vinculada con un IAE relacionado con comercios, servicios u hostelería en Picassent,No estar incursos en circunstancias que impidan la obtención de subvenciones según la Ley 38/2003,Estar al corriente en obligaciones tributarias y con la Seguridad Social,Tener un establecimiento comercial abierto en Picassent
+  - Requirements: Ser persona física o jurídica vinculada con un IAE relacionado con comercios, servicios u hostelería en Picassent,No estar incursos en circunstancias que impidan la obtención de ayudas según la Ley 38/2003,Estar al corriente en obligaciones tributarias y con la Seguridad Social,Tener un establecimiento comercial abierto en Picassent
   - Budget: 3200€ | Reception: 06/05/2026 | Start: 07/04/2026 | End: 31/12/2026
 - [ACUERDO DE LA JUNTA DE GOBIERNO DEL AYUNTAMIENTO DE QUART DE POBLET DE FECHA 30 DE ABRIL DE 2026 POR EL QUE SE CONVOCA LA SEXTA EDICIÓN DE LOS PREMIOS POR EL USO DEL VALENCIANO EN EL COMERCIO LOCAL.](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/906188) ()
   - Description: La convocatoria tiene como finalidad promover el uso del valenciano en el comercio local de Quart de Poblet, valorando y galardonando a los establecimientos que lo utilicen en su rotulación, documentación y redes sociales.
   - Requirements: Comercio o empresa ubicada en Quart de Poblet,Solo se puede presentar una solicitud por persona física o jurídica,No estar en situación de prohibición de ostentar tal condición según el artículo 13 de la Ley 38/2003
   - Budget: 3000€ | Reception: 18/05/2026 | Start: 19/05/2026 | End: 20/09/2026
 - [CONVOCATORIA PARA LA CONCESIÓN DE SUBVENCIONES EN EL ÁMBITO COMERCIAL Y EMPRESARIAL PARA EL FOMENTO DEL USO DEL VALENCIANO](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/906500) ()
-  - Description: La finalidad de estas subvenciones es regular la concesión de ayudas económicas para fomentar la actividad comercial en valenciano en el municipio de Sueca, abarcando acciones como rotulación, publicidad y creación de páginas web.
+  - Description: La finalidad de estas ayudas es regular la concesión de ayudas económicas para fomentar la actividad comercial en valenciano en el municipio de Sueca, abarcando acciones como rotulación, publicidad y creación de páginas web.
   - Requirements: Comercios, empresas, industrias y profesionales de Sueca,Estar al corriente de obligaciones tributarias y fiscales,Uso del valenciano en la actividad comercial
   - Budget: 4100€ | Reception: 19/05/2026 | Start: 01/06/2026 | End: 30/09/2026
 - [CONVOCATORIA DE LA III EDICIÓN DE LOS PREMIOS SILVELLA AL COMERCIO Y EMPRESAS DE XIRIVELLA 2026](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/907587) ()
@@ -33,7 +33,7 @@ Subvenciones activas (9):
   - Description: Este subsidio está destinado a financiar proyectos que promuevan la innovación y el desarrollo tecnológico en empresas pequeñas y medianas.
   - Budget: 0€ | Reception: 12/06/2026
 - [CONVOCATORIA DE SUBVENCIONES DESTINADAS A LA ACTUALIZACIÓN DE LA IMAGEN COMERCIAL Y NUEVAS TECNOLOGÍAS DEL COMERCIO 2026](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/913737) ()
-  - Description: Fomento de la actividad comercial en el municipio de Llíria a través de subvenciones para obras de acondicionamiento, adquisición de material y equipos, y promoción de establecimientos.
+  - Description: Fomento de la actividad comercial en el municipio de Llíria a través de ayudas para obras de acondicionamiento, adquisición de material y equipos, y promoción de establecimientos.
   - Budget: 39000€ | Reception: 17/06/2026 | Start: 18/06/2026 | End: 12/08/2026
 - [V PREMIOS AL USO DEL VALENCIANO EN EL COMERCIO LOCAL DE L'ELIANA, EJERCICIO 2026](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/914675) ()
   - Description: Contribuir a la normalización del valenciano, promoviendo su uso en el comercio local y protegiendo el interés de la ciudadanía de l'Eliana.

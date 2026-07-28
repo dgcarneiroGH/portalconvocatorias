@@ -28,8 +28,8 @@ Sin estos archivos, Hugo no tiene datos SEO propios para la home ni para la secc
 **`content/_index.md`** — contenido:
 
     ---
-    title: Portal de Subvenciones
-    description: Recopilatorio actualizado diariamente de subvenciones, ayudas y convocatorias activas en España para asociaciones, autónomos, empresas y particulares, filtrado por territorio, tipo de beneficiario y sector.
+    title: Portal de Ayudas
+    description: Recopilatorio actualizado diariamente de ayudas, ayudas y convocatorias activas en España para asociaciones, autónomos, empresas y particulares, filtrado por territorio, tipo de beneficiario y sector.
     ---
 
 (El `title` se puede dejar igual a `Site.Title` si no quieres diferenciarlo; el `description` es lo que de verdad aporta valor SEO en la home.)
@@ -37,11 +37,11 @@ Sin estos archivos, Hugo no tiene datos SEO propios para la home ni para la secc
 **`content/grants/_index.md`** — contenido:
 
     ---
-    title: Archivo de Subvenciones
-    description: Listado completo de todas las categorías de subvenciones y ayudas activas, organizado por territorio, tipo de beneficiario y sector.
+    title: Archivo de Ayudas
+    description: Listado completo de todas las categorías de ayudas y ayudas activas, organizado por territorio, tipo de beneficiario y sector.
     ---
 
-(Si no creas este segundo, el `<title>` de `/grants/` cambiaría de `Archivo de Subvenciones | Portal de Subvenciones` a `Grants | Portal de Subvenciones` tras el refactor → regresión SEO.)
+(Si no creas este segundo, el `<title>` de `/grants/` cambiaría de `Archivo de Ayudas | Portal de Ayudas` a `Grants | Portal de Ayudas` tras el refactor → regresión SEO.)
 
 ### Paso 1 — Crear `layouts/_default/baseof.html`
 Archivo nuevo con este contenido:
@@ -114,9 +114,9 @@ Ejecutar `hugo server` y abrir las 3 URLs en el navegador (Ctrl+U para ver el c�
 
 | URL | `<title>` esperado | `og:type` esperado |
 |---|---|---|
-| `/` | `Portal de Subvenciones` | `website` |
-| `/grants/` | `Archivo de Subvenciones \| Portal de Subvenciones` | `article` |
-| `/grants/subvenciones-alava-asociaciones-deportes/` | `Subvenciones para deportes en Álava… \| Portal de Subvenciones` | `article` |
+| `/` | `Portal de Ayudas` | `website` |
+| `/grants/` | `Archivo de Ayudas \| Portal de Ayudas` | `article` |
+| `/grants/ayudas-alava-asociaciones-deportes/` | `Ayudas para deportes en Álava… \| Portal de Ayudas` | `article` |
 
 Comprobar también que `<link rel="canonical">` y el bloque OG/Twitter aparecen correctamente. El contenido visible (cards de grants) debe verse **idéntico** al actual.
 
@@ -125,4 +125,4 @@ Comprobar también que `<link rel="canonical">` y el bloque OG/Twitter aparecen 
 
 ## Lo que esta fase NO incluye (queda para fase 2)
 - `og:image` → sin imagen personalizada los previews en redes saldrán sin foto. Se decidirá en una fase 2.
-- `description:` en el front matter de los 14 `.md` → al no existir, Hugo usa `.Summary` (H1 + "Subvenciones activas (N):" + inicio de la lista), que NO es ideal para SEO pero NO rompe nada. Rellenar manualmente cada `.md` con un `description: "…"` único corresponde a la fase 2.
+- `description:` en el front matter de los 14 `.md` → al no existir, Hugo usa `.Summary` (H1 + "Ayudas activas (N):" + inicio de la lista), que NO es ideal para SEO pero NO rompe nada. Rellenar manualmente cada `.md` con un `description: "…"` único corresponde a la fase 2.

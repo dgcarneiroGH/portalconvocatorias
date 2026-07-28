@@ -1,17 +1,17 @@
 ---
-title: Subvenciones para deportes en Canarias para Asociaciones y ong
+title: Ayudas para deportes en Canarias para Asociaciones y ong
 description: "Recopilatorio de las 8 ayudas activas en Canarias para Asociaciones y ong dentro del sector deportes, con presupuesto y plazos de solicitud."
 region: Canarias
 beneficiario: Asociaciones y ong
 tag_seo: deportes
 count: 8
 date: 2026-07-28
-slug: subvenciones-asociaciones-canarias-deportes
+slug: ayudas-asociaciones-canarias-deportes
 ---
 
-# Subvenciones para deportes en asociaciones para canarias
+# Ayudas para deportes en asociaciones para canarias
 
-Subvenciones activas (8):
+Ayudas activas (8):
 
 - [ORDEN DEL CONSEJERO DE EDUCACIÓN, FP, ACTIVIDAD FÍSICA Y DEPORTES, POR LA QUE SE CONCEDEN SUBVENCIONES DIRECTAS A 20 FEDERACIONES CANARIAS Y AL CD ORIENTACIÓN AGÜICO, PARA FINANCIAR LA PARTICIPACIÓN EN CAMPEONATOS DE ESPAÑA EN EDAD ESCOLAR 2026.](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/909754) ()
   - Budget: 27011.16€ | Reception: 01/06/2026

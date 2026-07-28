@@ -1,17 +1,17 @@
 ---
-title: Subvenciones para empleo en Valencia para Pyme y autónomos
+title: Ayudas para empleo en Valencia para Pyme y autónomos
 description: "Recopilatorio de las 4 ayudas activas en Valencia para Pyme y autónomos dentro del sector empleo, con presupuesto y plazos de solicitud."
 region: Valencia
 beneficiario: Pyme y autónomos
 tag_seo: empleo
 count: 4
 date: 2026-07-28
-slug: subvenciones-autonomos-valencia-empleo
+slug: ayudas-autonomos-valencia-empleo
 ---
 
-# Subvenciones para empleo en autonomos para valencia
+# Ayudas para empleo en autonomos para valencia
 
-Subvenciones activas (4):
+Ayudas activas (4):
 
 - [CONVOCATORIA PREMIOS AL EMPRENDIMIENTO SOCIAL 2026](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/904441) ()
   - Description: Apoyar y dar reconocimiento a autónomos, empresas y entidades que realicen proyectos empresariales con impacto social y comunitario en València.
@@ -22,7 +22,7 @@ Subvenciones activas (4):
   - Requirements: Emprendedores que se constituyan en trabajadores autónomos,Actividad ubicada en el municipio de Rocafort
   - Budget: 30000€ | Reception: 25/05/2026 | Start: 26/05/2026 | End: 15/09/2026
 - [CONVOCATORIA DE LAS AYUDAS ECONÓMICAS DESTINADAS A APOYAR A LOS NUEVOS  AUTÓNOMOS, AÑO 2026](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/911902) ()
-  - Description: El objetivo de esta subvención es apoyar a las personas emprendedoras que han iniciado una actividad económica por cuenta propia en el municipio, contribuyendo a cubrir los gastos de la cuota del Régimen Especial de Trabajadores Autónomos (RETA) durante el ejercicio 2025.
+  - Description: El objetivo de esta ayuda es apoyar a las personas emprendedoras que han iniciado una actividad económica por cuenta propia en el municipio, contribuyendo a cubrir los gastos de la cuota del Régimen Especial de Trabajadores Autónomos (RETA) durante el ejercicio 2025.
   - Requirements: Personas físicas que cumplan los requisitos establecidos en la convocatoria,Residir en el municipio de la Pobla de Vallbona
   - Budget: 15000€ | Reception: 10/06/2026 | Start: 11/06/2026 | End: 11/07/2026
 - [CONVOCATORIA AYUDAS DESTINADAS AL FOMENTO DE LA ACTIVIDAD EMPRENDEDORA - ENGUERA AVANZA 2026](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/916570) ()

@@ -1,17 +1,17 @@
 ---
-title: Subvenciones para deportes en España para Particulares
+title: Ayudas para deportes en España para Particulares
 description: "Recopilatorio de las 4 ayudas activas en España para Particulares dentro del sector deportes, con presupuesto y plazos de solicitud."
 region: España
 beneficiario: Particulares
 tag_seo: deportes
 count: 4
 date: 2026-07-28
-slug: subvenciones-espana-particulares-deportes
+slug: ayudas-espana-particulares-deportes
 ---
 
-# Subvenciones para deportes en espana para particulares
+# Ayudas para deportes en espana para particulares
 
-Subvenciones activas (4):
+Ayudas activas (4):
 
 - [VII EDICIÓN DE LOS PREMIOS CÁTEDRA BALONCESTO DE L’ALQUERIA DEL BASKET DE LA UNIVERSITAT DE VALÈNCIA A LOS MEJORES TRABAJOS DE FINAL DE MÁSTER (TFM) RELACIONADOS CON EL BALONCESTO](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/913598) ()
   - Budget: 2000€ | Reception: 17/06/2026 | Start: 18/06/2026 | End: 30/09/2026

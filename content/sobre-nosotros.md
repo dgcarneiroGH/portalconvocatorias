@@ -5,7 +5,7 @@ date: 2026-07-23
 slug: sobre-nosotros
 ---
 
-Portal de Convocatorias es un proyecto independiente nacido con un objetivo claro: **facilitar el acceso a la información pública sobre ayudas, subvenciones y convocatorias en España**.
+Portal de Convocatorias es un proyecto independiente nacido con un objetivo claro: **facilitar el acceso a la información pública sobre ayudas, ayudas y convocatorias en España**.
 
 ## ¿Qué hacemos?
 
@@ -19,8 +19,8 @@ Cada día recopilamos, organizamos y publicamos información sobre las convocato
 
 Toda la información que publicamos proviene de **fuentes oficiales públicas**:
 
-- [Base de Datos Nacional de Subvenciones (BDNS)](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/index) — gestionada por la Intervención General del Estado.
-- Portales de transparencia y portales de subvenciones de cada comunidad autónoma.
+- [Base de Datos Nacional de Ayudas (BDNS)](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/index) — gestionada por la Intervención General del Estado.
+- Portales de transparencia y portales de ayudas de cada comunidad autónoma.
 - Boletines oficiales de las provincias y municipios.
 
 Puedes consultar el detalle de las fuentes en la página de [Fuentes oficiales](/fuentes/).

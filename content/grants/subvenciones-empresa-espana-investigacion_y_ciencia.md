@@ -1,17 +1,17 @@
 ---
-title: Subvenciones para investigacion y ciencia en España para Gran empresa
+title: Ayudas para investigacion y ciencia en España para Gran empresa
 description: "Recopilatorio de las 7 ayudas activas en España para Gran empresa dentro del sector investigacion_y_ciencia, con presupuesto y plazos de solicitud."
 region: España
 beneficiario: Gran empresa
 tag_seo: investigacion_y_ciencia
 count: 7
 date: 2026-07-28
-slug: subvenciones-empresa-espana-investigacion_y_ciencia
+slug: ayudas-empresa-espana-investigacion_y_ciencia
 ---
 
-# Subvenciones para investigacion_y_ciencia en empresa para espana
+# Ayudas para investigacion_y_ciencia en empresa para espana
 
-Subvenciones activas (7):
+Ayudas activas (7):
 
 - [RESOLUCIÓN DE 13 DE MARZO DE 2026 DE LA DIRECCIÓN GENERAL DEL CDTI DE CONCESIÓN DIRECTA DE AYUDAS DEL AÑO 2026 A PROYECTOS DE I+D SELECCIONADOS EN LOS PROGRAMAS INTERNACIONALES EUROSTARS 3, ASOCIACIONES COFINANCIADAS.](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/893025) ()
   - Description: La convocatoria tiene por objetivo regular la concesión de ayudas para proyectos de investigación y desarrollo aprobados en el marco del Programa Eurostars-3 y otros programas cofinanciados relacionados con el agua, agroecología, alimentación futura y transición energética.

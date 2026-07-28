@@ -43,7 +43,7 @@ Configuracion recomendada:
 - `/grants/` — trafico de descubrimiento
 - `/regiones/[region]/` — trafico SEO long-tail
 - `/para/[beneficiario]/` — trafico SEO long-tail
-- `/subvenciones-[region]-[beneficiario]-[sector]/` — fichas de detalle
+- `/ayudas-[region]-[beneficiario]-[sector]/` — fichas de detalle
 
 ## Analitica web
 

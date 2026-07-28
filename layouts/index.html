@@ -9,7 +9,7 @@
         </header>
 
         <section class="filter-section" aria-labelledby="filter-heading">
-            <h2 id="filter-heading" class="filter-heading">Filtrar Subvenciones</h2>
+            <h2 id="filter-heading" class="filter-heading">Filtrar Ayudas</h2>
 
             <div class="filter-group">
                 <h3 class="filter-group-label">Región</h3>
@@ -41,7 +41,7 @@
             {{ end }}
         </section>
 
-        <section class="home-grant-list" aria-label="Subvenciones disponibles">
+        <section class="home-grant-list" aria-label="Ayudas disponibles">
             {{ range where .Site.RegularPages "Section" "grants" }}
             {{ $regionSlug := "" }}
             {{ $benefSlug := "" }}
