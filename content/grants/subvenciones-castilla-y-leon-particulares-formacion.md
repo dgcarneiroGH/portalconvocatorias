@@ -1,8 +1,8 @@
 ---
-title: Ayudas para formacion en Castilla y leon para Particulares
-description: "Recopilatorio de las 5 ayudas activas en Castilla y leon para Particulares dentro del sector formacion, con presupuesto y plazos de solicitud."
-regiones: Castilla y leon
-para: Particulares
+title: Ayudas para formacion en Castilla y león para Particulares
+description: "Recopilatorio de las 5 ayudas activas en Castilla y león para Particulares dentro del sector formacion, con presupuesto y plazos de solicitud."
+region: Castilla y león
+beneficiario: Particulares
 tag_seo: formacion
 count: 5
 date: 2026-07-28
