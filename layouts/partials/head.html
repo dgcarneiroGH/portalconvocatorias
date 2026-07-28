@@ -23,7 +23,16 @@
 <meta name="twitter:title"
   content="{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Title }} | {{ .Site.Title }}{{ end }}">
 
-<link rel="stylesheet" href="/css/main.css">
+{{- $baseStyles := resources.Get "css/base.css" | minify | fingerprint -}}
+<link rel="stylesheet" href="{{ $baseStyles.RelPermalink }}" integrity="{{ $baseStyles.Data.Integrity }}">
+{{- $pageStyles := resources.Get "css/content.css" -}}
+{{- if or .IsHome (eq .Kind "term") -}}
+  {{- $pageStyles = resources.Get "css/home.css" -}}
+{{- else if and (eq .Section "grants") (eq .Kind "page") -}}
+  {{- $pageStyles = resources.Get "css/grant.css" -}}
+{{- end -}}
+{{- $pageStyles = $pageStyles | minify | fingerprint -}}
+<link rel="stylesheet" href="{{ $pageStyles.RelPermalink }}" integrity="{{ $pageStyles.Data.Integrity }}">
 
 {{- partial "schemas.html" . -}}
 
