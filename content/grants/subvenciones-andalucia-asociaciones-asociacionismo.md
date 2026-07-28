@@ -1,8 +1,8 @@
 ---
 title: Ayudas para asociacionismo en Andalucia para Asociaciones y ong
 description: "Recopilatorio de las 6 ayudas activas en Andalucia para Asociaciones y ong dentro del sector asociacionismo, con presupuesto y plazos de solicitud."
-regiones: Andalucia
-para: Asociaciones y ong
+region: Andalucia
+beneficiario: Asociaciones y ong
 tag_seo: asociacionismo
 count: 6
 date: 2026-07-28
