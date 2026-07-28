@@ -1,8 +1,8 @@
 ---
-title: Ayudas nominativas en Castilla y leon para Particulares
-description: "Recopilatorio de las 3 ayudas activas en Castilla y leon para Particulares dentro del sector nominativas, con presupuesto y plazos de solicitud."
-regiones: Castilla y leon
-para: Particulares
+title: Ayudas nominativas en Castilla y león para Particulares
+description: "Recopilatorio de las 3 ayudas activas en Castilla y león para Particulares dentro del sector nominativas, con presupuesto y plazos de solicitud."
+region: Castilla y león
+beneficiario: Particulares
 tag_seo: nominativas
 count: 3
 date: 2026-07-28
