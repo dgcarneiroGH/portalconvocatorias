@@ -1,8 +1,8 @@
 ---
-title: Ayudas para juventud en Region de murcia para Gran empresa
-description: "Recopilatorio de las 3 ayudas activas en Region de murcia para Gran empresa dentro del sector juventud, con presupuesto y plazos de solicitud."
-regiones: Region de murcia
-para: Gran empresa
+title: Ayudas para juventud en Región de murcia para Gran empresa
+description: "Recopilatorio de las 3 ayudas activas en Región de murcia para Gran empresa dentro del sector juventud, con presupuesto y plazos de solicitud."
+region: Región de murcia
+beneficiario: Gran empresa
 tag_seo: juventud
 count: 3
 date: 2026-07-28
