@@ -1,8 +1,8 @@
 ---
 title: Ayudas para deportes en España para Particulares
 description: "Recopilatorio de las 4 ayudas activas en España para Particulares dentro del sector deportes, con presupuesto y plazos de solicitud."
-regiones: España
-para: Particulares
+region: España
+beneficiario: Particulares
 tag_seo: deportes
 count: 4
 date: 2026-07-28
