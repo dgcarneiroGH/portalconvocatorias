@@ -1,8 +1,8 @@
 ---
 title: Ayudas nominativas en Pontevedra para Asociaciones y ong
 description: "Recopilatorio de las 7 ayudas activas en Pontevedra para Asociaciones y ong dentro del sector nominativas, con presupuesto y plazos de solicitud."
-regiones: Pontevedra
-para: Asociaciones y ong
+region: Pontevedra
+beneficiario: Asociaciones y ong
 tag_seo: nominativas
 count: 7
 date: 2026-07-28
