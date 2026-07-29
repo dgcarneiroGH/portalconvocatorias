@@ -29,20 +29,35 @@
         return true;
     }
 
-    function updateGtagConsent(value) {
+    function pushConsentUpdate(payload) {
         window.dataLayer = window.dataLayer || [];
+        if (typeof window.gtag === 'function') {
+            gtag('consent', 'update', payload);
+            return;
+        }
+        dataLayer.push(['consent', 'update', payload]);
+    }
+
+    function pushConsentEvent(value) {
+        window.dataLayer = window.dataLayer || [];
+        var eventName = 'cookie_consent_' + value;
+        if (typeof window.gtag === 'function') {
+            gtag('event', eventName, {});
+            return;
+        }
+        dataLayer.push({ event: eventName });
+    }
+
+    function updateGtagConsent(value) {
         var analyticsStorage = value === 'accept' ? 'granted' : 'denied';
-        dataLayer.push([
-            'consent',
-            'update',
-            {
-                'analytics_storage': analyticsStorage,
-                'ad_storage': 'denied',
-                'ad_user_data': 'denied',
-                'ad_personalization': 'denied'
-            }
-        ]);
-        dataLayer.push({ event: 'cookie_consent_' + value });
+        var payload = {
+            'analytics_storage': analyticsStorage,
+            'ad_storage': 'denied',
+            'ad_user_data': 'denied',
+            'ad_personalization': 'denied'
+        };
+        pushConsentUpdate(payload);
+        pushConsentEvent(value);
     }
 
     function applyStoredConsent() {
