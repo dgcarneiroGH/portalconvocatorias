@@ -33,10 +33,13 @@
 {{- end -}}
 {{- $pageStyles = $pageStyles | minify | fingerprint -}}
 <link rel="stylesheet" href="{{ $pageStyles.RelPermalink }}" integrity="{{ $pageStyles.Data.Integrity }}">
+{{- $bannerStyles := resources.Get "css/cookie-banner.css" | minify | fingerprint -}}
+<link rel="stylesheet" href="{{ $bannerStyles.RelPermalink }}" integrity="{{ $bannerStyles.Data.Integrity }}">
 
 {{- partial "schemas.html" . -}}
 
 {{- partial "ga4.html" . -}}
+<script defer src="/js/cookie-banner.js"></script>
 <script defer src="/js/ai-referrals.js"></script>
 
 {{- if not .IsHome }}
