@@ -1,7 +1,7 @@
 (function () {
     'use strict';
 
-    if (typeof window.plausible !== 'function') return;
+    window.dataLayer = window.dataLayer || [];
 
     var AI_REFERRAL_PATTERNS = [
         { source: 'chatgpt',          match: /(?:^|\.)chat\.openai\.com$|(?:^|\.)chatgpt\.com$/i },
@@ -39,5 +39,10 @@
     if (!source) return;
 
     var path = window.location.pathname + window.location.search;
-    plausible('AI Referral', { props: { source: source, path: path, fullReferrer: referrer } });
+    dataLayer.push({
+        event: 'ai_referral',
+        source: source,
+        path: path,
+        full_referrer: referrer
+    });
 })();

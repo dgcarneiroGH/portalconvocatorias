@@ -36,10 +36,8 @@
 
 {{- partial "schemas.html" . -}}
 
-{{- if and .Site.Params.plausibleEnabled .Site.Params.plausibleDomain }}
-<script defer data-domain="{{ .Site.Params.plausibleDomain }}" src="https://plausible.io/js/script.js"></script>
+{{- partial "ga4.html" . -}}
 <script defer src="/js/ai-referrals.js"></script>
-{{- end }}
 
 {{- if not .IsHome }}
 <script defer src='https://static.cloudflareinsights.com/beacon.min.js'
