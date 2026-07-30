@@ -68,16 +68,17 @@ Al entrar por primera vez al sitio, aparece un **banner** en la parte inferior c
 
 Tu elección queda registrada en tu navegador. No volveremos a preguntarte hasta que cambies de navegador, borres datos del sitio o retires el consentimiento.
 
-### Retiro del consentimiento
+### Modificar o retirar el consentimiento
 
-Puedes retirar o modificar tu decisión en cualquier momento:
+La ley exige que sea tan fácil retirar el consentimiento como darlo. Si cambias de opinión, puedes revocar o modificar tus preferencias en cualquier momento haciendo clic en el siguiente botón. Al pulsarlo, tus preferencias guardadas se borrarán y volverá a aparecer el banner para que puedas elegir de nuevo:
 
-1. **Desde el footer del sitio**, dentro de "Información legal", pulsa el enlace **"Gestionar cookies"** o **"Cookies"** y selecciona una nueva preferencia.
-2. **Desde tu navegador**: borra las cookies y los datos de sitio de `portalconvocatorias.es`. Al recargar la página volverá a aparecer el banner.
+<button type="button" data-cookie-reset class="btn-revocar-cookies">
+  Cambiar preferencias de cookies
+</button>
 
 ### Configuración del navegador
 
-También puedes permitir, bloquear o eliminar las cookies desde la configuración del navegador. Algunos enlaces a la documentación oficial:
+Adicionalmente, puedes permitir, bloquear o eliminar las cookies desde la configuración del navegador. Algunos enlaces a la documentación oficial:
 
 - [Google Chrome](https://support.google.com/chrome/answer/95647)
 - [Mozilla Firefox](https://support.mozilla.org/es/kb/cookies-informacion-que-los-sitios-web-guardan-en-)

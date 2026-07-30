@@ -16,3 +16,6 @@ title = "Portal de Convocatorias"
 
 [permalinks]
   grants = "/:slug/"
+
+[markup.goldmark.renderer]
+  unsafe = true
