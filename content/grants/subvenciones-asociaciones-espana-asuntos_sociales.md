@@ -1,17 +1,17 @@
 ---
 title: Ayudas para asuntos sociales en España para Asociaciones y ong
-description: "Recopilatorio de las 6 ayudas activas en España para Asociaciones y ong dentro del sector asuntos_sociales, con presupuesto y plazos de solicitud."
+description: "Recopilatorio de las 5 ayudas activas en España para Asociaciones y ong dentro del sector asuntos_sociales, con presupuesto y plazos de solicitud."
 region: España
 beneficiario: Asociaciones y ong
 tag_seo: asuntos_sociales
-count: 6
-date: 2026-07-29
+count: 5
+date: 2026-07-30
 slug: subvenciones-asociaciones-espana-asuntos_sociales
 ---
 
 # Ayudas para asuntos_sociales en asociaciones para espana
 
-Ayudas activas (6):
+Ayudas activas (5):
 
 - [CONVOCATORIA Y BASES QUE RIGEN LAS SUBVENCIONES EN MATERIA DE ACCIÓN SOCIAL 2026-2027.](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/920182) ()
   - Description: La convocatoria tiene como objetivo financiar proyectos de intervención social propuestos por entidades y asociaciones sin ánimo de lucro que se desarrollen en la Ciudad de Zaragoza durante los años 2026 y 2027.
@@ -29,9 +29,6 @@ Ayudas activas (6):
   - Description: Este convenio busca colaborar entre el Ayuntamiento de Mislata y la Asociación de Jubilados y Pensionistas El Quint de Mislata para organizar actividades de envejecimiento activo y talleres de voluntariado dirigidos a personas mayores en el municipio, financiando los gastos relacionados con estas actividades durante el año 2026.
   - Requirements: Los participantes deben ser mayores de 60 años; Deben estar empadronados en Mislata
   - Budget: 5320 € | Reception: 27/07/2026
-- [CONVENIO AMASOL: APOYO A FAMILIAS MONOPARENTALES.](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/918800) ()
-  - Description: El objetivo principal de esta subvención es brindar apoyo integral a familias monoparentales en situación de exclusión social en Zaragoza, mediante intervenciones que fomenten su inclusión social y mejoren la calidad de vida de sus miembros.
-  - Budget: 25.000 € | Reception: 13/07/2026 | Start: 01/01/2026 | End: 31/12/2026
 - [CONVENIO AMANIXER: ATENCIÓN MUJER, DISCAPACIDAD Y VIOLENCIA.](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/918822) ()
   - Description: El programa 'Libres y Diversas' busca promover la autonomía, empoderamiento y participación activa de mujeres con discapacidad en Zaragoza, ofreciendo apoyo social y capacitación en diversas áreas para mejorar su calidad de vida.
   - Requirements: Mujeres con discapacidad; Residencia en Zaragoza
