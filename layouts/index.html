@@ -5,7 +5,7 @@
     <main class="home-container home-content">
         <header class="home-header">
             <h1 id="filter-title">{{ .Site.Title }}</h1>            
-            <p class="home-definition"><strong>Ayudas y Convocatorias</strong> (Portal de Convocatorias) es un recopilatorio diario y gratuito de <strong>ayudas y convocatorias</strong> públicas activas en España, extraídas de la Base de Datos Nacional de Ayudas (BDNS) y de los portales oficiales autonómicos y locales. Cubre asociaciones y ONG, pymes y autónomos, gran empresa y particulares en las 17 comunidades autónomas, 2 ciudades autónomas, diputaciones provinciales y cabildos insulares. Cada ficha enlaza a la fuente oficial original.</p>
+            <p class="home-definition"><strong>Portal de Convocatorias</strong> es un recopilatorio diario y gratuito de <strong>ayudas y convocatorias</strong> públicas activas en España, extraídas de la Base de Datos Nacional de Ayudas (BDNS) y de los portales oficiales autonómicos y locales. Cubre asociaciones y ONG, pymes y autónomos, gran empresa y particulares en las 17 comunidades autónomas, 2 ciudades autónomas, diputaciones provinciales y cabildos insulares. Cada ficha enlaza a la fuente oficial original.</p>
             {{- $grants := where .Site.RegularPages "Section" "grants" -}}
             {{- $totalAyudas := 0 -}}
             {{- $regions := slice -}}

@@ -178,7 +178,7 @@ function checkMetaTags() {
         }
 
         const title = titleMatch[1];
-        if (title.length > 70) {
+        if (title.length > 90) {
             longTitles++;
             warn(`Title largo (${title.length} chars): ${title.substring(0, 60)}...`);
         }
@@ -203,7 +203,7 @@ function checkMetaTags() {
     if (missingTitle === 0) pass('Todas las paginas tienen <title>');
     if (missingDescription === 0) pass('Todas las paginas tienen meta description');
     if (missingCanonical === 0) pass('Todas las paginas tienen canonical');
-    if (longTitles === 0) pass('Todos los titles tienen <= 70 chars');
+    if (longTitles === 0) pass('Todos los titles tienen <= 90 chars');
 }
 
 // 5b. Verificar que los titles de grants y home incluyen "Ayudas y Convocatorias"

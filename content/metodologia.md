@@ -5,8 +5,6 @@ slug: metodologia
 date: 2026-07-28
 ---
 
-# Metodología de Ayudas y Convocatorias
-
 En esta página explicamos **cómo se extrae, valida y publica** la información de **ayudas y convocatorias** que muestra Ayudas y Convocatorias (Portal de Convocatorias). La transparencia metodológica es nuestra principal seña de identidad.
 
 ## Fuentes oficiales

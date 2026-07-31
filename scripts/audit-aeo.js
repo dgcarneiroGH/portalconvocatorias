@@ -54,7 +54,7 @@ files.forEach(f => {
 });
 console.log('Pages without canonical:', noCanonical);
 
-const grantsPages = files.filter(f => /ayudas-[^/]+\/index\.html$/.test(f.replace(/\\/g, '/')));
+const grantsPages = files.filter(f => /subvenciones-[^/]+\/index\.html$/.test(f.replace(/\\/g, '/')));
 console.log('\nGrant pages count:', grantsPages.length);
 
 let grantsWithVisibleDate = 0;
@@ -108,7 +108,7 @@ files.forEach(f => {
 console.log('Pages with SpeakableSpecification:', hasSpeakable);
 
 let grantPagesWithGrantItems = 0;
-const grantFiles = files.filter(f => /ayudas-[^/]+\/index\.html$/.test(f.replace(/\\/g, '/')));
+const grantFiles = files.filter(f => /subvenciones-[^/]+\/index\.html$/.test(f.replace(/\\/g, '/')));
 grantFiles.forEach(f => {
     const h = fs.readFileSync(f, 'utf8');
     const scripts = [...h.matchAll(/<script type=application\/ld\+json>([\s\S]*?)<\/script>/g)];
