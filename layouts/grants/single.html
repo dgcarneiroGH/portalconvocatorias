@@ -136,6 +136,11 @@
         "@type" "Grant"
         "name" $g.title
         "url" $g.url
+        "funder" (dict
+            "@type" "GovernmentOrganization"
+            "name" "Gobierno de España - Base de Datos Nacional de Subvenciones"
+            "url" "https://www.pap.hacienda.gob.es/bdnstrans/GE/es/index"
+        )
     -}}
     {{- if $identifier -}}
         {{- $grantItem = merge $grantItem (dict "identifier" $identifier) -}}
@@ -205,7 +210,7 @@
 {{- $faqs := slice
     (dict
         "question" (printf "¿Qué ayudas hay para %s en %s dentro del sector %s?" $benef $region $tagLabel)
-        "answer" (printf "En esta página se listan %d ayudas activas convocadas por organismos públicos de %s o de ámbito estatal aplicables a este territorio, dirigidas a %s en el sector %s. Cada una incluye presupuesto, plazos, requisitos y enlace a la convocatoria oficial en la BDNS." $count $region $benef $tagLabel)
+        "answer" (printf "En esta página se listan <strong>%d ayudas activas</strong> convocadas por organismos públicos de %s o de ámbito estatal aplicables a este territorio, dirigidas a %s en el sector %s. Cada una incluye presupuesto, plazos, requisitos y enlace a la convocatoria oficial en la BDNS." $count $region $benef $tagLabel)
     )
     (dict
         "question" "¿Cuál es el presupuesto total disponible?"
@@ -213,36 +218,53 @@
     )
     (dict
         "question" "¿Hasta cuándo se puede solicitar?"
-        "answer" "Cada convocatoria tiene su propio plazo. En cada ficha aparecen las fechas de inicio y fin. Si una convocatoria no muestra fecha de fin, suele estar abierta de forma continuada hasta agotar crédito. Te recomendamos pulsar el enlace Acceder a la convocatoria oficial para confirmar el plazo vigente en la BDNS."
+        "answer" "Cada convocatoria tiene su propio plazo. En cada ficha aparecen las fechas de inicio y fin. Si una convocatoria no muestra fecha de fin, suele estar abierta de forma continuada hasta agotar crédito. Te recomendamos pulsar el enlace \"Acceder a la convocatoria oficial\" para confirmar el plazo vigente en la BDNS."
     )
     (dict
-        "question" (printf "¿Quién puede acceder a estas ayudas para %s?" $benef)
-        "answer" (printf "Las ayudas recogidas en esta página están dirigidas a %s. Dentro de este perfil puede haber requisitos adicionales (antigüedad, forma jurídica, ámbito geográfico, importe mínimo, etc.) que se detallan en el apartado Requisitos de cada ficha y en la convocatoria oficial." $benef)
+        "question" "¿Quién puede acceder a estas ayudas?"
+        "answer" (printf "Las ayudas recogidas en esta página están dirigidas a <strong>%s</strong>. Dentro de este perfil puede haber requisitos adicionales (antigüedad, forma jurídica, ámbito geográfico, importe mínimo, etc.) que se detallan en el apartado \"Requisitos\" de cada ficha y en la convocatoria oficial." $benef)
     )
     (dict
         "question" "¿Dónde se presenta la solicitud?"
-        "answer" "La solicitud se presenta en el portal del organismo convocante, nunca en este portal. Pulsa el botón Acceder a la convocatoria oficial de la ficha que te interese para ir al formulario de solicitud en la BDNS o en la sede electrónica correspondiente."
+        "answer" "La solicitud se presenta en el portal del organismo convocante, nunca en este portal. Pulsa el botón \"Acceder a la convocatoria oficial\" de la ficha que te interese para ir al formulario de solicitud en la BDNS o en la sede electrónica correspondiente."
     )
     (dict
         "question" "¿Esta información sustituye a la convocatoria oficial?"
         "answer" "No. Este portal es meramente informativo. La información publicada no sustituye a la publicación oficial de cada convocatoria. Para presentar solicitudes o resolver dudas legales consulta siempre la fuente oficial enlazada en cada ficha."
     )
 -}}
-{{- $mainEntity := slice -}}
+
+<!-- ... tu código HTML intermedio ... -->
+
+<!-- 2. Bucle para el HTML visual (usando safeHTML para permitir etiquetas <strong>) -->
+<section class="grant-page-faq" aria-label="Preguntas frecuentes sobre estas ayudas">
+    <h2>Preguntas frecuentes</h2>
+    {{ range $faqs }}
+    <section class="grant-faq-item">
+        <h3>{{ .question }}</h3>
+        <p>{{ .answer | safeHTML }}</p>
+    </section>
+    {{ end }}
+</section>
+
+<!-- ... resto de tu HTML ... -->
+
+{{- /* 3. Bucle para el Schema (usando plainify para limpiar el HTML y evitar errores JSON) */ -}}
+{{- $mainEntityFAQ := slice -}}
 {{- range $f := $faqs -}}
-    {{- $mainEntity = $mainEntity | append (dict
+    {{- $mainEntityFAQ = $mainEntityFAQ | append (dict
         "@type" "Question"
         "name" $f.question
         "acceptedAnswer" (dict
             "@type" "Answer"
-            "text" $f.answer
+            "text" ($f.answer | plainify)
         )
     ) -}}
 {{- end -}}
 {{- $faqSchema := dict
     "@context" "https://schema.org"
     "@type" "FAQPage"
-    "mainEntity" $mainEntity
+    "mainEntity" $mainEntityFAQ
 -}}
 <script type="application/ld+json">{{ $faqSchema | jsonify | safeJS }}</script>
 {{ end }}
