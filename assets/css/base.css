@@ -24,14 +24,27 @@
     --light-blue-bg: rgba(41, 182, 246, 0.1);
 }
 
-body { 
-    font-family: 'Inter', sans-serif; 
-    line-height: 1.6; 
-    padding: 2rem 1rem; 
-    max-width: 95vw; 
-    margin: 0 auto; 
+body {
+    font-family: 'Inter', sans-serif;
+    line-height: 1.6;
+    padding: 2rem 1rem;
+    max-width: 95vw;
+    margin: 0 auto;
     background-color: var(--bg);
     color: var(--dark-gray);
+}
+
+a {
+    color: #47464f;
+    text-decoration: none;
+    transition: color 0.15s ease;
+}
+
+a:hover {
+    color: #070235;
+    text-decoration: underline;
+    text-decoration-thickness: 2px;
+    text-underline-offset: 3px;
 }
 
 header{
@@ -147,12 +160,9 @@ h1, h2, h3, .font-space {
 }
 
 .footer-section a {
-    color: #47464f;
     font-size: 14px;
     line-height: 20px;
     font-weight: 500;
-    text-decoration: none;
-    transition: color 0.15s ease;
 }
 
 .footer-section a:hover {

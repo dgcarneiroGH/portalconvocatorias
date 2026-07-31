@@ -1,11 +1,11 @@
 ---
-title: Fuentes oficiales de ayudas y convocatorias
-description: Relación completa de las fuentes oficiales públicas de las que Ayudas y Convocatorias (Portal de Convocatorias) extrae los datos de ayudas y convocatorias activas en España.
+title: Fuentes oficiales de Portal de convocatorias
+description: Relación completa de las fuentes oficiales públicas de las que Portal de Convocatorias extrae los datos de ayudas y convocatorias activas en España.
 date: 2026-07-23
 slug: fuentes
 ---
 
-Toda la información publicada en Ayudas y Convocatorias (Portal de Convocatorias) proviene de **fuentes oficiales públicas**. Esta página recoge la relación completa de organismos y registros que utilizamos como origen de los datos de **ayudas y convocatorias** activas en España.
+Toda la información publicada en Portal de Convocatorias proviene de **fuentes oficiales públicas**. Esta página recoge la relación completa de organismos y registros que utilizamos como origen de los datos de **ayudas y convocatorias** activas en España.
 
 ## Fuente nacional principal
 

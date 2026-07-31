@@ -47,13 +47,9 @@
 }
 
 .home-footer a {
-    color: #47464f;
     font-size: 12px;
     line-height: 16px;
     font-weight: 500;
-    text-decoration: underline;
-    text-decoration-thickness: 2px;
-    text-underline-offset: 3px;
 }
 
 .home-footer a:hover {

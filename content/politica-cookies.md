@@ -15,7 +15,7 @@ También utilizamos tecnologías equivalentes como el **localStorage** para alma
 
 ## ¿Quién es el responsable?
 
-Ayudas y Convocatorias (Portal de Convocatorias) (`portalconvocatorias.es`). Para cualquier duda sobre cookies o privacidad puedes escribir a través de la página de [contacto](/contacto/).
+Portal de Convocatorias (`portalconvocatorias.es`). Para cualquier duda sobre cookies o privacidad puedes escribir a través de la página de [contacto](/contacto/).
 
 ## Tipos de cookies que utilizamos
 
@@ -70,11 +70,7 @@ Tu elección queda registrada en tu navegador. No volveremos a preguntarte hasta
 
 ### Modificar o retirar el consentimiento
 
-La ley exige que sea tan fácil retirar el consentimiento como darlo. Si cambias de opinión, puedes revocar o modificar tus preferencias en cualquier momento haciendo clic en el siguiente botón. Al pulsarlo, tus preferencias guardadas se borrarán y volverá a aparecer el banner para que puedas elegir de nuevo:
-
-<button type="button" data-cookie-reset class="btn-revocar-cookies">
-  Cambiar preferencias de cookies
-</button>
+La ley exige que sea tan fácil retirar el consentimiento como darlo. Si cambias de opinión, puedes revocar o modificar tus preferencias en cualquier momento desde el enlace **"Gestionar cookies"** del pie de página del sitio. Al pulsarlo, tus preferencias guardadas se borrarán y volverá a aparecer el banner para que puedas decidir de nuevo.
 
 ### Configuración del navegador
 

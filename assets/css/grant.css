@@ -173,15 +173,10 @@
     font-size: 16px;
     line-height: 24px;
     font-weight: 500;
-    text-decoration: none;
-    transition: color 0.15s ease;
 }
 
 .grant-related-lands a:hover {
     color: #b90538;
-    text-decoration: underline;
-    text-decoration-thickness: 2px;
-    text-underline-offset: 3px;
 }
 
 @media (max-width: 540px) {
