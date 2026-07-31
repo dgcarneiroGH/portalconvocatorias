@@ -5,7 +5,7 @@ region: Castilla y león
 beneficiario: Particulares
 tag_seo: nominativas
 count: 3
-date: 2026-07-30
+date: 2026-07-31
 slug: subvenciones-castilla-y-leon-particulares-nominativas
 ---
 
