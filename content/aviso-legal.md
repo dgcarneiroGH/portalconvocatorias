@@ -1,6 +1,6 @@
 ---
 title: Aviso legal
-description: Aviso legal e información general sobre Portal de Convocatorias conforme a la LSSI (Ley 34/2002 de Servicios de la Sociedad de la Información).
+description: Aviso legal e información general sobre Ayudas y Convocatorias (Portal de Convocatorias) conforme a la LSSI (Ley 34/2002 de Servicios de la Sociedad de la Información).
 date: 2026-07-23
 slug: aviso-legal
 ---
@@ -9,13 +9,13 @@ En cumplimiento del artículo 10 de la Ley 34/2002, de 11 de julio, de Servicios
 
 ## Titular
 
-- **Denominación**: Portal de Convocatorias
+- **Denominación**: Ayudas y Convocatorias (Portal de Convocatorias)
 - **Sitio web**: https://portalconvocatorias.es/
 - **Correo electrónico de contacto**: ver página de [Contacto](/contacto/)
 
 ## Objeto
 
-El presente sitio web tiene como objeto ofrecer al usuario un recopilatorio actualizado de las ayudas y convocatorias públicas activas en España, extraídas de la Base de Datos Nacional de Ayudas (BDNS) y de los portales oficiales autonómicos y locales.
+El presente sitio web tiene como objeto ofrecer al usuario un recopilatorio actualizado de las **ayudas y convocatorias** públicas activas en España, extraídas de la Base de Datos Nacional de Ayudas (BDNS) y de los portales oficiales autonómicos y locales.
 
 ## Naturaleza del servicio
 

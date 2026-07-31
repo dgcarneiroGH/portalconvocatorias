@@ -1,15 +1,15 @@
 ---
-title: Sobre nosotros
-description: Quiénes somos, qué hacemos y de dónde obtenemos los datos en Portal de Convocatorias.
+title: Sobre Ayudas y Convocatorias — Quiénes somos
+description: Quiénes somos, qué hacemos y de dónde obtenemos los datos de ayudas y convocatorias activas en España en Ayudas y Convocatorias (Portal de Convocatorias).
 date: 2026-07-23
 slug: sobre-nosotros
 ---
 
-Portal de Convocatorias es un proyecto independiente nacido con un objetivo claro: **facilitar el acceso a la información pública sobre ayudas y convocatorias en España**.
+**Ayudas y Convocatorias** (Portal de Convocatorias) es un proyecto independiente nacido con un objetivo claro: **facilitar el acceso a la información pública sobre ayudas y convocatorias en España**.
 
 ## ¿Qué hacemos?
 
-Cada día recopilamos, organizamos y publicamos información sobre las convocatorias de ayudas públicas activas en el territorio español, clasificadas por:
+Cada día recopilamos, organizamos y publicamos información sobre las **ayudas y convocatorias** activas en el territorio español, clasificadas por:
 
 - **Comunidad autónoma** (Álava, Canarias, Castilla y León, Córdoba, España, Galicia, etc.)
 - **Tipo de beneficiario** (asociaciones y ONG, autónomos y pymes, empresas, particulares)

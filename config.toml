@@ -3,7 +3,8 @@ locale = "es-es"
 title = "Portal de Convocatorias"
 
 [params]
-  description = "Recopilatorio actualizado diariamente de subvenciones, ayudas y convocatorias activas en España para asociaciones, autónomos, empresas y particulares, filtrado por territorio, tipo de beneficiario y sector."
+  brand_long = "Ayudas y Convocatorias"
+  description = "Recopilatorio actualizado diariamente de ayudas y convocatorias activas en España para asociaciones, autónomos, empresas y particulares, filtrado por territorio, tipo de beneficiario y sector."
 
 [taxonomies]
   region = "regiones"

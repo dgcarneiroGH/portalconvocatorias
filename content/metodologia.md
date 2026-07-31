@@ -1,13 +1,13 @@
 ---
-title: Metodología
-description: Cómo se extraen, validan y publican los datos de ayudas y convocatorias en Portal de Convocatorias. Fuentes, frecuencia, criterios de inclusión y proceso de revisión.
+title: Metodología — Cómo recopilamos ayudas y convocatorias
+description: Cómo se extraen, validan y publican los datos de ayudas y convocatorias activas en España en Ayudas y Convocatorias (Portal de Convocatorias). Fuentes, frecuencia, criterios de inclusión y proceso de revisión.
 slug: metodologia
 date: 2026-07-28
 ---
 
-# Metodología
+# Metodología de Ayudas y Convocatorias
 
-En esta página explicamos **cómo se extrae, valida y publica** la información de ayudas y convocatorias que muestra Portal de Convocatorias. La transparencia metodológica es nuestra principal seña de identidad.
+En esta página explicamos **cómo se extrae, valida y publica** la información de **ayudas y convocatorias** que muestra Ayudas y Convocatorias (Portal de Convocatorias). La transparencia metodológica es nuestra principal seña de identidad.
 
 ## Fuentes oficiales
 

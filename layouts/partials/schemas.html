@@ -11,7 +11,9 @@
 {{- $baseURL := .Site.BaseURL -}}
 {{- $orgID := printf "%s#organization" $baseURL -}}
 {{- $siteID := printf "%s#website" $baseURL -}}
-{{- $siteDescription := .Site.Params.description | default "Recopilatorio de ayudas y convocatorias activas en España." -}}
+{{- $siteDescription := .Site.Params.description | default "Recopilatorio diario de ayudas y convocatorias activas en España." -}}
+{{- $brandLong := .Site.Params.brand_long | default "Ayudas y Convocatorias" -}}
+{{- $siteName := .Site.Title -}}
 
 {{- $org := partial "organization-schema.html" . -}}
 
@@ -26,7 +28,8 @@
                 "@type" "WebSite"
                 "@id" $siteID
                 "url" $baseURL
-                "name" .Site.Title
+                "name" $brandLong
+                "alternateName" $siteName
                 "description" $siteDescription
                 "inLanguage" "es-ES"
                 "publisher" (dict "@id" $orgID)
@@ -37,7 +40,7 @@
                 "@type" "WebPage"
                 "@id" (printf "%s#" $baseURL)
                 "url" .Permalink
-                "name" .Site.Title
+                "name" (printf "%s en España | %s" $brandLong $siteName)
                 "description" $siteDescription
                 "isPartOf" (dict "@id" $siteID)
                 "inLanguage" "es-ES"
@@ -51,7 +54,7 @@
                 )
                 "about" (dict
                     "@type" "Thing"
-                    "name" "Ayudas y convocatorias públicas en España"
+                    "name" (printf "%s públicas en España" $brandLong)
                     "description" $siteDescription
                 )
                 "author" (dict "@type" "Person" "@id" $authorID)

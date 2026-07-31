@@ -206,6 +206,32 @@ function checkMetaTags() {
     if (longTitles === 0) pass('Todos los titles tienen <= 70 chars');
 }
 
+// 5b. Verificar que los titles de grants y home incluyen "Ayudas y Convocatorias"
+function checkKeywordInTitles() {
+    info('=== Verificando prioridad de keywords en <title> ===');
+    const htmlFiles = findHtmlFiles(PUBLIC_DIR);
+    let missingBrandKeyword = 0;
+
+    htmlFiles.forEach(file => {
+        const html = readFile(file);
+        if (!html) return;
+        const rel = file.replace(PUBLIC_DIR + '/', '');
+        if (rel === 'grants/index.html' || rel === 'index.html' || /subvenciones-[^/]+\/index\.html$/.test(rel)) {
+            const titleMatch = html.match(/<title>([^<]+)<\/title>/);
+            if (!titleMatch) return;
+            const title = titleMatch[1];
+            if (!/Ayudas y Convocatorias/i.test(title)) {
+                err(`Title sin "Ayudas y Convocatorias": ${rel} -> "${title}"`);
+                missingBrandKeyword++;
+            }
+        }
+    });
+
+    if (missingBrandKeyword === 0) {
+        pass('Todos los titles de home, /grants/ y grant pages incluyen "Ayudas y Convocatorias"');
+    }
+}
+
 // 6. Verificar jerarquía de headings en fichas
 function checkHeadingHierarchy() {
     info('=== Verificando jerarquia de headings ===');
@@ -293,6 +319,7 @@ function main() {
     checkRobots();
     checkSchema();
     checkMetaTags();
+    checkKeywordInTitles();
     checkHeadingHierarchy();
     checkSecurity();
 

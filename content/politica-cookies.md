@@ -1,6 +1,6 @@
 ---
 title: Política de cookies
-description: Información detallada sobre las cookies utilizadas en Portal de Convocatorias y cómo gestionarlas.
+description: Información detallada sobre las cookies utilizadas en Ayudas y Convocatorias (Portal de Convocatorias) y cómo gestionarlas.
 date: 2026-07-29
 slug: politica-cookies
 ---
@@ -15,7 +15,7 @@ También utilizamos tecnologías equivalentes como el **localStorage** para alma
 
 ## ¿Quién es el responsable?
 
-Portal de Convocatorias (`portalconvocatorias.es`). Para cualquier duda sobre cookies o privacidad puedes escribir a través de la página de [contacto](/contacto/).
+Ayudas y Convocatorias (Portal de Convocatorias) (`portalconvocatorias.es`). Para cualquier duda sobre cookies o privacidad puedes escribir a través de la página de [contacto](/contacto/).
 
 ## Tipos de cookies que utilizamos
 

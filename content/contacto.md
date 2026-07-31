@@ -1,6 +1,6 @@
 ---
 title: Contacto
-description: Cómo contactar con el equipo de Portal de Convocatorias para consultas, sugerencias o notificaciones de errores.
+description: Cómo contactar con el equipo de Ayudas y Convocatorias (Portal de Convocatorias) para consultas, sugerencias o notificaciones de errores.
 date: 2026-07-23
 slug: contacto
 ---

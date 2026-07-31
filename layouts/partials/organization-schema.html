@@ -9,11 +9,14 @@
 */ -}}
 {{- $baseURL := .Site.BaseURL -}}
 {{- $orgID := printf "%s#organization" $baseURL -}}
-{{- $siteDescription := .Site.Params.description | default "Recopilatorio de ayudas y convocatorias activas en España." -}}
+{{- $siteDescription := .Site.Params.description | default "Recopilatorio diario de ayudas y convocatorias activas en España." -}}
+{{- $brandLong := .Site.Params.brand_long | default "Ayudas y Convocatorias" -}}
+{{- $siteName := .Site.Title -}}
 {{- $knowsAbout := slice
     "ayudas públicas"
-    "subvenciones"
     "convocatorias públicas"
+    "ayudas y convocatorias"
+    "subvenciones"
     "BDNS"
     "Base de Datos Nacional de Ayudas"
     "asociaciones"
@@ -52,8 +55,8 @@
 {{- $org := dict
     "@type" "Organization"
     "@id" $orgID
-    "name" .Site.Title
-    "alternateName" "Portal Convocatorias"
+    "name" $brandLong
+    "alternateName" (slice $siteName "Ayudas y Convocatorias España" "Portal Convocatorias")
     "url" $baseURL
     "logo" (dict
         "@type" "ImageObject"

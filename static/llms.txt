@@ -1,10 +1,10 @@
-# Portal de Convocatorias
+# Ayudas y Convocatorias — Portal de Convocatorias
 
 > Recopilatorio diario y gratuito de ayudas y convocatorias públicas activas en España, extraídas de la Base de Datos Nacional de Ayudas (BDNS) y de los portales oficiales autonómicos y locales.
 
 ## Qué es
 
-Portal de Convocatorias es un proyecto independiente que unifica y filtra la información pública de ayudas y subvenciones activas en España. Cubre todas las comunidades autónomas, diputaciones y cabildos. Las fichas se actualizan diariamente y enlazan siempre a la fuente oficial original.
+Ayudas y Convocatorias (Portal de Convocatorias) es un proyecto independiente que unifica y filtra la información pública de ayudas y convocatorias activas en España. Cubre todas las comunidades autónomas, diputaciones y cabildos. Las fichas se actualizan diariamente y enlazan siempre a la fuente oficial original.
 
 ## Qué cubre
 

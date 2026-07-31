@@ -156,7 +156,7 @@
 
 {{- $itemList := dict
     "@type" "ItemList"
-    "name" (printf "Listado de ayudas en %s para %s" $region $benef)
+    "name" (printf "Listado de ayudas y convocatorias en %s para %s" $region $benef)
     "numberOfItems" (len $grantItems)
     "itemListElement" $grantItems
 -}}
