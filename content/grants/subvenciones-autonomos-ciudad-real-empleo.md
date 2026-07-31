@@ -1,17 +1,17 @@
 ---
 title: Ayudas para empleo en Ciudad real para Pyme y autónomos
-description: "Recopilatorio de las 4 ayudas activas en Ciudad real para Pyme y autónomos dentro del sector empleo, con presupuesto y plazos de solicitud."
+description: "Recopilatorio de las 3 ayudas activas en Ciudad real para Pyme y autónomos dentro del sector empleo, con presupuesto y plazos de solicitud."
 region: Ciudad real
 beneficiario: Pyme y autónomos
 tag_seo: empleo
-count: 4
-date: 2026-07-30
+count: 3
+date: 2026-07-31
 slug: subvenciones-autonomos-ciudad-real-empleo
 ---
 
 # Ayudas para empleo en autonomos para ciudad-real
 
-Ayudas activas (4):
+Ayudas activas (3):
 
 - [BASES REGULADORAS AYUDAS A LA CONTRATACIÓN REALIZADA POR AUTÓNOMOS Y MICROEMPRESAS-2026](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/894525) ()
   - Description: La convocatoria tiene como objetivo fomentar la contratación de trabajadores por parte de autónomos y microempresas que cumplan con los requisitos establecidos.
@@ -24,8 +24,4 @@ Ayudas activas (4):
 - [AYUDAS A LA CONTRATACIÓN TALENTO 45+. ANUALIDAD 2026.CÁMARA DE COMERCIO DE CIUDAD REAL](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/908365) ()
   - Description: Ayudas económicas destinadas a fomentar el empleo estable de personas desempleadas que han participado en el Programa Talento 45+.
   - Requirements: Personas desempleadas; Participar en el Programa Talento 45+
-  - Budget: 8482 € | Reception: 27/05/2026 | Start: 28/05/2026 | End: 31/12/2026
-- [AYUDAS A LA CONTRATACIÓN TALENTO JOVEN. ANUALIDAD 2026. CÁMARA DE COMERCIO DE CIUDAD REAL](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/908377) ()
-  - Description: Convocatoria de ayudas económicas para el fomento del empleo estable de jóvenes beneficiarios del sistema nacional de garantía juvenil que hayan participado en el Programa Talento Joven.
-  - Requirements: Jóvenes beneficiarios del sistema nacional de garantía juvenil; Participación en el Programa Talento Joven
   - Budget: 8482 € | Reception: 27/05/2026 | Start: 28/05/2026 | End: 31/12/2026

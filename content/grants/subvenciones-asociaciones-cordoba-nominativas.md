@@ -5,7 +5,7 @@ region: Córdoba
 beneficiario: Asociaciones y ong
 tag_seo: nominativas
 count: 21
-date: 2026-07-30
+date: 2026-07-31
 slug: subvenciones-asociaciones-cordoba-nominativas
 ---
 
