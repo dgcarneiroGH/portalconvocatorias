@@ -1,17 +1,17 @@
 ---
 title: Ayudas para deportes en Pontevedra para Asociaciones y ong
-description: "Recopilatorio de las 7 ayudas activas en Pontevedra para Asociaciones y ong dentro del sector deportes, con presupuesto y plazos de solicitud."
+description: "Recopilatorio de las 8 ayudas activas en Pontevedra para Asociaciones y ong dentro del sector deportes, con presupuesto y plazos de solicitud."
 region: Pontevedra
 beneficiario: Asociaciones y ong
 tag_seo: deportes
-count: 7
-date: 2026-07-30
+count: 8
+date: 2026-07-31
 slug: subvenciones-asociaciones-pontevedra-deportes
 ---
 
 # Ayudas para deportes en asociaciones para pontevedra
 
-Ayudas activas (7):
+Ayudas activas (8):
 
 - [SUBVENCIÓN A FAVOR DE LA ENTIDAD REAL FEDERACIÓN GALEGA DE FÚTBOL PARA LA ORGANIZACIÓN DE LA COPA DE FÚTBOL DE VIGO 2026. EXPTE. 25726/333](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/913814) ()
   - Description: Subvención destinada a la Real Federación Gallega de Fútbol para la organización de la Copa Vigo de Fútbol 2026, con el objetivo de fomentar y promover la actividad deportiva en la ciudad de Vigo a través de eventos de alto nivel.
@@ -40,3 +40,7 @@ Ayudas activas (7):
 - [OTORGAMIENTO DE UNA APORTACIÓN ECONÓMICA AL CLUB CISNE BALONMANO POR SU PARTICIPACIÓN EN LA FASE SECTOR DEL CAMPEONATO DE ESPAÑA DE BALONMANO INFANTIL MASCULINO 2025/26](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/918541) ()
   - Description: La subvención tiene como objetivo apoyar al Club Balonmano Cisne en su participación en la Fase Sector del Campeonato de España de Balonmán Infantil 2025/26, celebrado en Zaragoza, contribuyendo a la promoción del deporte y la imagen de la ciudad de Pontevedra.
   - Budget: 9900 € | Reception: 10/07/2026
+- [BASES SUBVENCIONES EVENTOS DEPORTIVOS 2026](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/918052) ()
+  - Description: Apoyar a entidades y clubes deportivos sin ánimo de lucro en la realización de eventos deportivos durante el año 2026.
+  - Requirements: Entidades/asociaciones deportivas válidamente constituidas; Domicilio social en el Ayuntamiento de O Grove; Inscritas en el Registro Municipal de Asociaciones del Ayuntamiento de O Grove; Carecer de fines lucrativos; No estar incursas en incapacidad o incompatibilidad para percibir subvenciones públicas; Estar al corriente con las obligaciones tributarias y con la Seguridad Social
+  - Budget: 20.000 € | Reception: 08/07/2026 | Start: 09/07/2026 | End: 07/08/2026
