@@ -5,7 +5,7 @@ region: Castilla la mancha
 beneficiario: Gran empresa
 tag_seo: comercio
 count: 4
-date: 2026-07-31
+date: 2026-08-01
 slug: subvenciones-castilla-la-mancha-empresa-comercio
 ---
 
