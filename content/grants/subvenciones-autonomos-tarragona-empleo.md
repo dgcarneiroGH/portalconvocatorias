@@ -5,7 +5,7 @@ region: Tarragona
 beneficiario: Pyme y autónomos
 tag_seo: empleo
 count: 6
-date: 2026-08-01
+date: 2026-08-02
 slug: subvenciones-autonomos-tarragona-empleo
 ---
 
