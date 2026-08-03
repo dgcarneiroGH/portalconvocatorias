@@ -5,7 +5,7 @@ region: Córdoba
 beneficiario: Asociaciones y ong
 tag_seo: asociacionismo
 count: 9
-date: 2026-08-02
+date: 2026-08-03
 slug: subvenciones-asociaciones-cordoba-asociacionismo
 ---
 
