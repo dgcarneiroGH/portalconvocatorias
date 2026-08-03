@@ -1,18 +1,44 @@
 ---
 title: Ayudas nominativas en Córdoba para Asociaciones y ong
-description: "Recopilatorio de las 21 ayudas activas en Córdoba para Asociaciones y ong dentro del sector nominativas, con presupuesto y plazos de solicitud."
+description: "Recopilatorio de las 25 ayudas activas en Córdoba para Asociaciones y ong dentro del sector nominativas, con presupuesto y plazos de solicitud."
 region: Córdoba
 beneficiario: Asociaciones y ong
 tag_seo: nominativas
-count: 21
-date: 2026-07-31
+count: 25
+date: 2026-08-03
 slug: subvenciones-asociaciones-cordoba-nominativas
 ---
 
 # Ayudas para nominativas en asociaciones para cordoba
 
-Ayudas activas (21):
+Ayudas activas (25):
 
+- [CONVENIO DE COLABORACIÓN ENTRE EL PPTC Y LA ASOCIACIÓN LA MAQUINILLA](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/920455) ()
+  - Description: El convenio tiene como objetivo desarrollar un vídeo turístico-educativo dirigido a familias sobre el Cerco Industrial de Peñarroya, promoviendo la comprensión y el atractivo de esta área declarada Bien de Interés Cultural.
+  - Requirements: La Asociación La Maquinilla debe gestionar el proyecto.; Destinado a familias españolas y extranjeras de todas las edades.; Grupos de la tercera edad pueden participar.; Personas con discapacidad son bienvenidas.
+  - Budget: 6000 € | Reception: 21/07/2026 | Start: 03/03/2026 | End: 31/12/2026
+- [CONVENIO DE COLABORACIÓN ENTRE EL PPTC Y LA ASOCIACION CORDOBA ECUESTRE](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/920497) ()
+  - Description: El convenio tiene como objetivo la producción del espectáculo ecuestre 'Pasión y Duende del Caballo Andaluz', promoviendo la cultura y el turismo en los pueblos de Córdoba, particularmente en Espiel, Pedroche y Almodóvar del Río.
+  - Budget: 18.000 € | Reception: 21/07/2026 | Start: 19/07/2026 | End: 31/12/2026
+- [CONVENIO CON LA FUNDACIÓN LUCENA C.F. PARA LA EJECUCIÓN DEL PROYECTO III TORNEO NAVIDEÑO FUNDACIÓN LUCENA C.F. - DIPUTACIÓN DE CÓRDOBA](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/921168) ()
+  - Description: El objetivo de este convenio es el desarrollo del III Torneo Navideño Fundación Lucena C.F. - Diputación de Córdoba, promoviendo el deporte y la convivencia entre jóvenes futbolistas durante el periodo navideño.
+  - Requirements: Entidades deportivas que realicen actividades relacionadas con el fútbol; No deben ser entidades con ánimo de lucro; Deben estar al corriente de sus obligaciones fiscales
+  - Budget: 3000 € | Reception: 23/07/2026
+- [CONVENIO CON LA REAL FEDERACIÓN ESPAÑOLA DE KÁRATE PARA LA EJECUCIÓN DEL PROYECTO LIGA NACIONAL DE KÁRATE Y PARAKÁRATE MÁSTER Y LIGA NACIONAL TEAMS KATA Y KUMITÉ](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/921808) ()
+  - Description: Este convenio tiene como objetivo el desarrollo del proyecto 'Liga nacional de kárate y parakárate máster y liga nacional teams kata y kumité', promoviendo la práctica de estas disciplinas y fomentando un estilo de vida saludable entre los participantes.
+  - Requirements: Entidades deportivas que participen en la Liga; Deportistas de las modalidades de Kata y Kumite; Deportistas a partir de 35 años en la categoría Master; No hay restricciones geográficas específicas mencionadas
+  - Budget: 15.000 € | Reception: 27/07/2026
+- [CONVENIO FACULTAD VETERINARIA TRAMPEO AVISPÓN ASIÁTICO](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/922352) ()
+  - Description: El objetivo del convenio es llevar a cabo un proyecto para la detección precoz y seguimiento de la expansión de la especie exótica invasora Vespa Orientalis en la ciudad de Córdoba, además de promover la formación práctica y la creación de empleo verde en vigilancia ambiental y control de dicha especie.
+  - Requirements: Entidad solicitante: Universidad de Córdoba; Ubicación: Ciudad de Córdoba
+  - Budget: 20.000 € | Reception: 29/07/2026 | Start: 01/01/2026 | End: 31/12/2026
+- [CD RUNNING SERIES - SUBVENCION NOMINATIVA 2026 EVENTO V CALIFA MOUNTAIN FESTIVAL 2026 (2 A 4 OCTUBRE 2026).](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/922510) ()
+  - Description: Esta subvención tiene como objetivo apoyar la celebración del V Califa Mountain Festival 2026, un evento de especial relevancia que se llevará a cabo del 2 al 4 de octubre de 2026 en Córdoba.
+  - Requirements: Club Deportivo Running Series; No estar incursa en prohibiciones de la Ley 38/2003; Colaborar con entidades externas bajo condiciones normales de mercado
+  - Budget: 8000 € | Reception: 30/07/2026
+- [CD ENDUROCORDOBA - SUBVENCION NOMINATIVA 2026 EVENTO IV GUZMAN EL BUENO CÓRDOBA 2026. PRUEBA CAMPEONATO DE ESPAÑA DE ENDURO (20 A 22 NOVIEMBRE 2026).](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/922574) ()
+  - Description: La subvención está destinada a apoyar la realización del IV Guzmán el Bueno Córdoba 2026, un evento correspondiente al Campeonato de España de Enduro a realizarse del 20 al 22 de noviembre de 2026.
+  - Budget: 6400 € | Reception: 30/07/2026
 - [CONVENIO CON EL CLUB DEPORTIVO OPEN TENIS CIUDAD DE POZOBLANCO PARA LA EJECUCIÓN DEL PROYECTO OPEN COVAP CIUDAD DE POZOBLANCO, MEMORIAL FABIÁN DORADO (INTERNACIONALES DE ANDALUCÍA EN PISTA RÁPIDA)](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/915905) ()
   - Description: El convenio tiene como objetivo principal el desarrollo del proyecto 'Open Covap Ciudad de Pozoblanco', que promueve actividades relacionadas con el tenis a nivel internacional y busca dinamizar económicamente la zona norte de Córdoba.
   - Requirements: Club Deportivo Open de Tenis Ciudad de Pozoblanco como entidad solicitante; Ser una entidad sin ánimo de lucro; Desarrollar actividades deportivas específicas
@@ -75,12 +101,6 @@ Ayudas activas (21):
   - Description: Este convenio busca desarrollar el proyecto 'XIII Circuito provincial BTT Naturcor' en diversas localidades de Córdoba, fomentando la práctica del ciclismo y ofreciendo eventos cicloturistas accesibles a todos los ciudadanos, independientemente de su nivel deportivo.
   - Requirements: Abierto a todos los sectores de la población; Destinado a ciclistas de todas las edades y exigencias deportivas; Se puede participar en familia, con amigos o de manera individual; No hay límite de edad para participar
   - Budget: 15.000 € | Reception: 15/07/2026
-- [CONVENIO CON EL CLUB DEPORTIVO MAR ALEGRE PARA LA EJECUCIÓN DEL PROYECTO VI CXM EPORA TRAIL MMXXVI TIERRA DE ACEITE](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/919313) ()
-  - Description: El objetivo de esta subvención es financiar el desarrollo del proyecto deportivo 'VI CxM Epora Trail MMXXVI Tierra de aceite', que busca fomentar la práctica del deporte en la naturaleza, promoviendo el turismo sostenible y la dinamización económica local en Montoro, Córdoba.
-  - Budget: 3000 € | Reception: 15/07/2026
-- [CONVENIO DE COLABORACIÓN ENTRE EL PPTC Y LA ASOCIACIÓN AMIGOS DE LOS PATIOS CORDOBESES](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/920179) ()
-  - Description: El convenio tiene como objetivo la colaboración en el mantenimiento y promoción turística de los Patios de Córdoba, fomentando actividades promocionales a través de la marca turística 'PATIOS DE CÓRDOBA' para atraer más visitantes durante el año 2026.
-  - Budget: 5000 € | Reception: 20/07/2026 | Start: 01/04/2026 | End: 31/12/2026
 - [ACUERDO DE LA JUNTA DE GOBIERNO LOCAL DEL AYUNTAMIENTO DE POZOBLANCO DE 18/06/2026 POR LA QUE SE CONCEDE SUBVENCIÓN NOMINATIVA
 PARA "CD LA DESCARGA"](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/920244) ()
   - Description: El convenio entre el Ayuntamiento de Pozoblanco y el Club Deportivo La Descarga tiene como objetivo fomentar el legado cultural, artístico y educativo del municipio a través de la ejecución de un proyecto deportivo específico que recibirá una subvención de 7.500 euros.
@@ -90,7 +110,3 @@ PARA "CD LA DESCARGA"](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocato
 PARA "COFRADÍA DEL SANTÍSIMO CRISTO DE LA CARIDAD EN SU VÍA CRUCIS"](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/920259) ()
   - Description: El objetivo de este convenio es financiar el proyecto de la Cofradía del Santísimo Cristo de la Caridad en su Vía Crucis, que implica el desarrollo de actividades culturales, artísticas y asistenciales en el municipio de Pozoblanco.
   - Budget: 7000 € | Reception: 20/07/2026 | Start: 01/01/2026 | End: 31/12/2026
-- [CONVENIO CON EL CLUB DEPORTIVO SÉNECA C.F. PARA LA EJECUCIÓN DEL PROYECTO MUNDIAL DE SELECCIONES DE CÓRDOBA 2026](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/920425) ()
-  - Description: Este convenio tiene como objetivo el desarrollo del proyecto 'Mundial de Selecciones de la provincia de Córdoba 2026', que busca promover la práctica del deporte entre los jóvenes mediante un torneo de fútbol que fomenta la convivencia y el compañerismo.
-  - Requirements: Dirigido a niños y niñas de 6 a 12 años; Participantes de diferentes municipios de la provincia de Córdoba
-  - Budget: 6000 € | Reception: 20/07/2026
