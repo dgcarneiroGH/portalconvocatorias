@@ -1,17 +1,17 @@
 ---
 title: Ayudas nominativas en Córdoba para Asociaciones y ong
-description: "Recopilatorio de las 25 ayudas activas en Córdoba para Asociaciones y ong dentro del sector nominativas, con presupuesto y plazos de solicitud."
+description: "Recopilatorio de las 26 ayudas activas en Córdoba para Asociaciones y ong dentro del sector nominativas, con presupuesto y plazos de solicitud."
 region: Córdoba
 beneficiario: Asociaciones y ong
 tag_seo: nominativas
-count: 25
-date: 2026-08-03
+count: 26
+date: 2026-08-04
 slug: subvenciones-asociaciones-cordoba-nominativas
 ---
 
 # Ayudas para nominativas en asociaciones para cordoba
 
-Ayudas activas (25):
+Ayudas activas (26):
 
 - [CONVENIO DE COLABORACIÓN ENTRE EL PPTC Y LA ASOCIACIÓN LA MAQUINILLA](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/920455) ()
   - Description: El convenio tiene como objetivo desarrollar un vídeo turístico-educativo dirigido a familias sobre el Cerco Industrial de Peñarroya, promoviendo la comprensión y el atractivo de esta área declarada Bien de Interés Cultural.
@@ -101,6 +101,9 @@ Ayudas activas (25):
   - Description: Este convenio busca desarrollar el proyecto 'XIII Circuito provincial BTT Naturcor' en diversas localidades de Córdoba, fomentando la práctica del ciclismo y ofreciendo eventos cicloturistas accesibles a todos los ciudadanos, independientemente de su nivel deportivo.
   - Requirements: Abierto a todos los sectores de la población; Destinado a ciclistas de todas las edades y exigencias deportivas; Se puede participar en familia, con amigos o de manera individual; No hay límite de edad para participar
   - Budget: 15.000 € | Reception: 15/07/2026
+- [CONVENIO DE COLABORACIÓN ENTRE EL PPTC Y LA ASOCIACIÓN AMIGOS DE LOS PATIOS CORDOBESES](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/920179) ()
+  - Description: El convenio tiene como objetivo la colaboración en el mantenimiento y promoción turística de los Patios de Córdoba, fomentando actividades promocionales a través de la marca turística 'PATIOS DE CÓRDOBA' para atraer más visitantes durante el año 2026.
+  - Budget: 5000 € | Reception: 20/07/2026 | Start: 01/04/2026 | End: 31/12/2026
 - [ACUERDO DE LA JUNTA DE GOBIERNO LOCAL DEL AYUNTAMIENTO DE POZOBLANCO DE 18/06/2026 POR LA QUE SE CONCEDE SUBVENCIÓN NOMINATIVA
 PARA "CD LA DESCARGA"](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/920244) ()
   - Description: El convenio entre el Ayuntamiento de Pozoblanco y el Club Deportivo La Descarga tiene como objetivo fomentar el legado cultural, artístico y educativo del municipio a través de la ejecución de un proyecto deportivo específico que recibirá una subvención de 7.500 euros.
