@@ -125,6 +125,64 @@
             </table>
         </section>
 
+        <section class="term-crosstab" aria-labelledby="term-crosstab-title">
+            <h2 id="term-crosstab-title">
+                {{ if eq $singular "region" }}
+                Ayudas activas en {{ .Title }} por sector
+                {{ else if eq $singular "beneficiario" }}
+                Ayudas activas para {{ .Title }} por sector
+                {{ else }}
+                Ayudas activas por sector
+                {{ end }}
+            </h2>
+            <p>
+                {{ if eq $singular "region" }}
+                Distribución del total de ayudas y convocatorias activas en <strong>{{ .Title }}</strong> agrupadas por sector. Las ayudas estatales aplicables a este territorio se incluyen en su región correspondiente.
+                {{ else if eq $singular "beneficiario" }}
+                Distribución del total de ayudas y convocatorias activas en España para <strong>{{ .Title }}</strong> agrupadas por sector.
+                {{ else }}
+                Distribución del total de ayudas activas en esta categoría agrupadas por sector.
+                {{ end }}
+            </p>
+            {{- $rows := slice -}}
+            {{- range $bySector := .Pages.GroupBy "Params.tag_seo" -}}
+                {{- $sectorKey := $bySector.Key -}}
+                {{- $sectorLabel := index hugo.Data.sectores.sectores $sectorKey | default $sectorKey -}}
+                {{- $sum := 0 -}}
+                {{- range $bySector.Pages -}}
+                    {{- $sum = add $sum (int (or .Params.count 0)) -}}
+                {{- end -}}
+                {{- $rows = $rows | append (dict "key" $sectorKey "label" $sectorLabel "count" $sum) -}}
+            {{- end -}}
+            {{- $rows = sort $rows "count" "desc" -}}
+            {{- $totalSum := 0 -}}
+            {{- range $rows -}}
+                {{- $totalSum = add $totalSum .count -}}
+            {{- end -}}
+            <table class="term-crosstab-table">
+                <thead>
+                    <tr>
+                        <th scope="col">Sector</th>
+                        <th scope="col">Ayudas activas</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    {{ range $rows }}
+                    <tr>
+                        <td>{{ .label }}</td>
+                        <td>{{ .count }}</td>
+                    </tr>
+                    {{ end }}
+                </tbody>
+                <tfoot>
+                    <tr>
+                        <th scope="row">Total</th>
+                        <td>{{ $totalSum }}</td>
+                    </tr>
+                </tfoot>
+            </table>
+        </section>
+
         <aside class="grant-related-lands">
             <h2>Otras formas de explorar</h2>
             <ul>

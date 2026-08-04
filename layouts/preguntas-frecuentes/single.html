@@ -24,6 +24,8 @@
                     <p>Si tu duda no aparece en esta lista, consulta la página de <a href="/fuentes/">Fuentes oficiales</a> para entender de dónde provienen los datos, o utiliza el <a href="/contacto/">formulario de contacto</a> para escribirnos. Toda corrección se revisa antes de publicarse.</p>
                 </section>
             </div>
+
+            {{ partial "howto-section.html" . }}
         </article>
     </main>
 </div>
@@ -46,4 +48,6 @@
     "mainEntity" $mainEntity
 -}}
 <script type="application/ld+json">{{ $faqSchema | jsonify | safeJS }}</script>
+
+{{ partial "howto-schema.html" . }}
 {{ end }}

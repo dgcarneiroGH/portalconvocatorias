@@ -1,0 +1,55 @@
+{{- /*
+  Partial: howto-schema
+  Emite un JSON-LD HowTo por cada entrada de .Params.howto.
+
+  Cada howto del frontmatter puede tener:
+    - name        (string, obligatorio)
+    - description (string)
+    - totalTime   (string ISO 8601, p.ej. "PT30M")
+    - steps       (lista de {name, text, url?})
+
+  Las pages que lo incluyen deben tener .Params.howto = []  o lista.
+  Si no hay howto en el frontmatter, no emite nada.
+
+  Ejemplo frontmatter:
+    howto:
+      - name: "Cómo solicitar una ayuda de la BDNS en 5 pasos"
+        description: "Pasos para solicitar una ayuda de la BDNS."
+        totalTime: "PT30M"
+        steps:
+          - name: "Obtén tu certificado digital"
+            text: "..."
+*/ -}}
+
+{{- $howtos := .Params.howto | default (slice) -}}
+
+{{- range $howtos -}}
+    {{- $steps := slice -}}
+    {{- range $i, $s := .steps -}}
+        {{- $stepDict := dict
+            "@type" "HowToStep"
+            "position" (add $i 1)
+            "name" $s.name
+            "text" ($s.text | plainify)
+        -}}
+        {{- if $s.url -}}
+            {{- $stepDict = merge $stepDict (dict "url" $s.url) -}}
+        {{- end -}}
+        {{- $steps = $steps | append $stepDict -}}
+    {{- end -}}
+
+    {{- $howtoSchema := dict
+        "@context" "https://schema.org"
+        "@type" "HowTo"
+        "name" .name
+        "step" $steps
+    -}}
+    {{- if .description -}}
+        {{- $howtoSchema = merge $howtoSchema (dict "description" .description) -}}
+    {{- end -}}
+    {{- if .totalTime -}}
+        {{- $howtoSchema = merge $howtoSchema (dict "totalTime" .totalTime) -}}
+    {{- end -}}
+
+    <script type="application/ld+json">{{ $howtoSchema | jsonify | safeJS }}</script>
+{{- end -}}

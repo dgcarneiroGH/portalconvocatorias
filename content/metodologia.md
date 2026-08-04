@@ -3,6 +3,19 @@ title: Metodología — Cómo recopilamos ayudas y convocatorias
 description: Cómo se extraen, validan y publican los datos de ayudas y convocatorias activas en España en Ayudas y Convocatorias (Portal de Convocatorias). Fuentes, frecuencia, criterios de inclusión y proceso de revisión.
 slug: metodologia
 date: 2026-07-28
+howto:
+  - name: "Cómo localizar ayudas autonómicas vigentes desde este portal"
+    description: "Pasos para encontrar convocatorias publicadas por una comunidad autónoma, diputación o cabildo insular usando el filtro Por región y los listados por sector."
+    totalTime: "5 minutos"
+    steps:
+      - name: "Filtra por región y beneficiario"
+        text: "En la portada, selecciona en los filtros de región y beneficiario, los que más se ajusten a tu búsqueda"
+      - name: "Selecciona la agrupación de ayudas que más te interese"
+        text: "Cada ficha muestra una agrupación de ayudas y convocatorias según un tag asignado a través de agentes de IA."
+      - name: "Abre cada ficha para ver presupuesto, plazos y requisitos"
+        text: "Cada ficha muestra el presupuesto, las fechas de inicio y fin de plazo, los requisitos específicos y un enlace directo a la convocatoria oficial en la BDNS."
+      - name: "Verifica siempre en la fuente oficial antes de solicitar"
+        text: "Este portal es informativo. La convocatoria oficial publicada en la BDNS o en la sede del organismo convocante prevalece en caso de discrepancia. Pulsa Acceder a la convocatoria oficial para confirmar el plazo vigente."
 ---
 
 En esta página explicamos **cómo se extrae, valida y publica** la información de **ayudas y convocatorias** que muestra Ayudas y Convocatorias (Portal de Convocatorias). La transparencia metodológica es nuestra principal seña de identidad.
@@ -50,7 +63,7 @@ Cuando el sistema detecta una inconsistencia que no puede resolver automáticame
 ## Frecuencia de actualización
 
 - **Diaria**: el script de extracción se ejecuta una vez al día. Las novedades aparecen reflejadas en la portada en menos de 24 horas desde su publicación oficial.
-- **Manual**: si detectas un error, puedes reportarlo a través de la página de [Contacto](/contacto/). Las correcciones manuales se aplican en el siguiente ciclo de extracción.
+- **Manual**: si detectas un error, puedes reportarlo a través de la página de [Contacto](/contacto/). Las correcciones manuales se aplican en los siguientes ciclos de extracción.
 
 ## Trazabilidad
 

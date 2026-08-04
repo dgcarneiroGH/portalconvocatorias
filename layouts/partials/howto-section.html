@@ -1,0 +1,32 @@
+{{- /*
+  Partial: howto-section
+  Renderiza visualmente cada entrada de .Params.howto como una seccion
+  con ordered list de pasos. Pensado para paginas de contenido estatico
+  (preguntas-frecuentes, metodologia, etc.).
+
+  Cada howto del frontmatter puede tener:
+    - name        (string, obligatorio)
+    - description (string)
+    - totalTime   (string legible, p.ej. "30 minutos")
+    - steps       (lista de {name, text})
+
+  Si no hay howto en el frontmatter, no emite nada.
+*/ -}}
+
+{{- $howtos := .Params.howto | default (slice) -}}
+
+{{- range $howtos -}}
+    <section class="howto-block" aria-labelledby="howto-{{ .name | urlize }}">
+        <h2 id="howto-{{ .name | urlize }}">{{ .name }}</h2>
+        {{ with .description }}<p>{{ . }}</p>{{ end }}
+        {{ with .totalTime }}<p class="howto-time"><strong>Tiempo estimado:</strong> {{ . }}</p>{{ end }}
+        <ol class="howto-steps">
+            {{ range .steps }}
+            <li class="howto-step">
+                <h3>{{ .name }}</h3>
+                <p>{{ .text | safeHTML }}</p>
+            </li>
+            {{ end }}
+        </ol>
+    </section>
+{{- end -}}

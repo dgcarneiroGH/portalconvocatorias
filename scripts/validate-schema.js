@@ -166,6 +166,24 @@ function validateType(item, page) {
     if (type === 'CollectionPage') {
         if (!item.name) warnings.push(`${page}: CollectionPage sin name`);
     }
+
+    if (type === 'HowTo') {
+        if (!item.name) errors.push(`${page}: HowTo sin name`);
+        if (!item.step || !Array.isArray(item.step) || item.step.length === 0) {
+            errors.push(`${page}: HowTo sin step array`);
+        } else {
+            item.step.forEach((s, i) => {
+                if (s['@type'] !== 'HowToStep') {
+                    errors.push(`${page}: HowTo step ${i} sin @type HowToStep`);
+                }
+                if (s.position !== i + 1) {
+                    warnings.push(`${page}: HowTo step ${i} tiene position ${s.position} (esperado ${i + 1})`);
+                }
+                if (!s.name) errors.push(`${page}: HowTo step ${i} sin name`);
+                if (!s.text) errors.push(`${page}: HowTo step ${i} sin text`);
+            });
+        }
+    }
 }
 
 function main() {

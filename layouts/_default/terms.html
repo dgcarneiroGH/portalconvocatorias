@@ -4,10 +4,85 @@
 
     {{- $singular := .Data.Singular -}}
     {{- $introLabel := "" -}}
+    {{- $groupKey := "" -}}
     {{- if eq $singular "region" -}}
         {{- $introLabel = "Comunidades autónomas, provincias y cabildos" -}}
-    {{- else if eq $singular "beneficiario" -}}
+        {{- $groupKey = "region" -}}
+    {{ else if eq $singular "beneficiario" -}}
         {{- $introLabel = "Tipos de beneficiario" -}}
+        {{- $groupKey = "beneficiario" -}}
+    {{ else -}}
+        {{- $groupKey = "tag_seo" -}}
+    {{- end -}}
+
+    {{- /* Construir lista de grupos a partir de .Site.RegularPages ya que
+           el pipeline emite region/beneficiario en singular y la taxonomia
+           de Hugo no se popula. Iteramos manualmente para soportar la
+           estructura actual hasta que el pipeline migre a listas. */ -}}
+    {{- $groups := slice -}}
+    {{- range where .Site.RegularPages "Section" "grants" -}}
+        {{- $val := index .Params $groupKey -}}
+        {{- if $val -}}
+            {{- $slug := urlize $val -}}
+            {{- $existing := where $groups "slug" $slug -}}
+            {{- if not $existing -}}
+                {{- $groups = $groups | append (dict "slug" $slug "label" $val "pages" 0 "sum" 0) -}}
+            {{- end -}}
+        {{- end -}}
+    {{- end -}}
+
+    {{- /* Sumar pages y counts por grupo en una sola pasada.
+           Usamos $g para el grupo actual del rango externo y $.Site.RegularPages
+           para iterar grants. */ -}}
+    {{- $groupsAcc := slice -}}
+    {{- $grants := where .Site.RegularPages "Section" "grants" -}}
+    {{- range $g := $groups -}}
+        {{- $pages := 0 -}}
+        {{- $sum := 0 -}}
+        {{- $gSlug := $g.slug -}}
+        {{- range $grants -}}
+            {{- $val := index .Params $groupKey -}}
+            {{- if and $val (eq (urlize $val) $gSlug) -}}
+                {{- $pages = add $pages 1 -}}
+                {{- $sum = add $sum (int (or .Params.count 0)) -}}
+            {{- end -}}
+        {{- end -}}
+        {{- $groupsAcc = $groupsAcc | append (dict "slug" $g.slug "label" $g.label "pages" $pages "sum" $sum) -}}
+    {{- end -}}
+
+    {{- $groupsBySum := sort $groupsAcc "sum" "desc" -}}
+    {{- $top := first 10 $groupsBySum -}}
+
+    {{- /* Construir cross-tab global por sector (tag_seo) */ -}}
+    {{- $rows := slice -}}
+    {{- range where .Site.RegularPages "Section" "grants" -}}
+        {{- $sectorKey := .Params.tag_seo | default "" -}}
+        {{- if $sectorKey -}}
+            {{- $existing := where $rows "key" $sectorKey -}}
+            {{- if not $existing -}}
+                {{- $sectorLabel := index hugo.Data.sectores.sectores $sectorKey | default $sectorKey -}}
+                {{- $rows = $rows | append (dict "key" $sectorKey "label" $sectorLabel "count" 0 "pages" 0) -}}
+            {{- end -}}
+        {{- end -}}
+    {{- end -}}
+    {{- range where .Site.RegularPages "Section" "grants" -}}
+        {{- $sectorKey := .Params.tag_seo | default "" -}}
+        {{- if $sectorKey -}}
+            {{- $match := index (where $rows "key" $sectorKey) 0 -}}
+            {{- if $match -}}
+                {{- $newCount := add $match.count (int (or .Params.count 0)) -}}
+                {{- $newPages := add $match.pages 1 -}}
+                {{- $rows = where $rows "key" "ne" $sectorKey -}}
+                {{- $rows = $rows | append (dict "key" $sectorKey "label" $match.label "count" $newCount "pages" $newPages) -}}
+            {{- end -}}
+        {{- end -}}
+    {{- end -}}
+    {{- $rows = sort $rows "count" "desc" -}}
+    {{- $totalSum := 0 -}}
+    {{- $totalPages := 0 -}}
+    {{- range $rows -}}
+        {{- $totalSum = add $totalSum .count -}}
+        {{- $totalPages = add $totalPages .pages -}}
     {{- end -}}
 
     <main class="home-container terms-content">
@@ -24,60 +99,105 @@
             </p>
         </header>
 
-        {{- $sorted := sort .Data.Terms "Pages" "desc" -}}
-        {{- $top := first 10 $sorted -}}
-
-        {{- if gt (len $top) 0 -}}
+        {{ if gt (len $top) 0 }}
         <section class="terms-ranking" aria-labelledby="terms-ranking-title">
             <h2 id="terms-ranking-title">Top 10 por número de ayudas activas</h2>
-            <p>Las diez categorías con más ayudas activas en este momento, ordenadas de mayor a menor:</p>
+            <p>Las diez {{ $introLabel | lower }} con más ayudas activas en este momento, ordenadas de mayor a menor:</p>
             <table class="terms-ranking-table">
                 <thead>
                     <tr>
                         <th scope="col">#</th>
                         <th scope="col">{{ $introLabel }}</th>
                         <th scope="col">Conjuntos de ayudas</th>
+                        <th scope="col">Total ayudas activas</th>
                     </tr>
                 </thead>
                 <tbody>
-                    {{- range $i, $t := $top -}}
+                    {{ range $i, $g := $top }}
                     <tr>
                         <td>{{ add $i 1 }}</td>
-                        <td><a href="{{ $t.Page.RelPermalink }}">{{ $t.Page.LinkTitle }}</a></td>
-                        <td>{{ len $t.Pages }}</td>
+                        <td>{{ .label }}</td>
+                        <td>{{ .pages }}</td>
+                        <td>{{ .sum }}</td>
                     </tr>
-                    {{- end -}}
+                    {{ end }}
                 </tbody>
+            </table>
+        </section>
+
+        <section class="terms-crosstab" aria-labelledby="terms-crosstab-title">
+            <h2 id="terms-crosstab-title">
+                {{ if eq $singular "region" }}
+                Ayudas activas en España por sector
+                {{ else if eq $singular "beneficiario" }}
+                Ayudas activas en España por sector
+                {{ else }}
+                Ayudas activas por sector
+                {{ end }}
+            </h2>
+            <p>
+                {{ if eq $singular "region" }}
+                Distribución global del total de <strong>{{ $totalSum }} ayudas activas</strong> en el portal agrupadas por sector. Esta tabla muestra en qué sectores se concentran las convocatorias, independientemente de la comunidad autónoma de origen.
+                {{ else if eq $singular "beneficiario" }}
+                Distribución global del total de <strong>{{ $totalSum }} ayudas activas</strong> en el portal agrupadas por sector. Esta tabla muestra en qué sectores se concentran las convocatorias para cada tipo de beneficiario.
+                {{ else }}
+                Distribución global del total de ayudas activas en el portal agrupadas por sector.
+                {{ end }}
+            </p>
+            <table class="terms-crosstab-table">
+                <thead>
+                    <tr>
+                        <th scope="col">Sector</th>
+                        <th scope="col">Conjuntos de ayudas</th>
+                        <th scope="col">Ayudas activas</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    {{ range $rows }}
+                    <tr>
+                        <td>{{ .label }}</td>
+                        <td>{{ .pages }}</td>
+                        <td>{{ .count }}</td>
+                    </tr>
+                    {{ end }}
+                </tbody>
+                <tfoot>
+                    <tr>
+                        <th scope="row">Total</th>
+                        <td>{{ $totalPages }}</td>
+                        <td>{{ $totalSum }}</td>
+                    </tr>
+                </tfoot>
             </table>
         </section>
 
         <section class="terms-grid" aria-labelledby="terms-grid-title">
             <h2 id="terms-grid-title">Todas las categorías</h2>
             <ul class="terms-grid-list">
-                {{- range .Data.Terms.ByCount -}}
+                {{ range $groupsBySum }}
                 <li>
-                    <a href="{{ .Page.RelPermalink }}">{{ .Page.LinkTitle }}</a>
-                    <span class="terms-grid-count">{{ len .Pages }} {{ if eq $singular "region" }}conjuntos{{ else }}perfiles{{ end }}</span>
+                    <span class="terms-grid-label">{{ .label }}</span>
+                    <span class="terms-grid-count">{{ .sum }} ayudas activas en {{ .pages }} {{ if eq $singular "region" }}conjuntos{{ else if eq $singular "beneficiario" }}perfiles{{ else }}páginas{{ end }}</span>
                 </li>
-                {{- end -}}
+                {{ end }}
             </ul>
         </section>
-        {{- else -}}
+        {{ else }}
         <p class="terms-empty">No hay categorías con ayudas activas en este momento.</p>
-        {{- end -}}
+        {{ end }}
     </main>
 </div>
 
+{{- if gt (len $top) 0 -}}
 {{- $items := slice -}}
-{{- range $i, $t := $top -}}
+{{- range $i, $g := $top -}}
     {{- $items = $items | append (dict
         "@type" "ListItem"
         "position" (add $i 1)
-        "url" $t.Page.Permalink
-        "name" $t.Page.LinkTitle
+        "name" $g.label
+        "description" (printf "%d conjuntos de ayudas con %d ayudas activas" $g.pages $g.sum)
     ) -}}
 {{- end -}}
-{{- if gt (len $items) 0 -}}
 {{- $itemList := dict
     "@context" "https://schema.org"
     "@type" "ItemList"
@@ -86,5 +206,23 @@
     "itemListElement" $items
 -}}
 <script type="application/ld+json">{{ $itemList | jsonify | safeJS }}</script>
+
+{{- $crosstabItems := slice -}}
+{{- range $i, $r := $rows -}}
+    {{- $crosstabItems = $crosstabItems | append (dict
+        "@type" "ListItem"
+        "position" (add $i 1)
+        "name" $r.label
+        "description" (printf "%d conjuntos con %d ayudas activas" $r.pages $r.count)
+    ) -}}
+{{- end -}}
+{{- $crosstabSchema := dict
+    "@context" "https://schema.org"
+    "@type" "ItemList"
+    "name" (printf "Ayudas activas en España por sector")
+    "numberOfItems" (len $crosstabItems)
+    "itemListElement" $crosstabItems
+-}}
+<script type="application/ld+json">{{ $crosstabSchema | jsonify | safeJS }}</script>
 {{- end -}}
 {{ end }}
