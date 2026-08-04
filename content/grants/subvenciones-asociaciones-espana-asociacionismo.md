@@ -5,7 +5,7 @@ region: España
 beneficiario: Asociaciones y ong
 tag_seo: asociacionismo
 count: 6
-date: 2026-08-03
+date: 2026-08-04
 slug: subvenciones-asociaciones-espana-asociacionismo
 ---
 
