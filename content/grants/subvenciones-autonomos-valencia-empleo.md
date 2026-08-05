@@ -5,7 +5,7 @@ region: Valencia
 beneficiario: Pyme y autónomos
 tag_seo: empleo
 count: 4
-date: 2026-08-04
+date: 2026-08-05
 slug: subvenciones-autonomos-valencia-empleo
 ---
 
