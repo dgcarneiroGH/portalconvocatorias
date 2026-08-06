@@ -5,7 +5,7 @@ region: Canarias
 beneficiario: Asociaciones y ong
 tag_seo: nominativas
 count: 17
-date: 2026-08-05
+date: 2026-08-06
 slug: subvenciones-asociaciones-canarias-nominativas
 ---
 
