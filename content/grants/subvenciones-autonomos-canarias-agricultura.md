@@ -5,7 +5,7 @@ region: Canarias
 beneficiario: Pyme y autónomos
 tag_seo: agricultura
 count: 3
-date: 2026-08-07
+date: 2026-08-08
 slug: subvenciones-autonomos-canarias-agricultura
 ---
 
