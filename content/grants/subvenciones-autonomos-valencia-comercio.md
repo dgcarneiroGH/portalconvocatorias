@@ -5,7 +5,7 @@ region: Valencia
 beneficiario: Pyme y autónomos
 tag_seo: comercio
 count: 9
-date: 2026-08-09
+date: 2026-08-10
 slug: subvenciones-autonomos-valencia-comercio
 ---
 
