@@ -5,7 +5,7 @@ region: Región de murcia
 beneficiario: Gran empresa
 tag_seo: juventud
 count: 3
-date: 2026-08-09
+date: 2026-08-10
 slug: subvenciones-empresa-region-de-murcia-juventud
 ---
 
