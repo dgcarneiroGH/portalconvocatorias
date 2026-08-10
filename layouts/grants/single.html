@@ -163,17 +163,17 @@
 
 {{- $breadcrumbs := (slice
     (dict "@type" "ListItem" "position" 1 "name" "Inicio" "item" .Site.BaseURL)
-    (dict "@type" "ListItem" "position" 2 "name" (printf "Ayudas en %s" $region) "item" (printf "%sregiones/%s/" .Site.BaseURL ($region | urlize)))
+    (dict "@type" "ListItem" "position" 2 "name" (printf "Ayudas en %s" $region) "item" (printf "%sregiones/" .Site.BaseURL))
     (dict "@type" "ListItem" "position" 3 "name" .Title "item" .Permalink)
 ) -}}
 
 {{- $speakable := dict
     "@type" "SpeakableSpecification"
-    "xpath" (slice
-        "/html/head/title"
-        "//*[@class='grant-page-title']"
-        "//*[@class='grant-page-intro']"
-        "//*[@class='home-definition']"
+    "cssSelector" (slice
+        "title"
+        ".grant-page-title"
+        ".grant-page-intro"
+        ".home-definition"
     )
 -}}
 

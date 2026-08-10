@@ -128,18 +128,18 @@
         <section class="terms-crosstab" aria-labelledby="terms-crosstab-title">
             <h2 id="terms-crosstab-title">
                 {{ if eq $singular "region" }}
-                Ayudas activas en España por sector
+                Ayudas activas en España por región
                 {{ else if eq $singular "beneficiario" }}
-                Ayudas activas en España por sector
+                Ayudas activas en España por beneficiario
                 {{ else }}
                 Ayudas activas por sector
                 {{ end }}
             </h2>
             <p>
                 {{ if eq $singular "region" }}
-                Distribución global del total de <strong>{{ $totalSum }} ayudas activas</strong> en el portal agrupadas por sector. Esta tabla muestra en qué sectores se concentran las convocatorias, independientemente de la comunidad autónoma de origen.
+                Distribución global del total de <strong>{{ $totalSum }} ayudas activas</strong> en el portal agrupadas por región. Esta tabla muestra en qué regiones se concentran las convocatorias, independientemente de la comunidad autónoma de origen.
                 {{ else if eq $singular "beneficiario" }}
-                Distribución global del total de <strong>{{ $totalSum }} ayudas activas</strong> en el portal agrupadas por sector. Esta tabla muestra en qué sectores se concentran las convocatorias para cada tipo de beneficiario.
+                Distribución global del total de <strong>{{ $totalSum }} ayudas activas</strong> en el portal agrupadas por beneficiario. Esta tabla muestra en qué beneficiarios se concentran las convocatorias.
                 {{ else }}
                 Distribución global del total de ayudas activas en el portal agrupadas por sector.
                 {{ end }}
