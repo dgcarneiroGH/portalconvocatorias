@@ -5,7 +5,7 @@ region: La palma
 beneficiario: Particulares
 tag_seo: asuntos_sociales
 count: 9
-date: 2026-08-09
+date: 2026-08-10
 slug: subvenciones-la-palma-particulares-asuntos_sociales
 ---
 
@@ -44,7 +44,7 @@ Ayudas activas (9):
 - [CONVOCATORIA AYUDAS DE EMERGENCIA SOCIAL PARA COLECTIVOS VULNERABLES Y/O EN SITUACIÓN DE RIESGO DE EXCLUSIÓN SOCIAL, DE LA SUBVENCIÓN NOMINATIVA EN MATERIA DE PROYECTOS DE ACCIÓN SOCIAL DEL CABILDO INSULAR DE LA PALMA ANUALIDAD 2026.](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/923386) ()
   - Description: Convocatoria de ayudas de emergencia social destinadas a personas y unidades familiares vulnerables en el municipio de Breña Baja, con el objetivo de prevenir situaciones de exclusión social y favorecer la integración de las personas.
   - Requirements: Tener 18 años o estar emancipado legalmente.; Estar empadronado y tener residencia efectiva en Breña Baja con al menos seis meses de antigüedad.; No contar con recursos económicos suficientes para afrontar el gasto o necesidad objeto de la ayuda solicitada.; Aportar la documentación requerida para acreditar la situación de necesidad.; Haber justificado debidamente ayudas recibidas anteriormente del Ayuntamiento.; Aceptar los acuerdos en el plan de intervención social.
-  - Budget: 43.802,44 € | Reception: 04/08/2026
+  - Budget: 43.802,44 € | Reception: 04/08/2026 | Start: 05/08/2026 | End: 30/11/2026
 - [CONVOCATORIA AYUDAS DE EMERGENCIA SOCIAL PARA UNIDADES FAMILIARES CON MENORES A CARGO DEL MUNICIPIO DE BREÑA BAJA, DE LA SUBVENCIÓN NOMINATIVA EN MATERIA DE PROYECTOS DE ACCIÓN SOCIAL DEL CABILDO INSULAR DE LA PALMA ANUALIDAD 2026.](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/923817) ()
   - Description: Convocatoria de ayudas de emergencia social para familias vulnerables con menores a cargo en Breña Baja, con el objetivo de proporcionar apoyo económico y prevenir situaciones de vulnerabilidad social y exclusión.
   - Requirements: Tener 18 años o estar emancipado; Empadronados en Breña Baja con al menos seis meses de antigüedad; No contar con recursos económicos suficientes; Justificar ayudas previas recibidas; Aceptar acuerdos del plan de intervención social; No ser propietarios de bienes materiales que cubran necesidades básicas
