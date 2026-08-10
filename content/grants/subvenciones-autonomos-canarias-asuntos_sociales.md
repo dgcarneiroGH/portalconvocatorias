@@ -5,7 +5,7 @@ region: Canarias
 beneficiario: Pyme y autónomos
 tag_seo: asuntos_sociales
 count: 4
-date: 2026-08-09
+date: 2026-08-10
 slug: subvenciones-autonomos-canarias-asuntos_sociales
 ---
 
