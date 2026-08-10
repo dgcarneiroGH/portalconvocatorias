@@ -1,17 +1,17 @@
 ---
 title: Ayudas para asociacionismo en Córdoba para Asociaciones y ong
-description: "Recopilatorio de las 9 ayudas activas en Córdoba para Asociaciones y ong dentro del sector asociacionismo, con presupuesto y plazos de solicitud."
+description: "Recopilatorio de las 8 ayudas activas en Córdoba para Asociaciones y ong dentro del sector asociacionismo, con presupuesto y plazos de solicitud."
 region: Córdoba
 beneficiario: Asociaciones y ong
 tag_seo: asociacionismo
-count: 9
-date: 2026-08-03
+count: 8
+date: 2026-08-09
 slug: subvenciones-asociaciones-cordoba-asociacionismo
 ---
 
 # Ayudas para asociacionismo en asociaciones para cordoba
 
-Ayudas activas (9):
+Ayudas activas (8):
 
 - [ACUERDO DE LA JUNTA DE GOBIERNO LOCAL DEL AYUNTAMIENTO DE POZOBLANCO DE 02/07/2026 POR LA QUE SE CONCEDE SUBVENCIÓN NOMINATIVA
 PARA "ASOCIACIÓN SUEÑO COMPARTIDO"](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/920518) ()
@@ -41,9 +41,6 @@ PARA "ASOCIACIÓN ACOGIDA INFANTIL LOS PEDROCHES"](https://www.pap.hacienda.gob.
   - Description: Subvención nominativa de 8.000 € otorgada a la Federación Andaluza de Karate y Disciplinas Asociadas para el apoyo de la Liga Nacional de Karate, un evento de especial relevancia que se celebrará del 29 de octubre al 1 de noviembre de 2026.
   - Requirements: Entidad beneficiaria: Federación Andaluza de Karate y Disciplinas Asociadas; Ubicación: Córdoba; Los gastos deben ser financiados por fuentes adicionales siempre que no superen el 100% del coste total.; No estar incursos en prohibiciones del artículo 13 de la Ley 38/2003.
   - Budget: 8000 € | Reception: 30/07/2026
-- [CONVENIO DE COLABORACIÓN ENTRE EL PPTC Y LA ASOCIACIÓN AMIGOS DE LOS PATIOS CORDOBESES](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/920179) ()
-  - Description: El convenio tiene como objetivo la colaboración en el mantenimiento y promoción turística de los Patios de Córdoba, fomentando actividades promocionales a través de la marca turística 'PATIOS DE CÓRDOBA' para atraer más visitantes durante el año 2026.
-  - Budget: 5000 € | Reception: 20/07/2026 | Start: 01/04/2026 | End: 31/12/2026
 - [BASES REGULADORAS DE LA CONVOCATORIA DE SUBVENCIONES PARA APOYAR LOS GASTOS DERIVADOS DE LA INSTALACIÓN Y MONTAJE DE CASETAS A CARGO DE ASOCIACIONES, ENTIDADES Y COLECTIVOS EN EL RECINTO FERIAL CON MOTIVO DE LA CELEBRACIÓN DE LA FERIA 2026.](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/920303) ()
   - Description: La convocatoria se centra en otorgar ayudas económicas a asociaciones, entidades y colectivos sin ánimo de lucro para la instalación y montaje de casetas en la Feria de Ntra. Sra. de la Salud 2026, con el fin de promover y mejorar la infraestructura de este evento festivo en Córdoba.
   - Requirements: Asociaciones, entidades y colectivos sin ánimo de lucro; Legalmente constituidas e inscritas en el Registro Municipal de Entidades Ciudadanas; Haber instalado casetas en la Feria de Ntra. Sra. de la Salud 2026; Cumplir con la Ordenanza General de Subvenciones del Ayuntamiento de Córdoba; Estar al corriente en obligaciones tributarias y con la Seguridad Social

@@ -5,7 +5,7 @@ region: Zamora
 beneficiario: Particulares
 tag_seo: nominativas
 count: 3
-date: 2026-08-03
+date: 2026-08-09
 slug: subvenciones-particulares-zamora-nominativas
 ---
 

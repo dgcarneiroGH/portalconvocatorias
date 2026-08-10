@@ -1,17 +1,17 @@
 ---
 title: Ayudas para formacion en España para Asociaciones y ong
-description: "Recopilatorio de las 3 ayudas activas en España para Asociaciones y ong dentro del sector formacion, con presupuesto y plazos de solicitud."
+description: "Recopilatorio de las 4 ayudas activas en España para Asociaciones y ong dentro del sector formacion, con presupuesto y plazos de solicitud."
 region: España
 beneficiario: Asociaciones y ong
 tag_seo: formacion
-count: 3
-date: 2026-08-03
+count: 4
+date: 2026-08-09
 slug: subvenciones-asociaciones-espana-formacion
 ---
 
 # Ayudas para formacion en asociaciones para espana
 
-Ayudas activas (3):
+Ayudas activas (4):
 
 - [RESOLUCIÓN DE LA AGENCIA ESPAÑOLA DE PROTECCIÓN DE DATOS POR LA QUE SE APRUEBAN LAS BASES REGULADORAS Y SE CONVOCA EL PREMIO A LA FORMACIÓN, EDUCACIÓN Y CONCIENCIACIÓN EN PROTECCIÓN DE DATOS, PARA EL AÑO 2026](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/918353) ()
   - Description: El premio tiene como objetivo premiar iniciativas que promuevan el conocimiento y ejercicio del derecho a la protección de datos en el entorno digital, especialmente en educación y en el uso de la inteligencia artificial.
@@ -25,3 +25,6 @@ Ayudas activas (3):
   - Description: Este convenio busca facilitar la inclusión sociolaboral de la población gitana en Zaragoza, mediante el desarrollo de un proyecto que mejora su presencia en el mercado laboral y sus competencias profesionales durante el año 2026.
   - Requirements: Dirigido a personas de etnia gitana; Ubicación: Ciudad de Zaragoza; Población general de la zona también es beneficiaria
   - Budget: 35.000 € | Reception: 14/07/2026 | Start: 01/01/2026 | End: 31/12/2026
+- [EF00503 - L0110 RESOLUCIÓN DEL DIRECTOR DEL CONSORCIO INSTITUT RAMON LLULL POR LA QUE SE OTORGAN SUBVENCIONES A UNIVERSIDADES DEL EXTERIOR PARA CONTRIBUIR AL MANTENIMIENTO DE LA DOCENCIA DE ESTUDIOS CATALANES DURANTE EL CURSO 2026-2027 (1.759.419,02 €)](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/919181) ()
+  - Description: La subvención tiene como objetivo contribuir al mantenimiento de la docencia de estudios catalanes en universidades del exterior durante el curso académico 2026-2027, fomentando la proyectación de la lengua y la cultura catalanas.
+  - Budget: 1.759.419,02 € | Reception: 14/07/2026
