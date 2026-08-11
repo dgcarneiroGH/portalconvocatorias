@@ -5,7 +5,7 @@ region: Málaga
 beneficiario: Pyme y autónomos
 tag_seo: nominativas
 count: 6
-date: 2026-08-10
+date: 2026-08-11
 slug: subvenciones-autonomos-malaga-nominativas
 ---
 
