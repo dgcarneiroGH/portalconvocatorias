@@ -5,7 +5,7 @@ region: Galicia
 beneficiario: Asociaciones y ong
 tag_seo: empleo
 count: 1
-date: 2026-08-10
+date: 2026-08-11
 slug: subvenciones-asociaciones-galicia-empleo
 ---
 
