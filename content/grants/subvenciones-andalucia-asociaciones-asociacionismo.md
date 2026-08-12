@@ -5,7 +5,7 @@ region: Andalucia
 beneficiario: Asociaciones y ong
 tag_seo: asociacionismo
 count: 6
-date: 2026-08-11
+date: 2026-08-12
 slug: subvenciones-andalucia-asociaciones-asociacionismo
 ---
 
