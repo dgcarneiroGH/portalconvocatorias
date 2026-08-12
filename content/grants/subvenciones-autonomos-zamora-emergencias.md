@@ -1,18 +1,46 @@
 ---
 title: Ayudas para emergencias en Zamora para Pyme y autónomos
-description: "Recopilatorio de las 4 ayudas activas en Zamora para Pyme y autónomos dentro del sector emergencias, con presupuesto y plazos de solicitud."
+description: "Recopilatorio de las 11 ayudas activas en Zamora para Pyme y autónomos dentro del sector emergencias, con presupuesto y plazos de solicitud."
 region: Zamora
 beneficiario: Pyme y autónomos
 tag_seo: emergencias
-count: 4
-date: 2026-08-11
+count: 11
+date: 2026-08-12
 slug: subvenciones-autonomos-zamora-emergencias
 ---
 
 # Ayudas para emergencias en autonomos para zamora
 
-Ayudas activas (4):
+Ayudas activas (11):
 
+- [ACUERDO DE LA JUNTA DE CASTILLA Y LEÓN POR EL QUE SE AUTORIZA LA CONCESIÓN DIRECTA DE AYUDAS A AUTÓNOMOS Y PYMES EN LAS LOCALIDADES EVACUADAS POR LOS INCENDIOS FORESTALES EN EL VERANO DE 2025 - 4 REMESA](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/857667) ()
+  - Description: Estas ayudas están destinadas a apoyar a autónomos y PYMES en las localidades evacuadas por los incendios forestales ocurridos en el verano de 2025, con el objetivo de mejorar su liquidez y mantener sus actividades económicas y empleo en la zona afectada.
+  - Requirements: Autónomos y PYMES ubicados en localidades evacuadas; Localidades afectadas listadas en las Órdenes MAV/945/2025, MAV/958/2025 y MAV/967/2025
+  - Budget: 308.000 € | Reception: 19/09/2025
+- [ACUERDO DE LA JUNTA DE CASTILLA Y LEÓN POR EL QUE SE AUTORIZA LA CONCESIÓN DIRECTA DE UNA SUBVENCIÓN A AYUDAS A AUTÓNOMOS Y PYMES EN LAS LOCALIDADES EVACUADAS POR LOS INCENDIOS FORESTALES EN EL VERANO DE 2025 - VII REMESA](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/862461) ()
+  - Description: Estas ayudas tienen como objetivo proporcionar apoyo económico a autónomos y PYMES ubicados en localidades evacuadas debido a incendios forestales en Castilla y León durante el verano de 2025, con el fin de mantener su actividad y facilitar la recuperación económica de la zona afectada.
+  - Requirements: Ser autónomo o PYME; Ubicarse en las localidades evacuadas por los incendios; Sufrir daños en la actividad económica o infraestructura
+  - Budget: 225.500 € | Reception: 15/10/2025
+- [ACUERDO DE LA JUNTA DE CASTILLA Y LEÓN POR EL QUE SE AUTORIZA LA CONCESIÓN DIRECTA DE AYUDAS A AUTÓNOMOS Y PYMES EN LAS LOCALIDADES AFECTADAS Y/O EVACUADAS Y POR LOS INCENDIOS FORESTALES EN EL VERANO DE 2025. REMESA IX](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/864582) ()
+  - Description: La subvención está destinada a apoyar a autónomos y PYMES en localidades de Castilla y León afectadas o evacuadas por los incendios forestales del verano de 2025, con el objetivo de fortalecer su liquidez y facilitar su recuperación económica.
+  - Requirements: Autónomos y PYMES ubicados en localidades afectadas o evacuadas por incendios; Localidades listadas en la Orden MAV/945/2025 y sus complementarias
+  - Budget: 302.500 € | Reception: 27/10/2025
+- [ACUERDO DE LA JUNTA DE CASTILLA Y LEÓN POR EL QUE SE AUTORIZA LA CONCESIÓN DIRECTA DE UNA SUBVENCIÓN A AUTÓNOMOS Y PYMES EN LAS LOCALIDADES AFECTADAS Y/O EVACUADAS POR LOS INCENDIOS FORESTALES EN EL VERANO DE 2025. REMESA XII](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/868985) ()
+  - Description: La ayuda tiene como objetivo proporcionar soporte económico a autónomos y PYMES en Castilla y León que han sufrido daños debido a los incendios forestales de verano de 2025, para asegurar la continuidad de sus actividades y la recuperación económica de la región.
+  - Requirements: Ser autónomo o PYME; Estar ubicado en localidades afectadas o evacuadas debido a incendios forestales; Haber sufrido daños en la actividad económica, infraestructuras o capacidad de subsistencia
+  - Budget: 198.000 € | Reception: 17/11/2025
+- [ACUERDO DE LA JUNTA DE CASTILLA Y LEÓN POR EL QUE SE AUTORIZA LA CONCESIÓN DIRECTA DE UNA SUBVENCIÓN A AUTÓNOMOS Y PYMES EN LAS LOCALIDADES AFECTADAS Y/O EVACUADAS POR LOS INCENDIOS FORESTALES EN EL VERANO DE 2025. REMESA XIII](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/870490) ()
+  - Description: La ayuda está destinada a apoyar a autónomos y PYMES en localidades afectadas o evacuadas por los incendios forestales en el verano de 2025, buscando mantener su actividad económica y empleo en la zona.
+  - Requirements: Ser autónomo o PYME; Estar ubicado en localidades afectadas o evacuadas por los incendios forestales de verano de 2025
+  - Budget: 110.000 € | Reception: 24/11/2025
+- [ACUERDO DE LA JUNTA DE CASTILLA Y LEÓN POR EL QUE SE AUTORIZA LA CONCESIÓN DIRECTA DE UNA SUBVENCIÓN A AUTÓNOMOS Y PYMES EN LAS LOCALIDADES AFECTUADAS Y/O EVACUADAS POR LOS INCENDIOS FORESTALES EN EL VERANO DE 2025. REMESA XIV](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/872008) ()
+  - Description: El objetivo de esta ayuda es apoyar económicamente a autónomos y PYMES en las localidades afectadas y/o evacuadas por los incendios forestales del verano de 2025, para reforzar su liquidez y solventar los daños sufridos.
+  - Requirements: Ser autónomo o PYME; Ubicación en localidades afectadas y/o evacuadas por incendios forestales; Haber sufrido daños personales, materiales, económicos o sociales
+  - Budget: 60.500 € | Reception: 01/12/2025
+- [ACUERDO DE LA JUNTA DE CASTILLA Y LEÓN DE 12/03/2026, POR EL QUE SE AUTORIZA LA CONCESIÓN DIRECTA DE SUBVENCIONES PARA REPONER CONSTRUCCIONES AGRÍCOLAS AFECTADAS POR LOS GRANDES INCENDIOS FORESTALES ACAECIDOS EN CASTILLA Y LEÓN, DURANTE EL VERANO DE 2025.](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/893204) ()
+  - Description: La subvención tiene como objetivo la reconstrucción, restauración o rehabilitación de las construcciones o instalaciones agrícolas, ganaderas o apícolas dañadas a causa de los grandes incendios forestales ocurridos en Castilla y León durante el verano de 2025.
+  - Requirements: Titulares de explotaciones agrarias con construcciones o instalaciones dañadas; Las estructuras deben estar en los municipios afectados por los incendios; Deben haber presentado en tiempo y forma la declaración responsable; Las construcciones o instalaciones deben haber sufrido daños por los incendios; Las propiedades deben estar registradas en el catastro; Las obras deben llevarse a cabo en el municipio donde estaban ubicadas antes del incendio
+  - Budget: 600.066,05 € | Reception: 16/03/2026
 - [ACUERDO DE LA JUNTA DE CASTILLA Y LEÓN POR EL QUE SE AUTORIZA LA CONCESIÓN DIRECTA DE AYUDAS A AUTÓNOMOS Y PYMES EN LAS LOCALIDADES EVACUADAS POR LOS INCENDIOS FORESTALES EN EL VERANO DEL 2025-3](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/856749) ()
   - Description: Esta ayuda tiene como objetivo proporcionar apoyo económico a autónomos y PYMES que operan en localidades evacuadas debido a los incendios forestales en el verano de 2025, a fin de mantener su actividad económica y proteger el empleo en la zona afectada.
   - Requirements: Ser autónomo o PYME; Ubicación en localidades evacuadas por incendios forestales; Sufrir daños personales, materiales o económicos debido a los incendios
