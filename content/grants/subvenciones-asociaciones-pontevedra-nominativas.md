@@ -5,7 +5,7 @@ region: Pontevedra
 beneficiario: Asociaciones y ong
 tag_seo: nominativas
 count: 7
-date: 2026-08-11
+date: 2026-08-12
 slug: subvenciones-asociaciones-pontevedra-nominativas
 ---
 
