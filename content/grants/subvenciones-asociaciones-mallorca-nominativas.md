@@ -5,7 +5,7 @@ region: Mallorca
 beneficiario: Asociaciones y ong
 tag_seo: nominativas
 count: 3
-date: 2026-08-12
+date: 2026-08-13
 slug: subvenciones-asociaciones-mallorca-nominativas
 ---
 
