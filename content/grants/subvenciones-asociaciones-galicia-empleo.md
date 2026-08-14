@@ -1,19 +1,12 @@
 ---
-title: Ayudas para empleo en Galicia para Asociaciones y ong
-description: "Recopilatorio de las 1 ayudas activas en Galicia para Asociaciones y ong dentro del sector empleo, con presupuesto y plazos de solicitud."
-region: Galicia
-beneficiario: Asociaciones y ong
-tag_seo: empleo
-count: 1
-date: 2026-08-13
+title: Ayudas (subvenciones-asociaciones-galicia-empleo)
+description: Listado completo de todas las categorías de ayudas y ayudas activas, organizado por territorio, tipo de beneficiario y sector.
 slug: subvenciones-asociaciones-galicia-empleo
+date: 2026-08-14
+count: 0
+_orphan: true
 ---
 
-# Ayudas para empleo en asociaciones para galicia
+# Ayudas (subvenciones-asociaciones-galicia-empleo)
 
-Ayudas activas (1):
-
-- [ORDEN DEL 9 DE JULIO DE 2026 POR LA QUE SE ESTABLECEN LAS BASES REGULADORAS PARA LA CONCESIÓN DE SUBVENCIONES PARA LA PUESTA EN PRÁCTICA DE PROGRAMAS INTEGRADOS DE EMPLEO DE GALICIA, Y SE CONVOCAN PARA EL AÑO 2026 (CÓDIGO DE PROCEDIMIENTO TR332A)](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/920668) ()
-  - Description: Esta subvención está destinada a financiar programas integrados de empleo en Galicia, con el objetivo de mejorar la ocupabilidad y la inserción laboral de personas desempleadas, a través de acciones como formación, orientación y prácticas profesionales.
-  - Requirements: Entidades locales; Entidades sin ánimo de lucro; Participación en programas de empleo; Cumplir obligaciones tributarias y de seguridad social; No haber recibido subvenciones incompatibles
-  - Budget: 11.000.000 € | Reception: 21/07/2026 | Start: 27/07/2026 | End: 24/08/2026
+_Esta página está pendiente de regenerar. Sin datos activos._
