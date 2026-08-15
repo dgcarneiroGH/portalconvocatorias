@@ -5,7 +5,7 @@ region: Región de murcia
 beneficiario: Asociaciones y ong
 tag_seo: nominativas
 count: 21
-date: 2026-08-14
+date: 2026-08-15
 slug: subvenciones-asociaciones-region-de-murcia-nominativas
 ---
 
