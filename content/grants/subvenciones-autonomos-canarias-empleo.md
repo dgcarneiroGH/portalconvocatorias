@@ -5,7 +5,7 @@ region: Canarias
 beneficiario: Pyme y autónomos
 tag_seo: empleo
 count: 9
-date: 2026-08-15
+date: 2026-08-16
 slug: subvenciones-autonomos-canarias-empleo
 ---
 
