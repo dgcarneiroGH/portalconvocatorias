@@ -5,7 +5,7 @@ region: Galicia
 beneficiario: Gran empresa
 tag_seo: formacion
 count: 3
-date: 2026-08-16
+date: 2026-08-17
 slug: subvenciones-empresa-galicia-formacion
 ---
 
