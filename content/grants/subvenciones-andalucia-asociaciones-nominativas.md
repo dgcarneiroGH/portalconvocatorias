@@ -5,7 +5,7 @@ region: Andalucia
 beneficiario: Asociaciones y ong
 tag_seo: nominativas
 count: 17
-date: 2026-08-17
+date: 2026-08-18
 slug: subvenciones-andalucia-asociaciones-nominativas
 ---
 
