@@ -1,0 +1,27 @@
+---
+title: Ayudas para cultura en Gran canaria para Pyme y autónomos
+description: "Recopilatorio de las 3 ayudas activas en Gran canaria para Pyme y autónomos dentro del sector cultura, con presupuesto y plazos de solicitud."
+region: Gran canaria
+beneficiario: Pyme y autónomos
+tag_seo: cultura
+count: 3
+date: 2026-08-19
+slug: subvenciones-autonomos-gran-canaria-cultura
+---
+
+# Ayudas para cultura en autonomos para gran-canaria
+
+Ayudas activas (3):
+
+- [GC SUBVENCIÓN DIRECTA A D. DANIEL FRANCISCO FERNÁNDEZ GALVÁN PARA EL PROYECTO “TRABAJO DE INVESTIGACIÓN Y DOCUMENTACIÓN SOBRE LOS PAISAJES CULTURALES DE LAS ISLAS CANARIAS: MIRADAS SOBRE EL PAISAJE”](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/897526) ()
+  - Description: La subvención tiene como objetivo financiar el proyecto "Trabajo de investigación y documentación sobre los paisajes culturales de las Islas Canarias: Miradas sobre el paisaje", que busca conocer, valorar y conservar el paisaje y patrimonio cultural del archipiélago.
+  - Requirements: El solicitante debe ser una persona física (D. Daniel Francisco Fernández Galván).; No se especifican limitaciones de edad.
+  - Budget: 14.960 € | Reception: 08/04/2026
+- [BASES REGULADORAS Y CONVOCATORIA DEL PROCEDIMIENTO PARA OTORGAR LOS PREMIOS Y GRATIFICACIONES A LOS PARTICIPANTES EN LA FERIA DE GANADO A CELEBRAR EL 9 DE SEPTIEMBRE EN HONOR A SAN NICOLÁS DE TOLENTINO](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/924783) ()
+  - Description: El objetivo de esta convocatoria es otorgar premios y gratificaciones económicas a los participantes en la Feria de Ganado que se celebra en honor a San Nicolás de Tolentino, incentivando la exposición y concurso de animales de producción y compañía.
+  - Requirements: Residir en el municipio de La Aldea de San Nicolás; Realizar la preinscripción entre el 17 y el 28 de agosto; Cumplir con los requisitos sanitarios para el ganado; Presentar el ganado en las fechas y horarios establecidos
+  - Budget: 15.000 € | Reception: 12/08/2026 | Start: 17/08/2026 | End: 28/08/2026
+- [CONVOCATORIA DE SUBVENCIONES EN RÉGIMEN DE CONCURRENCIA COMPETITIVA DESTINADAS AL DESARROLLO DE LARGOMETRAJES Y SERIES Y A LA PRODUCCIÓN DE CORTOMETRAJES EN LA ISLA DE GRAN CANARIA. CATEGORÍA DE FICCIÓN, DOCUMENTAL O ANIMACIÓN. ANUALIDAD 2026.](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/924933) ()
+  - Description: Contribuir al desarrollo cultural de Gran Canaria y la creación de patrimonio a través de producciones audiovisuales, fomentando el crecimiento del sector.
+  - Requirements: Empresas y autónomos; Cumplir los requisitos establecidos en la cláusula quinta de la convocatoria; Ubicación en Gran Canaria
+  - Budget: 150.000 € | Reception: 13/08/2026 | Start: 14/08/2026 | End: 02/09/2026
