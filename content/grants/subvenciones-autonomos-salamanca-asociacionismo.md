@@ -5,7 +5,7 @@ region: Salamanca
 beneficiario: Pyme y autónomos
 tag_seo: asociacionismo
 count: 3
-date: 2026-08-18
+date: 2026-08-19
 slug: subvenciones-autonomos-salamanca-asociacionismo
 ---
 
