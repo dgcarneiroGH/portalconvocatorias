@@ -92,7 +92,7 @@
         </section>
 
         <section class="home-grant-list" aria-label="Ayudas disponibles">
-            {{ range where .Site.RegularPages "Section" "grants" }}
+            {{ range (sort (where .Site.RegularPages "Section" "grants") ".Params.creation_date" "desc") }}
             {{ $regionSlug := "" }}
             {{ $benefSlug := "" }}
             {{ with .Params.region }}{{ $regionSlug = urlize . }}{{ end }}
