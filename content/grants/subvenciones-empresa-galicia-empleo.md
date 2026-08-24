@@ -5,7 +5,8 @@ region: Galicia
 beneficiario: Gran empresa
 tag_seo: empleo
 count: 5
-date: 2026-08-24
+creation_date: 2026-08-24
+last_update_date: 2026-08-24
 slug: subvenciones-empresa-galicia-empleo
 ---
 
