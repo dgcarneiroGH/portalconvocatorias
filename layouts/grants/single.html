@@ -17,7 +17,10 @@
         
         <section class="grant-page-summary" aria-label="Resumen de las ayudas">
             <p>Esta página reúne <strong>{{ $count }} ayudas y convocatorias activas</strong> convocadas por organismos públicos de <strong>{{ $region }}</strong> (o de ámbito estatal aplicables a este territorio) y dirigidas a <strong>{{ $benef }}</strong> dentro del sector <strong>{{ $tagLabel }}</strong>. Los datos proceden de la Base de Datos Nacional de Ayudas (BDNS) y se actualizan a diario. Cada ficha incluye presupuesto, plazos de solicitud, requisitos y enlace directo a la convocatoria oficial.</p>
-            <p class="grant-page-updated"><strong>Última actualización:</strong> <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "2" }} de {{ index (slice "enero" "febrero" "marzo" "abril" "mayo" "junio" "julio" "agosto" "septiembre" "octubre" "noviembre" "diciembre") (sub .Date.Month 1) }} de {{ .Date.Format "2006" }}</time>. Datos de la BDNS revisados y publicados automáticamente a diario.</p>
+            {{- $updatedRaw := .Params.last_update_date | default .Params.creation_date -}}
+            {{- $updatedTime := time.AsTime $updatedRaw -}}
+            {{- $updated := $updatedTime.Format "2006-01-02" -}}
+            <p class="grant-page-updated"><strong>Última actualización:</strong> <time datetime="{{ $updated }}">{{ $updatedTime.Format "2" }} de {{ index (slice "enero" "febrero" "marzo" "abril" "mayo" "junio" "julio" "agosto" "septiembre" "octubre" "noviembre" "diciembre") (sub $updatedTime.Month 1) }} de {{ $updatedTime.Format "2006" }}</time>.</p>
         </section>
 
         <section class="grant-page-list" aria-label="Ayudas disponibles">

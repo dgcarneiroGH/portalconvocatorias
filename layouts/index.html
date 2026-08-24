@@ -86,9 +86,11 @@
 
         <section class="home-updates-heading" aria-labelledby="updates-title">
             <h2 id="updates-title">Últimas actualizaciones</h2>
-            {{ with index (where .Site.RegularPages "Section" "grants") 0 }}
-            <span>Última actualización: {{ dateFormat "02/01/2006" .Date }}</span>
-            {{ end }}
+            {{- $latestGrant := index (sort (where .Site.RegularPages "Section" "grants") ".Params.last_update_date" "desc") 0 -}}
+            {{- with $latestGrant -}}
+                {{- $ts := time.AsTime (.Params.last_update_date | default .Params.creation_date) -}}
+                <span>Última actualización: {{ $ts.Format "02/01/2006" }}</span>
+            {{- end -}}
         </section>
 
         <section class="home-grant-list" aria-label="Ayudas disponibles">
