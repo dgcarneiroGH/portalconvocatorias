@@ -1,18 +1,17 @@
 ---
 title: Ayudas para formacion en Álava para Asociaciones y ong
-description: "Recopilatorio de las 4 ayudas activas en Álava para Asociaciones y ong dentro del sector formacion, con presupuesto y plazos de solicitud."
+description: "Recopilatorio de las 5 ayudas activas en Álava para Asociaciones y ong dentro del sector formacion, con presupuesto y plazos de solicitud."
 region: Álava
 beneficiario: Asociaciones y ong
 tag_seo: formacion
-count: 4
-creation_date: 2026-08-25
-last_update_date: 2026-08-25
+count: 5
+date: 2026-08-25
 slug: subvenciones-alava-asociaciones-formacion
 ---
 
 # Ayudas para formacion en alava para asociaciones
 
-Ayudas activas (4):
+Ayudas activas (5):
 
 - [CONVOCATORIA DE SUBVENCIONES DE CONCURRENCIA COMPETITIVA DIRIGIDA A ENTIDADES Y/O ASOCIACIONES SIN ÁNIMO DE LUCRO QUE ACTÚEN EN EL ÁMBITO DE LA IGUALDAD DE MUJERES Y HOMBRES EN EL AÑO 2026](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/909613) ()
   - Budget: 28.500 € | Reception: 01/06/2026 | Start: 02/06/2026 | End: 29/06/2026
@@ -22,3 +21,5 @@ Ayudas activas (4):
   - Budget: 25.000 € | Reception: 10/06/2026 | Start: 11/06/2026 | End: 25/06/2027
 - [AYUDAS PARA EL APOYO A NIÑAS Y NIÑOS CON DIFICULTADES EN EL APRENDIZAJE, CURSO 2026-2027](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/914329) ()
   - Budget: 170.000 € | Reception: 19/06/2026 | Start: 22/06/2026 | End: 18/09/2026
+- [RENOVACION CONVENIO DE COLABORACION ENTRE AYTO VITORIA- GASTEIZ  COLEGIO OFICIAL DE TRABAJO SOCIAL DE ARABA PARA FORMACIONES DURANTE EL AÑO 2026](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/909173) ()
+  - Budget: 10.000 € | Reception: 29/05/2026
