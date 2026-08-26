@@ -43,6 +43,45 @@
     transition: background-color 160ms ease;
 }
 
+.grant-detail-card-header {
+    margin-top: 2rem;
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
+    gap: 16px;
+}
+
+.grant-detail-card-header h3 {
+    flex: 1;
+    min-width: 0;
+}
+
+.grant-detail-nominative {
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+    align-self: flex-start;
+    flex-shrink: 0;
+    padding: 4px 12px;
+    background: #ede9fe;
+    color: #4c1d95;
+    border: 1px solid #c4b5fd;
+    border-radius: 999px;
+    font-family: 'Inter', sans-serif;
+    font-size: 11px;
+    line-height: 16px;
+    font-weight: 600;
+    letter-spacing: 0.5px;
+    text-transform: uppercase;
+    white-space: nowrap;
+}
+
+.grant-detail-nominative svg {
+    width: 16px;
+    height: 16px;
+    fill: currentColor;
+}
+
 .grant-detail-card:hover {
     background: #f0f4f8;
 }

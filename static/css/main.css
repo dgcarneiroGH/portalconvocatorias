@@ -1184,7 +1184,16 @@ h1, h2, h3, .font-space {
         line-height: 40px;
     }
 
-    .grant-detail-card {
+.grant-detail-card {
+    display: flex;
+    flex-direction: column;
+    gap: 24px;
+    padding: 32px;
+    background: #ffffff;
+    border: 1px solid #1e1b4b;
+    border-radius: 2rem;
+    transition: background-color 160ms ease;
+}
         padding: 24px;
     }
 

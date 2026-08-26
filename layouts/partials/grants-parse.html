@@ -44,6 +44,7 @@
                 {{- $end = trim (strings.TrimPrefix "End:" $trimmed) " " -}}
             {{- end -}}
         {{- end -}}
+        {{- $nominative := (findRE `(?m)^\s*- Nominative Grant\s*$` .) -}}
         {{- $grants = $grants | append (dict
             "title" $title
             "url" $url
@@ -53,6 +54,7 @@
             "reception" $reception
             "start" $start
             "end" $end
+            "nominative" (gt (len $nominative) 0)
         ) -}}
     {{- end -}}
 {{- end -}}

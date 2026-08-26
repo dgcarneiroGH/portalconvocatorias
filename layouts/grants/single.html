@@ -32,7 +32,14 @@
             {{ $hasCards = true }}
 
             <article class="grant-detail-card">
-                <h3>{{ .title }}</h3>
+                <header class="grant-detail-card-header">
+                    <h3>{{ .title }}</h3>
+                    {{ if .nominative }}
+                    <span class="grant-detail-nominative" title="Concesión directa nominativa">
+                        {{ partial "icon.html" "check" }} Nominativa
+                    </span>
+                    {{ end }}
+                </header>
 
                 {{ with .description }}
                 <p class="grant-detail-description">{{ . }}</p>

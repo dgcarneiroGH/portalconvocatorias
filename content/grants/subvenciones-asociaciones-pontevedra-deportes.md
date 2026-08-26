@@ -16,6 +16,7 @@ Ayudas activas (8):
 - [SUBVENCIÓN A FAVOR DE LA ENTIDAD REAL FEDERACIÓN GALEGA DE FÚTBOL PARA LA ORGANIZACIÓN DE LA COPA DE FÚTBOL DE VIGO 2026. EXPTE. 25726/333](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/913814) ()
   - Description: Subvención destinada a la Real Federación Gallega de Fútbol para la organización de la Copa Vigo de Fútbol 2026, con el objetivo de fomentar y promover la actividad deportiva en la ciudad de Vigo a través de eventos de alto nivel.
   - Requirements: La entidad solicitante debe ser la Real Federación Gallega de Fútbol.; No debe tener deudas con la AEAT, ATRIGA, la Seguridad Social y el Ayuntamiento de Vigo.; Cumplir con las obligaciones fiscales y de la Seguridad Social.
+  - Nominative Grant
   - Budget: 6000 € | Reception: 17/06/2026 | Start: 05/06/2026 | End: 15/11/2026
 - [CONVOCATORIA DE SUBVENCIONES PARA ACTIVIDADES DE FOMENTO DE LA PRÁCTICA DEL DEPORTE EN EL MUNICIPIO (2026).-](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/915605) ()
   - Description: El Ayuntamiento de Nigrán convoca subvenciones para impulsar actividades deportivas en el municipio durante 2026, dirigidas a entidades sin ánimo de lucro y deportistas individuales empadronados en Nigrán.
