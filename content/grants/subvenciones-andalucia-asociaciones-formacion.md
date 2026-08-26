@@ -1,17 +1,18 @@
 ---
 title: Ayudas para formacion en Andalucia para Asociaciones y ong
-description: "Recopilatorio de las 10 ayudas activas en Andalucia para Asociaciones y ong dentro del sector formacion, con presupuesto y plazos de solicitud."
+description: "Recopilatorio de las 11 ayudas activas en Andalucia para Asociaciones y ong dentro del sector formacion, con presupuesto y plazos de solicitud."
 region: Andalucia
 beneficiario: Asociaciones y ong
 tag_seo: formacion
-count: 10
-date: 2026-08-25
+count: 11
+creation_date: 2026-08-26
+last_update_date: 2026-08-26
 slug: subvenciones-andalucia-asociaciones-formacion
 ---
 
 # Ayudas para formacion en andalucia para asociaciones
 
-Ayudas activas (10):
+Ayudas activas (11):
 
 - [RESOLUCION DE 3 DE JULIO DE 2026, CONVOCATORIA FORMACIÓN PARA EL EMPLEO RELACIONADA CON  BASE LOGISTICA EJERCITO DE TIERRA CÓRDOBA   LÍNEA 3 FORMACIÓN PROFESIONAL GRADO C DESEMPEADOS MODALIDAD PRESENCIAL](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/917072) ()
   - Description: La subvención tiene como objetivo financiar actividades formativas para personas desempleadas y ocupadas en la provincia de Córdoba, a través de tres líneas de apoyo que incluyen formación en el trabajo y formación profesional.
@@ -49,6 +50,10 @@ Ayudas activas (10):
   - Description: Convocar los premios anuales Educaciudad para municipios de Andalucía que destacan por su compromiso con la educación en el año 2026.
   - Requirements: Municipios de Andalucía; Actuaciones destacadas en materia de educación
   - Budget: 90.000 € | Reception: 08/07/2026 | Start: 17/07/2026 | End: 30/09/2026
+- [SUBVENCIÓN NOMINATIVA 2026 UAL PARA RED INTERNACIONAL DE UNIVERSIDADES LECTORAS](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/918717) ()
+  - Description: La subvención tiene como objetivo financiar la Red Internacional de Universidades Lectoras (RIUL) de la Universidad de Almería, con acciones que fomenten la práctica de la lectura y escritura dentro de la comunidad universitaria durante el ejercicio 2026.
+  - Nominative Grant
+  - Budget: 10.000 € | Reception: 10/07/2026
 - [RESOLUCIÓN DE 16 DE JULIO DE 2026 DESTINADAS A LA FINANCIACIÓN DE LA OFERTA FORMATIVA DE FORMACIÓN PROFESIONAL Y FORMACIÓN EN EL TRABAJO EN EL SECTOR NAVAL, DIRIGIDA A PERSONAS TRABAJADORAS DESEMPLEADAS EN LA PROVINCIA DE CÁDIZ. LINEA 3 MOD. TELEFORMACIÓN](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/919652) ()
   - Description: Se convocan subvenciones para el año 2026 destinadas a la realización de actividades formativas dirigidas a personas trabajadoras desempleadas en la provincia de Cádiz, a través de líneas de formación en el trabajo y formación profesional.
   - Requirements: Entidades privadas que no sean sin ánimo de lucro; No pueden participar entidades de formación públicas; Centros de formación deben estar inscritos en el registro correspondiente; Solo entidades con centros del Sistema de Formación en el Trabajo para líneas 1 y 3; Solo entidades con centros de Formación Profesional autorizados para línea 2
