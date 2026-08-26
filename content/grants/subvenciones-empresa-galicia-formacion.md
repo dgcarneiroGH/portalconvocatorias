@@ -5,7 +5,8 @@ region: Galicia
 beneficiario: Gran empresa
 tag_seo: formacion
 count: 3
-date: 2026-08-25
+creation_date: 2026-08-26
+last_update_date: 2026-08-26
 slug: subvenciones-empresa-galicia-formacion
 ---
 
@@ -19,6 +20,7 @@ Ayudas activas (3):
   - Budget: 39.500 € | Reception: 18/03/2026 | Start: 01/01/2026 | End: 31/10/2026
 - [CONVENIO DE COLABORACIÓN ENTRE LA AGENCIA PARA LA MODERNIZACIÓN TECNOLÓGICA DE GALICIA Y LA ASOCIACIÓN DE EMPRESAS GALLEGAS DE SOFTWARE LIBRE PARA LA REALIZACIÓN DE ACTUACIONES DE FORMACIÓN, CAPACITACIÓN Y PROMOCIÓN DEL SOFTWARE LIBRE Y DE FUENTES ABIERTA](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/914231) ()
   - Description: Este convenio entre la Axencia para a Modernización Tecnolóxica de Galicia y la Asociación de Empresas Galegas de Software Libre tiene como objetivo la realización de acciones de formación, capacitación y promoción del software libre y de fuentes abiertas en Galicia, fomentando así la Sociedad de la Información.
+  - Nominative Grant
   - Budget: 60.000 € | Reception: 19/06/2026 | Start: 01/01/2026 | End: 31/10/2027
 - [RESOLUCIÓN POR LA QUE SE CONCEDEN SUBVENCIONES A LAS AULAS DE 59 ENTIDADES LOCALES QUE INTEGRAN LA RED CEMIT QUE TIENEN LA CONSIDERACIÓN DE “AULAS DE REFERENCIA” PARA EL EJERCICIO 2026](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/919608) ()
   - Description: El objetivo de esta subvención es apoyar a las entidades locales que forman parte de la Red CeMIT en la realización de actividades de inclusión digital, con la finalidad de fomentar la alfabetización digital y el uso de tecnologías de la información por parte de la ciudadanía en Galicia durante el ejercicio 2026.
