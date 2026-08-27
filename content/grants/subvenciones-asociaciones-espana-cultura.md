@@ -5,8 +5,7 @@ region: España
 beneficiario: Asociaciones y ong
 tag_seo: cultura
 count: 6
-creation_date: 2026-08-27
-last_update_date: 2026-08-27
+date: 2026-08-27
 slug: subvenciones-asociaciones-espana-cultura
 ---
 
@@ -23,7 +22,6 @@ Ayudas activas (6):
   - Budget: 25.000 € | Reception: 27/07/2026 | Start: 15/08/2026 | End: 20/09/2026
 - [CONVENIO DE COLABORACIÓN ENTRE EL EXCELENTÍSIMO AYUNTAMIENTO DE TERUEL Y LA FUNDACIÓN AMANTES DE TERUEL](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/918163) ()
   - Description: El objetivo de esta subvención es financiar el desarrollo de la actividad cultural de la Fundación Amantes de Teruel a través de un convenio de colaboración con el Ayuntamiento de Teruel, con un monto total de 20.000 euros para el año 2026.
-  - Nominative Grant
   - Budget: 20.000 € | Reception: 09/07/2026
 - [CONCESIÓN DE SUBVENCIONES PARA LA REALIZACIÓN DE ACTIVIDADES CULTURALES DE 2026](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/917944) ()
   - Description: Concesión de subvenciones para la realización de actividades culturales en Tortosa en 2026, destinadas a entidades y personas que organicen estas actividades y que complementen la competencia municipal.
