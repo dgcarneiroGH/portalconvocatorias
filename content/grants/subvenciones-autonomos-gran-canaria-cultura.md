@@ -5,8 +5,7 @@ region: Gran canaria
 beneficiario: Pyme y autónomos
 tag_seo: cultura
 count: 5
-creation_date: 2026-08-27
-last_update_date: 2026-08-27
+date: 2026-08-27
 slug: subvenciones-autonomos-gran-canaria-cultura
 ---
 
@@ -17,16 +16,13 @@ Ayudas activas (5):
 - [GC SUBVENCIÓN DIRECTA A D. DANIEL FRANCISCO FERNÁNDEZ GALVÁN PARA EL PROYECTO “TRABAJO DE INVESTIGACIÓN Y DOCUMENTACIÓN SOBRE LOS PAISAJES CULTURALES DE LAS ISLAS CANARIAS: MIRADAS SOBRE EL PAISAJE”](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/897526) ()
   - Description: La subvención tiene como objetivo financiar el proyecto "Trabajo de investigación y documentación sobre los paisajes culturales de las Islas Canarias: Miradas sobre el paisaje", que busca conocer, valorar y conservar el paisaje y patrimonio cultural del archipiélago.
   - Requirements: El solicitante debe ser una persona física (D. Daniel Francisco Fernández Galván).; No se especifican limitaciones de edad.
-  - Nominative Grant
   - Budget: 14.960 € | Reception: 08/04/2026
 - [GC SUBVENCIÓN NOMINADA A LUIS MONZÓN MUÑOZ (TIRIMBIQUI). 3 DÍAS DE FARÁNDULA ANUALIDAD 2025.](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/903595) ()
   - Description: Apoyar la promoción, fomento y cooperación en el ámbito cultural a través de subvenciones para actividades relacionadas con las artes escénicas, artes plásticas, audiovisuales y música en Gran Canaria.
-  - Nominative Grant
   - Budget: 6000 € | Reception: 05/05/2026
 - [GC SUBVENCIÓN DIRECTA A BARCELÓ ARRENDAMIENTOS HOTELEROS, S.L. PARA EL PROYECTO “FESTIVAL SANTA CATALINA CLASSICS 2025”](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/910296) ()
   - Description: La subvención está destinada a financiar el proyecto "Festival Santa Catalina Classics 2025", que comprende la realización de festivales de música clásica con artistas de reconocimiento internacional y la Orquesta Filarmónica de Gran Canaria.
   - Requirements: Entidades no lucrativas o empresas del sector cultural; Cumplir con las responsabilidades tributarias y de seguridad social; Presentar documentación requerida por la legislación en materia de subvenciones
-  - Nominative Grant
   - Budget: 55.000 € | Reception: 03/06/2026
 - [BASES REGULADORAS Y CONVOCATORIA DEL PROCEDIMIENTO PARA OTORGAR LOS PREMIOS Y GRATIFICACIONES A LOS PARTICIPANTES EN LA FERIA DE GANADO A CELEBRAR EL 9 DE SEPTIEMBRE EN HONOR A SAN NICOLÁS DE TOLENTINO](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/924783) ()
   - Description: El objetivo de esta convocatoria es otorgar premios y gratificaciones económicas a los participantes en la Feria de Ganado que se celebra en honor a San Nicolás de Tolentino, incentivando la exposición y concurso de animales de producción y compañía.
