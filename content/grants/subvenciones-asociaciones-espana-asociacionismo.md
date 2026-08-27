@@ -5,8 +5,7 @@ region: España
 beneficiario: Asociaciones y ong
 tag_seo: asociacionismo
 count: 13
-creation_date: 2026-08-27
-last_update_date: 2026-08-27
+date: 2026-08-27
 slug: subvenciones-asociaciones-espana-asociacionismo
 ---
 
@@ -28,7 +27,6 @@ Ayudas activas (13):
   - Budget: 9000 € | Reception: 23/07/2026
 - [CONVENIO QUE CANALIZA UNA SUBVENCIÓN NOMINATIVA A LA ASOCIACIÓN DE TÉCNICOS SUPERIORES EN PREVENCIÓN DE RIESGOS LABORALES DE CANTABRIA PARA LA REALIZACIÓN DE ACCIONES EN MATERIA DE PREVENCIÓN DE RIESGOS LABORALES EN 2026](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/921559) ()
   - Description: El objetivo de esta subvención es financiar actividades en materia de prevención de riesgos laborales organizadas por la Asociación de Técnicos Superiores en Prevención de Riesgos Laborales de Cantabria, asegurando la difusión y la promoción de una cultura de prevención en el ámbito laboral.
-  - Nominative Grant
   - Budget: 5000 € | Reception: 24/07/2026 | Start: 01/01/2026 | End: 31/12/2026
 - [CONVENIO FABZ: MANTENIMIENTO Y ACTIVIDADES](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/921582) ()
   - Description: Este convenio tiene como objetivo regular la subvención destinada al funcionamiento ordinario y potenciación de la participación ciudadana vecinal a través de la Federación de Asociaciones de Barrios 'Saracosta' de Zaragoza, con una financiación total de 100,000 euros para el año 2026.
@@ -37,11 +35,9 @@ Ayudas activas (13):
 - [CONVENIO DE COLABORACION CON EL HOGAR NUESTRA SRA. DE FATIMA. CIF G97175525](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/921702) ()
   - Description: El convenio de colaboración con la Asociación Hogar Nª Sª de Fátima tiene como objetivo organizar actividades y talleres de voluntariado dirigidos a las personas mayores en el municipio de Mislata, mejorando así su calidad de vida y fomentando su participación comunitaria.
   - Requirements: Entidades sin ánimo de lucro; Ubicación en Mislata; Actividades dirigidas a personas mayores
-  - Nominative Grant
   - Budget: 7120 € | Reception: 27/07/2026
 - [CONVENIO CON ASOCIACION MAYORES VOLUNTARIOS. CIF G96649967](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/921710) ()
   - Description: Este convenio de colaboración tiene como objetivo organizar actividades y talleres de voluntariado dirigidos a personas mayores en Mislata, con el fin de mejorar su calidad de vida y fomentar su participación social.
-  - Nominative Grant
   - Budget: 11.610 € | Reception: 27/07/2026
 - [CONVENIO ASOCIACION DE JUBILADOS EL SUR. CIF G97559108](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/921715) ()
   - Description: Este convenio de colaboración tiene como objetivo establecer un marco para desarrollar actividades socioculturales y de voluntariado dirigidas al colectivo de personas mayores en Mislata, mejorando su calidad de vida comunitaria.
@@ -49,22 +45,18 @@ Ayudas activas (13):
 - [CONVENIO POR EL QUE SE INSTRUMENTA LA SUBVENCIÓN NOMINATIVA CONCEDIDA POR EL AYUNTAMIENTO DE MISLATA A LA ASOCIACIÓN CLAVARIOS DE SAN MIGUEL ARCÁNGEL DE MISLATA PARA EL AÑO 2026.](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/917847) ()
   - Description: Esta subvención tiene como objetivo fomentar y apoyar los festejos tradicionales en Mislata, contribuyendo al arraigo y perpetuación de las costumbres festivas locales mediante la concesión de una ayuda económica a la asociación Clavarios de San Miguel Arcángel.
   - Requirements: Ser la asociación Clavarios San Miguel Arcángel de Mislata.; Estar al corriente de pago de las obligaciones fiscales.; No estar incursos en circunstancias que impidan la obtención de subvenciones.
-  - Nominative Grant
   - Budget: 9300 € | Reception: 08/07/2026 | Start: 01/01/2026 | End: 15/10/2026
 - [CONVENIO POR EL QUE SE INSTRUMENTA LA SUBVENCIÓN NOMINATIVA CONCEDIDA POR EL AYUNTAMIENTO DE MISLATA A LA ASOCIACIÓN CULTURAL CLAVARIOS SANTÍSIMO CRISTO DE LA FE DE MISLATA PARA EL AÑO 2026](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/917949) ()
   - Description: Conceder una subvención a la asociación Clavarios Sto. Cristo de la Fe de Mislata para fomentar y perpetuar los festejos tradicionales en la población de Mislata durante 2026.
   - Requirements: Estar inscrito en el Registro Municipal de Asociaciones; Estar al corriente de obligaciones fiscales con la Administración; No haber sido condenado por delitos que conlleven la pérdida de la posibilidad de obtener subvenciones; No estar en situación de concurso o insolvencia; No tener residencia fiscal en paraísos fiscales; No discriminar por nacimiento, raza, sexo, religión u opinión; No promover la violencia o el odio
-  - Nominative Grant
   - Budget: 43.000 € | Reception: 08/07/2026 | Start: 01/01/2026 | End: 11/10/2026
 - [SUBVENCIÓN DIRECTA A LA ASOCIACIÓN BE WILD BE PROUD PARA LA REALIZACIÓN DE LA RUTA AL EXILIO,](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/918945) ()
   - Description: Esta subvención tiene como objetivo financiar la realización de la Ruta al Exilio, un proyecto pedagógico que busca profundizar en la historia reciente de España y fomentar el debate crítico sobre el exilio, la memoria histórica y la diversidad cultural entre la juventud.
   - Requirements: Jóvenes españoles o con residencia legal en España; Participación de hasta 40 jóvenes en el proyecto
-  - Nominative Grant
   - Budget: 60.000 € | Reception: 13/07/2026 | Start: 10/07/2026 | End: 24/07/2026
 - [202608602025 DIR_22.2.A SUBVENCIÓN NOMINATIVA ASOCIACIÓN DE EMPRESARIOS DEL PARQUE EMPRESARIAL OESTE (ASEPIO)](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/919120) ()
   - Description: La subvención busca financiar la dinamización y mejora del Polígono Industrial Oeste a través de la Asociación de Empresarios, permitiendo la ejecución de trabajos de mantenimiento, limpieza y promoción de servicios para las empresas en la zona.
   - Requirements: Beneficiarios deben ser entidades sin ánimo de lucro; Desarrollar actividades en el Polígono Industrial Oeste; No debe ser deudor por resolución de procedencia de reintegro
-  - Nominative Grant
   - Budget: 60.000 € | Reception: 14/07/2026 | Start: 01/01/2026 | End: 31/12/2026
 - [CONVENIO UNIÓN VECINAL CESARAUGUSTA: MANTENIMIENTO Y ACTIVIDADES](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/919544) ()
   - Description: Este convenio se establece para subvencionar los gastos de mantenimiento y las actividades ordinarias de la Unión Vecinal Cesaraugusta, con el objetivo de garantizar el funcionamiento de la entidad y fomentar la participación ciudadana vecinal durante el año 2026.
