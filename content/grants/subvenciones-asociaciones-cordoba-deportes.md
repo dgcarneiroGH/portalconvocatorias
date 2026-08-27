@@ -5,8 +5,7 @@ region: Córdoba
 beneficiario: Asociaciones y ong
 tag_seo: deportes
 count: 30
-creation_date: 2026-08-27
-last_update_date: 2026-08-27
+date: 2026-08-27
 slug: subvenciones-asociaciones-cordoba-deportes
 ---
 
@@ -29,7 +28,6 @@ Ayudas activas (30):
 - [CONVENIO CON LA FUNDACIÓN LUCENA C.F. PARA LA EJECUCIÓN DEL PROYECTO III TORNEO NAVIDEÑO FUNDACIÓN LUCENA C.F. - DIPUTACIÓN DE CÓRDOBA](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/921168) ()
   - Description: El objetivo de este convenio es el desarrollo del III Torneo Navideño Fundación Lucena C.F. - Diputación de Córdoba, promoviendo el deporte y la convivencia entre jóvenes futbolistas durante el periodo navideño.
   - Requirements: Entidades deportivas que realicen actividades relacionadas con el fútbol; No deben ser entidades con ánimo de lucro; Deben estar al corriente de sus obligaciones fiscales
-  - Nominative Grant
   - Budget: 3000 € | Reception: 23/07/2026
 - [CONVENIO CON EL CLUB DEPORTIVO CHALLENGE LA SUBBÉTICA PARA LA EJECUCIÓN DEL PROYECTO VII CHALLENGE CICLISTA LA SUBBÉTICA](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/921184) ()
   - Description: El objetivo de la subvención es el desarrollo del proyecto 'VII Challenge Ciclista la Subbética', promoviendo la práctica del ciclismo entre jóvenes, así como la dinamización económica de la comarca y la promoción turística de la zona.
@@ -63,16 +61,13 @@ Ayudas activas (30):
 - [CD RUNNING SERIES - SUBVENCION NOMINATIVA 2026 EVENTO V CALIFA MOUNTAIN FESTIVAL 2026 (2 A 4 OCTUBRE 2026).](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/922510) ()
   - Description: Esta subvención tiene como objetivo apoyar la celebración del V Califa Mountain Festival 2026, un evento de especial relevancia que se llevará a cabo del 2 al 4 de octubre de 2026 en Córdoba.
   - Requirements: Club Deportivo Running Series; No estar incursa en prohibiciones de la Ley 38/2003; Colaborar con entidades externas bajo condiciones normales de mercado
-  - Nominative Grant
   - Budget: 8000 € | Reception: 30/07/2026
 - [CD ENDUROCORDOBA - SUBVENCION NOMINATIVA 2026 EVENTO IV GUZMAN EL BUENO CÓRDOBA 2026. PRUEBA CAMPEONATO DE ESPAÑA DE ENDURO (20 A 22 NOVIEMBRE 2026).](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/922574) ()
   - Description: La subvención está destinada a apoyar la realización del IV Guzmán el Bueno Córdoba 2026, un evento correspondiente al Campeonato de España de Enduro a realizarse del 20 al 22 de noviembre de 2026.
-  - Nominative Grant
   - Budget: 6400 € | Reception: 30/07/2026
 - [CONVENIO CON EL CLUB DEPORTIVO OPEN TENIS CIUDAD DE POZOBLANCO PARA LA EJECUCIÓN DEL PROYECTO OPEN COVAP CIUDAD DE POZOBLANCO, MEMORIAL FABIÁN DORADO (INTERNACIONALES DE ANDALUCÍA EN PISTA RÁPIDA)](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/915905) ()
   - Description: El convenio tiene como objetivo principal el desarrollo del proyecto 'Open Covap Ciudad de Pozoblanco', que promueve actividades relacionadas con el tenis a nivel internacional y busca dinamizar económicamente la zona norte de Córdoba.
   - Requirements: Club Deportivo Open de Tenis Ciudad de Pozoblanco como entidad solicitante; Ser una entidad sin ánimo de lucro; Desarrollar actividades deportivas específicas
-  - Nominative Grant
   - Budget: 25.000 € | Reception: 29/06/2026
 - [CONVENIO CON LA FEDERACIÓN ANDALUZA DE PÁDEL PARA LA EJECUCIÓN DEL PROYECTO PROMOCIÓN DEPORTIVA DEL PÁDEL FEDERADO 2026 EN LA PROVINCIA DE CÓRDOBA](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/915906) ()
   - Description: El objetivo de esta subvención es promover el desarrollo del pádel federado en la provincia de Córdoba a través de la colaboración entre la Diputación de Córdoba y la Federación Andaluza de Pádel, facilitando la realización de diversas pruebas y actividades deportivas para deportistas de todas las edades.
@@ -80,7 +75,6 @@ Ayudas activas (30):
 - [CONVENIO CON EL CLUB DEPORTIVO BOX 77 PARA LA EJECUCIÓN DEL PROYECTO DEZA - BOX 77 RACING TEAM](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/915916) ()
   - Description: El presente Convenio tiene como objetivo el desarrollo del proyecto 'DEZA - BOX 77 Racing Team', que busca dar oportunidades a pilotos de motociclismo para competir en campeonatos, promoviendo su formación y progreso en este deporte.
   - Requirements: Ser parte del Club Deportivo BOX77; Tener capacidad legal para firmar convenios; Ubicación en Córdoba
-  - Nominative Grant
   - Budget: 15.000 € | Reception: 29/06/2026
 - [CONVENIO CON LA FEDERACIÓN ANDALUZA DE BALONMANO PARA LA EJECUCIÓN DEL PROYECTO FINAL XXXI COPA DE ANDALUCÍA DE BALONMANO MASCULINO](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/915918) ()
   - Description: El objetivo del convenio es desarrollar el proyecto de la ‘Final XXXI Copa de Andalucía de Balonmano Masculino’, lo que implica la promoción y celebración de este evento deportivo, así como el fomento del balonmano en la región de Andalucía.
@@ -93,12 +87,10 @@ Ayudas activas (30):
 - [CONVENIO CON EL CLUB DEPORTIVO POZOBLANCO PARA LA EJECUCIÓN DEL PROYECTO PARTICIPACIÓN DEL EQUIPO SÉNIOR DEL CLUB DEPORTIVO POZOBLANCO EN LA TERCERA DIVISIÓN RFEF](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/916063) ()
   - Description: Este convenio tiene como objetivo la colaboración entre la Diputación de Córdoba y el Club Deportivo Pozoblanco para el desarrollo del equipo sénior en la tercera división RFEF, buscando promover el deporte y su impacto social en la localidad.
   - Requirements: Club Deportivo Pozoblanco debe ser una entidad legalmente constituida y sin ánimo de lucro.; El proyecto debe estar relacionado con la práctica del fútbol.; El Club debe estar federado en la Federación Andaluza de Fútbol.
-  - Nominative Grant
   - Budget: 40.000 € | Reception: 29/06/2026
 - [SUBVENCIÓN POR CONCESIÓN DIRECTA A LA ASOCIACIÓN CLUB DEPORTIVO VESPERTINA PERRO VERDE, C.F.](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/916587) ()
   - Description: Este convenio tiene como objetivo colaborar en la realización de actividades del CLUB DEPORTIVO VESPERTINA EL PERRO VERDE HORNACHUELOS F.C., con un enfoque en la participación en ligas federadas de fútbol para el año 2026.
   - Requirements: Ser el CLUB DEPORTIVO VESPERTINA EL PERRO VERDE HORNACHUELOS F.C.; No estar incursos en prohibiciones según la Ley General de Subvenciones; Estar al corriente de obligaciones tributarias y de la Seguridad Social
-  - Nominative Grant
   - Budget: 11.000 € | Reception: 01/07/2026
 - [RESOLUCIÓN DE ALCALDÍA Nº 2026/00003167 DE 30/06/2026 POR LA QUE SE APRUEBA LA CONVOCATORIA PÚBLICA DE SUBVENCIONES DE LA
 CONCEJALÍA DE DEPORTES PARA EL AÑO 2026 MEDIANTE EL RÉGIMEN DE CONCURRENCIA COMPETITIVA.](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/916675) ()
@@ -108,16 +100,13 @@ CONCEJALÍA DE DEPORTES PARA EL AÑO 2026 MEDIANTE EL RÉGIMEN DE CONCURRENCIA C
 - [CONVENIO CON EL CLUB DEPORTIVO CIUDAD DE LUCENA C. F. PARA LA EJECUCIÓN DEL PROYECTO PRIMER EQUIPO CIUDAD DE LUCENA TEMPORADA 2026/2027](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/916682) ()
   - Description: Este convenio tiene como objetivo el desarrollo del proyecto del Primer equipo Ciudad de Lucena para la temporada 2026/2027, buscando fomentar el deporte en la región y fortalecer la identidad local mediante el fútbol.
   - Requirements: Entidad que solicita la subvención: Club Deportivo Ciudad de Lucena; Presupuesto del proyecto: 52.950 €; La Diputación aporta 40.000 €; Se desarrollará en la provincia de Córdoba; Principales beneficiarios: abonados, población lucentina, centros educativos, asociaciones culturales y sin ánimo de lucro, miembros del primer equipo
-  - Nominative Grant
   - Budget: 40.000 € | Reception: 02/07/2026
 - [CONVENIO CON EL CLUB DEPORTIVO ENDUROCÓRDOBA. PARA LA EJECUCIÓN DEL PROYECTO  IV ENDURO OBEJO-CÓRDOBA GUZMÁN EL BUENO 2026](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/916694) ()
   - Description: El objetivo del convenio es desarrollar el proyecto 'IV Enduro Obejo-Córdoba “Guzmán el Bueno” 2026', que consiste en la organización de una carrera de motociclismo enduro, la cual busca fomentar la práctica del motociclismo off-road y generar un impacto económico positivo en la región.
-  - Nominative Grant
   - Budget: 10.000 € | Reception: 02/07/2026
 - [CONVENIO CON EL CLUB DEPORTIVO MEZQUITA RUGBY PARA LA EJECUCIÓN DEL PROYECTO RUGBY EN TU COLE. CURSO 2026/27](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/919254) ()
   - Description: El objetivo del convenio es desarrollar el proyecto educativo y deportivo 'Rugby en tu cole' en colegios de la provincia de Córdoba durante el curso académico 2026/27, promoviendo la práctica de rugby entre estudiantes y fomentando valores como el trabajo en equipo y el respeto.
   - Requirements: Club Deportivo Mezquita Rugby como entidad solicitante; Beneficiarios: estudiantes de Primaria y Secundaria en la provincia de Córdoba; Residir en la provincia de Córdoba
-  - Nominative Grant
   - Budget: 3000 € | Reception: 15/07/2026
 - [CONVENIO CON LA FUNDACIÓN EMET ARCO IRIS PARA LA EJECUCIÓN DEL PROYECTO ACTÍVATE: PROGRAMA SOCIOEDUCATIVO DE INTERVENCIÓN A TRAVÉS DEL DEPORTE](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/919306) ()
   - Description: El proyecto 'Programa Deportivo: ACTIVATE' tiene como objetivo la intervención socioeducativa de menores en situación de vulnerabilidad a través del deporte, promoviendo su bienestar físico y emocional.
