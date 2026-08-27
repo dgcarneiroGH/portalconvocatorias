@@ -5,7 +5,8 @@ region: Pontevedra
 beneficiario: Asociaciones y ong
 tag_seo: deportes
 count: 10
-date: 2026-08-26
+creation_date: 2026-08-27
+last_update_date: 2026-08-27
 slug: subvenciones-asociaciones-pontevedra-deportes
 ---
 
@@ -23,6 +24,7 @@ Ayudas activas (10):
   - Budget: 32.000 € | Reception: 25/06/2026 | Start: 26/06/2026 | End: 16/07/2026
 - [CONVENIO REGULADOR DA LA SUBVENCIÓN DIRECTA A LA ESCUDERIA ESTRADENSE 2026](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/916396) ()
   - Description: Este convenio regula la colaboración entre el Concello da Estrada y el Club Escudería Estradense para promover el deporte en la localidad, incluyendo la organización de eventos deportivos y cursos de formación.
+  - Nominative Grant
   - Budget: 10.000 € | Reception: 01/07/2026
 - [CONVOCATORIA PARA CONCESIÓN DE AYUDAS INDIVIDUALES PARA DEPORTISTAS DEL AYUNTAMIENTO, 2026](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/917334) ()
   - Description: El objetivo de esta convocatoria es establecer criterios para la concesión de ayudas individuales a deportistas del Ayuntamiento de Soutomaior, 2026, para fomentar su participación en competiciones deportivas federadas y no oficiales.
@@ -39,6 +41,7 @@ Ayudas activas (10):
 - [SUBVENCIÓN NOMINATIVA A LA FEDERACIÓN GALLEGA DE ATLETISMO PARA LA 	ORGANIZACIÓN DEL PROYECTO DEPORTIVO ?SERIES MUNICIPALES Y PREMIO DE LA  CIUDAD DE VIGO DE ATLETISMO?. EXPTE. 25754/333.](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/918088) ()
   - Description: La subvención se otorga a la Federación Gallega de Atletismo para la organización del proyecto deportivo 'Series Municipales y el Gran Premio Ciudad de Vigo de Atletismo', celebrado entre mayo y agosto de 2026, con el objetivo de fomentar y promocionar el deporte en la ciudad de Vigo.
   - Requirements: Entidad beneficiaria debe estar al corriente de sus obligaciones fiscales y con la Seguridad Social.; No tener deudas pendientes con el Concello de Vigo.
+  - Nominative Grant
   - Budget: 15.000 € | Reception: 08/07/2026 | Start: 01/01/2026 | End: 15/11/2026
 - [SUBVENCIÓN DIRECTA AL CLUB BALONMANO CISNE PARA LA PROMOCIÓN DEL DEPORTE DEL BALONMANO EN EL AYUNTAMIENTO DE PONTEVEDRA EN EL AÑO 2026 CON EL APOYO A LA PARTICIPACIÓN EN LA FASE SECTOR DEL CAMPEONATO DE ESPAÑA DE BALONMANO JUNIOR 25/26](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/918527) ()
   - Description: La subvención tiene como objetivo apoyar al Club Cisne de Balonmano en su participación en la Fase Sector del Campeonato de España de Balonmán Juvenil Masculino 2025/26, contribuyendo al fomento de la actividad deportiva y la promoción de la ciudad de Pontevedra.
