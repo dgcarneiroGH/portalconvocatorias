@@ -5,7 +5,8 @@ region: Málaga
 beneficiario: Pyme y autónomos
 tag_seo: asociacionismo
 count: 7
-date: 2026-08-26
+creation_date: 2026-08-27
+last_update_date: 2026-08-27
 slug: subvenciones-autonomos-malaga-asociacionismo
 ---
 
@@ -30,6 +31,7 @@ Ayudas activas (7):
   - Budget: 10.000 € | Reception: 30/06/2026 | Start: 21/05/2026 | End: 30/09/2026
 - [APLICACIÓN PRESUPUESTARIA 433.48914 DE LA BASE 31ª DE LAS BASES DE EJECUCIÓN DEL PRESUPUESTO DE 2026 POR LA QUE SE CONCEDE UNA SUBVENCIÓN NOMINATIVA A LA JUNTA CENTRAL DE AGUA VALLE DEL GUADALHORCE](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/916475) ()
   - Description: La subvención tiene como objetivo la modificación presupuestaria para el ejercicio 2026 en el Ayuntamiento de Alhaurín el Grande, Málaga, permitiendo la ejecución de acciones administrativas y proyectos prioritarios para la comunidad.
+  - Nominative Grant
   - Budget: 5000 € | Reception: 01/07/2026 | Start: 21/05/2026 | End: 30/09/2026
 - [PR/2026/1272 DE 3 DE JULIO DE 2026 DEL AYUNTAMIENTO DE ALHAURÍN EL GRANDE SOBRE LA QUE SE APRUEBAN LAS BASES REGULADORES PARA LA CONCESIÓN DE SUBVENCIONES A ASOCIACIONES Y ENTIDADES SIN ÁNIMO DE LUCRO EN RÉGIMEN DE CONCURRENCIA COMPETITIVA](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/919058) ()
   - Description: El objetivo de estas bases es regular la concesión de subvenciones a asociaciones y entidades sin ánimo de lucro para financiar proyectos en diferentes áreas de actuación municipal durante el ejercicio 2026.
