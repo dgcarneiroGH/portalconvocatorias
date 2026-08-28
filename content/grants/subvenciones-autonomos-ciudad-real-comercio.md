@@ -5,7 +5,7 @@ region: Ciudad real
 beneficiario: Pyme y autónomos
 tag_seo: comercio
 count: 3
-date: 2026-08-27
+date: 2026-08-28
 slug: subvenciones-autonomos-ciudad-real-comercio
 ---
 
