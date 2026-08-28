@@ -5,7 +5,7 @@ region: Tarragona
 beneficiario: Asociaciones y ong
 tag_seo: asociacionismo
 count: 14
-date: 2026-08-27
+date: 2026-08-28
 slug: subvenciones-asociaciones-tarragona-asociacionismo
 ---
 
@@ -32,13 +32,12 @@ Ayudas activas (14):
   - Description: Esta convocatoria tiene como objetivo otorgar subvenciones a las Asociaciones de Vecinos de Valls y Pedanías para promover la cohesión social, la convivencia y la participación ciudadana en actividades culturales y sociales durante el año 2025.
   - Requirements: Asociaciones de Vecinos de Valls y Pedanías sin ánimo de lucro.; Estar legalmente constituidas e inscritas en el Registro de Asociaciones de Cataluña.; No estar incluidos en las prohibiciones de la Ley General de Subvenciones.; Cumplir con las obligaciones fiscales y de Seguridad Social.; No estar en paraísos fiscales.; No haber recibido sanciones que impidan obtener subvenciones.
   - Budget: 27.000 € | Reception: 21/08/2026 | Start: 27/08/2026 | End: 16/09/2026
-- [CONVOCATÒRIA SUBVENCIONS ESPORTS 2026 - AMPAS I CENTRES ENSENYAMENT](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/926130) ()
-  - Description: Convocatoria de subvenciones destinadas a fomentar la actividad física y deportiva en centros de enseñanza y AMPAs del municipio de Tarragona durante el año 2025.
-  - Requirements: Domiciliados a Tarragona; AMPAs deben estar inscritas en el Registro de entidades Municipales del Ayuntamiento de Tarragona; Centros de enseñanza legalmente constituidos; Cumplir con la ley de protección a la infancia y a la adolescencia; No estar en las circunstancias que impiden tener la condición de beneficiario según la LGS; Estar al corriente de obligaciones tributarias con la AEAT y TGSS; No recibir subvenciones por el mismo concepto de otros departamentos del Ayuntamiento
-  - Budget: 10.000 € | Reception: 24/08/2026 | Start: 24/08/2026
 - [SUBVENCIÓN NOMINATIVA ASOCIACIÓN MORELL GATS DEFENSA ANIMAL 2026](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/926144) ()
   - Description: Este documento detalla la ejecución del presupuesto destinada a gastos, incluyendo becas de investigación medioambiental y subvenciones a asociaciones.
   - Budget: 5500 € | Reception: 24/08/2026 | Start: 01/01/2026 | End: 31/12/2026
+- [SUBVENCIÓN NOMINATIVA AMPA LLAR D'INFANTS DEL MORELL  2026](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/926177) ()
+  - Description: Este anuncio se refiere a la ejecución del presupuesto de gastos del Ajuntament El Morell para el ejercicio 2026, incluyendo diversas subvenciones y becas para estudios universitarios y programas educativos.
+  - Budget: 2500 € | Reception: 24/08/2026 | Start: 01/01/2026 | End: 31/12/2026
 - [SUBVENCIÓN NOMINATIVA ASOCIACIÓN CLUB PETANCA EL MORELL 2026](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/926181) ()
   - Description: La subvención tiene como objetivo financiar diversas actividades y proyectos deportivos en el municipio de El Morell, promoviendo el desarrollo del deporte y la actividad física en la comunidad.
   - Budget: 3500 € | Reception: 24/08/2026 | Start: 01/01/2026 | End: 31/12/2026
