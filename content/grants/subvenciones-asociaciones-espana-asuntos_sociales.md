@@ -5,7 +5,7 @@ region: España
 beneficiario: Asociaciones y ong
 tag_seo: asuntos_sociales
 count: 16
-date: 2026-08-28
+date: 2026-08-29
 slug: subvenciones-asociaciones-espana-asuntos_sociales
 ---
 
