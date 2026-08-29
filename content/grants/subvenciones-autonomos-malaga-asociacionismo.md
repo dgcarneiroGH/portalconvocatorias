@@ -5,7 +5,7 @@ region: Málaga
 beneficiario: Pyme y autónomos
 tag_seo: asociacionismo
 count: 7
-date: 2026-08-28
+date: 2026-08-29
 slug: subvenciones-autonomos-malaga-asociacionismo
 ---
 
