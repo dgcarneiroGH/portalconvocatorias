@@ -5,7 +5,7 @@ region: Córdoba
 beneficiario: Asociaciones y ong
 tag_seo: deportes
 count: 30
-date: 2026-08-29
+date: 2026-08-30
 slug: subvenciones-asociaciones-cordoba-deportes
 ---
 
