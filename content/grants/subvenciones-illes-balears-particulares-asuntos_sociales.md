@@ -5,7 +5,7 @@ region: Illes balears
 beneficiario: Particulares
 tag_seo: asuntos_sociales
 count: 9
-date: 2026-08-29
+date: 2026-08-30
 slug: subvenciones-illes-balears-particulares-asuntos_sociales
 ---
 
