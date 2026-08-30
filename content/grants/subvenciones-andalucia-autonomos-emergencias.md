@@ -5,7 +5,7 @@ region: Andalucia
 beneficiario: Pyme y autónomos
 tag_seo: emergencias
 count: 6
-date: 2026-08-29
+date: 2026-08-30
 slug: subvenciones-andalucia-autonomos-emergencias
 ---
 
