@@ -5,7 +5,7 @@ region: Tarragona
 beneficiario: Asociaciones y ong
 tag_seo: asociacionismo
 count: 14
-date: 2026-08-29
+date: 2026-08-30
 slug: subvenciones-asociaciones-tarragona-asociacionismo
 ---
 
@@ -21,6 +21,7 @@ Ayudas activas (14):
   - Requirements: Ser una entidad registrada; Estar al corriente de pagos con la Seguridad Social y las haciendas públicas; No tener pendiente de reintegrar subvenciones no justificadas; Comunicar la obtención de otras subvenciones o ayudas
   - Budget: 700 € | Reception: 31/07/2026
 - [CONVENIO DE COLABORACIÓN A SUBSCRIBIR ENTRE EL AYUNTAMIENTO DE VANDELLÒS I L'HOSPITALET DE L'INFANT I LA ASOCIACIÓN DE FIESTAS DE MASBOQUERA](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/923131) ()
+  - Description: Información no disponible sobre el objetivo o fondos de la convocatoria.
   - Budget: 15.000 € | Reception: 03/08/2026 | Start: 30/07/2026 | End: 10/03/2027
 - [SUBVENCIÓN NOMINATIVA A LA ASOCIACIÓN GENT GRAN QUATRE POBLES](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/924756) ()
   - Description: El objetivo de la subvención es mantener vivas las tradiciones y fomentar la convivencia entre los habitantes del pueblo de la Secuita, así como conservar y potenciar las fiestas populares como herramientas para fortalecer los lazos comunitarios.
