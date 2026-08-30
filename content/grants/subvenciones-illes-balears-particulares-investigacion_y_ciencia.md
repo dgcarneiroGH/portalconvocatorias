@@ -5,7 +5,7 @@ region: Illes balears
 beneficiario: Particulares
 tag_seo: investigacion_y_ciencia
 count: 7
-date: 2026-08-29
+date: 2026-08-30
 slug: subvenciones-illes-balears-particulares-investigacion_y_ciencia
 ---
 
@@ -25,7 +25,7 @@ Ayudas activas (7):
   - Budget: 550.000 € | Reception: 16/12/2025 | Start: 17/12/2025 | End: 30/06/2028
 - [SUBVENCIONS PER A LA CONCILIACIÓ DE LA VIDA LABORAL I FAMILIAR](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/891148) ()
   - Description: El Procedimiento Beta tiene como objetivo financiar proyectos innovadores que promuevan el desarrollo económico y la creación de empleo en regiones desfavorecidas.
-  - Budget: 70.000 € | Reception: 05/03/2026 | Start: 06/03/2026
+  - Budget: 70.000 € | Reception: 05/03/2026
 - [BONO ALQUILER JOVEN 2026-2027](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/910511) ()
   - Description: El Procedimiento Beta tiene como objetivo financiar proyectos innovadores que contribuyan al desarrollo tecnológico y la mejora de la competitividad en el sector empresarial.
   - Budget: 4.800.000 € | Reception: 04/06/2026 | Start: 01/09/2026 | End: 30/09/2026
