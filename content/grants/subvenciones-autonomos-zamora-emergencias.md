@@ -5,7 +5,7 @@ region: Zamora
 beneficiario: Pyme y autónomos
 tag_seo: emergencias
 count: 16
-date: 2026-08-30
+date: 2026-08-31
 slug: subvenciones-autonomos-zamora-emergencias
 ---
 
