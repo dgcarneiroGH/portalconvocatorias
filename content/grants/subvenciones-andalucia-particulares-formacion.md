@@ -5,7 +5,7 @@ region: Andalucia
 beneficiario: Particulares
 tag_seo: formacion
 count: 3
-date: 2026-08-30
+date: 2026-08-31
 slug: subvenciones-andalucia-particulares-formacion
 ---
 
