@@ -5,7 +5,7 @@ region: Andalucia
 beneficiario: Pyme y autónomos
 tag_seo: cambio-climatico
 count: 10
-date: 2026-08-30
+date: 2026-08-31
 slug: subvenciones-andalucia-autonomos-cambio-climatico
 ---
 
