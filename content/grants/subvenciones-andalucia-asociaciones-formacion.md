@@ -5,7 +5,8 @@ region: Andalucia
 beneficiario: Asociaciones y ong
 tag_seo: formacion
 count: 11
-date: 2026-08-31
+creation_date: 2026-08-31
+last_update_date: 2026-08-31
 slug: subvenciones-andalucia-asociaciones-formacion
 ---
 
@@ -51,6 +52,7 @@ Ayudas activas (11):
   - Budget: 90.000 € | Reception: 08/07/2026 | Start: 17/07/2026 | End: 30/09/2026
 - [SUBVENCIÓN NOMINATIVA 2026 UAL PARA RED INTERNACIONAL DE UNIVERSIDADES LECTORAS](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/918717) ()
   - Description: La subvención tiene como objetivo financiar la Red Internacional de Universidades Lectoras (RIUL) de la Universidad de Almería, con acciones que fomenten la práctica de la lectura y escritura dentro de la comunidad universitaria durante el ejercicio 2026.
+  - Nominative Grant
   - Budget: 10.000 € | Reception: 10/07/2026
 - [RESOLUCIÓN DE 16 DE JULIO DE 2026 DESTINADAS A LA FINANCIACIÓN DE LA OFERTA FORMATIVA DE FORMACIÓN PROFESIONAL Y FORMACIÓN EN EL TRABAJO EN EL SECTOR NAVAL, DIRIGIDA A PERSONAS TRABAJADORAS DESEMPLEADAS EN LA PROVINCIA DE CÁDIZ. LINEA 3 MOD. TELEFORMACIÓN](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/919652) ()
   - Description: Se convocan subvenciones para el año 2026 destinadas a la realización de actividades formativas dirigidas a personas trabajadoras desempleadas en la provincia de Cádiz, a través de líneas de formación en el trabajo y formación profesional.
