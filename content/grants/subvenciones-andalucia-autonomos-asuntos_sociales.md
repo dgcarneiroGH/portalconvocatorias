@@ -5,7 +5,7 @@ region: Andalucia
 beneficiario: Pyme y autónomos
 tag_seo: asuntos_sociales
 count: 3
-date: 2026-08-30
+date: 2026-08-31
 slug: subvenciones-andalucia-autonomos-asuntos_sociales
 ---
 
