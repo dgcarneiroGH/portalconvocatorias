@@ -5,7 +5,8 @@ region: Álava
 beneficiario: Asociaciones y ong
 tag_seo: formacion
 count: 6
-date: 2026-08-31
+creation_date: 2026-08-31
+last_update_date: 2026-08-31
 slug: subvenciones-alava-asociaciones-formacion
 ---
 
@@ -22,6 +23,8 @@ Ayudas activas (6):
 - [AYUDAS PARA EL APOYO A NIÑAS Y NIÑOS CON DIFICULTADES EN EL APRENDIZAJE, CURSO 2026-2027](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/914329) ()
   - Budget: 170.000 € | Reception: 19/06/2026 | Start: 22/06/2026 | End: 18/09/2026
 - [RENOVACION CONVENIO DE COLABORACION ENTRE AYTO VITORIA- GASTEIZ  COLEGIO OFICIAL DE TRABAJO SOCIAL DE ARABA PARA FORMACIONES DURANTE EL AÑO 2026](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/909173) ()
+  - Nominative Grant
   - Budget: 10.000 € | Reception: 29/05/2026
 - [CONVENIO COLABORACIÓN CON ARESKETA IKASTOLA 2026](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/913722) ()
+  - Nominative Grant
   - Budget: 40.270,5 € | Reception: 17/06/2026
