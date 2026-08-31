@@ -5,7 +5,7 @@ region: Gran canaria
 beneficiario: Pyme y autónomos
 tag_seo: cultura
 count: 5
-date: 2026-08-30
+date: 2026-08-31
 slug: subvenciones-autonomos-gran-canaria-cultura
 ---
 
