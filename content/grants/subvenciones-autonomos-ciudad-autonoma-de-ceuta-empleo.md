@@ -5,7 +5,8 @@ region: Ciudad autonoma de ceuta
 beneficiario: Pyme y autónomos
 tag_seo: empleo
 count: 8
-date: 2026-08-31
+creation_date: 2026-08-31
+last_update_date: 2026-08-31
 slug: subvenciones-autonomos-ciudad-autonoma-de-ceuta-empleo
 ---
 
