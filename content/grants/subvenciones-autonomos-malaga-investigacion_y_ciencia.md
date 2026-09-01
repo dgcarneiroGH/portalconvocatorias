@@ -5,8 +5,8 @@ region: Málaga
 beneficiario: Pyme y autónomos
 tag_seo: investigacion_y_ciencia
 count: 4
-creation_date: 2026-08-31
-last_update_date: 2026-08-31
+creation_date: 2026-09-01
+last_update_date: 2026-09-01
 slug: subvenciones-autonomos-malaga-investigacion_y_ciencia
 ---
 
