@@ -5,8 +5,8 @@ region: Álava
 beneficiario: Asociaciones y ong
 tag_seo: deportes
 count: 9
-creation_date: 2026-08-31
-last_update_date: 2026-08-31
+creation_date: 2026-09-01
+last_update_date: 2026-09-01
 slug: subvenciones-alava-asociaciones-deportes
 ---
 
