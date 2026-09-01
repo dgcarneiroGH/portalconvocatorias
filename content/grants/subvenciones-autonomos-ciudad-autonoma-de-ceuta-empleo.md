@@ -1,18 +1,18 @@
 ---
 title: Ayudas para empleo en Ciudad autonoma de ceuta para Pyme y autónomos
-description: "Recopilatorio de las 8 ayudas activas en Ciudad autonoma de ceuta para Pyme y autónomos dentro del sector empleo, con presupuesto y plazos de solicitud."
+description: "Recopilatorio de las 6 ayudas activas en Ciudad autonoma de ceuta para Pyme y autónomos dentro del sector empleo, con presupuesto y plazos de solicitud."
 region: Ciudad autonoma de ceuta
 beneficiario: Pyme y autónomos
 tag_seo: empleo
-count: 8
-creation_date: 2026-08-31
-last_update_date: 2026-08-31
+count: 6
+creation_date: 2026-09-01
+last_update_date: 2026-09-01
 slug: subvenciones-autonomos-ciudad-autonoma-de-ceuta-empleo
 ---
 
 # Ayudas para empleo en autonomos para ciudad-autonoma-de-ceuta
 
-Ayudas activas (8):
+Ayudas activas (6):
 
 - [QUINTA CONVOCATORIA DE LAS AYUDAS PARA CONTRATACIÓN INDEFINIDA DE PERSONAS DESEMPLEADAS, EN EL MARCO DEL PROGRAMA FSE + PARA CEUTA, PERÍODO 2021-2027, PRIORIDAD 1, OBJETIVO ESPECÍFICO ESO4.1, MEDIDA1.A.03.](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/897643) ()
   - Description: La subvención tiene como objetivo fomentar la contratación indefinida de personas desempleadas en situacion de dificultad, apoyadas por el programa FSE + en Ceuta para el periodo 2021-2027, con un enfoque en grupos específicos como personas desempleadas de larga duración y mujeres en situaciones vulnerables.
@@ -40,9 +40,3 @@ JOVEN. CÁMARA DE COMERCIO DE CEUTA](https://www.pap.hacienda.gob.es/bdnstrans/G
   - Description: La convocatoria tiene como objetivo fomentar la contratación de personas desempleadas de 45 a 60 años que hayan participado en el Programa Talento 45+, buscando mejorar su empleabilidad y facilitar su reintegración al mercado laboral tras la crisis del COVID-19.
   - Requirements: Ser una empresa registrada en la demarcación de la Cámara de Comercio de Ceuta.; Contratar a personas desempleadas de entre 45 y 60 años que hayan completado la fase de orientación del Programa Talento 45+.; No haber tenido relación laboral con el contratado durante los seis meses previos a la formalización del nuevo contrato.; Estar al corriente en el cumplimiento de las obligaciones fiscales y de Seguridad Social.; No superar el límite de ayudas de minimis.
   - Budget: 8482 € | Reception: 14/04/2026 | Start: 20/04/2026 | End: 31/12/2026
-- [CONVOCATORIA  DEFORMACIÓN PARA DESEMPLEADOS 2026](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/919494) ()
-  - Description: Esta subvención tiene como objetivo financiar la oferta formativa no conducente a la obtención de certificados profesionales, orientada prioritariamente a personas trabajadoras desempleadas, para facilitar su inserción laboral en el mercado de trabajo.
-  - Requirements: Entidades de formación inscritas en el Registro Estatal de Entidades de Formación.; Las acciones formativas deben ser presenciales.; No pueden participar personas trabajadoras de las Administraciones públicas.; No podrán obtener la condición de beneficiario entidades con sanciones firmes en materia de formación.
-  - Budget: 2.010.000 € | Reception: 15/07/2026
-- [RESOLUCION DE CONVOCATORIA DE MERCADO PROTEGIDO(CEE)](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/890626) ()
-  - Budget: 770.000 € | Reception: 03/03/2026 | Start: 04/03/2026 | End: 31/12/2026
