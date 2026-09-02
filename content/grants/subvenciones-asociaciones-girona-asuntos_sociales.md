@@ -5,8 +5,8 @@ region: Girona
 beneficiario: Asociaciones y ong
 tag_seo: asuntos_sociales
 count: 7
-creation_date: 2026-09-01
-last_update_date: 2026-09-01
+creation_date: 2026-09-02
+last_update_date: 2026-09-02
 slug: subvenciones-asociaciones-girona-asuntos_sociales
 ---
 
@@ -42,4 +42,4 @@ Y EL BIENESTAR SOCIAL DE LOS NIÑOS Y NIÑAS DE TERRADES](https://www.pap.hacien
 - [CONVOCATORIA PARA EL OTORGAMIENTO DE SUBVENCIONES A LAS ENTIDADES CIUDADANAS SIN ÁNIMO DE LUCRO, CULTURALES Y DE JÓVENES, PARA LA REALIZACIÓN DE ACTIVIDADES DE INTERÉS PÚBLICO O SOCIAL, PARA EL EJERCICIO 2026](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/926902) ()
   - Description: La convocatoria tiene como objetivo regular la concesión de subvenciones a entidades ciudadanas sin ánimo de lucro en Lloret de Mar, para la realización de actividades de interés público o social durante el ejercicio 2026.
   - Requirements: Entidades sin ánimo de lucro inscritas en el Registro Municipal de Entidades de Lloret de Mar; Naturaleza de asociaciones culturales y de jóvenes; Sede social o delegación en el municipio de Lloret de Mar; Estar al corriente de obligaciones tributarias; No haber recibido otra subvención nominativa del Ayuntamiento; No incurrir en prohibiciones según la Ley General de Subvenciones
-  - Budget: 20.000 € | Reception: 28/08/2026
+  - Budget: 20.000 € | Reception: 28/08/2026 | Start: 31/08/2026 | End: 25/09/2026
