@@ -1,23 +1,19 @@
 ---
 title: Ayudas para formacion en Valencia para Particulares
-description: "Recopilatorio de las 13 ayudas activas en Valencia para Particulares dentro del sector formacion, con presupuesto y plazos de solicitud."
+description: "Recopilatorio de las 12 ayudas activas en Valencia para Particulares dentro del sector formacion, con presupuesto y plazos de solicitud."
 region: Valencia
 beneficiario: Particulares
 tag_seo: formacion
-count: 13
-creation_date: 2026-09-02
-last_update_date: 2026-09-02
+count: 12
+creation_date: 2026-09-03
+last_update_date: 2026-09-03
 slug: subvenciones-particulares-valencia-formacion
 ---
 
 # Ayudas para formacion en particulares para valencia
 
-Ayudas activas (13):
+Ayudas activas (12):
 
-- [CONVOCATORIA DE AYUDAS DE COMEDOR ESCOLAR PARA EL PRIMER CICLO DE EDUCACIÓN INFANTIL DURANTE EL CURSO ESCOLAR 2026/2027](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/920907) ()
-  - Description: Concesión de ayudas económicas para la financiación parcial del coste del servicio de comedor escolar del alumnado matriculado en los centros autorizados de 1º ciclo de educación infantil en Massanassa.
-  - Requirements: Menores de 0 a 3 años empadronados en Massanassa; Progenitores o tutores/as con al menos 1 año de empadronamiento en Massanassa; Convivir con el/la menor beneficiario/a; Ingresos familiares no superiores a los umbrales establecidos; No percibir ayudas incompatibles con esta ayuda
-  - Budget: 97.000 € | Reception: 22/07/2026
 - [CONVOCATORIA Y BASES AYUDAS BECA MATERIAL ESCOLAR ALDAIA 2026-2027](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/921391) ()
   - Description: El objetivo de esta ayuda es facilitar la adquisición de material escolar para estudiantes de diversas etapas educativas en Aldaia, reduciendo la carga económica sobre las familias y asegurando que todos los alumnos tengan acceso a los recursos necesarios para su educación.
   - Requirements: El alumnado debe estar matriculado en centros de Educación Infantil, Primaria, Secundaria, Formación Profesional Básica, Bachillerato o Educación Especial.; El alumnado debe estar empadronado en Aldaia antes de la publicación de las bases.; Queda excluido el alumnado del Barrio del Cristo que cuenta con ayudas propias.; El material debe ser adquirido en establecimientos colaboradores que firmen un convenio con el Ayuntamiento.; No debe estar incurriendo en ninguna de las prohibiciones establecidas en la Ley de Subvenciones.
