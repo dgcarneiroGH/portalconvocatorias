@@ -5,8 +5,8 @@ region: Illes balears
 beneficiario: Particulares
 tag_seo: investigacion_y_ciencia
 count: 7
-creation_date: 2026-09-02
-last_update_date: 2026-09-02
+creation_date: 2026-09-03
+last_update_date: 2026-09-03
 slug: subvenciones-illes-balears-particulares-investigacion_y_ciencia
 ---
 
