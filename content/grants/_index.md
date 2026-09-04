@@ -2,8 +2,8 @@
 title: Ayudas (_index)
 description: Listado completo de todas las categorías de ayudas y ayudas activas, organizado por territorio, tipo de beneficiario y sector.
 slug: _index
-creation_date: 2026-09-03
-last_update_date: 2026-09-03
+creation_date: 2026-09-04
+last_update_date: 2026-09-04
 count: 0
 _orphan: true
 ---
