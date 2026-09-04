@@ -5,8 +5,8 @@ region: Valencia
 beneficiario: Pyme y autónomos
 tag_seo: comercio
 count: 11
-creation_date: 2026-09-03
-last_update_date: 2026-09-03
+creation_date: 2026-09-04
+last_update_date: 2026-09-04
 slug: subvenciones-autonomos-valencia-comercio
 ---
 
@@ -14,11 +14,13 @@ slug: subvenciones-autonomos-valencia-comercio
 
 Ayudas activas (11):
 
-- [CONVOCATORIA DE SUBVENCIONES DESTINADAS AL BONO COMERCIAL 2026.](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/922263) ()
+- [CONVOCATORIA DE SUBVENCIONES DESTINADAS AL BONO COMERCIAL 2026.](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/922263) (AYUNTAMIENTO DE BENAGUASIL)
+  - Agency: AYUNTAMIENTO DE BENAGUASIL
   - Description: El objetivo de la convocatoria es incentivar el consumo en los comercios y establecimientos del municipio de Benaguasil a través de la compra de bonos con un 50% de descuento.
   - Requirements: Personas físicas mayores de 18 años; Empadronadas en Benaguasil; Tener una tarjeta bancaria; No estar en situaciones de prohibición según el artículo 13 de la Ley 38/2003
   - Budget: 50.000 € | Reception: 29/07/2026 | Start: 05/09/2026 | End: 25/10/2026
-- [CONVOCATORIA DE SUBVENCIONES DESTINADAS A LA CAMPAÑA DE PROMOCIÓN DE BONOS COMERCIO DEL EJERCICIO 2026](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/924006) ()
+- [CONVOCATORIA DE SUBVENCIONES DESTINADAS A LA CAMPAÑA DE PROMOCIÓN DE BONOS COMERCIO DEL EJERCICIO 2026](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/924006) (AYUNTAMIENTO DE SUECA)
+  - Agency: AYUNTAMIENTO DE SUECA
   - Description: El objetivo de la campaña de los Bonos Comercio es fomentar el consumo en los establecimientos comerciales del municipio de Sueca a través de bonos descuento en formato digital con códigos QR.
   - Budget: 40.000 € | Reception: 07/08/2026 | Start: 10/08/2026 | End: 31/10/2026
 - [EXPEDIENTE 2746210F: PREMIS A L'ÚS DEL VALENCIÀ EN EL COMERÇ LOCAL 2026](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/903852) ()
