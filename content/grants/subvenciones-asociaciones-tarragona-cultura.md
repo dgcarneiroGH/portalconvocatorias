@@ -1,18 +1,18 @@
 ---
 title: Ayudas para cultura en Tarragona para Asociaciones y ong
-description: "Recopilatorio de las 5 ayudas activas en Tarragona para Asociaciones y ong dentro del sector cultura, con presupuesto y plazos de solicitud."
+description: "Recopilatorio de las 6 ayudas activas en Tarragona para Asociaciones y ong dentro del sector cultura, con presupuesto y plazos de solicitud."
 region: Tarragona
 beneficiario: Asociaciones y ong
 tag_seo: cultura
-count: 5
-creation_date: 2026-09-03
-last_update_date: 2026-09-03
+count: 6
+creation_date: 2026-09-04
+last_update_date: 2026-09-04
 slug: subvenciones-asociaciones-tarragona-cultura
 ---
 
 # Ayudas para cultura en asociaciones para tarragona
 
-Ayudas activas (5):
+Ayudas activas (6):
 
 - [WORKSHOP-RAW`26](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/923499) ()
   - Description: El objetivo de esta subvención es fomentar el desarrollo de proyectos culturales y artísticos que tengan un impacto significativo en la comunidad.
@@ -35,3 +35,8 @@ Ayudas activas (5):
   - Requirements: Entidad pública o privada; Estar al corriente de obligaciones tributarias; No tener deudas pendientes con la Hacienda Municipal; Presentar la justificación documental de la subvención antes del 20 de enero de 2027
   - Nominative Grant
   - Budget: 7000 € | Reception: 26/08/2026 | Start: 01/01/2026 | End: 31/12/2026
+- [SOLICITUD DE SUBVENCIÓN NOMINATIVA DEL COL·LECTIU DE TEATRE NECESSARI TRONO VILLEGAS (FITT) POR IMPORTE DE 60.000 €](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/925046) ()
+  - Description: Convocatoria de subvención nominativa para el Col·lectiu de Teatre Necessari Trono Villegas, destinada a financiar la Tretzena edició Festival Internacional del Teatre de Tarragona, enfocada en nuevas dramaturgias.
+  - Requirements: Organización cultural puede aplicar; No tener deudas pendientes con la hacienda municipal; Estar al corriente de obligaciones fiscales
+  - Nominative Grant
+  - Budget: 60.000 € | Reception: 14/08/2026 | Start: 01/01/2026 | End: 31/12/2026
