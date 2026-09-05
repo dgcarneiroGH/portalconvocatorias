@@ -5,8 +5,8 @@ region: Tarragona
 beneficiario: Asociaciones y ong
 tag_seo: asuntos_sociales
 count: 6
-creation_date: 2026-09-04
-last_update_date: 2026-09-04
+creation_date: 2026-09-05
+last_update_date: 2026-09-05
 slug: subvenciones-asociaciones-tarragona-asuntos_sociales
 ---
 
