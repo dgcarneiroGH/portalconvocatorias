@@ -1,18 +1,18 @@
 ---
 title: Ayudas para formacion en Valencia para Particulares
-description: "Recopilatorio de las 13 ayudas activas en Valencia para Particulares dentro del sector formacion, con presupuesto y plazos de solicitud."
+description: "Recopilatorio de las 14 ayudas activas en Valencia para Particulares dentro del sector formacion, con presupuesto y plazos de solicitud."
 region: Valencia
 beneficiario: Particulares
 tag_seo: formacion
-count: 13
-creation_date: 2026-09-04
-last_update_date: 2026-09-04
+count: 14
+creation_date: 2026-09-05
+last_update_date: 2026-09-05
 slug: subvenciones-particulares-valencia-formacion
 ---
 
 # Ayudas para formacion en particulares para valencia
 
-Ayudas activas (13):
+Ayudas activas (14):
 
 - [CONVOCATORIA Y BASES AYUDAS BECA MATERIAL ESCOLAR ALDAIA 2026-2027](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/921391) (AYUNTAMIENTO DE ALDAIA)
   - Agency: AYUNTAMIENTO DE ALDAIA
@@ -24,6 +24,11 @@ Ayudas activas (13):
   - Description: Las ayudas tienen como objetivo apoyar a personas nacidas entre 1996 y 2012 que realicen actividades de educación no formal y ocio educativo en países de la Unión Europea, facilitando así el aprendizaje del idioma y la cultura del lugar.
   - Requirements: Personas nacidas entre 1996 y 2012; Residencia en Almussafes; No se especifican exclusiones
   - Budget: 3000 € | Reception: 24/07/2026 | Start: 27/07/2026 | End: 30/09/2026
+- [CONVOCATORIA DE LAS BASES DEL XXVII CONCURSO ESCOLAR DE NARRATIVA Y POESÍA INFANTIL-JUVENIL LES PENYETES](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/921802) (AYUNTAMIENTO DE XIRIVELLA)
+  - Agency: AYUNTAMIENTO DE XIRIVELLA
+  - Description: Estos premios tienen como objetivo fomentar el uso de la escritura en valenciano en el ámbito escolar del municipio de Xirivella, dirigiéndose a escolares de diversas etapas educativas.
+  - Requirements: Escolares de Educación Infantil (2, 3, 4 y 5 años); Escolares de Educación Primaria (1.º a 6.º); Escolares de Educación Secundaria Obligatoria (1.º a 4.º); Aulas UECO de centros educativos de Xirivella
+  - Budget: 3000 € | Reception: 27/07/2026 | Start: 27/07/2026 | End: 15/12/2026
 - [ADQUISICIÓN DE MATERIAL ESCOLAR DE LOS ALUMNOS/AS ESCOLARIZADOS EN EL PRIMER Y SEGUNDO CICLO DE EDUCACIÓN INFANTIL, ASÍ COMO EN LA ETAPA EDUCATIVA OBLIGATORIA
 CURSO 2026-2027](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/924217) (AYUNTAMIENTO DE LORIGUILLA)
   - Agency: AYUNTAMIENTO DE LORIGUILLA
