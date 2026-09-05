@@ -5,8 +5,8 @@ region: Valencia
 beneficiario: Particulares
 tag_seo: comercio
 count: 5
-creation_date: 2026-09-04
-last_update_date: 2026-09-04
+creation_date: 2026-09-05
+last_update_date: 2026-09-05
 slug: subvenciones-particulares-valencia-comercio
 ---
 
