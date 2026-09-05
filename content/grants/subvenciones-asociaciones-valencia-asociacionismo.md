@@ -1,18 +1,18 @@
 ---
 title: Ayudas para asociacionismo en Valencia para Asociaciones y ong
-description: "Recopilatorio de las 22 ayudas activas en Valencia para Asociaciones y ong dentro del sector asociacionismo, con presupuesto y plazos de solicitud."
+description: "Recopilatorio de las 23 ayudas activas en Valencia para Asociaciones y ong dentro del sector asociacionismo, con presupuesto y plazos de solicitud."
 region: Valencia
 beneficiario: Asociaciones y ong
 tag_seo: asociacionismo
-count: 22
-creation_date: 2026-09-04
-last_update_date: 2026-09-04
+count: 23
+creation_date: 2026-09-05
+last_update_date: 2026-09-05
 slug: subvenciones-asociaciones-valencia-asociacionismo
 ---
 
 # Ayudas para asociacionismo en asociaciones para valencia
 
-Ayudas activas (22):
+Ayudas activas (23):
 
 - [CONCESIÓN SUBVENCIÓN NOMINATIVA EJERCICIO 2026](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/925913) (AYUNTAMIENTO DE PATERNA)
   - Agency: AYUNTAMIENTO DE PATERNA
@@ -76,21 +76,27 @@ Ayudas activas (22):
   - Description: La subvención tiene como objetivo apoyar a la Asociación cultural Falla L'Alcota-Sagunt y al Ayuntamiento de Quart de Poblet en la cobertura de los gastos relacionados con la 'plantá' de un monumento fallero y otros gastos asociados a la organización de las fiestas falleras en la Comunidad Valenciana.
   - Nominative Grant
   - Budget: 3500 € | Reception: 28/08/2026 | Start: 01/01/2026 | End: 31/12/2026
-- [SUBVENCIÓN NOMINATIVA 2026 - PROCICLISMO - "VOLTA A LA CV"](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/927038) (DIPUTACIÓN PROVINCIAL DE VALENCIA)
-  - Agency: DIPUTACIÓN PROVINCIAL DE VALENCIA
-  - Description: La subvención tiene como objetivo establecer la colaboración económica de la Diputación de Valencia con la asociación Prociclismo para la Volta Ciclista a la Comunitat Valenciana 2026, promoviendo hábitos de vida saludable a través del deporte y aumentando la visibilidad del ciclismo como atractivo turístico.
-  - Requirements: Asociación Prociclismo debe estar al corriente de sus obligaciones tributarias; No tener deudas o sanciones de naturaleza tributaria; No estar sometida a prohibiciones para obtener la subvención
-  - Nominative Grant
-  - Budget: 140.000 € | Reception: 31/08/2026
 - [CONVOCATORIA DE SUBVENCIONES EN CONCURRENCIA COMPETITIVA PARA ASOCIACIONES DE MADRES Y PADRES DEL ALUMNADO (AMPAS/AFAS) DE PRIMARIA DE QUART DE POBLET POR EL DESARROLLO DE DEPORTE ESCOLAR EN CENTROS DOCENTES Y LA CONTRATACIÓN DE MONITORES TEA EN 2026.](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/927098) (AYUNTAMIENTO DE QUART DE POBLET)
   - Agency: AYUNTAMIENTO DE QUART DE POBLET
   - Description: Esta convocatoria tiene como objetivo conceder subvenciones a las asociaciones de madres y padres de alumnos (AMPAS) en Quart de Poblet para colaborar en los gastos del desarrollo de deporte escolar en centros educativos de primaria durante el ejercicio 2026.
   - Requirements: Asociaciones de madres y padres de alumnos legalmente inscritas; Domicilio social en Quart de Poblet; La actividad se debe desarrollar en Quart de Poblet
   - Budget: 35.000 € | Reception: 31/08/2026 | Start: 01/01/2026 | End: 31/12/2026
+- [CONCESIÓN SUBVENCIÓN NOMINATIVA EJERCICIO 2026](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/927155) (AYUNTAMIENTO DE PATERNA)
+  - Agency: AYUNTAMIENTO DE PATERNA
+  - Description: Este decreto concede una subvención nominativa a la Asoc Comparsa Moros Nazaries para actividades relacionadas con un desfile, con un presupuesto estimado de 500 euros.
+  - Requirements: Entidad inscrita en el Registro de Asociaciones del Ayuntamiento; Estar al corriente de obligaciones con la Agencia Tributaria y la Seguridad Social; No tener deudas con el Ayuntamiento
+  - Nominative Grant
+  - Budget: 500 € | Reception: 01/09/2026 | Start: 01/01/2026 | End: 31/12/2026
 - [CONCESIÓN SUBVENCIÓN NOMINATIVA EJERCICIO 2026](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/927172) (AYUNTAMIENTO DE PATERNA)
   - Agency: AYUNTAMIENTO DE PATERNA
   - Description: Esta subvención tiene como objetivo financiar actividades desarrolladas por la Asociación I Comparsa Furtivas de Paterna en el año 2026, incluyendo la composición musical y diversas actividades de la asociación.
   - Requirements: Estar inscrito en el Registro de Asociaciones del Ayuntamiento; No tener deudas con la Agencia Tributaria; No tener deudas con la Seguridad Social; No estar incursas en ningún caso recogido en el art. 13 de la Ley 38/2003 de subvenciones
+  - Nominative Grant
+  - Budget: 500 € | Reception: 01/09/2026 | Start: 01/01/2026 | End: 31/12/2026
+- [CONCESIÓN SUBVENCIÓN NOMINATIVA EJERCICIO  2026](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/927185) (AYUNTAMIENTO DE PATERNA)
+  - Agency: AYUNTAMIENTO DE PATERNA
+  - Description: Esta subvención está destinada a la Asoc Comparsa Zihara, para el desarrollo de actividades relacionadas con desfiles y otras organizadas por la entidad, en el marco de un apoyo económico específico del Ayuntamiento de Paterna para el ejercicio 2026.
+  - Requirements: Estar inscrito en el Registro de Asociaciones del Ayuntamiento; No estar incursa en los casos del artículo 13 de la Ley 38/2003 de subvenciones; Estar al corriente de obligaciones con la Agencia Tributaria y la Seguridad Social; No tener deudas con el Ayuntamiento
   - Nominative Grant
   - Budget: 500 € | Reception: 01/09/2026 | Start: 01/01/2026 | End: 31/12/2026
 - [CONCESIÓN SUBVENCIÓN NOMINATIVA EJERCICIO 2026](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/927238) (AYUNTAMIENTO DE PATERNA)
