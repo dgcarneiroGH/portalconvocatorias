@@ -5,8 +5,8 @@ region: Valencia
 beneficiario: Particulares
 tag_seo: asuntos_sociales
 count: 8
-creation_date: 2026-09-04
-last_update_date: 2026-09-04
+creation_date: 2026-09-05
+last_update_date: 2026-09-05
 slug: subvenciones-particulares-valencia-asuntos_sociales
 ---
 
@@ -44,7 +44,7 @@ SOCIALS (ART.80 RDL 7/2024) MINISTERIO SERVICIOS SOCIALES](https://www.pap.hacie
   - Agency: AYUNTAMIENTO DE REQUENA
   - Description: El programa 'Día Internacional de las Personas Mayores 2026' tiene como finalidad promover la autonomía personal, el envejecimiento activo y la participación social de las personas mayores del municipio de Requena, a través de viajes a destinos turísticos y actividades culturales y recreativas, con el objetivo de prevenir el aislamiento social y mejorar la calidad de vida.
   - Requirements: Residentes en el municipio de Requena; Jubilados/as y pensionistas mayores de 60 años; Personas de 60 años o más con discapacidad igual o superior al 33%; Empadronadas en el municipio desde el 1 de enero del 2026; No padecer enfermedades que alteren la convivencia
-  - Budget: 0 € | Reception: 01/09/2026 | Start: 11/09/2026
+  - Budget: 0 € | Reception: 01/09/2026 | Start: 11/09/2026 | End: 09/10/2026
 - [BASES AYUDAS PARA NACIMIENTOS Y ADOPCIONES - "CHEQUE BEBÉ 2026" EXP. 48/2026](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/886361) ()
   - Budget: 4200 € | Reception: 10/02/2026 | Start: 23/06/2026 | End: 15/12/2026
 - [CONCESIÓN DE AYUDAS A LA NATALIDAD, PRIMERA VIVIENDA Y FAMILIA NUMEROSA AÑO 2026](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/900908) ()
