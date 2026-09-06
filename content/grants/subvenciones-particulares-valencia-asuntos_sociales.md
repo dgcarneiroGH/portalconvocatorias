@@ -5,8 +5,8 @@ region: Valencia
 beneficiario: Particulares
 tag_seo: asuntos_sociales
 count: 8
-creation_date: 2026-09-05
-last_update_date: 2026-09-05
+creation_date: 2026-09-06
+last_update_date: 2026-09-06
 slug: subvenciones-particulares-valencia-asuntos_sociales
 ---
 
