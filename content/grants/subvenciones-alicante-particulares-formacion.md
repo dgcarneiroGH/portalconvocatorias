@@ -1,24 +1,19 @@
 ---
 title: Ayudas para formacion en Alicante para Particulares
-description: "Recopilatorio de las 9 ayudas activas en Alicante para Particulares dentro del sector formacion, con presupuesto y plazos de solicitud."
+description: "Recopilatorio de las 8 ayudas activas en Alicante para Particulares dentro del sector formacion, con presupuesto y plazos de solicitud."
 region: Alicante
 beneficiario: Particulares
 tag_seo: formacion
-count: 9
-creation_date: 2026-09-06
-last_update_date: 2026-09-06
+count: 8
+creation_date: 2026-09-07
+last_update_date: 2026-09-07
 slug: subvenciones-alicante-particulares-formacion
 ---
 
 # Ayudas para formacion en alicante para particulares
 
-Ayudas activas (9):
+Ayudas activas (8):
 
-- [AYUDAS DESTINADAS A PERSONAS EMPADRONADAS EN CREVILLENT PARA SUFRAGAR LOS GASTOS RELACIONADOS POR LA ASISTENCIA A CURSOS DE FORMACIÓN DEPORTIVA COMPRENDIDOS DESDE EL 1 JULIO DE 2025 HASTA EL 30 DE JUNIO DE 2026 (BASE Nº4).](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/922105) (AYUNTAMIENTO DE CREVILLENT)
-  - Agency: AYUNTAMIENTO DE CREVILLENT
-  - Description: Esta subvención está destinada a personas empadronadas en Crevillent y tiene como objetivo sufragar los gastos relacionados con la asistencia a cursos de formación deportiva durante la temporada 2025-2026.
-  - Requirements: Personas empadronadas en Crevillent; Deberán asistir a cursos de formación deportiva; Periodos de gasto desde el 1 de julio de 2025 hasta el 30 de junio de 2026
-  - Budget: 4000 € | Reception: 28/07/2026
 - [BASES QUE DEBEN REGIR PARA LA CONCESIÓN DE AYUDAS DEL EXCMO.AYUNTAMIENTO DE ALBATERA DESTINADAS AL PROGRAMA DE MATERIAL
 ESCOLAR “BONOMATERIAL” DIRIGIDO AL ALUMNADO QUE CURSE ENSEÑANZA INFANTIL EN CENTROS ESCOLARES FUERA DE LA LOCALIDAD
 DE ALBATERA](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/922449) (AYUNTAMIENTO DE ALBATERA)
