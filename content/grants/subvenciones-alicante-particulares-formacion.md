@@ -5,8 +5,8 @@ region: Alicante
 beneficiario: Particulares
 tag_seo: formacion
 count: 8
-creation_date: 2026-09-07
-last_update_date: 2026-09-07
+creation_date: 2026-09-08
+last_update_date: 2026-09-08
 slug: subvenciones-alicante-particulares-formacion
 ---
 
@@ -20,7 +20,7 @@ DE ALBATERA](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/922449
   - Agency: AYUNTAMIENTO DE ALBATERA
   - Description: La convocatoria tiene como objetivo otorgar ayudas económicas para la compra de material escolar a alumnado que curse educación infantil en centros educativos fuera de Albatera o en escuelas infantiles del municipio sin AMPA, durante el curso académico 2026-2027.
   - Requirements: Padres, madres o tutores de niños empadronados en Albatera.; Niños que cursen estudios de educación infantil en los ámbitos especificados.; No estar en ninguna causa de prohibición del artículo 13 de la Ley General de Subvenciones.
-  - Budget: 1500 € | Reception: 30/07/2026
+  - Budget: 1500 € | Reception: 30/07/2026 | Start: 31/07/2026 | End: 02/10/2026
 - [BECAS ESPECIALES A ESTUDIANTADO CON DISCAPACIDAD Y ESTUDIANTES COLABORADORES/AS PARA LA INCLUSIÓN DE ESTUDIANTADO CON DISCAPACIDAD, MATRICULADOS EN LA UNIVERSIDAD MIGUEL HERNÁNDEZ DE ELCHE EN EL CURSO ACADÉMICO 2026/2027](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/922556) (UNIVERSIDAD MIGUEL HERNÁNDEZ DE ELCHE)
   - Agency: UNIVERSIDAD MIGUEL HERNÁNDEZ DE ELCHE
   - Description: Compensar los gastos extraordinarios de transporte, apoyo humano o material académico de estudiantes con discapacidad matriculados en la UMH durante el curso 2026/2027.
