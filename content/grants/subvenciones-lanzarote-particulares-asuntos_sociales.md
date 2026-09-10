@@ -5,8 +5,8 @@ region: Lanzarote
 beneficiario: Particulares
 tag_seo: asuntos_sociales
 count: 7
-creation_date: 2026-09-09
-last_update_date: 2026-09-09
+creation_date: 2026-09-10
+last_update_date: 2026-09-10
 slug: subvenciones-lanzarote-particulares-asuntos_sociales
 ---
 
