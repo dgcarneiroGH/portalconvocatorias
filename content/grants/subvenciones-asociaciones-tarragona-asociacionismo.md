@@ -5,8 +5,8 @@ region: Tarragona
 beneficiario: Asociaciones y ong
 tag_seo: asociacionismo
 count: 14
-creation_date: 2026-09-09
-last_update_date: 2026-09-09
+creation_date: 2026-09-10
+last_update_date: 2026-09-10
 slug: subvenciones-asociaciones-tarragona-asociacionismo
 ---
 
