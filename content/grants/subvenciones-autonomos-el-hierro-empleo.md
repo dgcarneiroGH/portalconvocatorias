@@ -1,29 +1,24 @@
 ---
 title: Ayudas para empleo en El hierro para Pyme y autónomos
-description: "Recopilatorio de las 3 ayudas activas en El hierro para Pyme y autónomos dentro del sector empleo, con presupuesto y plazos de solicitud."
+description: "Recopilatorio de las 2 ayudas activas en El hierro para Pyme y autónomos dentro del sector empleo, con presupuesto y plazos de solicitud."
 region: El hierro
 beneficiario: Pyme y autónomos
 tag_seo: empleo
-count: 3
-creation_date: 2026-09-10
-last_update_date: 2026-09-10
+count: 2
+creation_date: 2026-09-11
+last_update_date: 2026-09-11
 slug: subvenciones-autonomos-el-hierro-empleo
 ---
 
 # Ayudas para empleo en autonomos para el-hierro
 
-Ayudas activas (3):
+Ayudas activas (2):
 
 - [SUBVENCIONES DIRECTAS ÁREA PRESIDENCIA](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/857210) (CABILDO INSULAR DE HIERRO, EL)
   - Agency: CABILDO INSULAR DE HIERRO, EL
   - Description: El plan estratégico de subvenciones del Cabildo Insular de El Hierro para las anualidades 2024 y 2025 busca impulsar el empleo y el desarrollo económico en la isla.
   - Nominative Grant
   - Budget: 326.000 € | Reception: 17/09/2025
-- [SUBVENCIONES DIRECTAS ÁREA DE EMPLEO Y DESARROLLO ECONÓMICO](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/857239) (CABILDO INSULAR DE HIERRO, EL)
-  - Agency: CABILDO INSULAR DE HIERRO, EL
-  - Description: El Plan Estratégico de Subvenciones del Cabildo Insular de El Hierro busca financiar proyectos y actividades que promuevan el empleo y el desarrollo económico en la isla durante las anualidades 2024 y 2025.
-  - Nominative Grant
-  - Budget: 1.151.050 € | Reception: 17/09/2025
 - [CONVOCATORIA DE AYUDAS ECONÓMICAS DESTINADAS AL FOMENTO DEL EMPLEO DE 2026. CÁMARA DE COMERCIO DE SANTA CRUZ DE TENERIFE
 PROGRAMA TALENTO JOVEN](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/897035) (CÁMARA DE COMERCIO DE TENERIFE)
   - Agency: CÁMARA DE COMERCIO DE TENERIFE
