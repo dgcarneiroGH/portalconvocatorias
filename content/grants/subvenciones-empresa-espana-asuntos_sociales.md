@@ -5,8 +5,8 @@ region: España
 beneficiario: Gran empresa
 tag_seo: asuntos_sociales
 count: 3
-creation_date: 2026-09-10
-last_update_date: 2026-09-10
+creation_date: 2026-09-11
+last_update_date: 2026-09-11
 slug: subvenciones-empresa-espana-asuntos_sociales
 ---
 
