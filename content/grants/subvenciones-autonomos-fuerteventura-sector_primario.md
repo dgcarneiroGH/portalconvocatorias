@@ -1,23 +1,19 @@
 ---
 title: Ayudas para sector primario en Fuerteventura para Pyme y autónomos
-description: "Recopilatorio de las 3 ayudas activas en Fuerteventura para Pyme y autónomos dentro del sector sector_primario, con presupuesto y plazos de solicitud."
+description: "Recopilatorio de las 2 ayudas activas en Fuerteventura para Pyme y autónomos dentro del sector sector_primario, con presupuesto y plazos de solicitud."
 region: Fuerteventura
 beneficiario: Pyme y autónomos
 tag_seo: sector_primario
-count: 3
-creation_date: 2026-09-12
-last_update_date: 2026-09-12
+count: 2
+creation_date: 2026-09-13
+last_update_date: 2026-09-13
 slug: subvenciones-autonomos-fuerteventura-sector_primario
 ---
 
 # Ayudas para sector_primario en autonomos para fuerteventura
 
-Ayudas activas (3):
+Ayudas activas (2):
 
-- [SUBVENCIÓN EN MATERIA DE AGRICULTURA, GANADERÍA Y PESCA 2026](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/925089) (AYUNTAMIENTO DE ANTIGUA)
-  - Agency: AYUNTAMIENTO DE ANTIGUA
-  - Description: Convocatoria de subvenciones destinadas a la agricultura, ganadería y pesca para el ejercicio 2026, con el objetivo de apoyar y fomentar estas actividades en la localidad de Antigua.
-  - Budget: 150.000 € | Reception: 14/08/2026
 - [CONVENIO ENTRE EL AYTO DE PÁJARA Y LA COFRADÍA DE PESCADORES DE MORRO JABLE, PARA LA CONCESIÓN DE SUBVENCIÓN NOMINADA DE INVERSIÓN, DESTINADA AL DESARROLLO DEL PROYECTO DENOMINADO “TECHADOS Y PROYECTO DE OBRA EN EL EDIFICIO DE  LA COFRADÍA DE MORRO JABLE"](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/812120) (AYUNTAMIENTO DE PÁJARA)
   - Agency: AYUNTAMIENTO DE PÁJARA
   - Description: Esta subvención está destinada a la Cofradía de Pescadores de Morro Jable para financiar el proyecto de obras de techados, cuyo objetivo es mejorar las instalaciones para la refrigeración y distribución del pescado, promoviendo la sostenibilidad y conservación del sector pesquero.
