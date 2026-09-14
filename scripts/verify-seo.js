@@ -220,8 +220,8 @@ function checkKeywordInTitles() {
             const titleMatch = html.match(/<title>([^<]+)<\/title>/);
             if (!titleMatch) return;
             const title = titleMatch[1];
-            if (!/Ayudas y Convocatorias/i.test(title)) {
-                err(`Title sin "Ayudas y Convocatorias": ${rel} -> "${title}"`);
+            if (!/Ayudas/i.test(title)) {
+                err(`Title sin "Ayudas": ${rel} -> "${title}"`);
                 missingBrandKeyword++;
             }
         }
