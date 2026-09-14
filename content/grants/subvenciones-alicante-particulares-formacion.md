@@ -5,8 +5,8 @@ region: Alicante
 beneficiario: Particulares
 tag_seo: formacion
 count: 8
-creation_date: 2026-09-13
-last_update_date: 2026-09-13
+creation_date: 2026-09-14
+last_update_date: 2026-09-14
 slug: subvenciones-alicante-particulares-formacion
 ---
 
