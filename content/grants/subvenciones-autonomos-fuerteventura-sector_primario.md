@@ -5,8 +5,8 @@ region: Fuerteventura
 beneficiario: Pyme y autónomos
 tag_seo: sector_primario
 count: 2
-creation_date: 2026-09-13
-last_update_date: 2026-09-13
+creation_date: 2026-09-14
+last_update_date: 2026-09-14
 slug: subvenciones-autonomos-fuerteventura-sector_primario
 ---
 
