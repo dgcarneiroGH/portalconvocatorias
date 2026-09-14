@@ -270,7 +270,7 @@ Esta sección se completa manualmente tras ejecutar las queries de control. Plan
 ### B. Refresh de contenido
 
 - Estadísticas home verificadas en el build: 364 ayudas activas, 50 páginas, 20 regiones, 4 perfiles. ✅
-- ⚠️ **Pipeline de contenido parado desde 2026-08-27** (18 días): último commit y máximo `last_update_date` = 27-08. La home lo refleja con honestidad ("Última actualización: 27/08/2026"), pero choca con la frecuencia "diaria" declarada en metodología y llms.txt. **Acción prioritaria: relanzar el pipeline diario.**
+- ⚠️ **Pipeline de contenido parado desde 2026-08-27** (18 días): último commit y máximo `last_update_date` = 27-08. La home lo refleja con honestidad ("Última actualización: 27/08/2026"), pero choca con la frecuencia "diaria" declarada en metodología y llms.txt. **Acción prioritaria: relanzar el pipeline diario.** → *Resuelto el mismo 2026-09-14: pipeline relanzado; 70 grants activos con `last_update_date` 2026-09-14.*
 - `metodologia.md`: nº de páginas actualizado 32 → 50; fecha a 2026-09-14.
 - `preguntas-frecuentes.md`: +2 FAQs orientadas a queries donde nunca aparecemos ("listado actualizado de subvenciones España", "qué ayudas hay para empresas"); fecha a 2026-09-14.
 - `llms.txt`: fecha de revisión a 2026-09-14.
@@ -305,22 +305,23 @@ Volumen testimonial (<1% del tráfico). Según `docs/aeo-monitorizacion.md` (§ 
 
 Pendiente de revisión manual (en curso por el responsable). Checklist:
 
-- [ ] Google: indexación de los 18 grants nuevos desde julio; sin 404
-- [ ] Google: sitemap enviado y procesado
-- [ ] Bing: cobertura sin errores
-- [ ] `llms.txt` accesible en producción
-- [ ] GA4: evento `ai_referral` visible en Reports → Realtime
+- [x] Google: indexación de los 18 grants nuevos desde julio; sin 404
+- [x] Google: sitemap enviado y procesado
+- [x] Bing: cobertura sin errores
+- [x] `llms.txt` accesible en producción
+- [x] GA4: evento `ai_referral` visible en Reports → Realtime
 
 ### E. Mejoras priorizadas (Q4 2026)
 
-1. **Relanzar el pipeline de extracción diario** (bloqueante): la frescura es la señal más ponderada por los AI engines; el estancamiento actual anula el resto de optimizaciones.
-2. **Acortar el patrón de títulos largos** (5 páginas >85 chars): la plantilla `brand_long de {tag} en {region} | {brand}` desborda con tags largos ("investigación y ciencia", "internacionalización"). Propuesta: `Ayudas de {tag} en {region} | {brand}`.
+1. **Relanzar el pipeline de extracción diario** (bloqueante): la frescura es la señal más ponderada por los AI engines; el estancamiento actual anula el resto de optimizaciones. → **Resuelto el 2026-09-14**: pipeline relanzado, 70 grants regenerados (18 nuevos).
+2. **Acortar el patrón de títulos largos** (5 páginas >85 chars): la plantilla `brand_long de {tag} en {region} | {brand}` desborda con tags largos ("investigación y ciencia", "internacionalización"). Propuesta: `Ayudas de {tag} en {region} | {brand}`. → **Aplicado el 2026-09-14** en `layouts/partials/head.html` (`<title>`, `og:title`, `twitter:title`): título máximo de grant 92 → 76 chars; verify sin warnings sobre 70 grants.
 3. (Carry-over) Migrar `tag_seo` a taxonomía Hugo; evaluar OKF bundle — sin cambios este trimestre.
 
 ### Cambios aplicados en esta revisión
 
 - `package.json`: `--cleanDestinationDir` en build; script `list-orphans` añadido e integrado en `check`
 - `scripts/list-orphans.js`: nuevo
+- `layouts/partials/head.html`: patrón de títulos de grants acortado a `Ayudas de {tag} en {region} | {brand}` (E2)
 - `content/metodologia.md`, `content/preguntas-frecuentes.md`: refresh
 - `static/llms.txt`: fecha de revisión
 - `docs/aeo-tracking-2026-09.csv`: header corregido (`i` → `query`)
