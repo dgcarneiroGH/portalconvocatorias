@@ -2,7 +2,7 @@
 title: Metodología — Cómo recopilamos ayudas y convocatorias
 description: Cómo se extraen, validan y publican los datos de ayudas y convocatorias activas en España en Ayudas y Convocatorias (Portal de Convocatorias). Fuentes, frecuencia, criterios de inclusión y proceso de revisión.
 slug: metodologia
-date: 2026-07-28
+date: 2026-09-14
 howto:
   - name: "Cómo localizar ayudas autonómicas vigentes desde este portal"
     description: "Pasos para encontrar convocatorias publicadas por una comunidad autónoma, diputación o cabildo insular usando el filtro Por región y los listados por sector."
@@ -37,7 +37,7 @@ El flujo de datos es **automático y se ejecuta a diario**:
 1. **Recogida**: un script consulta la BDNS y los portales autonómicos enlazados. Solo se descargan registros nuevos o modificados desde la última ejecución.
 2. **Normalización**: cada convocatoria se limpia y se estructura en un formato interno común (título, organismo convocante, presupuesto, fechas, beneficiario, sector, URL oficial, requisitos, descripción).
 3. **Filtrado**: se eliminan las convocatorias con plazo cerrado y las que no cumplen los criterios de inclusión (ver siguiente sección).
-4. **Agrupación**: las convocatorias se agrupan por combinación de **región × beneficiario × sector**, dando lugar a las 32 páginas activas del portal en este momento.
+4. **Agrupación**: las convocatorias se agrupan por combinación de **región × beneficiario × sector**, dando lugar a las 50 páginas activas del portal en este momento.
 
 ## Criterios de inclusión
 

@@ -245,3 +245,82 @@ Esta sección se completa manualmente tras ejecutar las queries de control. Plan
 - Schema `Article` genérico se reemplaza por `GovernmentService` o `Grant` en Fase 2 — pendiente decidir cuál encaja mejor (revisar schema.org/cnd).
 - Los schemas FAQPage emitidos son válidos según la documentación de schema.org. Google ya no muestra FAQ rich results en search, pero siguen siendo válidos para AI engines (ChatGPT, Perplexity, Claude).
 - El `llms.txt` sigue el formato propuesto en [llmstxt.org](https://llmstxt.org). Se incluye en español por ser la audiencia principal del sitio.
+
+---
+
+## 10. Revisión trimestral Q3 2026 (2026-09-14)
+
+**Alcance**: flujo trimestral de `docs/aeo-monitorizacion.md` (secciones A-E). Revisión adelantada (~2 semanas antes del cierre natural de Q3). Tracking disponible: agosto completo + septiembre hasta el día 14.
+
+### A. Auditoría técnica
+
+| Check | Resultado |
+|---|---|
+| `npm run check` | exit 0 |
+| Cobertura schema | **100%** (62/62 páginas), 10 tipos JSON-LD |
+| Grants | 50 fichas (32 en julio), 100% con FAQ, fecha visible, resumen y Grant items |
+| Huérfanos | 0 (nuevo script `scripts/list-orphans.js`, integrado en `npm run check`) |
+| `data/sectores.yaml` | Sincronizado (15 tags en uso, 9 entradas del YAML sin uso — aviso, no error) |
+| Sitemap | 62 URLs, sin duplicados ni residuos |
+| `llms.txt` / `robots.txt` | Presentes; robots permite 15 user-agents de IA |
+| Warnings de verify | 1 título de 92 chars (`subvenciones-illes-balears-particulares-investigacion_y_ciencia`) |
+
+**Hallazgo y fix — residuos en `public/` local**: 14 páginas `*-nominativas` (artefactos de un `hugo server` del 26-08, con canonical `localhost:1313`, sin schema ni meta description) sobrevivían al build y contaminaban verify/validate-schema (cobertura aparente 81.8%). Producción (Netlify, entorno limpio) no estaba afectada. **Fix**: `--cleanDestinationDir` añadido a `npm run build` + rebuild limpio → cobertura real 100%.
+
+### B. Refresh de contenido
+
+- Estadísticas home verificadas en el build: 364 ayudas activas, 50 páginas, 20 regiones, 4 perfiles. ✅
+- ⚠️ **Pipeline de contenido parado desde 2026-08-27** (18 días): último commit y máximo `last_update_date` = 27-08. La home lo refleja con honestidad ("Última actualización: 27/08/2026"), pero choca con la frecuencia "diaria" declarada en metodología y llms.txt. **Acción prioritaria: relanzar el pipeline diario.**
+- `metodologia.md`: nº de páginas actualizado 32 → 50; fecha a 2026-09-14.
+- `preguntas-frecuentes.md`: +2 FAQs orientadas a queries donde nunca aparecemos ("listado actualizado de subvenciones España", "qué ayudas hay para empresas"); fecha a 2026-09-14.
+- `llms.txt`: fecha de revisión a 2026-09-14.
+- `data/author.yaml`: verificado — nombre real y `sameAs` verificables. ✅
+
+### C. Análisis de tendencias
+
+Tracking manual (15 queries × 3 plataformas):
+
+| Mes | Respondidas | Apariciones | Citas | % aparición |
+|---|---|---|---|---|
+| 2026-08 (baseline) | 45 | 0 | 0 | 0% |
+| 2026-09 (hasta 14) | 41* | 1 | 0 | 2,4% |
+
+\* 4 filas de Perplexity sin rellenar (anotado como gap del mes).
+
+- **Ganada**: "subvenciones para autónomos en Valencia" (Perplexity) — aparece `/subvenciones-autonomos-valencia-empleo/` como resultado, sin cita explícita. Patrón a replicar: descripciones con número concreto de ayudas activas + bloque resumen extractable.
+- **Perdidas**: ninguna (el baseline era 0).
+- **Citas**: 0 en ambos meses. Objetivo Q4: primera cita explícita.
+- **Competidores recurrentes**: administracion.gob.es, subvenciones.gob.es, pap.hacienda.gob.es, infosubvenciones, convocahoy.com, subvencionesde.com, fandit.es, boe.es.
+
+GA4 (evento `ai_referral`; cifras subestimadas por consent mode):
+
+| Mes | Eventos | Fuente | Landings |
+|---|---|---|---|
+| 2026-08 | 2 | ChatGPT | `/`, `/politica-cookies/` |
+| 2026-09 (1-14) | 0 | — | — |
+
+Volumen testimonial (<1% del tráfico). Según `docs/aeo-monitorizacion.md` (§ "Cuándo no invertir más"): mantener AEO como segunda prioridad frente a SEO tradicional mientras no haya tendencia clara.
+
+### D. Search Console + Bing Webmaster
+
+Pendiente de revisión manual (en curso por el responsable). Checklist:
+
+- [ ] Google: indexación de los 18 grants nuevos desde julio; sin 404
+- [ ] Google: sitemap enviado y procesado
+- [ ] Bing: cobertura sin errores
+- [ ] `llms.txt` accesible en producción
+- [ ] GA4: evento `ai_referral` visible en Reports → Realtime
+
+### E. Mejoras priorizadas (Q4 2026)
+
+1. **Relanzar el pipeline de extracción diario** (bloqueante): la frescura es la señal más ponderada por los AI engines; el estancamiento actual anula el resto de optimizaciones.
+2. **Acortar el patrón de títulos largos** (5 páginas >85 chars): la plantilla `brand_long de {tag} en {region} | {brand}` desborda con tags largos ("investigación y ciencia", "internacionalización"). Propuesta: `Ayudas de {tag} en {region} | {brand}`.
+3. (Carry-over) Migrar `tag_seo` a taxonomía Hugo; evaluar OKF bundle — sin cambios este trimestre.
+
+### Cambios aplicados en esta revisión
+
+- `package.json`: `--cleanDestinationDir` en build; script `list-orphans` añadido e integrado en `check`
+- `scripts/list-orphans.js`: nuevo
+- `content/metodologia.md`, `content/preguntas-frecuentes.md`: refresh
+- `static/llms.txt`: fecha de revisión
+- `docs/aeo-tracking-2026-09.csv`: header corregido (`i` → `query`)

@@ -56,4 +56,4 @@ Más detalle en [/fuentes/](https://portalconvocatorias.es/fuentes/).
 - Idioma: español (es-ES).
 - Formato: sitio estático Hugo. Cobertura: nacional (todas las comunidades autónomas) + provincial + insular.
 - Frecuencia de actualización: diaria.
-- Última revisión de este archivo: 2026-07-28.
+- Última revisión de este archivo: 2026-09-14.

@@ -4,14 +4,15 @@
   "description": "Portal de Convocatorias - Recopilatorio de ayudas y ayudas en Espana",
   "private": true,
   "scripts": {
-    "build": "hugo --minify --baseURL https://portalconvocatorias.es/",
+    "build": "hugo --minify --cleanDestinationDir --baseURL https://portalconvocatorias.es/",
     "dev": "hugo server -D",
     "verify": "node scripts/verify-seo.js",
     "test": "npm run build && node scripts/verify-category-rendering.js",
     "validate-schema": "node scripts/validate-schema.js",
     "validate-sectores": "node scripts/validate-sectores.js",
+    "list-orphans": "node scripts/list-orphans.js",
     "audit-aeo": "node scripts/audit-aeo.js",
-    "check": "npm run build && npm run verify && npm run validate-schema && npm run validate-sectores",
+    "check": "npm run build && npm run verify && npm run validate-schema && npm run validate-sectores && npm run list-orphans",
     "og:build": "node scripts/embed-logo.js && node scripts/og-render.js",
     "logo:convert": "node scripts/convert-logo.js"
   },

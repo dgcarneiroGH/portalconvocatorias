@@ -2,7 +2,7 @@
 title: Preguntas frecuentes sobre Ayudas y Convocatorias
 description: Respuestas a las dudas más habituales sobre Ayudas y Convocatorias, la Base de Datos Nacional de Ayudas (BDNS), los plazos de solicitud y los requisitos de cada convocatoria de ayudas públicas en España.
 slug: preguntas-frecuentes
-date: 2026-07-28
+date: 2026-09-14
 faq:
   - question: "¿Qué es Portal de Convocatorias?"
     answer: "Es un recopilatorio diario y gratuito de ayudas y convocatorias públicas activas en España. Reúne información de la Base de Datos Nacional de Ayudas (BDNS) y de los portales oficiales autonómicos y locales, y la filtra por comunidad autónoma, tipo de beneficiario y sector."
@@ -22,6 +22,10 @@ faq:
     answer: "El portal distingue cuatro perfiles: asociaciones y ONG, pymes y autónomos, gran empresa, y particulares. Cada convocatoria está clasificada en uno de estos perfiles según la convocatoria original."
   - question: "¿Qué comunidades autónomas están cubiertas?"
     answer: "Las 17 comunidades autónomas, las 2 ciudades autónomas (Ceuta y Melilla), las diputaciones provinciales principales y los cabildos insulares (Lanzarote, Fuerteventura, etc.). Consulta la sección 'Por región' para ver el listado completo."
+  - question: "¿Dónde puedo consultar un listado actualizado de subvenciones en España?"
+    answer: "En la portada de este portal encontrarás el listado actualizado de ayudas y convocatorias públicas activas en España, filtrable por comunidad autónoma, tipo de beneficiario y sector. Todas las fichas enlazan a la fuente oficial de la BDNS o del organismo convocante, y se actualizan a diario."
+  - question: "¿Qué ayudas hay ahora mismo para empresas?"
+    answer: "El portal agrupa las convocatorias abiertas para pymes, autónomos y gran empresa en la sección 'Por beneficiario'. En cada ficha verás el presupuesto, los plazos y los requisitos de las ayudas activas de ámbito estatal, autonómico, provincial e insular, con enlace directo a la convocatoria oficial."
   - question: "¿Qué diferencia hay entre una ayuda nominativa y una convocatoria abierta?"
     answer: "Una ayuda nominativa está asignada directamente a un beneficiario concreto en los Presupuestos Generales del Estado o autonómicos. Una convocatoria abierta permite que cualquier solicitante que cumpla los requisitos presente una candidatura; las solicitudes se valoran en régimen de concurrencia competitiva."
   - question: "¿El portal incluye becas de estudio?"

@@ -79,7 +79,7 @@ Notas:
 ### Paso 2 — Métricas de GA4 (5 min)
 
 1. Entra en Google Analytics 4 → portalconvocatorias.es.
-2. Ve a **Reports → Engagement → Events** y filtra por nombre de evento `ai_referral`.
+2. Ve a **Reports → Engagement → Events** y filtra por nombre de evento `ai_referral`. Esta es la url: https://analytics.google.com/analytics/web/#/a361434858p547488847/reports/explorer?params=_u..nav%3Dmaui&ruid=all-pages-and-screens,business-objectives,examine-user-behavior&collectionId=business-objectives&r=all-pages-and-screens
 3. Para desglose por fuente y página usa **Explorations** con las dimensiones personalizadas `ai_source` y `ai_path`.
 4. Anota:
    - Total de eventos `ai_referral` este mes
@@ -175,3 +175,4 @@ Si después de 2 trimestres consecutivos:
 |---|---|
 | 2026-07-28 | Versión inicial del sistema de monitorización (Fase 4) |
 | 2026-07-30 | Reescrito. Confirmado que el stack gratuito de tracking es GA4 (nunca se integró Plausible). Documentada la arquitectura real (dataLayer push → gtag.js → GA4) y el procedimiento de configuración de custom dimensions. Limpiados caracteres no deseados. |
+| 2026-09-14 | Primera revisión trimestral ejecutada (sección 10 de `aeo-auditoria.md`). Fix `--cleanDestinationDir`, nuevo `scripts/list-orphans.js`, refresh de contenido. |
