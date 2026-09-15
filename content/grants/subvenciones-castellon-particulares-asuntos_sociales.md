@@ -5,8 +5,8 @@ region: Castellón
 beneficiario: Particulares
 tag_seo: asuntos_sociales
 count: 5
-creation_date: 2026-09-14
-last_update_date: 2026-09-14
+creation_date: 2026-09-15
+last_update_date: 2026-09-15
 slug: subvenciones-castellon-particulares-asuntos_sociales
 ---
 
@@ -36,4 +36,4 @@ Ayudas activas (5):
   - Agency: AYUNTAMIENTO DE BETXÍ
   - Description: La finalitat d'esta convocatòria és afavorir el foment de programacions i projectes culturals, esportius i socials en el municipi de Betxí durant l'exercici 2026, per enriquir l'oferta cultural i social de la ciutat.
   - Requirements: Entitats culturals, esportives i socials inscrites al registre municipal d'associacions de Betxí; Esportistes locals empadronats a Betxí abans de l'1 de gener de 2022; No pertànyer a clubs o associacions beneficiàries d'ajudes de l'Ajuntament de Betxí; No tenir circumstàncies indicades en l'article 13.2 de la Llei General de Subvencions
-  - Budget: 18.406 € | Reception: 09/09/2026 | End: 24/09/2026
+  - Budget: 18.406 € | Reception: 09/09/2026
