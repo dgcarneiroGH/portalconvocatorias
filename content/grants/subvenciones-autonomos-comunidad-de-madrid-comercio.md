@@ -5,8 +5,8 @@ region: Comunidad de madrid
 beneficiario: Pyme y autónomos
 tag_seo: comercio
 count: 5
-creation_date: 2026-09-14
-last_update_date: 2026-09-14
+creation_date: 2026-09-15
+last_update_date: 2026-09-15
 slug: subvenciones-autonomos-comunidad-de-madrid-comercio
 ---
 
