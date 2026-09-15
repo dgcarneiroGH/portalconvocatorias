@@ -5,8 +5,8 @@ region: El hierro
 beneficiario: Pyme y autónomos
 tag_seo: empleo
 count: 2
-creation_date: 2026-09-14
-last_update_date: 2026-09-14
+creation_date: 2026-09-15
+last_update_date: 2026-09-15
 slug: subvenciones-autonomos-el-hierro-empleo
 ---
 
