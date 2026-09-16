@@ -5,7 +5,7 @@ region: Tarragona
 beneficiario: Asociaciones y ong
 tag_seo: cultura
 count: 6
-creation_date: 2026-09-15
+publication_date: 2026-09-15
 last_update_date: 2026-09-15
 slug: subvenciones-asociaciones-tarragona-cultura
 ---

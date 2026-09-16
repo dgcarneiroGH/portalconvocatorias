@@ -5,7 +5,7 @@ region: La palma
 beneficiario: Particulares
 tag_seo: desarrollo_rural
 count: 3
-creation_date: 2026-09-15
+publication_date: 2026-09-15
 last_update_date: 2026-09-15
 slug: subvenciones-la-palma-particulares-desarrollo_rural
 ---

@@ -5,7 +5,7 @@ region: Comunidad de madrid
 beneficiario: Pyme y autónomos
 tag_seo: investigacion_y_ciencia
 count: 3
-creation_date: 2026-09-15
+publication_date: 2026-09-15
 last_update_date: 2026-09-15
 slug: subvenciones-autonomos-comunidad-de-madrid-investigacion_y_ciencia
 ---

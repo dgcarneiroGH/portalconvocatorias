@@ -5,7 +5,7 @@ region: Castellón
 beneficiario: Particulares
 tag_seo: formacion
 count: 3
-creation_date: 2026-09-16T07:21:05.667Z
+publication_date: 2026-09-16T07:21:05.667Z
 last_update_date: 2026-09-16
 slug: subvenciones-castellon-particulares-formacion
 ---

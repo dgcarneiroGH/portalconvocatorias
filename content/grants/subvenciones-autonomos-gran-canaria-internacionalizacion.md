@@ -5,7 +5,7 @@ region: Gran canaria
 beneficiario: Pyme y autónomos
 tag_seo: internacionalizacion
 count: 3
-creation_date: 2026-09-15
+publication_date: 2026-09-15
 last_update_date: 2026-09-15
 slug: subvenciones-autonomos-gran-canaria-internacionalizacion
 ---

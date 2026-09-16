@@ -88,13 +88,13 @@
             <h2 id="updates-title">Últimas actualizaciones</h2>
             {{- $latestGrant := index (sort (where .Site.RegularPages "Section" "grants") ".Params.last_update_date" "desc") 0 -}}
             {{- with $latestGrant -}}
-                {{- $ts := time.AsTime (.Params.last_update_date | default .Params.creation_date) -}}
+                {{- $ts := time.AsTime (.Params.last_update_date | default .Params.publication_date) -}}
                 <span>Última actualización: {{ $ts.Format "02/01/2006" }}</span>
             {{- end -}}
         </section>
 
         <section class="home-grant-list" aria-label="Ayudas disponibles">
-            {{ range (sort (where .Site.RegularPages "Section" "grants") ".Params.creation_date" "desc") }}
+            {{ range (sort (where .Site.RegularPages "Section" "grants") ".Params.publication_date" "desc") }}
             {{ $regionSlug := "" }}
             {{ $benefSlug := "" }}
             {{ with .Params.region }}{{ $regionSlug = urlize . }}{{ end }}

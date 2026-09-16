@@ -5,7 +5,7 @@ region: Castellón
 beneficiario: Particulares
 tag_seo: cultura
 count: 5
-creation_date: 2026-09-15
+publication_date: 2026-09-15
 last_update_date: 2026-09-15
 slug: subvenciones-castellon-particulares-cultura
 ---
