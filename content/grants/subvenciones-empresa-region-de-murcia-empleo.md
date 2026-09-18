@@ -1,16 +1,16 @@
 ---
-title: Ayudas para empleo en Región de murcia para Gran empresa
-description: "Recopilatorio de las 8 ayudas activas en Región de murcia para Gran empresa dentro del sector empleo, con presupuesto y plazos de solicitud."
+title: Ayudas para empleo en Región de murcia para Empresa
+description: "Recopilatorio de las 8 ayudas activas en Región de murcia para Empresa dentro del sector empleo, con presupuesto y plazos de solicitud."
 region: Región de murcia
-beneficiario: Gran empresa
+beneficiario: Empresa
 tag_seo: empleo
 count: 8
-publication_date: 2026-09-17
-last_update_date: 2026-09-17
+publication_date: 2026-09-18
+last_update_date: 2026-09-18
 slug: subvenciones-empresa-region-de-murcia-empleo
 ---
 
-# Ayudas para empleo en Región de murcia para Gran empresa
+# Ayudas para empleo en Región de murcia para Empresa
 
 Ayudas activas (8):
 
