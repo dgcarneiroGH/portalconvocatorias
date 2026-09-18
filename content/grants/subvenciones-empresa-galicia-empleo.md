@@ -1,16 +1,16 @@
 ---
-title: Ayudas para empleo en Galicia para Gran empresa
-description: "Recopilatorio de las 6 ayudas activas en Galicia para Gran empresa dentro del sector empleo, con presupuesto y plazos de solicitud."
+title: Ayudas para empleo en Galicia para Empresa
+description: "Recopilatorio de las 6 ayudas activas en Galicia para Empresa dentro del sector empleo, con presupuesto y plazos de solicitud."
 region: Galicia
-beneficiario: Gran empresa
+beneficiario: Empresa
 tag_seo: empleo
 count: 6
-publication_date: 2026-09-17
-last_update_date: 2026-09-17
+publication_date: 2026-09-18
+last_update_date: 2026-09-18
 slug: subvenciones-empresa-galicia-empleo
 ---
 
-# Ayudas para empleo en Galicia para Gran empresa
+# Ayudas para empleo en Galicia para Empresa
 
 Ayudas activas (6):
 
