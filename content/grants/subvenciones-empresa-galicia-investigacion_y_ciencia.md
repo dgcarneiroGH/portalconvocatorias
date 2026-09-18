@@ -1,16 +1,16 @@
 ---
-title: Ayudas para investigacion y ciencia en Galicia para Gran empresa
-description: "Recopilatorio de las 4 ayudas activas en Galicia para Gran empresa dentro del sector investigacion_y_ciencia, con presupuesto y plazos de solicitud."
+title: Ayudas para investigacion y ciencia en Galicia para Empresa
+description: "Recopilatorio de las 4 ayudas activas en Galicia para Empresa dentro del sector investigacion_y_ciencia, con presupuesto y plazos de solicitud."
 region: Galicia
-beneficiario: Gran empresa
+beneficiario: Empresa
 tag_seo: investigacion_y_ciencia
 count: 4
-publication_date: 2026-09-17
-last_update_date: 2026-09-17
+publication_date: 2026-09-18
+last_update_date: 2026-09-18
 slug: subvenciones-empresa-galicia-investigacion_y_ciencia
 ---
 
-# Ayudas para investigacion_y_ciencia en Galicia para Gran empresa
+# Ayudas para investigacion_y_ciencia en Galicia para Empresa
 
 Ayudas activas (4):
 
