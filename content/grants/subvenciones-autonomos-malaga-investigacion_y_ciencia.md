@@ -1,18 +1,18 @@
 ---
 title: Ayudas para investigacion y ciencia en Málaga para Pyme y autónomos
-description: "Recopilatorio de las 5 ayudas activas en Málaga para Pyme y autónomos dentro del sector investigacion_y_ciencia, con presupuesto y plazos de solicitud."
+description: "Recopilatorio de las 4 ayudas activas en Málaga para Pyme y autónomos dentro del sector investigacion_y_ciencia, con presupuesto y plazos de solicitud."
 region: Málaga
 beneficiario: Pyme y autónomos
 tag_seo: investigacion_y_ciencia
-count: 5
+count: 4
 publication_date: 2026-09-11
-last_update_date: 2026-09-17
+last_update_date: 2026-09-18
 slug: subvenciones-autonomos-malaga-investigacion_y_ciencia
 ---
 
 # Ayudas para investigacion_y_ciencia en Málaga para Pyme y autónomos
 
-Ayudas activas (5):
+Ayudas activas (4):
 
 - [ACUERDO DE JUNTA DE GOBIERNO DE 15 DE JULIO DE 2026, PUNTO NÚM. 0.1.1, DE APROBACIÓN DE LA CONVOCATORIA DE LOS VIII PREMIOS A LOS MEJORES QUESOS DE CABRA DE LA PROVINCIA DE MÁLAGA, 2026.](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/926294) (DIPUTACIÓN PROVINCIAL DE MÁLAGA)
   - Description: El objetivo de esta subvención es promocionar y mejorar la imagen y posición en el mercado de los quesos malagueños, así como estimular la elaboración de quesos artesanos y difundir sus cualidades entre los consumidores, contribuyendo al desarrollo económico de la provincia de Málaga.
@@ -28,7 +28,3 @@ Ayudas activas (5):
 - [SUBV. NOM. A LA EMPRESA 50&50 GENDER LEADERSHIP SL, PROYECTO "CHICAS IMPARABLES RESIDENCIAL SUMMER"](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/917569) (AYUNTAMIENTO DE MÁLAGA)
   - Description: Esta subvención tiene como objetivo financiar proyectos que fomenten la innovación y el desarrollo sostenible en el ámbito local.
   - Budget: 13.915 € | Reception: 07/07/2026
-- [CONVOCATORIA PARA LA CONCESIÓN EN REGIMEN DE CONCURRENCIA COMPETITIVA DE AYUDAS A PYMES MALAGUEÑAS PARA LA REACTIVACIÓN ECONÓMICA Y EL IMPULSO EMPRESARIAL - CONVOCATORIA AÑO 2026](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/923827) (AYUNTAMIENTO DE MÁLAGA)
-  - Description: Esta convocatoria tiene como objetivo la concesión de ayudas a pequeñas y medianas empresas (PYMES) situadas en Málaga para fomentar su desarrollo y reactivación económica, a fin de que puedan realizar inversiones productivas que mejoren su competitividad y sostenibilidad.
-  - Requirements: Domicilio social y actividad principal en el municipio de Málaga; Estar registrada en el Impuesto de Actividades Económicas a partir del 1 de enero de 2025; Realizar una inversión mínima de 1.500 €; El proyecto empresarial debe ser viable técnica y económicamente; Considerarse como PYME según la normativa europea
-  - Budget: 400.000 € | Reception: 06/08/2026 | Start: 07/08/2026 | End: 17/09/2026
