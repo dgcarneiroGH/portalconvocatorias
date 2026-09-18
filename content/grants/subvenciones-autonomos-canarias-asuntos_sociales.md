@@ -1,26 +1,23 @@
 ---
 title: Ayudas para asuntos sociales en Canarias para Pyme y autónomos
-description: "Recopilatorio de las 6 ayudas activas en Canarias para Pyme y autónomos dentro del sector asuntos_sociales, con presupuesto y plazos de solicitud."
+description: "Recopilatorio de las 5 ayudas activas en Canarias para Pyme y autónomos dentro del sector asuntos_sociales, con presupuesto y plazos de solicitud."
 region: Canarias
 beneficiario: Pyme y autónomos
 tag_seo: asuntos_sociales
-count: 6
-publication_date: 2026-09-17
-last_update_date: 2026-09-17
+count: 5
+publication_date: 2026-09-18
+last_update_date: 2026-09-18
 slug: subvenciones-autonomos-canarias-asuntos_sociales
 ---
 
 # Ayudas para asuntos_sociales en Canarias para Pyme y autónomos
 
-Ayudas activas (6):
+Ayudas activas (5):
 
 - [SUBVENCIÓN DIRECTA CCAA 2026](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/907938) (SERVICIO CANARIO DE EMPLEO)
   - Description: La subvención tiene como objetivo financiar el proyecto II TALENTÓN JUNIOR 2026, que busca fomentar el emprendimiento y la economía social en el ámbito del empleo juvenil en Canarias.
   - Nominative Grant
   - Budget: 50.000 € | Reception: 26/05/2026
-- [SUBVENCIONES POR LA INCORPORACIÓN, CON CARÁCTER INDEFINIDO, DE PERSONAS SOCIAS TRABAJADORAS O SOCIAS DE TRABAJO A COOPERATIVAS Y SOCIEDADES LABORALES. REG (UE) 2023/2831 DE MINIMIS, GENERAL](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/927620) (SERVICIO CANARIO DE EMPLEO)
-  - Description: Esta subvención tiene como objetivo apoyar la creación y el empleo en entidades de economía social en Canarias, así como fomentar actividades de formación y desarrollo en este ámbito.
-  - Budget: 80.000 € | Reception: 02/09/2026 | Start: 03/09/2026 | End: 16/09/2026
 - [SUBVENCIONES DEL COSTE SALARIAL DE LAS PERSONAS CON DISCAPACIDAD QUE TRABAJAN EN CEE](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/881824)
   - Description: Esta orden modifica las bases reguladoras para la concesión de subvenciones públicas destinadas a fomentar la inclusión laboral de personas con discapacidad en el mercado de trabajo ordinario y protegido, promoviendo su integración social y laboral, así como la estabilidad en los puestos de trabajo.
   - Requirements: Dirigido a personas con discapacidad; La duración mínima del contrato debe ser de 6 meses; Los contratos deben implicar una jornada mínima del 30% de la jornada habitual; No se concede subvención si la persona baja del puesto de trabajo antes de cumplir los 6 meses; Exclusiones según Ley Orgánica 1/2004 sobre violencia de género
