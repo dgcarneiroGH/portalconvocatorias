@@ -6,7 +6,7 @@ beneficiario: Pyme y autónomos
 tag_seo: asuntos_sociales
 count: 3
 publication_date: 2026-09-16
-last_update_date: 2026-09-17
+last_update_date: 2026-09-18
 slug: subvenciones-autonomos-region-de-murcia-asuntos_sociales
 ---
 
