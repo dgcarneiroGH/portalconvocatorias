@@ -1,23 +1,19 @@
 ---
 title: Ayudas para cultura en Málaga para Pyme y autónomos
-description: "Recopilatorio de las 4 ayudas activas en Málaga para Pyme y autónomos dentro del sector cultura, con presupuesto y plazos de solicitud."
+description: "Recopilatorio de las 3 ayudas activas en Málaga para Pyme y autónomos dentro del sector cultura, con presupuesto y plazos de solicitud."
 region: Málaga
 beneficiario: Pyme y autónomos
 tag_seo: cultura
-count: 4
-publication_date: 2026-09-11
-last_update_date: 2026-09-17
+count: 3
+publication_date: 2026-09-18
+last_update_date: 2026-09-18
 slug: subvenciones-autonomos-malaga-cultura
 ---
 
 # Ayudas para cultura en Málaga para Pyme y autónomos
 
-Ayudas activas (4):
+Ayudas activas (3):
 
-- [RESOLUCIÓN DE PRESIDENCIA 2026/6265 DE 26 DE AGOSTO DE APROBACIÓN DE LA CONVOCATORIA DEL PREMIO INTERNACIONAL DAVID DELFÍN AL TALENTO ORIGINAL. SEGUNDA EDICIÓN.](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/926627) (DIPUTACIÓN PROVINCIAL DE MÁLAGA)
-  - Description: El Premio Internacional de Moda David Delfín al Talento Original tiene como objetivo recompensar colecciones de moda originales e inéditas que no hayan sido premiadas anteriormente. Se busca fomentar la innovación y la calidad en la moda, promoviendo la cultura y la industria de este sector.
-  - Requirements: Personas físicas o jurídicas pueden participar; Propuestas originales e inéditas; No haber sido premiado anteriormente en otros concursos; Abierto a creadores/as, diseñadores/as y artistas de todas nacionalidades
-  - Budget: 10.000 € | Reception: 27/08/2026 | Start: 03/09/2026 | End: 17/09/2026
 - [RESOLUCIÓN DE PRESIDENCIA 2025/4119 DE 5 DE MAYO DE APROBACIÓN DEL CONVENIO CON LA RED ESCENA PARA SU PARTICIPACIÓN EN EL CIRCUITO ORNITORRINCO 2025](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/896940)
   - Description: El convenio aprobado busca regular la participación de la Diputación Provincial de Málaga en el Circuito Ornitorrinco 2025, promoviendo proyectos de mediación artística en espacios escénicos de titularidad pública.
   - Requirements: Ser propietarios de espacios escénicos propios; Estar asociados a la Red Española de Teatros, Auditorios, Circuitos y Festivales de Titularidad Pública
