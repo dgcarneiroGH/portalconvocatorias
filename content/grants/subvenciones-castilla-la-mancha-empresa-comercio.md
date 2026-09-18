@@ -1,16 +1,16 @@
 ---
-title: Ayudas para comercio en Castilla la mancha para Gran empresa
-description: "Recopilatorio de las 4 ayudas activas en Castilla la mancha para Gran empresa dentro del sector comercio, con presupuesto y plazos de solicitud."
+title: Ayudas para comercio en Castilla la mancha para Empresa
+description: "Recopilatorio de las 4 ayudas activas en Castilla la mancha para Empresa dentro del sector comercio, con presupuesto y plazos de solicitud."
 region: Castilla la mancha
-beneficiario: Gran empresa
+beneficiario: Empresa
 tag_seo: comercio
 count: 4
-publication_date: 2026-09-17
-last_update_date: 2026-09-17
+publication_date: 2026-09-18
+last_update_date: 2026-09-18
 slug: subvenciones-castilla-la-mancha-empresa-comercio
 ---
 
-# Ayudas para comercio en Castilla la mancha para Gran empresa
+# Ayudas para comercio en Castilla la mancha para Empresa
 
 Ayudas activas (4):
 
