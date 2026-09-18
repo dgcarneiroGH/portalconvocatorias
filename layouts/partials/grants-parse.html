@@ -9,7 +9,7 @@
 {{- $blocks := split $rawContent "- [" -}}
 {{- $grants := slice -}}
 {{- range $blocks -}}
-    {{- if findRE `\]\(.+?\) \(` . -}}
+    {{- if findRE `\]\(https?://[^)]+\)` . -}}
         {{- $title := trim (replaceRE `(?ms)^(.+?)\].*` "$1" .) " \n\r" -}}
         {{- $url := replaceRE `(?ms)^.+?\]\((.+?)\).*` "$1" . -}}
         {{- $description := "" -}}
