@@ -1,16 +1,16 @@
 ---
-title: Ayudas para formacion en Región de murcia para Gran empresa
-description: "Recopilatorio de las 3 ayudas activas en Región de murcia para Gran empresa dentro del sector formacion, con presupuesto y plazos de solicitud."
+title: Ayudas para formacion en Región de murcia para Empresa
+description: "Recopilatorio de las 3 ayudas activas en Región de murcia para Empresa dentro del sector formacion, con presupuesto y plazos de solicitud."
 region: Región de murcia
-beneficiario: Gran empresa
+beneficiario: Empresa
 tag_seo: formacion
 count: 3
 publication_date: 2026-09-07
-last_update_date: 2026-09-17
+last_update_date: 2026-09-18
 slug: subvenciones-empresa-region-de-murcia-formacion
 ---
 
-# Ayudas para formacion en Región de murcia para Gran empresa
+# Ayudas para formacion en Región de murcia para Empresa
 
 Ayudas activas (3):
 
