@@ -1,16 +1,16 @@
 ---
-title: Ayudas para asuntos sociales en España para Gran empresa
-description: "Recopilatorio de las 3 ayudas activas en España para Gran empresa dentro del sector asuntos_sociales, con presupuesto y plazos de solicitud."
+title: Ayudas para asuntos sociales en España para Empresa
+description: "Recopilatorio de las 3 ayudas activas en España para Empresa dentro del sector asuntos_sociales, con presupuesto y plazos de solicitud."
 region: España
-beneficiario: Gran empresa
+beneficiario: Empresa
 tag_seo: asuntos_sociales
 count: 3
-publication_date: 2026-09-17
-last_update_date: 2026-09-17
+publication_date: 2026-09-18
+last_update_date: 2026-09-18
 slug: subvenciones-empresa-espana-asuntos_sociales
 ---
 
-# Ayudas para asuntos_sociales en España para Gran empresa
+# Ayudas para asuntos_sociales en España para Empresa
 
 Ayudas activas (3):
 
