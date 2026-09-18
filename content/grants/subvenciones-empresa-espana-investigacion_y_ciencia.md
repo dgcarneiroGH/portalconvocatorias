@@ -1,16 +1,16 @@
 ---
-title: Ayudas para investigacion y ciencia en España para Gran empresa
-description: "Recopilatorio de las 7 ayudas activas en España para Gran empresa dentro del sector investigacion_y_ciencia, con presupuesto y plazos de solicitud."
+title: Ayudas para investigacion y ciencia en España para Empresa
+description: "Recopilatorio de las 7 ayudas activas en España para Empresa dentro del sector investigacion_y_ciencia, con presupuesto y plazos de solicitud."
 region: España
-beneficiario: Gran empresa
+beneficiario: Empresa
 tag_seo: investigacion_y_ciencia
 count: 7
-publication_date: 2026-09-17
-last_update_date: 2026-09-17
+publication_date: 2026-09-18
+last_update_date: 2026-09-18
 slug: subvenciones-empresa-espana-investigacion_y_ciencia
 ---
 
-# Ayudas para investigacion_y_ciencia en España para Gran empresa
+# Ayudas para investigacion_y_ciencia en España para Empresa
 
 Ayudas activas (7):
 
