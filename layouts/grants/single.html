@@ -10,10 +10,12 @@
         {{- $tagLabel := index hugo.Data.sectores.sectores $tag | default $tag -}}
 
         {{- $grants := partial "grants-parse.html" . -}}
+        {{- $hasNominative := gt (len (where $grants "nominative" true)) 0 -}}
 
         <header class="grant-page-header">
             <h1 class="grant-page-title">{{ .Title }}</h1>
         </header>
+
         
         <section class="grant-page-summary" aria-label="Resumen de las ayudas">
             <p>Esta página reúne <strong>{{ $count }} ayudas y convocatorias activas</strong> convocadas por organismos públicos de <strong>{{ $region }}</strong> (o de ámbito estatal aplicables a este territorio) y dirigidas a <strong>{{ $benef }}</strong> dentro del sector <strong>{{ $tagLabel }}</strong>. Los datos proceden de la Base de Datos Nacional de Ayudas (BDNS) y se actualizan a diario. Cada ficha incluye presupuesto, plazos de solicitud, requisitos y enlace directo a la convocatoria oficial.</p>
@@ -26,12 +28,29 @@
         <section class="grant-page-list" aria-label="Ayudas disponibles">
             <h2>Listado de convocatorias</h2>
 
+            {{- if $hasNominative }}
+            <noscript><style>.grant-nominative-toggle{display:none}</style></noscript>
+            <div class="grant-nominative-toggle">
+                <span class="grant-nominative-toggle-label" id="grant-nominative-label">Mostrar nominativas</span>
+                <div class="grant-nominative-toggle-group" role="radiogroup" aria-labelledby="grant-nominative-label">
+                    <button type="button" class="grant-nominative-option is-active" role="radio" aria-checked="true"
+                        data-nominative-state="hide">
+                        {{ partial "icon.html" "visibility_off" }} No
+                    </button>
+                    <button type="button" class="grant-nominative-option" role="radio" aria-checked="false"
+                        data-nominative-state="show">
+                        {{ partial "icon.html" "visibility" }} Sí
+                    </button>
+                </div>
+            </div>
+            {{- end }}
+
             {{ $hasCards := false }}
 
             {{ range $grants }}
             {{ $hasCards = true }}
 
-            <article class="grant-detail-card">
+            <article class="grant-detail-card"{{ if .nominative }} data-nominative="true"{{ end }}>
                 <header class="grant-detail-card-header">
                     <h3>{{ .title }}</h3>
                     {{ if .nominative }}
@@ -78,6 +97,11 @@
             {{ if not $hasCards }}
             <p class="grant-detail-empty">No hay ayudas disponibles para mostrar.</p>
             {{ end }}
+
+            {{- if $hasNominative }}
+            <p class="grant-detail-empty" id="grant-nominative-empty" hidden>Todas las ayudas de esta página son
+                nominativas y están ocultas. Selecciona «Sí» para mostrarlas.</p>
+            {{- end }}
         </section>
 
         {{- $faqs := slice
@@ -237,4 +261,6 @@
     "mainEntity" $mainEntityFAQ
 -}}
 <script type="application/ld+json">{{ $faqSchema | jsonify | safeJS }}</script>
+
+<script src="/js/nominative-toggle.js" defer></script>
 {{ end }}

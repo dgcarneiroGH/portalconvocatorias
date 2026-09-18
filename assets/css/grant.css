@@ -26,6 +26,77 @@
     font-weight: 700;
 }
 
+.grant-nominative-toggle {
+    align-self: flex-end;
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 12px;
+}
+
+.grant-nominative-toggle-label {
+    color: #1e1b4b;
+    font-family: 'Inter', sans-serif;
+    font-size: 12px;
+    line-height: 16px;
+    letter-spacing: 0.02em;
+    font-weight: 700;
+    text-transform: uppercase;
+}
+
+.grant-nominative-toggle-group {
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+}
+
+.grant-nominative-option {
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+    padding: 4px 10px;
+    border: none;
+    border-radius: 12px;
+    background: transparent;
+    color: #47464f;
+    font-family: 'Inter', sans-serif;
+    font-size: 12px;
+    line-height: 16px;
+    font-weight: 600;
+    cursor: pointer;
+    transition: background-color 160ms ease, color 160ms ease;
+}
+
+.grant-nominative-option svg {
+    width: 14px;
+    height: 14px;
+    fill: currentColor;
+}
+
+.grant-nominative-option:hover {
+    background: #f0f4f8;
+    color: #1e1b4b;
+}
+
+.grant-nominative-option.is-active {
+    background: #1e1b4b;
+    color: #ffffff;
+}
+
+.grant-nominative-option.is-active:hover {
+    background: #1e1b4b;
+}
+
+.grant-nominative-option:focus-visible {
+    outline: 2px solid #1e1b4b;
+    outline-offset: 2px;
+}
+
+.grant-detail-card[hidden],
+.grant-detail-empty[hidden] {
+    display: none;
+}
+
 .grant-page-list {
     display: flex;
     flex-direction: column;
