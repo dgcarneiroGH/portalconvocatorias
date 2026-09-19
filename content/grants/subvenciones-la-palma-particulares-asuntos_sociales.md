@@ -5,8 +5,8 @@ region: La palma
 beneficiario: Particulares
 tag_seo: asuntos_sociales
 count: 9
-publication_date: 2026-09-18
-last_update_date: 2026-09-18
+publication_date: 2026-09-19
+last_update_date: 2026-09-19
 slug: subvenciones-la-palma-particulares-asuntos_sociales
 ---
 
