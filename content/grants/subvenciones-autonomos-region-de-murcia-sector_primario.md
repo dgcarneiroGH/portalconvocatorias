@@ -5,8 +5,8 @@ region: Región de murcia
 beneficiario: Pyme y autónomos
 tag_seo: sector_primario
 count: 5
-publication_date: 2026-09-18
-last_update_date: 2026-09-18
+publication_date: 2026-09-19
+last_update_date: 2026-09-19
 slug: subvenciones-autonomos-region-de-murcia-sector_primario
 ---
 
