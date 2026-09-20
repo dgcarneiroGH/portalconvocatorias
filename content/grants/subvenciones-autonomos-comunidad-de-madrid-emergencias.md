@@ -6,7 +6,7 @@ beneficiario: Pyme y autónomos
 tag_seo: emergencias
 count: 3
 publication_date: 2026-09-13
-last_update_date: 2026-09-19
+last_update_date: 2026-09-20
 slug: subvenciones-autonomos-comunidad-de-madrid-emergencias
 ---
 
