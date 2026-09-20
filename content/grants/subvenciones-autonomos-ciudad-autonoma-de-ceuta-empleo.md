@@ -6,7 +6,7 @@ beneficiario: Pyme y autónomos
 tag_seo: empleo
 count: 6
 publication_date: 2026-08-30
-last_update_date: 2026-09-19
+last_update_date: 2026-09-20
 slug: subvenciones-autonomos-ciudad-autonoma-de-ceuta-empleo
 ---
 
