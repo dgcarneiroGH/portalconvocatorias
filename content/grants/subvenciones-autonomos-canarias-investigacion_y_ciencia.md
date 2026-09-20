@@ -5,8 +5,8 @@ region: Canarias
 beneficiario: Pyme y autónomos
 tag_seo: investigacion_y_ciencia
 count: 6
-publication_date: 2026-09-19
-last_update_date: 2026-09-19
+publication_date: 2026-09-20
+last_update_date: 2026-09-20
 slug: subvenciones-autonomos-canarias-investigacion_y_ciencia
 ---
 
@@ -32,4 +32,4 @@ Ayudas activas (6):
   - Budget: 300.000 € | Reception: 23/07/2026 | Start: 01/10/2026 | End: 31/10/2026
 - [ORDEN POR LA QUE SE APRUEBA LA CONVOCATORIA 2027-2028 PARA LA CONCESIÓN DE SUBV. A PROYECTOS DE INNOVACIÓN SOCIAL, ANTICIPADA](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/925816) (CONSEJERÍA DE UNIVERSIDADES, CIENCIA E INNOVACIÓN Y CULTURA)
   - Description: Subvenciones destinadas a proyectos de innovación social para los ejercicios 2027 y 2028, promoviendo el desarrollo y la implementación de iniciativas innovadoras en el ámbito social.
-  - Budget: 800.000 € | Reception: 20/08/2026 | Start: 15/10/2026
+  - Budget: 800.000 € | Reception: 20/08/2026
