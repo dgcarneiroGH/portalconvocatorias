@@ -6,7 +6,7 @@ beneficiario: Pyme y autónomos
 tag_seo: investigacion_y_ciencia
 count: 4
 publication_date: 2026-09-11
-last_update_date: 2026-09-20
+last_update_date: 2026-09-21
 slug: subvenciones-autonomos-malaga-investigacion_y_ciencia
 ---
 
