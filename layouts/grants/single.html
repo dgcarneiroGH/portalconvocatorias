@@ -52,7 +52,12 @@
 
             <article class="grant-detail-card"{{ if .nominative }} data-nominative="true"{{ end }}>
                 <header class="grant-detail-card-header">
-                    <h3>{{ .title }}</h3>
+                    <div class="grant-detail-card-heading">
+                        <h3>{{ .title }}</h3>
+                        {{ with .agency }}
+                        <p class="grant-detail-agency">{{ . }}</p>
+                        {{ end }}
+                    </div>
                     {{ if .nominative }}
                     <span class="grant-detail-nominative" title="Concesión directa nominativa">
                         {{ partial "icon.html" "check" }} Nominativa

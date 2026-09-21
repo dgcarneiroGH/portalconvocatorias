@@ -1,7 +1,7 @@
 {{- /*
   Partial: grants-parse
   Parsea el markdown de una pagina de grants y devuelve una slice de dicts:
-  [{title, url, description, requirements, budget, reception, start, end}, ...]
+  [{title, url, agency, description, requirements, budget, reception, start, end}, ...]
 
   Uso: {{ $grants := partial "grants-parse.html" . }}
 */ -}}
@@ -12,6 +12,12 @@
     {{- if findRE `\]\(https?://[^)]+\)` . -}}
         {{- $title := trim (replaceRE `(?ms)^(.+?)\].*` "$1" .) " \n\r" -}}
         {{- $url := replaceRE `(?ms)^.+?\]\((.+?)\).*` "$1" . -}}
+        {{- $agency := "" -}}
+        {{- $afterUrl := replaceRE `(?ms)^.+?\]\([^)]*\)` "" . -}}
+        {{- $agencyMatch := findRE `^\s*\(.+\)` $afterUrl -}}
+        {{- if $agencyMatch -}}
+            {{- $agency = strings.TrimSuffix ")" (strings.TrimPrefix "(" (trim (index $agencyMatch 0) " ")) -}}
+        {{- end -}}
         {{- $description := "" -}}
         {{- $descLines := findRE `(?m)^\s*- Description:.*` . -}}
         {{- if $descLines -}}
@@ -48,6 +54,7 @@
         {{- $grants = $grants | append (dict
             "title" $title
             "url" $url
+            "agency" $agency
             "description" $description
             "requirements" $requirements
             "budget" $budget

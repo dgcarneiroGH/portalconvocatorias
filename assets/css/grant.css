@@ -122,9 +122,23 @@
     gap: 16px;
 }
 
-.grant-detail-card-header h3 {
+.grant-detail-card-heading {
     flex: 1;
     min-width: 0;
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+}
+
+.grant-detail-agency {
+    margin: 0;
+    color: #52525b;
+    font-family: 'Inter', sans-serif;
+    font-size: 13px;
+    line-height: 18px;
+    font-weight: 600;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
 }
 
 .grant-detail-nominative {
