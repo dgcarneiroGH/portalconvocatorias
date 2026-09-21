@@ -5,7 +5,7 @@ region: Almería
 beneficiario: Pyme y autónomos
 tag_seo: patrimonio
 count: 10
-publication_date: 2026-09-21T06:10:33.446Z
+publication_date: 2026-09-21
 last_update_date: 2026-09-21
 slug: subvenciones-almeria-autonomos-patrimonio
 ---
