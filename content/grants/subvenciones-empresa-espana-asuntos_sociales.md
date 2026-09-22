@@ -5,8 +5,8 @@ region: España
 beneficiario: Empresa
 tag_seo: asuntos_sociales
 count: 3
-publication_date: 2026-09-21
-last_update_date: 2026-09-21
+publication_date: 2026-09-22
+last_update_date: 2026-09-22
 slug: subvenciones-empresa-espana-asuntos_sociales
 ---
 
