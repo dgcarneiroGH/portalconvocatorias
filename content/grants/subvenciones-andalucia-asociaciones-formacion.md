@@ -5,8 +5,8 @@ region: Andalucia
 beneficiario: Asociaciones y ong
 tag_seo: formacion
 count: 11
-publication_date: 2026-09-21
-last_update_date: 2026-09-21
+publication_date: 2026-09-22
+last_update_date: 2026-09-22
 slug: subvenciones-andalucia-asociaciones-formacion
 ---
 
