@@ -6,7 +6,7 @@ beneficiario: Pyme y autónomos
 tag_seo: asociacionismo
 count: 4
 publication_date: 2026-09-21
-last_update_date: 2026-09-21
+last_update_date: 2026-09-22
 slug: subvenciones-almeria-autonomos-asociacionismo
 ---
 
