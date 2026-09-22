@@ -5,8 +5,8 @@ region: Burgos
 beneficiario: Pyme y autónomos
 tag_seo: desarrollo_rural
 count: 4
-publication_date: 2026-09-21T11:25:30.765Z
-last_update_date: 2026-09-21
+publication_date: 2026-09-21
+last_update_date: 2026-09-22
 slug: subvenciones-autonomos-burgos-desarrollo_rural
 ---
 
