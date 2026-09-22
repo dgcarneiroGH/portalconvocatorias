@@ -6,7 +6,7 @@ beneficiario: Asociaciones y ong
 tag_seo: asociacionismo
 count: 14
 publication_date: 2026-08-27
-last_update_date: 2026-09-21
+last_update_date: 2026-09-22
 slug: subvenciones-asociaciones-tarragona-asociacionismo
 ---
 
