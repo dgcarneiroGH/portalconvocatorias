@@ -6,7 +6,7 @@ beneficiario: Particulares
 tag_seo: formacion
 count: 8
 publication_date: 2026-09-06
-last_update_date: 2026-09-22
+last_update_date: 2026-09-23
 slug: subvenciones-alicante-particulares-formacion
 ---
 
