@@ -6,7 +6,7 @@ beneficiario: Asociaciones y ong
 tag_seo: asuntos_sociales
 count: 7
 publication_date: 2026-09-01
-last_update_date: 2026-09-22
+last_update_date: 2026-09-23
 slug: subvenciones-asociaciones-girona-asuntos_sociales
 ---
 
