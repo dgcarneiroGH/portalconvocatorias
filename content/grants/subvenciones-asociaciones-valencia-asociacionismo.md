@@ -6,7 +6,7 @@ beneficiario: Asociaciones y ong
 tag_seo: asociacionismo
 count: 23
 publication_date: 2026-09-04
-last_update_date: 2026-09-22
+last_update_date: 2026-09-23
 slug: subvenciones-asociaciones-valencia-asociacionismo
 ---
 
