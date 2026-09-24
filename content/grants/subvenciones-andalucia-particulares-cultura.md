@@ -5,8 +5,8 @@ region: Andalucia
 beneficiario: Particulares
 tag_seo: cultura
 count: 4
-publication_date: 2026-09-23
-last_update_date: 2026-09-23
+publication_date: 2026-09-24
+last_update_date: 2026-09-24
 slug: subvenciones-andalucia-particulares-cultura
 ---
 
