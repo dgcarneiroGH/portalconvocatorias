@@ -5,8 +5,8 @@ region: España
 beneficiario: Asociaciones y ong
 tag_seo: formacion
 count: 4
-publication_date: 2026-09-23
-last_update_date: 2026-09-23
+publication_date: 2026-09-24
+last_update_date: 2026-09-24
 slug: subvenciones-asociaciones-espana-formacion
 ---
 
