@@ -5,8 +5,8 @@ region: Málaga
 beneficiario: Pyme y autónomos
 tag_seo: cultura
 count: 3
-publication_date: 2026-09-21
-last_update_date: 2026-09-21
+publication_date: 2026-09-23
+last_update_date: 2026-09-23
 slug: subvenciones-autonomos-malaga-cultura
 ---
 

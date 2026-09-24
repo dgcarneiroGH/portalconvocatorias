@@ -6,7 +6,7 @@ beneficiario: Pyme y autónomos
 tag_seo: empleo
 count: 9
 publication_date: 2026-09-21
-last_update_date: 2026-09-21
+last_update_date: 2026-09-23
 slug: subvenciones-autonomos-espana-empleo
 ---
 
