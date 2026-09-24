@@ -61,7 +61,7 @@ Notas:
 3. En DevTools simula un referrer cambiando `document.referrer` o navegando desde un enlace artificial con hostname `chatgpt.com`.
 4. Confirma que aparece el evento `ai_referral` con los tres parámetros poblados.
 
-## Flujo mensual (≈ 30-45 minutos)
+## Flujo mensual (1h aprox.)
 
 ### Paso 1 — Tracking de queries manuales (20 min)
 
@@ -93,6 +93,14 @@ Revisa la tabla mensual y decide:
 - Queries con `appears = no` en TODAS las plataformas → candidatos a reforzar en FAQ, intro, descripciones
 - Queries con `appears = sí` pero `is_cited = no` → falta extractabilidad
 - Queries con `competitors_cited` consistente → ver qué hacen ellos que tú no
+
+### Paso 3 — Tabla Tags SEO (10 min)
+
+1. Entra en Google Search Console (https://search.google.com/search-console/performance/search-analytics?resource_id=sc-domain%3Aportalconvocatorias.es)
+2. Descarga el informe en el icono de la parte superior derecha. Ábrelo con Google Sheets
+3. Inserta esta fórmula `=PERCENTIL(C2:C$105; 0,75)` en una casilla cualquiera. El C es la columna de impresiones. Marca también la última fila donde hay datos (105 en este ejemplo)
+4. Selecciona toda la columna de impresiones, formatea las celdas según la condición de que el valor sea mayor que lo que has obtenido en la fórmula.
+5. Ahora, desde Notion, ve revisando una a una todas las tags (`Ctrl + F`) y mira si tienen un volumen de impresiones mayor, cercano o inferior al percentil obtenido. Marca en función de lo obtenido en la columna "volumen búsqueda SEO" 
 
 ## Flujo trimestral (≈ 1 hora)
 
