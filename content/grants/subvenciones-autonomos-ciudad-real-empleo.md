@@ -5,8 +5,8 @@ region: Ciudad real
 beneficiario: Pyme y autónomos
 tag_seo: empleo
 count: 3
-publication_date: 2026-09-24
-last_update_date: 2026-09-24
+publication_date: 2026-09-25
+last_update_date: 2026-09-25
 slug: subvenciones-autonomos-ciudad-real-empleo
 ---
 
