@@ -1,18 +1,18 @@
 ---
 title: Ayudas para cultura en Castellón para Particulares
-description: "Recopilatorio de las 5 ayudas activas en Castellón para Particulares dentro del sector cultura, con presupuesto y plazos de solicitud."
+description: "Recopilatorio de las 6 ayudas activas en Castellón para Particulares dentro del sector cultura, con presupuesto y plazos de solicitud."
 region: Castellón
 beneficiario: Particulares
 tag_seo: cultura
-count: 5
+count: 6
 publication_date: 2026-09-14
-last_update_date: 2026-09-24
+last_update_date: 2026-09-25
 slug: subvenciones-castellon-particulares-cultura
 ---
 
 # Ayudas para cultura en Castellón para Particulares
 
-Ayudas activas (5):
+Ayudas activas (6):
 
 - [CONVOCATORIA XXVII CERTAMEN DE FOTOGRAFÍA CIUDAD DE BENICARLÓ](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/912905) (AYUNTAMIENTO DE BENICARLÓ)
   - Description: El XXVII Certamen de Fotografía Ciudad de Benicarló busca incentivar el arte de la fotografía, promover la diversidad de técnicas fotográficas y apoyar a los artistas en su proyección y producción expositiva.
@@ -32,3 +32,7 @@ Ayudas activas (5):
 - [CONCESIÓN DE AYUDAS ECONÓMICAS PARA LA REHABILITACIÓN Y PINTURA DE FACHADAS Y CUBIERTAS DE CASAS Y  EDIFICIOS DE NULES, PARA EL EJERCICIO 2026, APROBADO POR RESOLUCIÓN DE ALCALDIA Nº 2026-3059](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/924953) (AYUNTAMIENTO DE NULES)
   - Description: Esta subvención tiene como objetivo la rehabilitación y pintura de fachadas y cubiertas de casas y edificios en Nules, buscando mejorar la estética y estado de los inmuebles.
   - Budget: 5000 € | Reception: 13/08/2026
+- [CONCESIÓN DE SUBVENCIONES A ENTIDADES PRIVADAS PARA LA REALIZACIÓN DE ACTIVIDADES CULTURALES, DEPORTIVAS Y SOCIALES CORRESPONDIENTES AL EJERCICIO 2026](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/928527) (AYUNTAMIENTO DE BETXÍ)
+  - Description: La finalitat d'esta convocatòria és afavorir el foment de programacions i projectes culturals, esportius i socials en el municipi de Betxí durant l'exercici 2026, per enriquir l'oferta cultural i social de la ciutat.
+  - Requirements: Entitats culturals, esportives i socials inscrites al registre municipal d'associacions de Betxí; Esportistes locals empadronats a Betxí abans de l'1 de gener de 2022; No pertànyer a clubs o associacions beneficiàries d'ajudes de l'Ajuntament de Betxí; No tenir circumstàncies indicades en l'article 13.2 de la Llei General de Subvencions
+  - Budget: 18.406 € | Reception: 09/09/2026 | End: 24/09/2026
