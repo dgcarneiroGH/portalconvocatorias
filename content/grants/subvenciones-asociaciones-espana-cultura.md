@@ -1,19 +1,27 @@
 ---
 title: Ayudas para cultura en España para Asociaciones y ong
-description: "Recopilatorio de las 6 ayudas activas en España para Asociaciones y ong dentro del sector cultura, con presupuesto y plazos de solicitud."
+description: "Recopilatorio de las 9 ayudas activas en España para Asociaciones y ong dentro del sector cultura, con presupuesto y plazos de solicitud."
 region: España
 beneficiario: Asociaciones y ong
 tag_seo: cultura
-count: 6
-publication_date: 2026-09-24
-last_update_date: 2026-09-24
+count: 9
+publication_date: 2026-09-25
+last_update_date: 2026-09-25
 slug: subvenciones-asociaciones-espana-cultura
 ---
 
 # Ayudas para cultura en España para Asociaciones y ong
 
-Ayudas activas (6):
+Ayudas activas (9):
 
+- [CONVENIO ENTRE EL AYTO MISLATA Y LA ASOCIACIÓN DE VECINOS AGRUPACIÓN VECINAL DE MISLATA 2026](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/921096)
+  - Description: Este convenio tiene como objetivo fomentar la realización de actividades culturales, festivas y de ocio para los vecinos de Mislata durante el año 2026, promoviendo la participación ciudadana y el asociacionismo.
+  - Requirements: La asociación debe estar debidamente inscrita en el Registro Municipal de Asociaciones.; No estar sujeto a las prohibiciones para obtener la condición de beneficiario establecidas en la Ley General de Subvenciones.; Mantener actualizados los datos de la entidad ante el Ayuntamiento.; Presentar la documentación justificativa en los plazos establecidos.; Acreditar el cumplimiento de obligaciones tributarias y frente a la Seguridad Social.
+  - Budget: 8000 € | Reception: 23/07/2026 | Start: 01/01/2026 | End: 31/12/2026
+- [CONVENIO QUE CANALIZA UNA SUBVENCIÓN NOMINATIVA A LA ASOCIACIÓN DE TÉCNICOS SUPERIORES EN PREVENCIÓN DE RIESGOS LABORALES DE CANTABRIA PARA LA REALIZACIÓN DE ACCIONES EN MATERIA DE PREVENCIÓN DE RIESGOS LABORALES EN 2026](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/921559)
+  - Description: El objetivo de esta subvención es financiar actividades en materia de prevención de riesgos laborales organizadas por la Asociación de Técnicos Superiores en Prevención de Riesgos Laborales de Cantabria, asegurando la difusión y la promoción de una cultura de prevención en el ámbito laboral.
+  - Nominative Grant
+  - Budget: 5000 € | Reception: 24/07/2026 | Start: 01/01/2026 | End: 31/12/2026
 - [CONVENIO ASOCIACIÓN CULTURAL MUSLYRAMUS](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/921688)
   - Description: El objetivo de este convenio es la recuperación del patrimonio organológico aragonés mediante la financiación de un proyecto que busca desarrollar un modelo pedagógico de violería aragonesa, recuperando técnicas de construcción de instrumentos musicales a partir de metodologías históricas y culturales.
   - Nominative Grant
@@ -22,6 +30,11 @@ Ayudas activas (6):
   - Description: El objeto de la convocatoria es conceder subvenciones a entidades sin ánimo de lucro del municipio de Pallaresos para apoyar la realización de acciones culturales o de interés local durante el año 2026, con el fin de contribuir al desarrollo social y cultural del municipio.
   - Requirements: Entidades sin ánimo de lucro; Cumplir los requisitos establecidos en las bases reguladoras; Estar al corriente de las obligaciones con la Hacienda Pública y con la Seguridad Social; No ser deudores con el Ayuntamiento de Pallaresos; Cumplir la normativa de protección del menor para actividades con menores; No ser centros educativos; No ser entidades deportivas; No tener como única actividad principal el deporte
   - Budget: 25.000 € | Reception: 27/07/2026 | Start: 15/08/2026 | End: 20/09/2026
+- [CONVENIO POR EL QUE SE INSTRUMENTA LA SUBVENCIÓN NOMINATIVA CONCEDIDA POR EL AYUNTAMIENTO DE MISLATA A LA ASOCIACIÓN CULTURAL CLAVARIOS SANTÍSIMO CRISTO DE LA FE DE MISLATA PARA EL AÑO 2026](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/917949)
+  - Description: Conceder una subvención a la asociación Clavarios Sto. Cristo de la Fe de Mislata para fomentar y perpetuar los festejos tradicionales en la población de Mislata durante 2026.
+  - Requirements: Estar inscrito en el Registro Municipal de Asociaciones; Estar al corriente de obligaciones fiscales con la Administración; No haber sido condenado por delitos que conlleven la pérdida de la posibilidad de obtener subvenciones; No estar en situación de concurso o insolvencia; No tener residencia fiscal en paraísos fiscales; No discriminar por nacimiento, raza, sexo, religión u opinión; No promover la violencia o el odio
+  - Nominative Grant
+  - Budget: 43.000 € | Reception: 08/07/2026 | Start: 01/01/2026 | End: 11/10/2026
 - [CONVENIO DE COLABORACIÓN ENTRE EL EXCELENTÍSIMO AYUNTAMIENTO DE TERUEL Y LA FUNDACIÓN AMANTES DE TERUEL](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/918163)
   - Description: El objetivo de esta subvención es financiar el desarrollo de la actividad cultural de la Fundación Amantes de Teruel a través de un convenio de colaboración con el Ayuntamiento de Teruel, con un monto total de 20.000 euros para el año 2026.
   - Nominative Grant
