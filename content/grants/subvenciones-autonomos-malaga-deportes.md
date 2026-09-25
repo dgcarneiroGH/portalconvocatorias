@@ -6,7 +6,7 @@ beneficiario: Pyme y autónomos
 tag_seo: deportes
 count: 3
 publication_date: 2026-09-15
-last_update_date: 2026-09-24
+last_update_date: 2026-09-25
 slug: subvenciones-autonomos-malaga-deportes
 ---
 
