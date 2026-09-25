@@ -5,7 +5,7 @@ region: Murcia
 beneficiario: Pyme y autónomos
 tag_seo: emprendimiento
 count: 3
-publication_date: 2026-09-25T08:10:02.209Z
+publication_date: 2026-09-25
 last_update_date: 2026-09-25
 slug: subvenciones-autonomos-murcia-emprendimiento
 ---
