@@ -5,7 +5,7 @@ region: Burgos
 beneficiario: Pyme y autónomos
 tag_seo: pueblo
 count: 4
-publication_date: 2026-09-25T15:32:25.993Z
+publication_date: 2026-09-25
 last_update_date: 2026-09-25
 slug: subvenciones-autonomos-burgos-pueblo
 ---
