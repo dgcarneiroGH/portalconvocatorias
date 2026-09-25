@@ -1,18 +1,18 @@
 ---
 title: Ayudas para deportes en Córdoba para Asociaciones y ong
-description: "Recopilatorio de las 30 ayudas activas en Córdoba para Asociaciones y ong dentro del sector deportes, con presupuesto y plazos de solicitud."
+description: "Recopilatorio de las 35 ayudas activas en Córdoba para Asociaciones y ong dentro del sector deportes, con presupuesto y plazos de solicitud."
 region: Córdoba
 beneficiario: Asociaciones y ong
 tag_seo: deportes
-count: 30
-publication_date: 2026-09-23
-last_update_date: 2026-09-23
+count: 35
+publication_date: 2026-09-25
+last_update_date: 2026-09-25
 slug: subvenciones-asociaciones-cordoba-deportes
 ---
 
 # Ayudas para deportes en Córdoba para Asociaciones y ong
 
-Ayudas activas (30):
+Ayudas activas (35):
 
 - [CONVENIO CON EL CLUB DEPORTIVO MONTILLA CLUB DE FÚTBOL PARA LA EJECUCIÓN DEL PROYECTO PARTICIPACIÓN DEL EQUIPO SENIOR DEL MONTILLA CLUB DE FÚTBOL EN LAS COMPETICIONES OFICIALES DE FÚTBOL DURANTE LA TEMPORADA 2026/2027](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/920739)
   - Description: El objetivo principal del convenio es financiar la participación del equipo senior del Montilla Club de Fútbol en competiciones oficiales de fútbol durante la temporada 2026/2027, fomentando el desarrollo deportivo, educativo y social en la comunidad de Montilla.
@@ -39,6 +39,9 @@ Ayudas activas (30):
   - Description: El Convenio tiene como objetivo principal el desarrollo del proyecto “Deporte e inclusión C. D. Salesianos”, que busca promover la inclusión social y el bienestar de personas con discapacidad intelectual a través de la práctica del fútbol.
   - Requirements: Abierto a personas con discapacidad intelectual leve, moderada o severa; Sin restricción de edad; Debe presentar una condición física sin restricciones severas; Tanto hombres como mujeres pueden participar
   - Budget: 3000 € | Reception: 23/07/2026
+- [CONVENIO CON EL CLUB DEPORTIVO ASOCIACIÓN DE TENISTAS PALMEÑOS PARA LA EJECUCIÓN DEL PROYECTO XXX TORNEO DE TENIS INTERNACIONAL FEMENINO OPEN CIUDAD DE PALMA DEL RÍO" 2026](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/921651)
+  - Description: Este proyecto tiene como objetivo el desarrollo del 'XXX Torneo de tenis internacional femenino Open Ciudad de Palma del Río' 2026, promoviendo el tenis femenino y dinamizando económicamente la región.
+  - Budget: 25.000 € | Reception: 27/07/2026
 - [CONVENIO CON EL PATRONATO MUNICIPAL DE DEPORTES DE CASTRO DEL RÍO PARA LA EJECUCIÓN DEL PROYECTO IV TORNEO INTERNACIONAL DIPUTACIÓN DE CÓRDOBA - FUNDACIÓN CAJASOL DE FÚTBOL SALA CASTRO DEL RÍO: CATEGORÍA SUB 17 MASCULINO](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/921654)
   - Description: El objetivo del convenio es desarrollar el 'IV Torneo internacional Diputación de Córdoba - Fundación Cajasol de Fútbol Sala Castro del Río', en la categoría sub 17 masculino, promoviendo la práctica deportiva y fomentando el turismo y la economía local.
   - Budget: 12.000 € | Reception: 27/07/2026
@@ -65,6 +68,10 @@ Ayudas activas (30):
   - Requirements: Club Deportivo Running Series; No estar incursa en prohibiciones de la Ley 38/2003; Colaborar con entidades externas bajo condiciones normales de mercado
   - Nominative Grant
   - Budget: 8000 € | Reception: 30/07/2026
+- [FEDERACION ANDALUZA DE KARATE - SUBVENCION NOMINATIVA 2026 EVENTO CAMPEONATO DE ANDALUCIA INFANTIL DE KARATE Y PARA KARATE (1 MARZO 2026).](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/922515)
+  - Description: Esta subvención está destinada a apoyar la realización del Campeonato de Andalucía Infantil de Karate y Para Karate, promoviendo eventos deportivos de relevancia en la localidad de Córdoba.
+  - Requirements: Entidad beneficiaria debe ser la Federación Andaluza de Karate y Disciplinas Asociadas.; No estar incursas en prohibiciones de la Ley 38/2003.; No estar vinculadas a la entidad beneficiaria.; Cumplir con criterios de eficiencia y economía en la contratación.
+  - Budget: 10.000 € | Reception: 30/07/2026
 - [CD ENDUROCORDOBA - SUBVENCION NOMINATIVA 2026 EVENTO IV GUZMAN EL BUENO CÓRDOBA 2026. PRUEBA CAMPEONATO DE ESPAÑA DE ENDURO (20 A 22 NOVIEMBRE 2026).](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/922574)
   - Description: La subvención está destinada a apoyar la realización del IV Guzmán el Bueno Córdoba 2026, un evento correspondiente al Campeonato de España de Enduro a realizarse del 20 al 22 de noviembre de 2026.
   - Nominative Grant
@@ -110,6 +117,11 @@ CONCEJALÍA DE DEPORTES PARA EL AÑO 2026 MEDIANTE EL RÉGIMEN DE CONCURRENCIA C
   - Requirements: Entidad que solicita la subvención: Club Deportivo Ciudad de Lucena; Presupuesto del proyecto: 52.950 €; La Diputación aporta 40.000 €; Se desarrollará en la provincia de Córdoba; Principales beneficiarios: abonados, población lucentina, centros educativos, asociaciones culturales y sin ánimo de lucro, miembros del primer equipo
   - Nominative Grant
   - Budget: 40.000 € | Reception: 02/07/2026
+- [CONVENIO CON LA FEDERACIÓN ANDALUZA DE TENIS PARA LA EJECUCIÓN DEL PROYECTO CAMPEONATO DE ANDALUCÍA ABSOLUTO DE TENIS 2026](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/916687)
+  - Description: El objetivo de este convenio es desarrollar el proyecto del Campeonato de Andalucía Absoluto de Tenis 2026, promoviendo la práctica y desarrollo del tenis en la comunidad autónoma y apoyando la participación activa de los deportistas.
+  - Requirements: La entidad beneficiaria debe ser la Federación Andaluza de Tenis.; Participantes deben tener más de 14 años.; Los jugadores deben tener licencia federativa válida.; Se consideran andaluces según lo establecido en el estatuto de la autonomía.
+  - Nominative Grant
+  - Budget: 5000 € | Reception: 02/07/2026
 - [CONVENIO CON EL CLUB DEPORTIVO ENDUROCÓRDOBA. PARA LA EJECUCIÓN DEL PROYECTO  IV ENDURO OBEJO-CÓRDOBA GUZMÁN EL BUENO 2026](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/916694)
   - Description: El objetivo del convenio es desarrollar el proyecto 'IV Enduro Obejo-Córdoba “Guzmán el Bueno” 2026', que consiste en la organización de una carrera de motociclismo enduro, la cual busca fomentar la práctica del motociclismo off-road y generar un impacto económico positivo en la región.
   - Nominative Grant
@@ -119,10 +131,20 @@ CONCEJALÍA DE DEPORTES PARA EL AÑO 2026 MEDIANTE EL RÉGIMEN DE CONCURRENCIA C
   - Requirements: Club Deportivo Mezquita Rugby como entidad solicitante; Beneficiarios: estudiantes de Primaria y Secundaria en la provincia de Córdoba; Residir en la provincia de Córdoba
   - Nominative Grant
   - Budget: 3000 € | Reception: 15/07/2026
+- [CONVENIO CON LA FEDERACIÓN ANDALUZA DE NATACIÓN PARA LA EJECUCIÓN DEL PROYECTO V CIRCUITO AGUAS ABIERTAS DIPUTACIÓN DE CÓRDOBA 2026](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/919292)
+  - Description: El objetivo de este convenio es el desarrollo del V Circuito de Aguas Abiertas en la provincia de Córdoba, promoviendo la natación y la actividad física en el medio natural.
+  - Requirements: Federación Andaluza de Natación como entidad solicitante.; Participantes de todas las edades, desde infantil hasta mayores, incluyendo personas con discapacidad.
+  - Nominative Grant
+  - Budget: 20.000 € | Reception: 15/07/2026
 - [CONVENIO CON LA FUNDACIÓN EMET ARCO IRIS PARA LA EJECUCIÓN DEL PROYECTO ACTÍVATE: PROGRAMA SOCIOEDUCATIVO DE INTERVENCIÓN A TRAVÉS DEL DEPORTE](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/919306)
   - Description: El proyecto 'Programa Deportivo: ACTIVATE' tiene como objetivo la intervención socioeducativa de menores en situación de vulnerabilidad a través del deporte, promoviendo su bienestar físico y emocional.
   - Requirements: Dirigido a menores y adolescentes de 12 a 17 años; Situación de vulnerabilidad; Atendidos en centros residenciales de la Fundación EMET Arco Iris en Córdoba
   - Budget: 3000 € | Reception: 15/07/2026
+- [CONVENIO CON LA FEDERACIÓN ANDALUZA DE CICLISMO PARA LA EJECUCIÓN DEL PROYECTO XIII CIRCUITO PROVINCIAL BTT NATURCOR 2026](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/919310)
+  - Description: Este convenio busca desarrollar el proyecto 'XIII Circuito provincial BTT Naturcor' en diversas localidades de Córdoba, fomentando la práctica del ciclismo y ofreciendo eventos cicloturistas accesibles a todos los ciudadanos, independientemente de su nivel deportivo.
+  - Requirements: Abierto a todos los sectores de la población; Destinado a ciclistas de todas las edades y exigencias deportivas; Se puede participar en familia, con amigos o de manera individual; No hay límite de edad para participar
+  - Nominative Grant
+  - Budget: 15.000 € | Reception: 15/07/2026
 - [CONVENIO CON EL CLUB DEPORTIVO MAR ALEGRE PARA LA EJECUCIÓN DEL PROYECTO VI CXM EPORA TRAIL MMXXVI TIERRA DE ACEITE](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/919313)
   - Description: El objetivo de esta subvención es financiar el desarrollo del proyecto deportivo 'VI CxM Epora Trail MMXXVI Tierra de aceite', que busca fomentar la práctica del deporte en la naturaleza, promoviendo el turismo sostenible y la dinamización económica local en Montoro, Córdoba.
   - Budget: 3000 € | Reception: 15/07/2026

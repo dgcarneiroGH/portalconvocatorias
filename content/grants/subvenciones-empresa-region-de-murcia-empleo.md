@@ -1,18 +1,18 @@
 ---
 title: Ayudas para empleo en Región de murcia para Empresa
-description: "Recopilatorio de las 8 ayudas activas en Región de murcia para Empresa dentro del sector empleo, con presupuesto y plazos de solicitud."
+description: "Recopilatorio de las 9 ayudas activas en Región de murcia para Empresa dentro del sector empleo, con presupuesto y plazos de solicitud."
 region: Región de murcia
 beneficiario: Empresa
 tag_seo: empleo
-count: 8
-publication_date: 2026-09-23
-last_update_date: 2026-09-23
+count: 9
+publication_date: 2026-09-25
+last_update_date: 2026-09-25
 slug: subvenciones-empresa-region-de-murcia-empleo
 ---
 
 # Ayudas para empleo en Región de murcia para Empresa
 
-Ayudas activas (8):
+Ayudas activas (9):
 
 - [RESOLUCIÓN DE LA DIRECTORA GENERAL DEL SEF, POR LA QUE SE APRUEBA, POR EL SISTEMA DE TRAMITACIÓN ANTICIPADA, LA CONVOCATORIA DE SUBVENCIONES DESTINADAS A LA FINANCIACIÓN DEL “PROGRAMA CONEXIÓN EMPLEO JOVEN”,](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/876965)
   - Description: La subvención tiene como objetivo financiar el 'Programa Conexión Empleo Joven', que apoya la contratación de jóvenes titulados en la Región de Murcia, cofinanciada por el Fondo Social Europeo Plus.
@@ -29,6 +29,10 @@ Ayudas activas (8):
 - [FOMENTO DEL EMPLEO DE LAS PERSONAS CON DISCAPACIDAD EN EL MERCADO ORDINARIO DE TRABAJO 2026. REG (UE) 1408/2013](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/878189)
   - Description: El objetivo de esta subvención es fomentar el empleo de las personas con discapacidad en el mercado ordinario, incentivando su contratación indefinida por empresas y promoviendo la adecuación de sus puestos de trabajo.
   - Requirements: Las empresas deben estar ubicadas en la Comunidad Autónoma de la Región de Murcia.; El trabajador a contratar debe tener un grado de discapacidad igual o superior al 33%.; El trabajador debe estar desempleado e inscrito en los Servicios Públicos de Empleo.; Los solicitantes deben hallarse al corriente de sus obligaciones tributarias y con la Seguridad Social.; Las empresas de más de 50 trabajadores deben cumplir la cuota de reserva del 2% de trabajadores con discapacidad.
+  - Budget: 1.200.000 € | Reception: 29/12/2025
+- [FOMENTO DEL EMPLEO DE LAS PERSONAS CON DISCAPACIDAD EN EL MERCADO ORDINARIO DE TRABAJO 2026.  REG (UE) 2023/2831](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/878197)
+  - Description: El objetivo de esta orden es establecer las bases reguladoras para la concesión de subvenciones que fomenten la integración laboral de personas con discapacidad en el mercado ordinario de trabajo en la Comunidad Autónoma de la Región de Murcia, promoviendo tanto la contratación indefinida como temporal y facilitando la adaptación de los puestos de trabajo.
+  - Requirements: Las empresas deben estar ubicadas en la Comunidad Autónoma de la Región de Murcia.; Debes cumplir con el código de conducta en materia de subvenciones y ayudas públicas.; Los beneficiarios deben estar al corriente de sus obligaciones con la Seguridad Social y tributarias.; Se excluyen las contrataciones de la Administración pública y de empresas que incumplan la cuota de reserva de trabajadores con discapacidad.
   - Budget: 1.200.000 € | Reception: 29/12/2025
 - [RESOLUCIÓN DE LA DIRECTORA GENERAL DEL SERVICIO REGIONAL DE EMPLEO Y FORMACIÓN, POR LA QUE SE APRUEBA LA CONVOCATORIA PARA EL AÑO 2026 DE SUBVENCIONES DE FOMENTO DE LA CONTRATACIÓN INDEFINIDA EN LA REGIÓN DE MURCIA. REG. (UE) 1408/2013 "MINIMIS"](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/896847) (SERVICIO REGIONAL DE EMPLEO Y FORMACIÓN (SEF))
   - Description: La convocatoria busca promover la contratación indefinida en la Región de Murcia mediante subvenciones, enfocándose en mejorar el acceso al empleo, especialmente para grupos desfavorecidos como jóvenes, desempleados de larga duración, y mujeres víctimas de violencia de género.

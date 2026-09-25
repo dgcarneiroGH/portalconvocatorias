@@ -1,19 +1,27 @@
 ---
 title: Ayudas para empleo en Canarias para Pyme y autónomos
-description: "Recopilatorio de las 9 ayudas activas en Canarias para Pyme y autónomos dentro del sector empleo, con presupuesto y plazos de solicitud."
+description: "Recopilatorio de las 11 ayudas activas en Canarias para Pyme y autónomos dentro del sector empleo, con presupuesto y plazos de solicitud."
 region: Canarias
 beneficiario: Pyme y autónomos
 tag_seo: empleo
-count: 9
+count: 11
 publication_date: 2026-09-21
-last_update_date: 2026-09-23
+last_update_date: 2026-09-25
 slug: subvenciones-autonomos-espana-empleo
 ---
 
 # Ayudas para empleo en Canarias para Pyme y autónomos
 
-Ayudas activas (9):
+Ayudas activas (11):
 
+- [SUBVENCIONES POR LA CONTRATACIÓN INDEFINIDA DE PERSONAS CON DISCAPACIDAD EN EL MERCADO ORDINARIO DE TRABAJO](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/881825) (SERVICIO CANARIO DE EMPLEO)
+  - Description: Este programa tiene como objetivo fomentar la inclusión laboral de personas con discapacidad en el mercado de trabajo ordinario y en el mercado de trabajo protegido, a través de subvenciones que faciliten su contratación y la creación de condiciones que favorezcan su inserción social y laboral.
+  - Requirements: Personas con discapacidad con un grado reconocido igual o superior al 33%; Personas con parálisis cerebral, trastornos de salud mental o discapacidad intelectual con grado igual o superior al 33%; Personas con discapacidad física o sensorial con grado igual o superior al 65%; Entidades que cumplan con los requisitos establecidos en el artículo 13 de la Ley General de Subvenciones; Entidades inscritas como Centro Especial de Empleo en el Registro de CEE del SCE
+  - Budget: 450.000 € | Reception: 15/01/2026 | Start: 01/01/2026 | End: 31/12/2026
+- [RESOLUCIÓN DE LA PRESIDENCIA DEL SCE, POR LA QUE SE APRUEBA LA CONVOCATORIA PARA LA CONCESIÓN DE SUBVENCIONES A LAS UNIDADES DE APOYO A LA ACTIVIDAD PROFESIONAL, EN EL MARCO DE LOS SERVICIOS DE AJUSTE PERSONAL Y SOCIAL DE LOS CEE (2026)](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/897005) (SERVICIO CANARIO DE EMPLEO)
+  - Description: Subvención destinada a financiar los costes laborales y de seguridad social de la contratación indefinida del personal de las Unidades de Apoyo (UAAP) a la actividad profesional en los Centros Especiales de Empleo (CEE) para el ejercicio 2026.
+  - Requirements: Inscripción en el Registro de solicitantes de subvenciones del SCE; Ser una persona jurídica o física titular del CEE; Requisitos de titulación y experiencia para el personal técnico; Cumplir con la normativa sobre prevención de riesgos laborales
+  - Budget: 600.000 € | Reception: 06/04/2026
 - [PROCEDIMIENTOS ARBITRALES LABORALES. 1ª QUINCENA ABRIL](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/904498) (CONSEJERÍA DE TURISMO Y EMPLEO)
   - Description: Esta subvención se concede a D.ª Rocío Ramos López por su intervención en procedimientos arbitrales laborales en materia electoral, específicamente para compensar económicamente su trabajo realizado entre el 1 de enero y el 31 de marzo de 2026, así como en los meses de octubre, noviembre y diciembre de 2025.
   - Nominative Grant
