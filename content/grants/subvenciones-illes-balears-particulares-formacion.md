@@ -6,7 +6,7 @@ beneficiario: Particulares
 tag_seo: formacion
 count: 4
 publication_date: 2026-08-29
-last_update_date: 2026-09-24
+last_update_date: 2026-09-25
 slug: subvenciones-illes-balears-particulares-formacion
 ---
 
