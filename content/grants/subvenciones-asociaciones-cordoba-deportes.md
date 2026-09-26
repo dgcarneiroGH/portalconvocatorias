@@ -1,18 +1,18 @@
 ---
 title: Ayudas para deportes en Córdoba para Asociaciones y ong
-description: "Recopilatorio de las 35 ayudas activas en Córdoba para Asociaciones y ong dentro del sector deportes, con presupuesto y plazos de solicitud."
+description: "Recopilatorio de las 38 ayudas activas en Córdoba para Asociaciones y ong dentro del sector deportes, con presupuesto y plazos de solicitud."
 region: Córdoba
 beneficiario: Asociaciones y ong
 tag_seo: deportes
-count: 35
-publication_date: 2026-09-25
-last_update_date: 2026-09-25
+count: 38
+publication_date: 2026-09-26
+last_update_date: 2026-09-26
 slug: subvenciones-asociaciones-cordoba-deportes
 ---
 
 # Ayudas para deportes en Córdoba para Asociaciones y ong
 
-Ayudas activas (35):
+Ayudas activas (38):
 
 - [CONVENIO CON EL CLUB DEPORTIVO MONTILLA CLUB DE FÚTBOL PARA LA EJECUCIÓN DEL PROYECTO PARTICIPACIÓN DEL EQUIPO SENIOR DEL MONTILLA CLUB DE FÚTBOL EN LAS COMPETICIONES OFICIALES DE FÚTBOL DURANTE LA TEMPORADA 2026/2027](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/920739)
   - Description: El objetivo principal del convenio es financiar la participación del equipo senior del Montilla Club de Fútbol en competiciones oficiales de fútbol durante la temporada 2026/2027, fomentando el desarrollo deportivo, educativo y social en la comunidad de Montilla.
@@ -45,6 +45,11 @@ Ayudas activas (35):
 - [CONVENIO CON EL PATRONATO MUNICIPAL DE DEPORTES DE CASTRO DEL RÍO PARA LA EJECUCIÓN DEL PROYECTO IV TORNEO INTERNACIONAL DIPUTACIÓN DE CÓRDOBA - FUNDACIÓN CAJASOL DE FÚTBOL SALA CASTRO DEL RÍO: CATEGORÍA SUB 17 MASCULINO](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/921654)
   - Description: El objetivo del convenio es desarrollar el 'IV Torneo internacional Diputación de Córdoba - Fundación Cajasol de Fútbol Sala Castro del Río', en la categoría sub 17 masculino, promoviendo la práctica deportiva y fomentando el turismo y la economía local.
   - Budget: 12.000 € | Reception: 27/07/2026
+- [CONVENIO CON LA REAL FEDERACIÓN ESPAÑOLA DE KÁRATE PARA LA EJECUCIÓN DEL PROYECTO LIGA NACIONAL DE KÁRATE Y PARAKÁRATE MÁSTER Y LIGA NACIONAL TEAMS KATA Y KUMITÉ](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/921808)
+  - Description: Este convenio tiene como objetivo el desarrollo del proyecto 'Liga nacional de kárate y parakárate máster y liga nacional teams kata y kumité', promoviendo la práctica de estas disciplinas y fomentando un estilo de vida saludable entre los participantes.
+  - Requirements: Entidades deportivas que participen en la Liga; Deportistas de las modalidades de Kata y Kumite; Deportistas a partir de 35 años en la categoría Master; No hay restricciones geográficas específicas mencionadas
+  - Nominative Grant
+  - Budget: 15.000 € | Reception: 27/07/2026
 - [CONVOCATORIA DE SUBVENCIONES A ENTIDADES DEPORTIVAS DE CASTRO DEL RIO PARA LA REALIZACIÓN DE ACTIVIDADES DEPORTIVAS DURANTE EL AÑO 2026](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/921997)
   - Description: Convocatoria de subvenciones destinadas a clubes y entidades deportivas de Castro del Río para la realización de diversas actividades deportivas durante el año 2026.
   - Requirements: Estar legalmente constituidas las Entidades Deportivas.; Tener domicilio en la localidad de Castro del Río.; Realizar la mayor parte de su actividad en el ámbito local.; Estar al corriente en las obligaciones fiscales con todos los organismos públicos.; No tener pendiente de justificación subvenciones concedidas con anterioridad.; Estar inscritas en el Registro Andaluz de Entidades Deportivas.
@@ -72,6 +77,10 @@ Ayudas activas (35):
   - Description: Esta subvención está destinada a apoyar la realización del Campeonato de Andalucía Infantil de Karate y Para Karate, promoviendo eventos deportivos de relevancia en la localidad de Córdoba.
   - Requirements: Entidad beneficiaria debe ser la Federación Andaluza de Karate y Disciplinas Asociadas.; No estar incursas en prohibiciones de la Ley 38/2003.; No estar vinculadas a la entidad beneficiaria.; Cumplir con criterios de eficiencia y economía en la contratación.
   - Budget: 10.000 € | Reception: 30/07/2026
+- [FEDERACION ANDALUZA DE KARATE - SUBVENCION NOMINATIVA 2026 EVENTO:  LIGA NACIONAL DE KARATE (29 OCTUBRE A 1 NOVIEMBRE 2026).](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/922567)
+  - Description: Subvención nominativa de 8.000 € otorgada a la Federación Andaluza de Karate y Disciplinas Asociadas para el apoyo de la Liga Nacional de Karate, un evento de especial relevancia que se celebrará del 29 de octubre al 1 de noviembre de 2026.
+  - Requirements: Entidad beneficiaria: Federación Andaluza de Karate y Disciplinas Asociadas; Ubicación: Córdoba; Los gastos deben ser financiados por fuentes adicionales siempre que no superen el 100% del coste total.; No estar incursos en prohibiciones del artículo 13 de la Ley 38/2003.
+  - Budget: 8000 € | Reception: 30/07/2026
 - [CD ENDUROCORDOBA - SUBVENCION NOMINATIVA 2026 EVENTO IV GUZMAN EL BUENO CÓRDOBA 2026. PRUEBA CAMPEONATO DE ESPAÑA DE ENDURO (20 A 22 NOVIEMBRE 2026).](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/922574)
   - Description: La subvención está destinada a apoyar la realización del IV Guzmán el Bueno Córdoba 2026, un evento correspondiente al Campeonato de España de Enduro a realizarse del 20 al 22 de noviembre de 2026.
   - Nominative Grant
@@ -136,6 +145,11 @@ CONCEJALÍA DE DEPORTES PARA EL AÑO 2026 MEDIANTE EL RÉGIMEN DE CONCURRENCIA C
   - Requirements: Federación Andaluza de Natación como entidad solicitante.; Participantes de todas las edades, desde infantil hasta mayores, incluyendo personas con discapacidad.
   - Nominative Grant
   - Budget: 20.000 € | Reception: 15/07/2026
+- [CONVENIO CON LA FEDERACIÓN ANDALUZA DE CICLISMO PARA LA EJECUCIÓN DEL PROYECTO DIPUTACIÓN CÓRDOBA XCM SERIES 2026](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/919301)
+  - Description: Este convenio tiene como objeto el desarrollo del proyecto 'Diputación Córdoba XCM Series 2026', que consiste en organizar una serie de pruebas de ciclismo de media maratón BTT en la provincia de Córdoba, promoviendo la práctica del ciclismo y el aprovechamiento del medio natural.
+  - Requirements: Dirigido a mayores de 14 años (hasta 18 años con autorización expresa de un tutor); Participantes de todas las categorías desde cadete hasta máster 60
+  - Nominative Grant
+  - Budget: 40.000 € | Reception: 15/07/2026
 - [CONVENIO CON LA FUNDACIÓN EMET ARCO IRIS PARA LA EJECUCIÓN DEL PROYECTO ACTÍVATE: PROGRAMA SOCIOEDUCATIVO DE INTERVENCIÓN A TRAVÉS DEL DEPORTE](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/919306)
   - Description: El proyecto 'Programa Deportivo: ACTIVATE' tiene como objetivo la intervención socioeducativa de menores en situación de vulnerabilidad a través del deporte, promoviendo su bienestar físico y emocional.
   - Requirements: Dirigido a menores y adolescentes de 12 a 17 años; Situación de vulnerabilidad; Atendidos en centros residenciales de la Fundación EMET Arco Iris en Córdoba
