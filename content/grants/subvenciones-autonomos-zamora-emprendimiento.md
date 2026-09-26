@@ -5,8 +5,8 @@ region: Zamora
 beneficiario: Pyme y autónomos
 tag_seo: emprendimiento
 count: 6
-publication_date: 2026-09-25
-last_update_date: 2026-09-25
+publication_date: 2026-09-26
+last_update_date: 2026-09-26
 slug: subvenciones-autonomos-zamora-emprendimiento
 ---
 
