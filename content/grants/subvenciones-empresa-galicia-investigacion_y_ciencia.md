@@ -5,8 +5,8 @@ region: Galicia
 beneficiario: Empresa
 tag_seo: investigacion_y_ciencia
 count: 4
-publication_date: 2026-09-25
-last_update_date: 2026-09-25
+publication_date: 2026-09-26
+last_update_date: 2026-09-26
 slug: subvenciones-empresa-galicia-investigacion_y_ciencia
 ---
 
