@@ -1,19 +1,23 @@
 ---
 title: Ayudas para cultura en Tarragona para Asociaciones y ong
-description: "Recopilatorio de las 11 ayudas activas en Tarragona para Asociaciones y ong dentro del sector cultura, con presupuesto y plazos de solicitud."
+description: "Recopilatorio de las 12 ayudas activas en Tarragona para Asociaciones y ong dentro del sector cultura, con presupuesto y plazos de solicitud."
 region: Tarragona
 beneficiario: Asociaciones y ong
 tag_seo: cultura
-count: 11
+count: 12
 publication_date: 2026-08-27
-last_update_date: 2026-09-25
+last_update_date: 2026-09-26
 slug: subvenciones-asociaciones-tarragona-cultura
 ---
 
 # Ayudas para cultura en Tarragona para Asociaciones y ong
 
-Ayudas activas (11):
+Ayudas activas (12):
 
+- [CONVENIO DE COLABORACIÓN A SUBSCRIBIR ENTRE EL AYUNTAMIENTO DE VANDELLÒS I L'HOSPITALET DE L'INFANT I LA ASOCIACIÓN DE FIESTAS DE MASBOQUERA](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/923131)
+  - Description: Información no disponible sobre el objetivo o fondos de la convocatoria.
+  - Nominative Grant
+  - Budget: 15.000 € | Reception: 03/08/2026 | Start: 30/07/2026 | End: 10/03/2027
 - [WORKSHOP-RAW`26](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/923499)
   - Description: El objetivo de esta subvención es fomentar el desarrollo de proyectos culturales y artísticos que tengan un impacto significativo en la comunidad.
   - Budget: 45.000 € | Reception: 04/08/2026 | Start: 01/07/2026 | End: 31/12/2026
