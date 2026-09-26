@@ -1,24 +1,19 @@
 ---
 title: Ayudas para cultura en Gran canaria para Pyme y autónomos
-description: "Recopilatorio de las 5 ayudas activas en Gran canaria para Pyme y autónomos dentro del sector cultura, con presupuesto y plazos de solicitud."
+description: "Recopilatorio de las 4 ayudas activas en Gran canaria para Pyme y autónomos dentro del sector cultura, con presupuesto y plazos de solicitud."
 region: Gran canaria
 beneficiario: Pyme y autónomos
 tag_seo: cultura
-count: 5
-publication_date: 2026-09-25
-last_update_date: 2026-09-25
+count: 4
+publication_date: 2026-09-26
+last_update_date: 2026-09-26
 slug: subvenciones-autonomos-gran-canaria-cultura
 ---
 
 # Ayudas para cultura en Gran canaria para Pyme y autónomos
 
-Ayudas activas (5):
+Ayudas activas (4):
 
-- [GC SUBVENCIÓN DIRECTA A D. DANIEL FRANCISCO FERNÁNDEZ GALVÁN PARA EL PROYECTO “TRABAJO DE INVESTIGACIÓN Y DOCUMENTACIÓN SOBRE LOS PAISAJES CULTURALES DE LAS ISLAS CANARIAS: MIRADAS SOBRE EL PAISAJE”](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/897526)
-  - Description: La subvención tiene como objetivo financiar el proyecto "Trabajo de investigación y documentación sobre los paisajes culturales de las Islas Canarias: Miradas sobre el paisaje", que busca conocer, valorar y conservar el paisaje y patrimonio cultural del archipiélago.
-  - Requirements: El solicitante debe ser una persona física (D. Daniel Francisco Fernández Galván).; No se especifican limitaciones de edad.
-  - Nominative Grant
-  - Budget: 14.960 € | Reception: 08/04/2026
 - [GC SUBVENCIÓN NOMINADA A LUIS MONZÓN MUÑOZ (TIRIMBIQUI). 3 DÍAS DE FARÁNDULA ANUALIDAD 2025.](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/903595)
   - Description: Apoyar la promoción, fomento y cooperación en el ámbito cultural a través de subvenciones para actividades relacionadas con las artes escénicas, artes plásticas, audiovisuales y música en Gran Canaria.
   - Nominative Grant
