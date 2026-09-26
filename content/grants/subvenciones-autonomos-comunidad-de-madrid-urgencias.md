@@ -5,8 +5,8 @@ region: Comunidad de madrid
 beneficiario: Pyme y autónomos
 tag_seo: urgencias
 count: 3
-publication_date: 2026-09-25T16:18:22.974Z
-last_update_date: 2026-09-25
+publication_date: 2026-09-25
+last_update_date: 2026-09-26
 slug: subvenciones-autonomos-comunidad-de-madrid-urgencias
 ---
 
