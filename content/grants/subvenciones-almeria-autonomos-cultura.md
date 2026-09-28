@@ -1,10 +1,10 @@
 ---
 title: Ayudas para cultura en Almería para Pyme y autónomos
-description: "Recopilatorio de las 4 ayudas activas en Almería para Pyme y autónomos dentro del sector cultura, con presupuesto y plazos de solicitud."
+description: "Recopilatorio de las 6 ayudas activas en Almería para Pyme y autónomos dentro del sector cultura, con presupuesto y plazos de solicitud."
 region: Almería
 beneficiario: Pyme y autónomos
 tag_seo: cultura
-count: 4
+count: 6
 publication_date: 2026-09-21
 last_update_date: 2026-09-28
 slug: subvenciones-almeria-autonomos-cultura
@@ -12,8 +12,15 @@ slug: subvenciones-almeria-autonomos-cultura
 
 # Ayudas para cultura en Almería para Pyme y autónomos
 
-Ayudas activas (4):
+Ayudas activas (6):
 
+- [IX CONCURSO PINTURA SIGLO DE ORO](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/898214) (AYUNTAMIENTO DE ROQUETAS DE MAR)
+  - Description: El IX Concurso de Dibujo y Pintura del Siglo de Oro tiene como objetivo fomentar las artes plásticas entre los jóvenes alumnos de los I.E.S. del municipio y la provincia, centrando su temática en la indumentaria del Siglo de Oro español.
+  - Requirements: Jóvenes alumnos de I.E.S.; Ubicación en el municipio y provincia de Roquetas de Mar
+  - Budget: 900 € | Reception: 13/04/2026 | Start: 20/04/2026 | End: 30/09/2026
+- [XX CONCURSO PINTURA JUAN IBAÑEZ 226](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/930873) (AYUNTAMIENTO DE ROQUETAS DE MAR)
+  - Description: No hay información disponible sobre la convocatoria.
+  - Budget: 4500 € | Reception: 22/09/2026 | Start: 23/09/2026 | End: 01/12/2026
 - [BASES CERTAMEN NACIONAL DE LARGOMETRAJES "OPERA PRIMA", APROBADAS POR AC. NÚM. 7 EN J.G. DE 20 DE JULIO DE 2026.](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/920144) (DIPUTACIÓN PROVINCIAL DE ALMERÍA)
   - Description: La subvención tiene como objetivo promocionar la provincia de Almería y su vinculación con la industria y la cultura audiovisual a través del XXV Festival Internacional de Cine de Almería.
   - Requirements: Productores o realizadores con derechos sobre las obras; Largometrajes de nacionalidad española; Primer trabajo de dirección; Producción posterior al 1 de septiembre de 2025; Primer largometraje de ficción aceptado independientemente del número de documentales dirigidos
