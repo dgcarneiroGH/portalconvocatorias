@@ -1,19 +1,23 @@
 ---
 title: Ayudas para patrimonio en Almería para Pyme y autónomos
-description: "Recopilatorio de las 10 ayudas activas en Almería para Pyme y autónomos dentro del sector patrimonio, con presupuesto y plazos de solicitud."
+description: "Recopilatorio de las 11 ayudas activas en Almería para Pyme y autónomos dentro del sector patrimonio, con presupuesto y plazos de solicitud."
 region: Almería
 beneficiario: Pyme y autónomos
 tag_seo: patrimonio
-count: 10
+count: 11
 publication_date: 2026-09-21
-last_update_date: 2026-09-26
+last_update_date: 2026-09-28
 slug: subvenciones-almeria-autonomos-patrimonio
 ---
 
 # Ayudas para patrimonio en Almería para Pyme y autónomos
 
-Ayudas activas (10):
+Ayudas activas (11):
 
+- [ASOC. COLECCIONISMO HISTORICO](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/929423) (AYUNTAMIENTO DE ROQUETAS DE MAR)
+  - Description: No hay información disponible sobre el objetivo o la financiación de esta subvención.
+  - Nominative Grant
+  - Budget: 7000 € | Reception: 15/09/2026 | Start: 01/01/2026 | End: 31/12/2026
 - [COFRADIA CRISTO BUENA MUERTE](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/889280) (AYUNTAMIENTO DE ROQUETAS DE MAR)
   - Description: No se proporciona información sobre la convocatoria.
   - Nominative Grant
