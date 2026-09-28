@@ -5,7 +5,7 @@ region: Zamora
 beneficiario: Pyme y autónomos
 tag_seo: urgencias
 count: 16
-publication_date: 2026-09-28T08:33:28.745Z
+publication_date: 2026-09-28
 last_update_date: 2026-09-28
 slug: subvenciones-autonomos-zamora-urgencias
 ---
