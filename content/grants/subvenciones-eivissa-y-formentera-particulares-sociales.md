@@ -5,8 +5,8 @@ region: Eivissa y formentera
 beneficiario: Particulares
 tag_seo: sociales
 count: 3
-publication_date: 2026-09-26T10:01:10.551Z
-last_update_date: 2026-09-26
+publication_date: 2026-09-26
+last_update_date: 2026-09-28
 slug: subvenciones-eivissa-y-formentera-particulares-sociales
 ---
 
@@ -24,4 +24,4 @@ Ayudas activas (3):
   - Description: El Ayuntamiento de Santa Eulària des Riu ha aprobado un Plan Estratégico de Subvenciones para el año 2025, destinado a fomentar actividades de utilidad pública e interés social, así como a promover fines públicos que competen a la administración local.
   - Requirements: Personas o entidades privadas pueden solicitar subvenciones.; No se generan derechos potentes a los beneficiarios.
   - Nominative Grant
-  - Budget: 28.764,51 € | Reception: 13/04/2026
+  - Budget: 28.764,51 € | Reception: 13/04/2026 | Start: 14/04/2026
