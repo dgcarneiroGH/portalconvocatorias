@@ -5,7 +5,7 @@ region: La palma
 beneficiario: Pyme y autónomos
 tag_seo: sector_primario
 count: 3
-publication_date: 2026-09-28T08:32:24.040Z
+publication_date: 2026-09-28
 last_update_date: 2026-09-28
 slug: subvenciones-autonomos-la-palma-sector_primario
 ---
