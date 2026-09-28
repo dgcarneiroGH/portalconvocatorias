@@ -5,6 +5,7 @@ title = "Portal de Convocatorias"
 [params]
   brand_long = "Ayudas y Convocatorias"
   description = "Recopilatorio actualizado diariamente de ayudas y convocatorias activas en España para asociaciones, autónomos, empresas y particulares, filtrado por territorio, tipo de beneficiario y sector."
+  reportWebhookUrl = "https://test"
 
 [taxonomies]
   region = "regiones"
