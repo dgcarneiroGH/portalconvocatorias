@@ -17,12 +17,12 @@ Ayudas activas (3):
 - [RESOLUCIÓN DE PRESIDENCIA 2025/4119 DE 5 DE MAYO DE APROBACIÓN DEL CONVENIO CON LA RED ESCENA PARA SU PARTICIPACIÓN EN EL CIRCUITO ORNITORRINCO 2025](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/896940)
   - Description: El convenio aprobado busca regular la participación de la Diputación Provincial de Málaga en el Circuito Ornitorrinco 2025, promoviendo proyectos de mediación artística en espacios escénicos de titularidad pública.
   - Requirements: Ser propietarios de espacios escénicos propios; Estar asociados a la Red Española de Teatros, Auditorios, Circuitos y Festivales de Titularidad Pública
-  - Budget: 4301,55 € | Reception: 06/04/2026
+  - notion_id: 3b783f94-7b2c-8113-afaa-dc99bd81cbe6 | Budget: 4301,55 € | Reception: 06/04/2026
 - [RESOLUCIÓN DE PRESIDENCIA 2023/2235 DE 23 DE MARZO, REFERENTE A CONCESIÓN DE SUBVENCIÓN A INFINITY DISEÑO TEXTIL CON DESTINO AL PROYECTO "TALLER DE CONFECCIÓN TEXTIL" EN TEBA.](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/907055) (DIPUTACIÓN PROVINCIAL DE MÁLAGA)
   - Description: La subvención tiene como objetivo fomentar la cultura emprendedora e implementar programas de desarrollo económico territorial, específicamente en el sector textil de la provincia, mediante la creación de un taller de confección textil en Teba.
   - Requirements: Entidad solicitante debe ser Infinity Diseño Textil, SL.; Localización en Teba, provincia de Málaga.; Realización de un proyecto de inversión de 480.000 euros.; Presentación de documentación completa y correcta que avale la solicitud.
-  - Budget: 480.000 € | Reception: 21/05/2026
+  - notion_id: 3b783f94-7b2c-81e4-a953-dc8c1447da90 | Budget: 480.000 € | Reception: 21/05/2026
 - [PR/2026/1393 DEL AYUNTAMIENTO DE ALHAURÍN EL GRANDE POR LA QUE SE CONVOCAN LAS BASES PARA LA CONVOCATORIA DE SUBVENCIONES DESTINADAS AL FOMENTO DE LA UTILIZACIÓN DE PRODUCTOS LOCALES PARA LA ELABORACIÓN DE LOS PLATOS ALHA_BOCA POR PARTE DE LOS HOSTELEROS](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/921640) (AYUNTAMIENTO DE ALHAURÍN EL GRANDE)
   - Description: La subvención tiene como objetivo fomentar el uso de productos locales en la gastronomía de Alhaurín el Grande, apoyando a los hosteleros que se adhieran a la marca Alha_Boca mediante la creación de platos y bebidas que utilicen estos productos.
   - Requirements: Ser trabajador autónomo o sociedad del sector de la hostelería; Ejercer actividad en Alhaurín el Grande; Adherirse a la marca Alha_Boca; Elaborar al menos un plato con productos locales en la carta; Mantener el plato en la carta durante todo el año
-  - Budget: 6000 € | Reception: 27/07/2026 | Start: 27/07/2026 | End: 26/09/2026
+  - notion_id: 3b783f94-7b2c-81d9-84c3-ea8a3fd72d79 | Budget: 6000 € | Reception: 27/07/2026 | Start: 27/07/2026 | End: 26/09/2026
