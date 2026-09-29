@@ -1,10 +1,10 @@
 ---
 title: Ayudas para formacion en Valencia para Particulares
-description: "Recopilatorio de las 14 ayudas activas en Valencia para Particulares dentro del sector formacion, con presupuesto y plazos de solicitud."
+description: "Recopilatorio de las 10 ayudas activas en Valencia para Particulares dentro del sector formacion, con presupuesto y plazos de solicitud."
 region: Valencia
 beneficiario: Particulares
 tag_seo: formacion
-count: 14
+count: 10
 publication_date: 2026-09-02
 last_update_date: 2026-09-29
 slug: subvenciones-particulares-valencia-formacion
@@ -12,7 +12,7 @@ slug: subvenciones-particulares-valencia-formacion
 
 # Ayudas para formacion en Valencia para Particulares
 
-Ayudas activas (14):
+Ayudas activas (10):
 
 - [CONVOCATORIA Y BASES AYUDAS BECA MATERIAL ESCOLAR ALDAIA 2026-2027](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/921391) (AYUNTAMIENTO DE ALDAIA)
   - Description: El objetivo de esta ayuda es facilitar la adquisición de material escolar para estudiantes de diversas etapas educativas en Aldaia, reduciendo la carga económica sobre las familias y asegurando que todos los alumnos tengan acceso a los recursos necesarios para su educación.
@@ -26,11 +26,6 @@ Ayudas activas (14):
   - Description: Estos premios tienen como objetivo fomentar el uso de la escritura en valenciano en el ámbito escolar del municipio de Xirivella, dirigiéndose a escolares de diversas etapas educativas.
   - Requirements: Escolares de Educación Infantil (2, 3, 4 y 5 años); Escolares de Educación Primaria (1.º a 6.º); Escolares de Educación Secundaria Obligatoria (1.º a 4.º); Aulas UECO de centros educativos de Xirivella
   - notion_id: 3cf83f94-7b2c-810c-8077-c3d73972057f | Budget: 3000 € | Reception: 27/07/2026 | Start: 27/07/2026 | End: 15/12/2026
-- [ADQUISICIÓN DE MATERIAL ESCOLAR DE LOS ALUMNOS/AS ESCOLARIZADOS EN EL PRIMER Y SEGUNDO CICLO DE EDUCACIÓN INFANTIL, ASÍ COMO EN LA ETAPA EDUCATIVA OBLIGATORIA
-CURSO 2026-2027](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/924217) (AYUNTAMIENTO DE LORIGUILLA)
-  - Description: El objeto de esta convocatoria es la concesión de ayudas para la adquisición de material escolar destinado a alumnos/as en educación infantil y educación obligatoria, gestionadas por el Ayuntamiento de Loriguilla.
-  - Requirements: Estar matriculado en educación infantil, primaria o secundaria obligatoria; Estar empadronado en Loriguilla; Residir el padre/madre o tutor legal en el momento de formular la solicitud; Cumplir requisitos de la Ley 38/2003, de 17 de noviembre
-  - notion_id: 3cf83f94-7b2c-8163-9f57-c42c35ef14d7 | Budget: 19.000 € | Reception: 10/08/2026 | Start: 11/08/2026 | End: 07/09/2026
 - [CONCESIÓN BECAS ÉFESO. ITIN. C001.OP055.E012 OPERACIONES BÁSICAS RTE-BAR 2ª EDICIÓN](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/924789) (AYUNTAMIENTO DE VALENCIA)
   - Description: El proyecto 'Éfeso València' tiene como objetivo proporcionar itinerarios formativos personalizados para mejorar la inserción laboral de personas desempleadas, especialmente aquellas de colectivos alejados del mercado laboral, a través de becas de formación financiadas por el Fondo Social Europeo Plus.
   - Requirements: Ser desempleado inscrito como demandante de empleo; Carecer de rentas o ingresos iguales o superiores al 75% del IPREM; Haber sido seleccionado para participar en los cursos del programa Éfeso; Asistir al curso con un mínimo del 75% de asistencia; No tener deudas pendientes con el Ayuntamiento de València; Haber justificado cualquier subvención anterior del Ayuntamiento; Estar al corriente de las obligaciones tributarias y con la Seguridad Social
@@ -39,10 +34,6 @@ CURSO 2026-2027](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/92
   - Description: El objetivo principal del proyecto 'Éfeso València' es ejecutar itinerarios formativos personalizados para facilitar la inserción laboral de personas desempleadas, pertenecientes a colectivos alejados del mercado laboral, a través de la obtención de certificados de profesionalidad.
   - Requirements: Estar desempleado e inscrito como demandante de empleo; Carecer de rentas o ingresos mensuales iguales o superiores al 75% del IPREM; Haber sido seleccionado para participar en los cursos impartidos dentro del programa EFESO; Asistir al curso con una asistencia mínima del 75% de las horas de duración; Haber justificado cualquier subvención previa concedida por el Ayuntamiento de València; No tener deuda pendiente con el Ayuntamiento de València; No encontrarse en ninguna de las circunstancias de exclusión establecidas por la ley
   - notion_id: 3cf83f94-7b2c-8107-809a-c9b6a3691bf2 | Budget: 10.000 € | Reception: 13/08/2026
-- [AYUDAS MOVILIDAD ESTUDIANTES](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/925418) (AYUNTAMIENTO DE LLÍRIA)
-  - Description: Contribuir con la ciudadanía de Llíria en los gastos de desplazamiento a otras localidades para cursar estudios superiores durante el curso 2025-2026.
-  - Requirements: Estudiantes de grados universitarios, ciclos formativos de grado superior o titulaciones artísticas superiores; Empadronados en el municipio de Llíria; Cumplir los requisitos especificados en la convocatoria
-  - notion_id: 3cf83f94-7b2c-816e-81ef-d7ff1ce36e6b | Budget: 20.000 € | Reception: 18/08/2026 | Start: 19/08/2026 | End: 09/09/2026
 - [BECAS ASISTENCIA MAYO ET DEVESA-ALBUFERA 2025](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/925525) (AYUNTAMIENTO DE VALENCIA)
   - Description: Convocatoria de subvenciones para la realización de Escuelas Taller en la Comunitat Valenciana, con el objetivo de promover el empleo y la formación de personas jóvenes. Este programa busca facilitar la inserción laboral y mejorar la cualificación profesional, especialmente de jóvenes sin experiencia laboral previa.
   - notion_id: 3cf83f94-7b2c-81fa-ac83-cc8e00dbd789 | Budget: 12.000 € | Reception: 19/08/2026
@@ -50,14 +41,6 @@ CURSO 2026-2027](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/92
   - Description: El proyecto 'Éfeso València' tiene como objetivo ofrecer itinerarios formativos personalizados para la inserción laboral de personas desempleadas y de colectivos alejados del mercado laboral, mediante la concesión de becas de formación a quienes carecen de ingresos adecuados.
   - Requirements: Haber sido seleccionada para participar en el programa EFESO; Carecer de rentas o ingresos mensuales iguales o superiores al 75% del IPREM; Asistir al curso con una asistencia mínima del 75%; Haber finalizado las acciones programadas y superado las evaluaciones; No tener deudas pendientes con el Ayuntamiento de València; No encontrarse incursa en circunstancias excluyentes según la L.G.S.
   - notion_id: 3cf83f94-7b2c-8180-9ddf-faf92bb77ee8 | Budget: 224.749,5 € | Reception: 20/08/2026
-- [MATERIAL ESCOLAR  ALUMNADO EMPADRONADO EN MASSAMAGRELL Y QUE CURSE ESTUDIOS DE EDUCACIÓN INFANTIL 3, 4  Y  5  AÑOS, EN CENTROS PÚBLICOS O CONCERTADOS PARA EL CURSO 2026-2027](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/927193) (AYUNTAMIENTO DE MASSAMAGRELL)
-  - Description: La subvención tiene como objetivo regular la concesión de ayudas del Ayuntamiento de Massamagrell para fomentar actividades de interés público y fortalecer la participación ciudadana, garantizando la transparencia y eficiencia en el manejo de fondos públicos.
-  - Requirements: Personas físicas o jurídicas que ejecuten actividades beneficiarias; Agrupaciones de personas o entidades que presenten proyectos; No estar en situación que impida la obtención de subvenciones según la Ley 38/2003
-  - notion_id: 3cf83f94-7b2c-81ed-b44b-c331f2b38996 | Budget: 15.000 € | Reception: 01/09/2026 | Start: 11/09/2026 | End: 25/09/2026
-- [AYUDAS DE 60 € AL MATERIAL ESCOLAR PARA EL ALUMNADO ESCOLARIZADO EN CENTROS PÚBLICOS O CONCERTADOS DE EDUCACIÓN PRIMARIA Y EMPADRONADOS EN MASSAMAGRELL PARA EL CURSO 2026-2027](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/927196) (AYUNTAMIENTO DE MASSAMAGRELL)
-  - Description: El objetivo de la ordenanza es regular la concesión de subvenciones del Ayuntamiento de Massamagrell, para fomentar actividades de carácter asistencial y fortalecer la participación ciudadana.
-  - Requirements: Personas o entidades que realicen actividades que fundamenten la concesión de subvenciones.; Agrupaciones de personas físicas o jurídicas, públicas o privadas pueden ser beneficiarias.; No podrán obtener subvenciones aquellos en situaciones que impidan su concesión según la Ley 38/2003.
-  - notion_id: 3cf83f94-7b2c-8105-a35b-d6ea08e03bd0 | Budget: 35.000 € | Reception: 01/09/2026 | Start: 11/09/2026 | End: 25/09/2026
 - [CONCESIÓN DE AYUDAS DE 60 € AL MATERIAL ESCOLAR PARA EL ALUMNADO ESCOLARIZADO EN CENTROS PÚBLICOS O CONCERTADOS DE EDUCACIÓN SECUNDARIA OBLIGATORIA Y EMPADRONADO EN MASSAMAGRELL PARA EL CURSO 2026-2027](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/927205) (AYUNTAMIENTO DE MASSAMAGRELL)
   - Description: La subvención tiene como objetivo regular la concesión de ayudas por parte del Ayuntamiento de Massamagrell, fomentando actividades de interés público y asistencia social en la comunidad.
   - Requirements: Personas físicas o jurídicas que realicen la actividad subvencionada; Agrupaciones sin personalidad jurídica que acrediten compromiso de ejecución; No estar incursos en las causas de exclusión establecidas por la Ley 38/2003; Cumplir con las obligaciones tributarias y frente a la Seguridad Social
