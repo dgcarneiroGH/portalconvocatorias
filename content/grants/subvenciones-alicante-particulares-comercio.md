@@ -1,10 +1,10 @@
 ---
 title: Ayudas para comercio en Alicante para Particulares
-description: "Recopilatorio de las 5 ayudas activas en Alicante para Particulares dentro del sector comercio, con presupuesto y plazos de solicitud."
+description: "Recopilatorio de las 4 ayudas activas en Alicante para Particulares dentro del sector comercio, con presupuesto y plazos de solicitud."
 region: Alicante
 beneficiario: Particulares
 tag_seo: comercio
-count: 5
+count: 4
 publication_date: 2026-09-06
 last_update_date: 2026-09-29
 slug: subvenciones-alicante-particulares-comercio
@@ -12,7 +12,7 @@ slug: subvenciones-alicante-particulares-comercio
 
 # Ayudas para comercio en Alicante para Particulares
 
-Ayudas activas (5):
+Ayudas activas (4):
 
 - [CONVOCATORIA BONO-CONSUMO ANUALIDAD 2026](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/925311) (AYUNTAMIENTO DE FINESTRAT)
   - Description: Esta subvención tiene como objetivo fomentar el consumo en el comercio local de Finestrat mediante la distribución de bonos que los ciudadanos pueden utilizar en negocios adheridos, fortaleciendo así la economía local y generando un consumo responsable y sostenible.
@@ -29,6 +29,3 @@ Ayudas activas (5):
 - [PROGRAMA DE AYUDAS "BONO-CONSUMO 2026 CAMPAÑA OTOÑO" DE FORMENTERA DEL SEGURA](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/927461) (AYUNTAMIENTO DE FORMENTERA DEL SEGURA)
   - Description: El programa Bono-Consumo 2026 Campaña Otoño tiene como objetivo incentivar el consumo de proximidad en el comercio, hostelería y servicios de Formentera del Segura, ayudando a revitalizar el tejido empresarial local y apoyando a los residentes en la adquisición de bienes de consumo.
   - notion_id: 3d383f94-7b2c-81b5-b4f3-f4ddf47a0fc9 | Budget: 110.340 € | Reception: 02/09/2026 | Start: 30/09/2026 | End: 05/10/2026
-- [EXP. 5295/2026.- OCTAVA CONVOCATORIA PARA LA CONCESIÓN DE SUBVENCIONES DENOMINADAS "BONOS CONSUMO COMERCIO LOCAL DE ALMORADÍ (ALMORADÍ VALE X 2)”, EN RÉGIMEN DE CONCURRENCIA COMPETITIVA, ANUALIDAD 2026.](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/927815) (AYUNTAMIENTO DE ALMORADÍ)
-  - Description: Estas subvenciones están destinadas a incentivar el consumo en el comercio y la hostelería local de Almoradí, especialmente en el contexto de la recuperación económica tras la pandemia y otros impactos recientes. Se busca fomentar la compra en estos sectores a través de la emisión de bonos de descuento.
-  - notion_id: 3d383f94-7b2c-8128-8365-e78a978850d4 | Budget: 331.076 € | Reception: 03/09/2026 | Start: 04/09/2026 | End: 10/09/2026
