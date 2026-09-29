@@ -94,10 +94,7 @@
                 </div>
                 {{ end }}
 
-                {{ $identifier := "" }}
-                {{- if findRE `convocatoria/(\d+)` .url -}}
-                    {{- $identifier = replaceRE `.*convocatoria/(\d+).*` "$1" .url -}}
-                {{- end -}}
+                {{ $identifier := .notion_id }}
 
                 <div class="grant-detail-footer">
                     <a class="grant-detail-cta" href="{{ .url }}" target="_blank" rel="noopener">Acceder a la convocatoria
@@ -237,10 +234,7 @@
 
 {{- $grantItems := slice -}}
 {{- range $i, $g := $grants -}}
-    {{- $identifier := "" -}}
-    {{- if findRE `convocatoria/(\d+)` $g.url -}}
-        {{- $identifier = replaceRE `.*convocatoria/(\d+).*` "$1" $g.url -}}
-    {{- end -}}
+    {{- $identifier := $g.notion_id -}}
     {{- $grantItem := dict
         "@type" "Grant"
         "name" $g.title
