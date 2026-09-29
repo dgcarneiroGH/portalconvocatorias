@@ -1,10 +1,10 @@
 ---
 title: Ayudas para deportes en Castellón para Particulares
-description: "Recopilatorio de las 5 ayudas activas en Castellón para Particulares dentro del sector deportes, con presupuesto y plazos de solicitud."
+description: "Recopilatorio de las 4 ayudas activas en Castellón para Particulares dentro del sector deportes, con presupuesto y plazos de solicitud."
 region: Castellón
 beneficiario: Particulares
 tag_seo: deportes
-count: 5
+count: 4
 publication_date: 2026-09-14
 last_update_date: 2026-09-29
 slug: subvenciones-castellon-particulares-deportes
@@ -12,7 +12,7 @@ slug: subvenciones-castellon-particulares-deportes
 
 # Ayudas para deportes en Castellón para Particulares
 
-Ayudas activas (5):
+Ayudas activas (4):
 
 - [CONVENIO ENTRE RICARDO CHERTA BALLESTER Y EL AYUNTAMIENTO DE ALCALÀ DE XIVERT PARA ESTABLECER LAS CONDICIONES Y COMPROMISOS APLICABLES A LA SUBVENCIÓN PREVISTA CON CARÁCTER NOMINATIVO](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/916754) (AYUNTAMIENTO DE ALCALÀ DE XIVERT)
   - Description: Subvención destinada a financiar la participación de Ricardo Cherta Ballester, atleta de alto nivel, en competiciones deportivas durante la temporada 2026, en reconocimiento a su trayectoria y contribución al fomento del deporte.
@@ -34,7 +34,3 @@ Ayudas activas (5):
   - Requirements: Beneficiario: Javier Lozano Velasco; Dedicación a la carrera de ultramaratones; Participación en competiciones de ámbito autonómico, nacional o internacional
   - Nominative Grant
   - notion_id: 3db83f94-7b2c-81b4-9fb4-f285fdd27775 | Budget: 1500 € | Reception: 02/07/2026
-- [SUBVENCIONES A DEPORTISTAS DE ELITE, PROMESAS Y MUJERES CATEGORIA SENIOR 2026](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/922849) (AYUNTAMIENTO DE ONDA)
-  - Description: El objeto de estas ayudas es proporcionar apoyo económico a deportistas de élite, promesas y mujeres deportistas de Onda durante 2026, destinados a cubrir gastos federativos, de desplazamiento y de material deportivo.
-  - Requirements: Deportistas residentes en Onda; Haber obtenido la condición de deportista de élite, promesas o senior féminas en 2026 según resultados de 2025; Reconocimiento oficial por el Consejo Superior de Deportes o la Generalitat Valenciana
-  - notion_id: 3db83f94-7b2c-81b3-a2db-d1219a900b50 | Budget: 30.000 € | Reception: 31/07/2026 | Start: 01/09/2026 | End: 20/09/2026
