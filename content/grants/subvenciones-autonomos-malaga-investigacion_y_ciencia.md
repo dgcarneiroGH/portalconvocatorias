@@ -1,23 +1,19 @@
 ---
 title: Ayudas para investigacion y ciencia en Málaga para Pyme y autónomos
-description: "Recopilatorio de las 4 ayudas activas en Málaga para Pyme y autónomos dentro del sector investigacion_y_ciencia, con presupuesto y plazos de solicitud."
+description: "Recopilatorio de las 3 ayudas activas en Málaga para Pyme y autónomos dentro del sector investigacion_y_ciencia, con presupuesto y plazos de solicitud."
 region: Málaga
 beneficiario: Pyme y autónomos
 tag_seo: investigacion_y_ciencia
-count: 4
-publication_date: 2026-09-11
+count: 3
+publication_date: 2026-09-29
 last_update_date: 2026-09-29
 slug: subvenciones-autonomos-malaga-investigacion_y_ciencia
 ---
 
 # Ayudas para investigacion_y_ciencia en Málaga para Pyme y autónomos
 
-Ayudas activas (4):
+Ayudas activas (3):
 
-- [ACUERDO DE JUNTA DE GOBIERNO DE 15 DE JULIO DE 2026, PUNTO NÚM. 0.1.1, DE APROBACIÓN DE LA CONVOCATORIA DE LOS VIII PREMIOS A LOS MEJORES QUESOS DE CABRA DE LA PROVINCIA DE MÁLAGA, 2026.](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/926294) (DIPUTACIÓN PROVINCIAL DE MÁLAGA)
-  - Description: El objetivo de esta subvención es promocionar y mejorar la imagen y posición en el mercado de los quesos malagueños, así como estimular la elaboración de quesos artesanos y difundir sus cualidades entre los consumidores, contribuyendo al desarrollo económico de la provincia de Málaga.
-  - Requirements: Personas o entidades productoras de quesos en la provincia de Málaga; Establecimientos legalmente autorizados según la normativa vigente; Inscritos en el Registro General Sanitario de Empresas Alimentarias y Alimentos; Inscritos en el Registro de Industrias Agroalimentarias
-  - notion_id: 3d883f94-7b2c-8105-b381-ea040456e41b | Budget: 29.200 € | Reception: 25/08/2026 | Start: 05/09/2026 | End: 21/09/2026
 - [RESOLUCIÓN DE PRESIDENCIA 2026/3762 DE 22 DE MAYO, REFERENTE A CONCESIÓN DE SUBVENCIÓN A UPA-MÁLAGA CON DESTINO AL PROYECTO "ACTUACIONES PARA EL DESARROLLO Y PROMOCIÓN DE LA ACTIVIDAD AGRARIA Y GANADERA MALAGUEÑA".](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/907855) (DIPUTACIÓN PROVINCIAL DE MÁLAGA)
   - Description: La subvención tiene como objetivo financiar el proyecto para el desarrollo y promoción de la actividad agraria y ganadera en Málaga, con el fin de impulsar productos locales y contribuir al desarrollo económico y social de la provincia.
   - Requirements: Entidad solicitante: Unión de Pequeños Agricultores y Ganaderos de Málaga (UPA-Málaga); Región: Málaga; No ser deudor por obligaciones de reintegro de subvenciones; Cumplir con obligaciones tributarias; No haber recibido otras ayudas para la misma finalidad
