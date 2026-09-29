@@ -17,4 +17,4 @@ Ayudas activas (1):
 - [SUBVENCIONES DIRECTAS ÁREA PRESIDENCIA](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/857210) (CABILDO INSULAR DE HIERRO, EL)
   - Description: El plan estratégico de subvenciones del Cabildo Insular de El Hierro para las anualidades 2024 y 2025 busca impulsar el empleo y el desarrollo económico en la isla.
   - Nominative Grant
-  - Budget: 326.000 € | Reception: 17/09/2025
+  - notion_id: 3d583f94-7b2c-81bb-a2c1-ecc909ca81d3 | Budget: 326.000 € | Reception: 17/09/2025
