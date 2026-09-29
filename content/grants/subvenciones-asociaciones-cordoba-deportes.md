@@ -1,10 +1,10 @@
 ---
 title: Ayudas para deportes en Córdoba para Asociaciones y ong
-description: "Recopilatorio de las 38 ayudas activas en Córdoba para Asociaciones y ong dentro del sector deportes, con presupuesto y plazos de solicitud."
+description: "Recopilatorio de las 36 ayudas activas en Córdoba para Asociaciones y ong dentro del sector deportes, con presupuesto y plazos de solicitud."
 region: Córdoba
 beneficiario: Asociaciones y ong
 tag_seo: deportes
-count: 38
+count: 36
 publication_date: 2026-09-29
 last_update_date: 2026-09-29
 slug: subvenciones-asociaciones-cordoba-deportes
@@ -12,7 +12,7 @@ slug: subvenciones-asociaciones-cordoba-deportes
 
 # Ayudas para deportes en Córdoba para Asociaciones y ong
 
-Ayudas activas (38):
+Ayudas activas (36):
 
 - [CONVENIO CON EL CLUB DEPORTIVO MONTILLA CLUB DE FÚTBOL PARA LA EJECUCIÓN DEL PROYECTO PARTICIPACIÓN DEL EQUIPO SENIOR DEL MONTILLA CLUB DE FÚTBOL EN LAS COMPETICIONES OFICIALES DE FÚTBOL DURANTE LA TEMPORADA 2026/2027](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/920739)
   - Description: El objetivo principal del convenio es financiar la participación del equipo senior del Montilla Club de Fútbol en competiciones oficiales de fútbol durante la temporada 2026/2027, fomentando el desarrollo deportivo, educativo y social en la comunidad de Montilla.
@@ -50,10 +50,6 @@ Ayudas activas (38):
   - Requirements: Entidades deportivas que participen en la Liga; Deportistas de las modalidades de Kata y Kumite; Deportistas a partir de 35 años en la categoría Master; No hay restricciones geográficas específicas mencionadas
   - Nominative Grant
   - notion_id: 3b083f94-7b2c-8150-b076-ed0ba31b9a6b | Budget: 15.000 € | Reception: 27/07/2026
-- [CONVOCATORIA DE SUBVENCIONES A ENTIDADES DEPORTIVAS DE CASTRO DEL RIO PARA LA REALIZACIÓN DE ACTIVIDADES DEPORTIVAS DURANTE EL AÑO 2026](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/921997)
-  - Description: Convocatoria de subvenciones destinadas a clubes y entidades deportivas de Castro del Río para la realización de diversas actividades deportivas durante el año 2026.
-  - Requirements: Estar legalmente constituidas las Entidades Deportivas.; Tener domicilio en la localidad de Castro del Río.; Realizar la mayor parte de su actividad en el ámbito local.; Estar al corriente en las obligaciones fiscales con todos los organismos públicos.; No tener pendiente de justificación subvenciones concedidas con anterioridad.; Estar inscritas en el Registro Andaluz de Entidades Deportivas.
-  - notion_id: 3b083f94-7b2c-81aa-93d7-cdd54c68d96d | Budget: 7000 € | Reception: 28/07/2026 | Start: 29/07/2026 | End: 12/08/2026
 - [CONVENIO CON EL CLUB DEPORTIVO CLUB LICEO-CÓRDOBA DE GIMNASIA RÍTMICA PARA LA EJECUCIÓN DEL PROYECTO VIII TORNEO DIPUTACIÓN DE CÓRDOBA GIMNASIA RÍTMICA 2026](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/922067)
   - Description: El objeto del convenio es el desarrollo del proyecto 'VIII Torneo Diputación de Córdoba Gimnasia Rítmica 2026', que promueve la práctica deportiva, la competición y la cooperación en el fomento del desarrollo social y económico en la provincia de Córdoba a través de la gimnasia rítmica.
   - notion_id: 3b083f94-7b2c-811a-af91-f53d7d4b9959 | Budget: 10.000 € | Reception: 28/07/2026
@@ -116,11 +112,6 @@ Ayudas activas (38):
   - Requirements: Ser el CLUB DEPORTIVO VESPERTINA EL PERRO VERDE HORNACHUELOS F.C.; No estar incursos en prohibiciones según la Ley General de Subvenciones; Estar al corriente de obligaciones tributarias y de la Seguridad Social
   - Nominative Grant
   - notion_id: 3a483f94-7b2c-8109-9bb2-ee6473fc565f | Budget: 11.000 € | Reception: 01/07/2026
-- [RESOLUCIÓN DE ALCALDÍA Nº 2026/00003167 DE 30/06/2026 POR LA QUE SE APRUEBA LA CONVOCATORIA PÚBLICA DE SUBVENCIONES DE LA
-CONCEJALÍA DE DEPORTES PARA EL AÑO 2026 MEDIANTE EL RÉGIMEN DE CONCURRENCIA COMPETITIVA.](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/916675)
-  - Description: Convocatoria de subvenciones por procedimiento de concurrencia competitiva del Ayuntamiento de Pozoblanco para apoyar actividades y equipos deportivos en diversas categorías y modalidades, incluyendo deportes senior y formación de jóvenes deportistas.
-  - Requirements: Entidades deportivas que no hayan recibido subvenciones nominativas; Equipos inscritos en federaciones Cordobesa, Andaluza o Española; Equipos con 5 o más miembros; Equipos en categorías juvenil, cadete, infantil, alevín, benjamín y prebenjamín; Proyectos que justifiquen la participación de ambos sexos; Documentación para la justificación de gastos y actividades; Cumplimiento de plazos de solicitud y justificación
-  - notion_id: 3a483f94-7b2c-8122-b8be-c314a27b3a2b | Budget: 134.000 € | Reception: 02/07/2026 | Start: 03/07/2026 | End: 30/07/2026
 - [CONVENIO CON EL CLUB DEPORTIVO CIUDAD DE LUCENA C. F. PARA LA EJECUCIÓN DEL PROYECTO PRIMER EQUIPO CIUDAD DE LUCENA TEMPORADA 2026/2027](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/916682)
   - Description: Este convenio tiene como objetivo el desarrollo del proyecto del Primer equipo Ciudad de Lucena para la temporada 2026/2027, buscando fomentar el deporte en la región y fortalecer la identidad local mediante el fútbol.
   - Requirements: Entidad que solicita la subvención: Club Deportivo Ciudad de Lucena; Presupuesto del proyecto: 52.950 €; La Diputación aporta 40.000 €; Se desarrollará en la provincia de Córdoba; Principales beneficiarios: abonados, población lucentina, centros educativos, asociaciones culturales y sin ánimo de lucro, miembros del primer equipo
