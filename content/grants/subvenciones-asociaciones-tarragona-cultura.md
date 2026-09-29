@@ -1,10 +1,10 @@
 ---
 title: Ayudas para cultura en Tarragona para Asociaciones y ong
-description: "Recopilatorio de las 12 ayudas activas en Tarragona para Asociaciones y ong dentro del sector cultura, con presupuesto y plazos de solicitud."
+description: "Recopilatorio de las 11 ayudas activas en Tarragona para Asociaciones y ong dentro del sector cultura, con presupuesto y plazos de solicitud."
 region: Tarragona
 beneficiario: Asociaciones y ong
 tag_seo: cultura
-count: 12
+count: 11
 publication_date: 2026-08-27
 last_update_date: 2026-09-29
 slug: subvenciones-asociaciones-tarragona-cultura
@@ -12,7 +12,7 @@ slug: subvenciones-asociaciones-tarragona-cultura
 
 # Ayudas para cultura en Tarragona para Asociaciones y ong
 
-Ayudas activas (12):
+Ayudas activas (11):
 
 - [CONVENIO DE COLABORACIÓN A SUBSCRIBIR ENTRE EL AYUNTAMIENTO DE VANDELLÒS I L'HOSPITALET DE L'INFANT I LA ASOCIACIÓN DE FIESTAS DE MASBOQUERA](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/923131)
   - Description: Información no disponible sobre el objetivo o fondos de la convocatoria.
@@ -38,10 +38,6 @@ Ayudas activas (12):
   - Requirements: Entitat beneficiària: Banda Unió Musical de Tarragona; No tenir deutes pendents amb l'Hisenda Municipal; No tenir subvencions pendents de justificar
   - Nominative Grant
   - notion_id: 3c983f94-7b2c-8199-b00d-c1194ad2f458 | Budget: 15.000 € | Reception: 18/08/2026 | Start: 01/01/2026 | End: 31/12/2026
-- [CONVOCATORIA DE SUBVENCIONES PARA LAS ASOCIACIONES DE VECINOS DE VALLS Y PEDANIAS 2026](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/925963)
-  - Description: Esta convocatoria tiene como objetivo otorgar subvenciones a las Asociaciones de Vecinos de Valls y Pedanías para promover la cohesión social, la convivencia y la participación ciudadana en actividades culturales y sociales durante el año 2025.
-  - Requirements: Asociaciones de Vecinos de Valls y Pedanías sin ánimo de lucro.; Estar legalmente constituidas e inscritas en el Registro de Asociaciones de Cataluña.; No estar incluidos en las prohibiciones de la Ley General de Subvenciones.; Cumplir con las obligaciones fiscales y de Seguridad Social.; No estar en paraísos fiscales.; No haber recibido sanciones que impidan obtener subvenciones.
-  - notion_id: 3c983f94-7b2c-81a4-a635-c1b5ff46c70a | Budget: 27.000 € | Reception: 21/08/2026 | Start: 27/08/2026 | End: 16/09/2026
 - [SOLICITUD DE SUBVENCIÓN NOMINATIVA ESBART DANSAIRE DE TARRAGONA 2026 (7.000 €)](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/926464)
   - Description: La subvención está destinada a fomentar y divulgar la danza popular catalana en Tarragona, a través de la colaboración económica con el Esbart Dansaire de Tarragona.
   - Requirements: Entidad pública o privada; Estar al corriente de obligaciones tributarias; No tener deudas pendientes con la Hacienda Municipal; Presentar la justificación documental de la subvención antes del 20 de enero de 2027
