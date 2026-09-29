@@ -1,10 +1,10 @@
 ---
 title: Ayudas para educacion y becas en Comunidad valenciana para Particulares
-description: "Recopilatorio de las 19 ayudas activas en Comunidad valenciana para Particulares dentro del sector educacion_y_becas, con presupuesto y plazos de solicitud."
+description: "Recopilatorio de las 18 ayudas activas en Comunidad valenciana para Particulares dentro del sector educacion_y_becas, con presupuesto y plazos de solicitud."
 region: Comunidad valenciana
 beneficiario: Particulares
 tag_seo: educacion_y_becas
-count: 19
+count: 18
 publication_date: 2026-09-22
 last_update_date: 2026-09-29
 slug: subvenciones-comunidad-valenciana-particulares-educacion_y_becas
@@ -12,7 +12,7 @@ slug: subvenciones-comunidad-valenciana-particulares-educacion_y_becas
 
 # Ayudas para educacion_y_becas en Comunidad valenciana para Particulares
 
-Ayudas activas (19):
+Ayudas activas (18):
 
 - [BECAS INTRAMURALES DE INICIACIÓN A LA INVESTIGACIÓN PARA ESTUDIANTADO DE MÁSTERES OFICIALES Y DE GRADOS CON NIVEL MECES3, PARA EL CURSO 2026-2027](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/922732) (UNIVERSIDAD JAUME I DE CASTELLÓN)
   - Description: El objetivo de estas becas es promover la iniciación en tareas de investigación del estudiantado matriculado en másteres oficiales o en el último curso de grados con nivel MECES3, específicamente en la Universitat Jaume I, durante el curso académico 2026-2027.
@@ -41,10 +41,6 @@ Ayudas activas (19):
 - [CONVOCATORIA DE BECAS BANCO SANTANDER - AYUDAS PREDOCTORALES 2026](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/927752) (UNIVERSIDAD JAUME I DE CASTELLÓN)
   - Description: La convocatoria tiene como objetivo promover la calidad de la investigación del personal investigador predoctoral de la Universitat Jaume I, así como estimular su participación en actividades científicas y la publicación en acceso abierto de los resultados de sus tesis.
   - notion_id: 3e383f94-7b2c-815a-b937-e9d803c252e7 | Budget: 40.000 € | Reception: 03/09/2026
-- [AYUDAS PARA LA COLABORACIÓN EN LA INVESTIGACIÓN EN ASTRONOMÍA Y ASTROFÍSICA PARA ESTUDIANTES DEL ÚLTIMO CURSO DEL GRADO EN FÍSICA O MATEMÁTICAS, Y PARA ESTUDIANTES DEL MÁSTER EN FÍSICA AVANZADA, ITINERARIO DE ASTROFÍSICA, PROPIOS DE LA UV. CURSO 2026-27](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/927779) (UNIVERSITAT DE VALÈNCIA (ESTUDI GENERAL))
-  - Description: Estas ayudas están destinadas a estudiantes en su último año de grado en Física o Matemáticas y a aquellos que cursan un máster en Física Avanzada, con el objetivo de fomentar la iniciación en la investigación en astronomía y astrofísica.
-  - Requirements: Estudiantes del último curso del grado de Física; Estudiantes del último curso del grado de Matemáticas; Estudiantes del máster de Física Avanzada; Supervisión de un profesor o investigador doctor
-  - notion_id: 3e383f94-7b2c-81c3-b3db-d3e15520ab08 | Budget: 6000 € | Reception: 03/09/2026 | Start: 04/09/2026 | End: 24/09/2026
 - [BASES Y CONVOCATORIA CONCURSO DE RELATOS SOLIDARIOS 2026 XX EDICIÓN,  DEL CENTRO DE VOLUNTARIADO Y PARTICIPACIÓN CIUDADANA DEL AYUNTAMIENTO DE CHIVA](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/928533) (AYUNTAMIENTO DE CHIVA)
   - Description: El objetivo de la convocatoria es fomentar la educación en los valores de la solidaridad, voluntariado y participación ciudadana entre los estudiantes de los centros educativos de Chiva, desde 5º y 6º de Primaria hasta toda la Educación Secundaria y Bachillerato, a través de un concurso de relatos.
   - Requirements: Alumnado de 5º y 6º de Primaria de CEIP Dr. Corachán, Francisco Martínez Culla y La Murta; Alumnado del IES Marjana; Alumnado a partir de 5º de Primaria del Colegio Internacional de Levante; Estar escolarizado en centros educativos de Chiva
