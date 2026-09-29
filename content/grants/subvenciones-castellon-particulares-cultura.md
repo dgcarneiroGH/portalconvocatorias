@@ -17,22 +17,22 @@ Ayudas activas (6):
 - [CONVOCATORIA XXVII CERTAMEN DE FOTOGRAFÍA CIUDAD DE BENICARLÓ](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/912905) (AYUNTAMIENTO DE BENICARLÓ)
   - Description: El XXVII Certamen de Fotografía Ciudad de Benicarló busca incentivar el arte de la fotografía, promover la diversidad de técnicas fotográficas y apoyar a los artistas en su proyección y producción expositiva.
   - Requirements: Pueden participar todas las personas profesionales o aficionadas a la fotografía; No podrán optar quienes hayan ganado el primer premio en la edición anterior
-  - notion_id: 3db83f94-7b2c-81cd-8ba5-ffd540945097 | Budget: 850 € | Reception: 15/06/2026 | Start: 16/06/2026 | End: 04/10/2026
+  - Budget: 850 € | Reception: 15/06/2026 | Start: 16/06/2026 | End: 04/10/2026
 - [CONCURSO DE COMPOSICIÓN DE MÚSICA CORAL EN VALENCIANO](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/916660) (AYUNTAMIENTO DE BORRIANA/BURRIANA)
   - Description: Estimular la ampliación del repertorio coral en valenciano y ofrecer la oportunidad de interpretar obras inéditas.
   - Requirements: Músicos mayores de 18 años; Residentes o nacidos en la Comunidad Valenciana; Sin límite de edad; No estar bajo prohibiciones para obtener la condición de beneficiario según el artículo 13 de la ley general de subvenciones; Estar al corriente de obligaciones tributarias y frente a la Seguridad Social
-  - notion_id: 3db83f94-7b2c-81c0-a5e7-cda078cd6cc4 | Budget: 600 € | Reception: 02/07/2026 | Start: 03/07/2026 | End: 08/10/2026
+  - Budget: 600 € | Reception: 02/07/2026 | Start: 03/07/2026 | End: 08/10/2026
 - [CONCURSO RELATOS DE MUJERES 2026](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/920945) (AYUNTAMIENTO DE CASTELLÓN DE LA PLANA/CASTELLÓ DE LA PLANA)
   - Description: El concurso 'Relatos de Mujeres 2026' tiene como objetivo promover la creación literaria entre mujeres mayores de edad a través de relatos originales e inéditos en castellano o valenciano.
   - Requirements: Mujeres mayores de edad; Los relatos deben ser originales e inéditos; Presentación en castellano o valenciano; Extensión mínima de 10 folios y máxima de 40; Presentar los trabajos sin firma, lema o seudónimo
-  - notion_id: 3db83f94-7b2c-8160-8811-f7ddd207d439 | Budget: 3000 € | Reception: 22/07/2026 | Start: 23/07/2026 | End: 30/11/2026
+  - Budget: 3000 € | Reception: 22/07/2026 | Start: 23/07/2026 | End: 30/11/2026
 - [XXI CONCURSO DE FOTOGRAFÍA TAURINA FIESTAS DE SEGORBE 2026](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/922247) (AYUNTAMIENTO DE SEGORBE)
   - Description: Convocatoria del XXI Concurso de Fotografía Taurina y Fiestas de Segorbe, que busca premiar las mejores fotografías relacionadas con las fiestas taurinas de la localidad.
-  - notion_id: 3db83f94-7b2c-8133-b596-f9234edd5a82 | Budget: 1450 € | Reception: 29/07/2026 | Start: 18/09/2026 | End: 31/10/2026
+  - Budget: 1450 € | Reception: 29/07/2026 | Start: 18/09/2026 | End: 31/10/2026
 - [CONCESIÓN DE AYUDAS ECONÓMICAS PARA LA REHABILITACIÓN Y PINTURA DE FACHADAS Y CUBIERTAS DE CASAS Y  EDIFICIOS DE NULES, PARA EL EJERCICIO 2026, APROBADO POR RESOLUCIÓN DE ALCALDIA Nº 2026-3059](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/924953) (AYUNTAMIENTO DE NULES)
   - Description: Esta subvención tiene como objetivo la rehabilitación y pintura de fachadas y cubiertas de casas y edificios en Nules, buscando mejorar la estética y estado de los inmuebles.
-  - notion_id: 3db83f94-7b2c-81b7-a116-f8e916ac1eb5 | Budget: 5000 € | Reception: 13/08/2026
+  - Budget: 5000 € | Reception: 13/08/2026
 - [CONCESIÓN DE SUBVENCIONES A ENTIDADES PRIVADAS PARA LA REALIZACIÓN DE ACTIVIDADES CULTURALES, DEPORTIVAS Y SOCIALES CORRESPONDIENTES AL EJERCICIO 2026](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/928527) (AYUNTAMIENTO DE BETXÍ)
   - Description: La finalitat d'esta convocatòria és afavorir el foment de programacions i projectes culturals, esportius i socials en el municipi de Betxí durant l'exercici 2026, per enriquir l'oferta cultural i social de la ciutat.
   - Requirements: Entitats culturals, esportives i socials inscrites al registre municipal d'associacions de Betxí; Esportistes locals empadronats a Betxí abans de l'1 de gener de 2022; No pertànyer a clubs o associacions beneficiàries d'ajudes de l'Ajuntament de Betxí; No tenir circumstàncies indicades en l'article 13.2 de la Llei General de Subvencions
-  - notion_id: 3db83f94-7b2c-8158-8b55-d2c5c18b34ab | Budget: 18.406 € | Reception: 09/09/2026 | End: 24/09/2026
+  - Budget: 18.406 € | Reception: 09/09/2026 | End: 24/09/2026
