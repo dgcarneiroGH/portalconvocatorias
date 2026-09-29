@@ -16,12 +16,12 @@ Ayudas activas (3):
 
 - [PREMI JOAN CASTELLÓ GUASCH 2026](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/889694) (CONSELL INSULAR DE IBIZA)
   - Description: El Plan Estratégico de Subvenciones del Consell Insular d'Eivissa para el período 2026-2028 tiene como objetivo responder a demandas sociales y económicas mediante medidas de apoyo financiero a personas y entidades públicas o privadas.
-  - notion_id: 3e783f94-7b2c-817a-9edc-cde7563e9907 | Budget: 4000 € | Reception: 25/02/2026 | Start: 11/02/2026 | End: 31/12/2026
+  - Budget: 4000 € | Reception: 25/02/2026 | Start: 11/02/2026 | End: 31/12/2026
 - [PREMIS VUIT D’AGOST 2026](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/889695) (CONSELL INSULAR DE IBIZA)
   - Description: El Plan Estratégico de Subvenciones del Consell Insular d'Eivissa para el período 2026-2028 busca canalizar financiación pública hacia actividades de interés social y dar respuesta a demandas económicas, a través de una gestión transparente y eficiente de subvenciones.
-  - notion_id: 3e783f94-7b2c-81df-abb3-ecaa2950c791 | Budget: 30.000 € | Reception: 25/02/2026 | Start: 09/01/2026 | End: 30/10/2026
+  - Budget: 30.000 € | Reception: 25/02/2026 | Start: 09/01/2026 | End: 30/10/2026
 - [CONVENIO DE COLABORACIÓN ENTRE EL AYUNTAMIENTO DE SANTA EULÀRIA DES RIU Y CÁRITAS PARROQUIAL DE SANTA EULÀRIA PARA 2025.](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/898363) (AYUNTAMIENTO DE SANTA EULÀRIA DES RIU)
   - Description: El Ayuntamiento de Santa Eulària des Riu ha aprobado un Plan Estratégico de Subvenciones para el año 2025, destinado a fomentar actividades de utilidad pública e interés social, así como a promover fines públicos que competen a la administración local.
   - Requirements: Personas o entidades privadas pueden solicitar subvenciones.; No se generan derechos potentes a los beneficiarios.
   - Nominative Grant
-  - notion_id: 3e783f94-7b2c-81ac-b745-d73fdfdc9e2c | Budget: 28.764,51 € | Reception: 13/04/2026 | Start: 14/04/2026
+  - Budget: 28.764,51 € | Reception: 13/04/2026 | Start: 14/04/2026
