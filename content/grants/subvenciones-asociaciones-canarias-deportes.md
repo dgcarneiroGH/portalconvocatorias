@@ -1,10 +1,10 @@
 ---
 title: Ayudas para deportes en Canarias para Asociaciones y ong
-description: "Recopilatorio de las 9 ayudas activas en Canarias para Asociaciones y ong dentro del sector deportes, con presupuesto y plazos de solicitud."
+description: "Recopilatorio de las 8 ayudas activas en Canarias para Asociaciones y ong dentro del sector deportes, con presupuesto y plazos de solicitud."
 region: Canarias
 beneficiario: Asociaciones y ong
 tag_seo: deportes
-count: 9
+count: 8
 publication_date: 2026-09-29
 last_update_date: 2026-09-29
 slug: subvenciones-asociaciones-canarias-deportes
@@ -12,7 +12,7 @@ slug: subvenciones-asociaciones-canarias-deportes
 
 # Ayudas para deportes en Canarias para Asociaciones y ong
 
-Ayudas activas (9):
+Ayudas activas (8):
 
 - [ORDEN DEL CONSEJERO DE EDUCACIÓN, FP, ACTIVIDAD FÍSICA Y DEPORTES, POR LA QUE SE CONCEDEN SUBVENCIONES DIRECTAS A 20 FEDERACIONES CANARIAS Y AL CD ORIENTACIÓN AGÜICO, PARA FINANCIAR LA PARTICIPACIÓN EN CAMPEONATOS DE ESPAÑA EN EDAD ESCOLAR 2026.](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/909754)
   - notion_id: 39283f94-7b2c-810e-a538-c17fcd4b9e6d | Budget: 27.011,16 € | Reception: 01/06/2026
@@ -31,5 +31,3 @@ Ayudas activas (9):
 - [SNF04/2026 FUNDACION CANTERA BASE 1939 - NOMINADA 2026](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/910488)
   - Nominative Grant
   - notion_id: 39283f94-7b2c-81e4-986d-d9a15cae14d0 | Budget: 200.000 € | Reception: 03/06/2026 | Start: 01/01/2026 | End: 31/12/2026
-- [SUBVENCIÓN DIRECTA AL CLUB DEPORTIVO DE PATINAJE FAYNA, PARA LA PROMOCIÓN DEPORTIVA](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/857198)
-  - notion_id: 38883f94-7b2c-81fc-aa6c-e09be8506486 | Budget: 1500 € | Reception: 17/09/2025 | Start: 23/06/2026 | End: 23/06/2026
