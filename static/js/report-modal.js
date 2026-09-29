@@ -13,12 +13,18 @@
     const otherText = document.getElementById('report-other-text');
     const options = Array.from(overlay.querySelectorAll('.report-option'));
     const webhookUrl = overlay.dataset.webhookUrl;
+    const nominativeOption = overlay.querySelector('[data-reason-nominative]');
+    const nominativeInput = nominativeOption && nominativeOption.querySelector('input');
+    const nominativeText = nominativeOption && nominativeOption.querySelector('.report-option-text');
     if (!modal || !submitBtn || !webhookUrl) return;
 
     let lastFocused = null;
     let grantId = '';
-    let grantTitle = '';
     let hideTimer = null;
+
+    const REQUEST_TIMEOUT_MS = 10000;
+    const DEFAULT_ERROR_MESSAGE = 'No se pudo enviar el reporte. Inténtalo de nuevo.';
+    const CONNECTION_ERROR_MESSAGE = 'Error de conexión con el servidor. Inténtalo de nuevo más tarde o escríbenos a contact@nomacoda.com';
 
     function updateSubmitState() {
         const selected = overlay.querySelector('input[name="report-reason"]:checked');
@@ -43,7 +49,12 @@
 
     function open(trigger) {
         grantId = trigger.dataset.grantId || '';
-        grantTitle = trigger.dataset.grantTitle || '';
+        const card = trigger.closest('.grant-detail-card');
+        const isNominative = !!(card && card.dataset.nominative === 'true');
+        if (nominativeInput) nominativeInput.value = isNominative ? 'No es nominativa' : 'Es nominativa';
+        if (nominativeText) nominativeText.textContent = isNominative
+            ? 'La subvención no es nominativa'
+            : 'La subvención es nominativa';
         resetOptions();
         submitBtn.disabled = true;
         submitLabel.textContent = 'Enviar reporte';
@@ -127,26 +138,43 @@
         submitLabel.textContent = 'Enviando…';
         statusEl.hidden = true;
         statusEl.textContent = '';
+
+        const controller = new AbortController();
+        let timedOut = false;
+        const timer = setTimeout(() => {
+            timedOut = true;
+            controller.abort();
+        }, REQUEST_TIMEOUT_MS);
+
         fetch(webhookUrl, {
             method: 'POST',
             headers: { 'Content-Type': 'application/json' },
             body: JSON.stringify({
                 grantId,
-                grantTitle,
                 reason
-            })
-        }).then(response => {
-            if (!response.ok) throw new Error('HTTP ' + response.status);
-            statusEl.textContent = 'Reporte enviado correctamente';
-            statusEl.className = 'report-status is-success';
+            }),
+            signal: controller.signal
+        }).then(response =>
+            response.json().catch(() => null).then(data => ({ ok: response.ok, data }))
+        ).then(({ ok, data }) => {
+            if (ok && data && data.status === 'success') {
+                statusEl.textContent = data.message || 'Reporte enviado correctamente';
+                statusEl.className = 'report-status is-success';
+                statusEl.hidden = false;
+                hideTimer = setTimeout(close, 2000);
+                return;
+            }
+            statusEl.textContent = (data && data.message) || DEFAULT_ERROR_MESSAGE;
+            statusEl.className = 'report-status is-error';
             statusEl.hidden = false;
-            hideTimer = setTimeout(close, 2000);
+            submitBtn.disabled = false;
         }).catch(() => {
-            statusEl.textContent = 'No se pudo enviar el reporte. Inténtalo de nuevo.';
+            statusEl.textContent = timedOut ? CONNECTION_ERROR_MESSAGE : DEFAULT_ERROR_MESSAGE;
             statusEl.className = 'report-status is-error';
             statusEl.hidden = false;
             submitBtn.disabled = false;
         }).finally(() => {
+            clearTimeout(timer);
             submitLabel.textContent = 'Enviar reporte';
         });
     });

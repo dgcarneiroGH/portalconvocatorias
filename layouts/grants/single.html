@@ -179,12 +179,12 @@
         <fieldset class="report-options">
             <legend class="report-options-legend">Motivo del reporte</legend>
             <label class="report-option">
-                <input class="report-option-input" type="radio" name="report-reason" value="Fallo en tag">
+                <input class="report-option-input" type="radio" name="report-reason" value="Tag erróneo">
                 <span class="report-option-icon">{{ partial "icon.html" "label_off" }}</span>
                 <span class="report-option-text">Subvención etiquetada incorrectamente</span>
                 <span class="report-option-radio" aria-hidden="true"></span>
             </label>
-            <label class="report-option">
+            <label class="report-option" data-reason-nominative>
                 <input class="report-option-input" type="radio" name="report-reason" value="No es nominativa">
                 <span class="report-option-icon">{{ partial "icon.html" "balance" }}</span>
                 <span class="report-option-text">Subvención incorrectamente etiquetada como nominativa / no
