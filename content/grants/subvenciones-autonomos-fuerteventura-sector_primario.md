@@ -18,8 +18,8 @@ Ayudas activas (2):
   - Description: Esta subvención está destinada a la Cofradía de Pescadores de Morro Jable para financiar el proyecto de obras de techados, cuyo objetivo es mejorar las instalaciones para la refrigeración y distribución del pescado, promoviendo la sostenibilidad y conservación del sector pesquero.
   - Requirements: Beneficiario: Cofradía de Pescadores de Morro Jable; Cumplir con las obligaciones tributarias; Estar registered en la administración local
   - Nominative Grant
-  - Budget: 120.000 € | Reception: 31/01/2025
+  - notion_id: 3ae83f94-7b2c-8118-ae27-cbfbf2f0bb95 | Budget: 120.000 € | Reception: 31/01/2025
 - [CONVOCATORIA PÚBLICA SUBVENCIONES GENÉRICAS: LÍNEA 1.-SUBVENCIÓN AGRUPACIONES DEFENSA SANITARIA GANADERA, LÍNEA 4.- SUBVENCIONES FOMENTO RECRÍA GANADERA, Y, LÍNEA 13.-SUBVENCIÓN AYUDAS AGROPECUARIAS Y PESQUERAS INDIVIDUALES PARA INVERSIONES INVENTARIABLES](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/922631)
   - Description: Convocatoria pública de subvenciones genéricas en régimen de concurrencia competitiva destinada a promover la agricultura, ganadería y pesca en Fuerteventura a través de varias líneas específicas que incluyen ayudas para agrupaciones de defensa sanitaria, fomento de la recría ganadera y apoyo a inversiones agropecuarias y pesqueras individuales.
   - Requirements: Agrupaciones de Defensa Sanitaria Ganadera radicadas en Fuerteventura.; Ganaderos y sociedades ganaderas con actividad y residencia fiscal en Fuerteventura.; Agricultores, ganaderos, pescadores, marineros, armadores de buques de pesca lista tercera y sociedades agrarias y pesqueras.; Asociaciones agrícolas, ganaderas y pesqueras que no tengan convocada su línea específica.; Hallarse al corriente en obligaciones tributarias y con la Seguridad Social.; Tener residencia fiscal en Fuerteventura.
-  - Budget: 1.675.000 € | Reception: 30/07/2026 | Start: 31/07/2026 | End: 13/08/2026
+  - notion_id: 3ae83f94-7b2c-81d9-8bcf-d504d34ecc46 | Budget: 1.675.000 € | Reception: 30/07/2026 | Start: 31/07/2026 | End: 13/08/2026
