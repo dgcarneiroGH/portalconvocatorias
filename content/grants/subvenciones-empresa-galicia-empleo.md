@@ -1,10 +1,10 @@
 ---
 title: Ayudas para empleo en Galicia para Empresa
-description: "Recopilatorio de las 6 ayudas activas en Galicia para Empresa dentro del sector empleo, con presupuesto y plazos de solicitud."
+description: "Recopilatorio de las 5 ayudas activas en Galicia para Empresa dentro del sector empleo, con presupuesto y plazos de solicitud."
 region: Galicia
 beneficiario: Empresa
 tag_seo: empleo
-count: 6
+count: 5
 publication_date: 2026-09-29
 last_update_date: 2026-09-29
 slug: subvenciones-empresa-galicia-empleo
@@ -12,7 +12,7 @@ slug: subvenciones-empresa-galicia-empleo
 
 # Ayudas para empleo en Galicia para Empresa
 
-Ayudas activas (6):
+Ayudas activas (5):
 
 - [ORDEN DE 29 DE DICIEMBRE DE 2025 POR LA QUE SE ESTABLECEN LAS BASES REGULADORAS DEL PROGRAMA DE INCENTIVOS A LAS EMPRESAS DE INSERCIÓN (EI) Y A SUS ENTIDADES PROMOTORAS, Y SE PROCEDE A SU CONVOCATORIA PARA EL AÑO 2026 (CÓDIGOS  TR356A Y TR356C)](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/882306)
   - Description: El programa tiene como objetivo principal promover la inserción sociolaboral de personas en situación o riesgo de exclusión social mediante ayudas a empresas de inserción y a sus entidades promotoras en Galicia, a través de incentivos económicos destinados a cubrir costos salariales y otros gastos relacionados con la contratación de estas personas.
@@ -23,10 +23,6 @@ Ayudas activas (6):
   - Requirements: Personas desempleadas; Pertenecer a colectivos vulnerables; No hay límites de edad especificados; Ubicación en Galicia
   - Nominative Grant
   - notion_id: 3a883f94-7b2c-814e-af40-e6a56f14eedc | Budget: 156.175 € | Reception: 30/04/2026 | Start: 01/12/2025 | End: 31/08/2027
-- [ORDEN DEL 9 DE JULIO DE 2026 POR LA QUE SE ESTABLECEN LAS BASES REGULADORAS PARA LA CONCESIÓN DE SUBVENCIONES PARA LA PUESTA EN PRÁCTICA DE PROGRAMAS INTEGRADOS DE EMPLEO DE GALICIA, Y SE CONVOCAN PARA EL AÑO 2026 (CÓDIGO DE PROCEDIMIENTO TR332A)](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/920668)
-  - Description: Esta subvención está destinada a financiar programas integrados de empleo en Galicia, con el objetivo de mejorar la ocupabilidad y la inserción laboral de personas desempleadas, a través de acciones como formación, orientación y prácticas profesionales.
-  - Requirements: Entidades locales; Entidades sin ánimo de lucro; Participación en programas de empleo; Cumplir obligaciones tributarias y de seguridad social; No haber recibido subvenciones incompatibles
-  - notion_id: 3a883f94-7b2c-81bb-bde6-dcfded0936a2 | Budget: 11.000.000 € | Reception: 21/07/2026 | Start: 27/07/2026 | End: 24/08/2026
 - [ORDEN DE 29 DE DICIEMBRE DE 2025 POR LA QUE SE ESTABLECEN LAS BASES REGULADORAS DEL PROGRAMA GALICIA SUMA TALENTO: EMPLÉATE DE INCENTIVOS A LA CONTRATACIÓN EN LA EMPRESA ORDINARIA, Y SE PROCEDE A SU CONVOCATORIA PARA EL AÑO 2026](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/885613)
   - Description: Esta convocatoria tiene como objetivo regularizar situaciones específicas, permitiendo a los beneficiarios cumplir con normativas establecidas.
   - notion_id: 38383f94-7b2c-813e-8819-f1b6e361459b | Budget: 500.000 € | Reception: 06/02/2026 | Start: 23/06/2026 | End: 30/09/2026
