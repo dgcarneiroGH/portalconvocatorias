@@ -10,6 +10,7 @@
     const cancelBtn = document.getElementById('report-cancel');
     const closeBtn = document.getElementById('report-close');
     const statusEl = document.getElementById('report-status');
+    const otherText = document.getElementById('report-other-text');
     const options = Array.from(overlay.querySelectorAll('.report-option'));
     const webhookUrl = overlay.dataset.webhookUrl;
     if (!modal || !submitBtn || !webhookUrl) return;
@@ -19,12 +20,25 @@
     let grantTitle = '';
     let hideTimer = null;
 
+    function updateSubmitState() {
+        const selected = overlay.querySelector('input[name="report-reason"]:checked');
+        if (!selected) {
+            submitBtn.disabled = true;
+            return;
+        }
+        submitBtn.disabled = selected.value === 'Otros' && (!otherText || otherText.value.trim() === '');
+    }
+
     function resetOptions() {
         options.forEach(option => {
             option.classList.remove('is-selected');
             const input = option.querySelector('input');
             if (input) input.checked = false;
         });
+        if (otherText) {
+            otherText.value = '';
+            otherText.disabled = true;
+        }
     }
 
     function open(trigger) {
@@ -65,9 +79,14 @@
         if (!input) return;
         input.addEventListener('change', () => {
             options.forEach(other => other.classList.toggle('is-selected', other === option));
-            submitBtn.disabled = false;
+            if (otherText) otherText.disabled = input.value !== 'Otros';
+            updateSubmitState();
         });
     });
+
+    if (otherText) {
+        otherText.addEventListener('input', updateSubmitState);
+    }
 
     closeBtn.addEventListener('click', close);
     cancelBtn.addEventListener('click', close);
@@ -83,7 +102,7 @@
             return;
         }
         if (event.key !== 'Tab') return;
-        const focusables = Array.from(modal.querySelectorAll('button, input'))
+        const focusables = Array.from(modal.querySelectorAll('button, input, textarea'))
             .filter(el => !el.disabled);
         if (!focusables.length) return;
         const first = focusables[0];
@@ -100,6 +119,10 @@
     submitBtn.addEventListener('click', () => {
         const selected = overlay.querySelector('input[name="report-reason"]:checked');
         if (!selected) return;
+        const motivo = selected.value === 'Otros' && otherText
+            ? otherText.value.trim()
+            : selected.value;
+        if (motivo === '') return;
         submitBtn.disabled = true;
         submitLabel.textContent = 'Enviando…';
         statusEl.hidden = true;
@@ -110,7 +133,7 @@
             body: JSON.stringify({
                 subvencionId: grantId,
                 nombreSubvencion: grantTitle,
-                motivoReporte: selected.value
+                motivoReporte: motivo
             })
         }).then(response => {
             if (!response.ok) throw new Error('HTTP ' + response.status);

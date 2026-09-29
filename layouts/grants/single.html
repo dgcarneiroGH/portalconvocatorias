@@ -200,6 +200,17 @@
                 <span class="report-option-text">Región incorrecta</span>
                 <span class="report-option-radio" aria-hidden="true"></span>
             </label>
+            <div class="report-option report-option-otros">
+                <label class="report-option-row" for="report-reason-other">
+                    <input class="report-option-input" type="radio" name="report-reason" id="report-reason-other"
+                        value="Otros">
+                    <span class="report-option-icon">{{ partial "icon.html" "edit" }}</span>
+                    <span class="report-option-text">Otros</span>
+                    <span class="report-option-radio" aria-hidden="true"></span>
+                </label>
+                <textarea class="report-option-textarea" id="report-other-text" rows="3" maxlength="500" disabled
+                    placeholder="Describe brevemente el problema detectado..." aria-label="Describe brevemente el problema detectado"></textarea>
+            </div>
         </fieldset>
         <p class="report-status" id="report-status" role="status" hidden></p>
         <div class="report-modal-footer">

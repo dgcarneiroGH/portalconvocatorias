@@ -595,6 +595,57 @@
     border-radius: 50%;
 }
 
+.report-option-otros {
+    flex-direction: column;
+    align-items: stretch;
+    gap: 12px;
+    padding: 12px 16px 16px;
+    border-radius: 24px;
+    cursor: default;
+}
+
+.report-option-row {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    cursor: pointer;
+}
+
+.report-option-row:focus-visible {
+    outline: 2px solid #1e1b4b;
+    outline-offset: 2px;
+}
+
+.report-option-textarea {
+    padding: 10px 14px;
+    background: #ffffff;
+    border: 1px solid #e4e4e7;
+    border-radius: 16px;
+    color: #1e1b4b;
+    font-family: 'Inter', sans-serif;
+    font-size: 14px;
+    line-height: 20px;
+    font-weight: 400;
+    resize: vertical;
+    min-height: 64px;
+}
+
+.report-option-textarea::placeholder {
+    color: #71717a;
+    opacity: 1;
+}
+
+.report-option-textarea:disabled {
+    background: #fafafa;
+    opacity: 0.6;
+    cursor: not-allowed;
+}
+
+.report-option-textarea:focus-visible {
+    outline: 2px solid #1e1b4b;
+    outline-offset: 2px;
+}
+
 .report-status {
     margin: 16px 0 0;
     font-size: 14px;
