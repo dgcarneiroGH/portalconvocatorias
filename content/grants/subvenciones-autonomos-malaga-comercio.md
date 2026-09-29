@@ -1,10 +1,10 @@
 ---
 title: Ayudas para comercio en Málaga para Pyme y autónomos
-description: "Recopilatorio de las 3 ayudas activas en Málaga para Pyme y autónomos dentro del sector comercio, con presupuesto y plazos de solicitud."
+description: "Recopilatorio de las 2 ayudas activas en Málaga para Pyme y autónomos dentro del sector comercio, con presupuesto y plazos de solicitud."
 region: Málaga
 beneficiario: Pyme y autónomos
 tag_seo: comercio
-count: 3
+count: 2
 publication_date: 2026-09-11
 last_update_date: 2026-09-29
 slug: subvenciones-autonomos-malaga-comercio
@@ -12,12 +12,8 @@ slug: subvenciones-autonomos-malaga-comercio
 
 # Ayudas para comercio en Málaga para Pyme y autónomos
 
-Ayudas activas (3):
+Ayudas activas (2):
 
-- [CONVOCATORIA PYME GLOBAL 2026 MISIÓN COMERCIAL ESTUDIO A CHINA PARA EMPRESAS DE MÁLAGA](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/927009) (CÁMARA DE COMERCIO DE MÁLAGA)
-  - Description: La convocatoria busca financiar gastos relacionados con la misión comercial directa a China en 2026, incluyendo costes de viaje, alojamiento, elaboración de agendas de trabajo y traducciones para empresas que participen en la actividad.
-  - Requirements: Empresas que realicen la misión comercial; Los proveedores no deben estar vinculados a la empresa beneficiaria; Las contrataciones deben respetar la Ley General de Subvenciones
-  - notion_id: 3d883f94-7b2c-8159-9e52-ea245ba2abeb | Budget: 54.527,2 € | Reception: 31/08/2026 | Start: 01/09/2026 | End: 25/09/2026
 - [CONVOCATORIA PYME GLOBAL 2026 MISIÓN COMERCIAL SECTOR TURISMO A MÉXICO Y COLOMBIA PARA EMPRESAS DE MÁLAGA](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/928111) (CÁMARA DE COMERCIO DE MÁLAGA)
   - Description: Convocatoria de ayudas destinadas a pymes del sector turístico de la provincia de Málaga para participar en una misión comercial a México y Colombia, con el objetivo de apoyar la internacionalización y aumentar la competitividad de las empresas.
   - Requirements: Dirigido a pymes del sector turístico; Ubicación en la provincia de Málaga
