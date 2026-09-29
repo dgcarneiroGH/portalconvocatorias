@@ -1,0 +1,28 @@
+---
+title: Ayudas para cultura en Región de murcia para Pyme y autónomos
+description: "Recopilatorio de las 3 ayudas activas en Región de murcia para Pyme y autónomos dentro del sector cultura, con presupuesto y plazos de solicitud."
+region: Región de murcia
+beneficiario: Pyme y autónomos
+tag_seo: cultura
+count: 3
+publication_date: 2026-09-29T07:21:00.731Z
+last_update_date: 2026-09-29
+slug: subvenciones-autonomos-region-de-murcia-cultura
+---
+
+# Ayudas para cultura en Región de murcia para Pyme y autónomos
+
+Ayudas activas (3):
+
+- [DECRETO 29/2026, 7 MAYO. CONSEJ. FOMENTO E INFRAETRUCTURAS. CONCESIÓN DIRECTA DE SUBV. A  INTERBUS MURCIA UNO, S.L., POR LA IMPLANTACIÓN DE MEJORAS EN LA CONCESIÓN DE SERVICIO PÚBLICO DE TRANSPORTE REGULAR DE USO GRAL. CARTAGENA-MURCIA DURANTE 2026.](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/915019) (CONSEJERÍA DE INFRAESTRUCTURAS Y DESARROLLO TERRITORIAL)
+  - Description: No hay información disponible sobre esta subvención.
+  - Nominative Grant
+  - notion_id: 3d483f94-7b2c-8193-8c45-d78ff33e63dd | Budget: 480.548 € | Reception: 23/06/2026
+- [RESOLUCIÓN DEL DIRECTOR GENERAL DEL INSTITUTO DE LAS INDUSTRIAS CULTURALES Y LAS ARTES DE LA REGIÓN DE MURCIA, POR LA QUE SE CONVOCAN AYUDAS ECONÓMICAS, EN RÉGIMEN DE CONCURRENCIA COMPETITIVA, DESTINADAS AL FOMENTO DE LA ACTIVIDAD CULTURAL EN ÁREAS RURALE](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/918761) (INSTITUTO DE INDUSTRIAS CULTURALES Y DE LAS ARTES DE LA REGIÓN DE MURCIA ( ICA ))
+  - Description: Las ayudas tienen como objetivo impulsar y diversificar actividades culturales en áreas rurales, especialmente en municipios con menos de 30,000 habitantes. Buscan mejorar la sostenibilidad y competitividad de los proyectos culturales y fomentar la inclusión y participación ciudadana.
+  - Requirements: Entidades privadas sin ánimo de lucro y con ánimo de lucro; Profesionales inscritos en el Régimen Especial de Trabajadores Autónomos; Entidades públicas y agrupaciones de entidades locales; Proyectos en municipios con menos de 30,000 habitantes; Cumplir con obligaciones tributarias y de Seguridad Social; No haber recibido otras ayudas del ICA para el ejercicio 2026
+  - notion_id: 3d483f94-7b2c-81ec-ba43-e23585cf6aa5 | Budget: 64.841 € | Reception: 13/07/2026 | Start: 14/07/2026 | End: 14/09/2026
+- [RESOLUCIÓN DEL DIRECTOR GENERAL DEL INSTITUTO DE LAS INDUSTRIAS CULTURALES Y LAS ARTES DE LA REGIÓN DE MURCIA, POR LA QUE SE CONVOCAN AYUDAS ECONÓMICAS PARA MOVILIDAD NACIONAL E INTERNACIONAL DE PROFESIONALES DE LAS INDUSTRIAS CULTURALES Y CREATIVAS.](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/918808) (INSTITUTO DE INDUSTRIAS CULTURALES Y DE LAS ARTES DE LA REGIÓN DE MURCIA ( ICA ))
+  - Description: El objetivo de esta convocatoria es conceder ayudas económicas a artistas y profesionales de las industrias culturales y creativas de la Región de Murcia para cubrir gastos relacionados con su asistencia a exposiciones y eventos fuera de la región.
+  - Requirements: Ser profesional de las industrias culturales y creativas; Poseer residencia fiscal en la Región de Murcia o ser natural de allí; Estar al corriente de obligaciones fiscales y con la Seguridad Social; No estar en servicio activo con el Instituto de las Industrias Culturales y las Artes de la Región de Murcia; No ser persona jurídica privada, administración pública o entidad sin ánimo de lucro
+  - notion_id: 3d483f94-7b2c-81a9-85bf-ce3021c07ae1 | Budget: 30.000 € | Reception: 13/07/2026 | Start: 14/07/2026 | End: 30/07/2027
