@@ -1,31 +1,13 @@
 ---
-title: Ayudas para cultura en Andalucia para Particulares
-description: "Recopilatorio de las 4 ayudas activas en Andalucia para Particulares dentro del sector cultura, con presupuesto y plazos de solicitud."
-region: Andalucia
-beneficiario: Particulares
-tag_seo: cultura
-count: 4
+title: Ayudas (subvenciones-andalucia-particulares-cultura)
+description: Listado completo de todas las categorías de ayudas y ayudas activas, organizado por territorio, tipo de beneficiario y sector.
+slug: subvenciones-andalucia-particulares-cultura
 publication_date: 2026-09-29
 last_update_date: 2026-09-29
-slug: subvenciones-andalucia-particulares-cultura
+count: 0
+_orphan: true
 ---
 
-# Ayudas para cultura en Andalucia para Particulares
+# Ayudas (subvenciones-andalucia-particulares-cultura)
 
-Ayudas activas (4):
-
-- [III CONCURSO PHOTOCALL 2026. FERIA SEPTIEMBRE](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/924657)
-  - Description: El objetivo del III Concurso de Photocall de la Feria de Villamanrique de la Condesa es fomentar las tradiciones culturales y etnográficas a través del diseño gráfico, representando la esencia de la feria de septiembre y valorando el talento artístico de los participantes.
-  - Requirements: Cualquier persona puede participar; Los participantes menores de edad deben presentar autorización de padre, madre o tutor legal; Diseños deben tener calidad adecuada para impresión; El diseño debe presentar temática de la feria de septiembre
-  - notion_id: 3c783f94-7b2c-81c5-9f19-f0b94f9364f8 | Budget: 150 € | Reception: 12/08/2026 | Start: 13/08/2026 | End: 31/08/2026
-- [VII CONCURSO CARRERAS DE CINTAS EN BICICLETA. FERIA SEPTIEMBRE 2026](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/924719)
-  - Description: El concurso tiene como objetivo fomentar las tradiciones culturales y etnográficas de Villamanrique de la Condesa, valorizando la feria y preservando su carácter tradicional mediante un concurso de carreras de cinta en bicicleta.
-  - Requirements: Categorías Infantiles de Primaria y Secundaria; Adultos pueden participar; Residir en Villamanrique de la Condesa; Cumplimentar la hoja de inscripción
-  - notion_id: 3c783f94-7b2c-81a7-ad8f-c3ccc6361d2b | Budget: 410 € | Reception: 12/08/2026 | Start: 13/08/2026 | End: 13/09/2026
-- [VII CONCURSO CASETA MEJOR DECORADA Y MÁS AMBIENTADA DE LA FERIA 2026](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/924888)
-  - Description: La convocatoria establece la concesión de premios por la organización de varios concursos culturales y eventos en Villamanrique de la Condesa, con un gasto total de 3.106 euros para incentivar la participación en actividades locales como carreras de cintas a caballo y bicicleta, decoración de casetas y juegos populares.
-  - notion_id: 3c783f94-7b2c-81d4-801a-d4a547c58620 | Budget: 500 € | Reception: 13/08/2026 | Start: 14/08/2026 | End: 09/09/2026
-- [I CONCURSO JUEGOS POPULARES DE LA FERIA. 2026](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/924894)
-  - Description: El I Concurso de Juegos Populares de la Feria de Villamanrique de la Condesa tiene como objetivo fomentar las tradiciones culturales y etnográficas locales a través de la recuperación de juegos tradicionales durante la feria, programada para el 13 de septiembre de 2026.
-  - Requirements: Participar en representación de una caseta de feria; No participar en más de un juego; Inscribirse antes del 9 de septiembre de 2026
-  - notion_id: 3c783f94-7b2c-814a-868b-d49596f3fe42 | Budget: 450 € | Reception: 13/08/2026 | Start: 14/08/2026 | End: 09/09/2026
+_Esta página está pendiente de regenerar. Sin datos activos._
