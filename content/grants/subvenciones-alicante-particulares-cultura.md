@@ -1,10 +1,10 @@
 ---
 title: Ayudas para cultura en Alicante para Particulares
-description: "Recopilatorio de las 4 ayudas activas en Alicante para Particulares dentro del sector cultura, con presupuesto y plazos de solicitud."
+description: "Recopilatorio de las 2 ayudas activas en Alicante para Particulares dentro del sector cultura, con presupuesto y plazos de solicitud."
 region: Alicante
 beneficiario: Particulares
 tag_seo: cultura
-count: 4
+count: 2
 publication_date: 2026-09-29
 last_update_date: 2026-09-29
 slug: subvenciones-alicante-particulares-cultura
@@ -12,17 +12,8 @@ slug: subvenciones-alicante-particulares-cultura
 
 # Ayudas para cultura en Alicante para Particulares
 
-Ayudas activas (4):
+Ayudas activas (2):
 
-- [CERTIFICADO DE ACUERDO DE LA JUNTA DE GOBIERNO LOCAL, DE 13 DE JULIO DE 2025, POR EL QUE SE APRUEBAN LAS BASES Y CONVOCATORIA DE
-MARATÓN FOTOGRÁFICO CIUDAD DE VILLENA 2026](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/923558) (AYUNTAMIENTO DE VILLENA)
-  - Description: La convocatoria del Maratón Fotográfico Ciudad de Villena 2026 tiene como objetivo promover la fotografía como medio de expresión artística y dar continuidad a la tradición fotográfica enVillena, incentivando la participación de aficionados y la difusión del patrimonio local a través de un fondo documental de fotografías.
-  - Requirements: Participantes deben ser aficionados a la fotografía; No se menciona un límite de edad; Apertura a residentes de Villena y localidades limítrofes
-  - notion_id: 3d383f94-7b2c-81ab-adfd-f85653327b89 | Budget: 2000 € | Reception: 05/08/2026 | Start: 06/08/2026 | End: 26/09/2026
-- [ANUNCIO BASES CONCURSO LITERARIO RELATOS CORTOS "RELATS DE LA TERRA" EN VALENCIANO](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/925766) (AYUNTAMIENTO DE JÁVEA/XÀBIA)
-  - Description: El Premio de relatos cortos 'Relats de la Terra' busca fomentar la creatividad literaria y promover el uso de la lengua valenciana a partir de la celebración del Día de la Comunidad Valenciana.
-  - Requirements: Personas a partir de 16 años; Obras escritas en valenciano; Obras inéditas; No haber sido premiadas en otros concursos; No estar pendientes de resolución en otros certámenes; Participación individual; Un único relato por autor; No haber sido galardonado en otras ediciones durante dos años
-  - notion_id: 3d383f94-7b2c-815f-95d7-e8dbe2f1f3ff | Budget: 500 € | Reception: 20/08/2026 | Start: 20/08/2026 | End: 08/09/2026
 - [SUBVENCIÓN A LA UNIVERSIDAD DE ALICANTE: PROGRAMA CULTURAL PARANIMF DE ARTES ESCÉNICAS CURSO 2025/2026.](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/925902) (DIPUTACIÓN PROVINCIAL DE ALACANT/ALICANTE)
   - Description: Subvención destinada a la Universidad de Alicante para la realización del Programa Cultural Paranimf de Artes Escénicas durante el curso 2025-2026.
   - Requirements: Interesados cuya subvención esté consignada en el presupuesto vigente; Entidad beneficiaria: Universidad de Alicante
