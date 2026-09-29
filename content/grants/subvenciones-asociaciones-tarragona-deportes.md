@@ -1,10 +1,10 @@
 ---
 title: Ayudas para deportes en Tarragona para Asociaciones y ong
-description: "Recopilatorio de las 9 ayudas activas en Tarragona para Asociaciones y ong dentro del sector deportes, con presupuesto y plazos de solicitud."
+description: "Recopilatorio de las 6 ayudas activas en Tarragona para Asociaciones y ong dentro del sector deportes, con presupuesto y plazos de solicitud."
 region: Tarragona
 beneficiario: Asociaciones y ong
 tag_seo: deportes
-count: 9
+count: 6
 publication_date: 2026-08-27
 last_update_date: 2026-09-29
 slug: subvenciones-asociaciones-tarragona-deportes
@@ -12,7 +12,7 @@ slug: subvenciones-asociaciones-tarragona-deportes
 
 # Ayudas para deportes en Tarragona para Asociaciones y ong
 
-Ayudas activas (9):
+Ayudas activas (6):
 
 - [CONVENIO DE COLABORACIÓN ENTRE EL FUTBOL SALA MÓRA D'EBRE Y EL AYUNTAMIENTO DE MÓRA D'EBRE](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/922575)
   - Description: El conveni entre l'Ajuntament de Móra d'Ebre i el Club Futbol Sala Móra d'Ebre té com a objectiu fomentar l'esport del futbol sala a nivell local, organitzant competicions durant l'any 2026.
@@ -24,16 +24,6 @@ Ayudas activas (9):
   - Requirements: Ser una entidad registrada en el Registre d’Entitats de Móra d’Ebre; Estar al corriente de pagos con la Seguridad Social; No haber incurrido en exclusiones según la Ley 38/2003
   - Nominative Grant
   - notion_id: 3c983f94-7b2c-81c0-abcb-ed6491168ca6 | Budget: 6500 € | Reception: 30/07/2026
-- [CONVOCATORIA PARA LA CONCESIÓN DE SUBVENCIONES PARA EL FOMENTO DEL DEPORTE  QUE ORGANIZAN LAS ENTIDADES LOCALES DE MONT-ROIG DEL CAMP, PARA EL AÑO 2026](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/922961)
-  - Description: Sin datos disponibles sobre el objetivo o contenido de la subvención.
-  - notion_id: 3c983f94-7b2c-817f-bd62-f3554add275f | Budget: 35.000 € | Reception: 31/07/2026 | Start: 31/07/2026 | End: 04/09/2026
-- [CONVOCATORIA PARA LA CONCESIÓN DE SUBVENCIONES DESTINADAS A ENTIDADES DEPORTIVAS DEL MUNICIPIO DE ELS PALLARESOS PARA EL AÑO 2026](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/923443)
-  - Description: L'Ajuntament dels Pallaresos convoca subvencions per a entitats esportives sense ànim de lucre del municipi, amb l'objectiu de fomentar la pràctica esportiva i la inclusió a través d'activitats i competicions durant l'any 2026.
-  - Requirements: Estar legalment constituïdes i inscrites en el Registre d'entitats del municipi dels Pallaresos.; Tenir el domicili social o desenvolupar la seva activitat principal al municipi dels Pallaresos.; Estar al corrent de les obligacions amb la Hisenda Pública i la Seguretat Social.; No ser deutores per cap concepte amb l'Ajuntament dels Pallaresos.; No incórrer en prohibicions establertes a l'article 13 de la Llei 38/2003.
-  - notion_id: 3c983f94-7b2c-8134-98c2-cd6c16aa0d94 | Budget: 10.000 € | Reception: 04/08/2026 | Start: 15/08/2026 | End: 20/09/2026
-- [CONVOCATORIA PARA LA CONCESIÓN DE SUBVENCIONES PARA FOMENTAR Y DAR APOYO A LA PRÁCTICA DE LA ACTIVIDAD FÍSICA Y EL DEPORTE EN EL MUNICIPIO PARA EL AÑO 2025.](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/924616)
-  - Description: Sin información disponible sobre el objetivo o la financiación de la beca.
-  - notion_id: 3c983f94-7b2c-8157-8a7b-c27393755596 | Budget: 35.000 € | Reception: 11/08/2026 | Start: 12/08/2026 | End: 08/09/2026
 - [SUBVENCIÓN NOMINATIVA COMUNITAT DE REGANTS "LA SÈQUIA DE PUIGDELFÍ" 2026](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/925393)
   - Description: Subvenciones nominativas aprobadas en el presupuesto general del ejercicio 2026 para diversas asociaciones y clubes de Perafort, incluyendo actividades deportivas, culturales y juveniles.
   - Nominative Grant
