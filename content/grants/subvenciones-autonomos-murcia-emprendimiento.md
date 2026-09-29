@@ -6,7 +6,7 @@ beneficiario: Pyme y autónomos
 tag_seo: emprendimiento
 count: 3
 publication_date: 2026-09-25
-last_update_date: 2026-09-28
+last_update_date: 2026-09-29
 slug: subvenciones-autonomos-murcia-emprendimiento
 ---
 
@@ -17,12 +17,12 @@ Ayudas activas (3):
 - [CONVENIO DE COLABORACIÓN ENTRE EL INSTITUTO DE FOMENTO DE LA REGIÓN DE MURCIA Y LA CONFEDERACIÓN COMARCAL DE ORGANIZACIONES EMPRESARIALES DE CARTAGENA LORCA (CECLOR) EDICIONES 2026-27. PROGRAMA IMPULSA.](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/909208) (INSTITUTO DE FOMENTO DE LA REGIÓN DE MURCIA (INFO))
   - Description: El programa INFO - CECLOR tiene como objetivo favorecer la creación de riqueza y empleo en la Región de Murcia, apoyando a emprendedores con iniciativas empresariales innovadoras y diferenciadoras para establecer y consolidar PYMES.
   - Nominative Grant
-  - Budget: 72.000 € | Reception: 29/05/2026
+  - notion_id: 3e583f94-7b2c-813f-83d7-c7d21adcffbf | Budget: 72.000 € | Reception: 29/05/2026
 - [CONVENIO DE COLABORACIÓN ENTRE EL INSTITUTO DE FOMENTO DE LA REGIÓN DE MURCIA Y LA UNIVERSIDAD DE MURCIA. PROGRAMA DE EMPRENDIMIENTO 2026.](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/909223) (INSTITUTO DE FOMENTO DE LA REGIÓN DE MURCIA (INFO))
   - Description: El programa de Emprendimiento de la Universidad de Murcia busca promover la creación de riqueza y empleo en la región, especialmente apoyando a pequeñas y medianas empresas (PYME) y emprendedores mediante acciones de desarrollo y consolidación de iniciativas empresariales innovadoras.
   - Nominative Grant
-  - Budget: 40.000 € | Reception: 29/05/2026
+  - notion_id: 3e583f94-7b2c-81ef-af9d-f85b8daf50e9 | Budget: 40.000 € | Reception: 29/05/2026
 - [CONVENIO DE COLABORACIÓN ENTRE EL INSTITUTO DE FOMENTO DE LA REGIÓN DE MURCIA Y LA FUNDACIÓN UNIVERSITARIA SAN ANTONIO. PROGRAMA DE EMPRENDIMIENTO 2026.](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/909242) (INSTITUTO DE FOMENTO DE LA REGIÓN DE MURCIA (INFO))
   - Description: El programa de emprendimiento de la Universidad Católica San Antonio de Murcia tiene como objetivo fomentar la creación de riqueza y empleo, así como el desarrollo económico regional, especialmente mediante el apoyo a emprendedores y pequeñas y medianas empresas (PYME).
   - Nominative Grant
-  - Budget: 40.000 € | Reception: 29/05/2026
+  - notion_id: 3e583f94-7b2c-8172-8c29-dc6dbf287d61 | Budget: 40.000 € | Reception: 29/05/2026
