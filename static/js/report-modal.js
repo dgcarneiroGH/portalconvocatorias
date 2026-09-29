@@ -119,10 +119,10 @@
     submitBtn.addEventListener('click', () => {
         const selected = overlay.querySelector('input[name="report-reason"]:checked');
         if (!selected) return;
-        const motivo = selected.value === 'Otros' && otherText
+        const reason = selected.value === 'Otros' && otherText
             ? otherText.value.trim()
             : selected.value;
-        if (motivo === '') return;
+        if (reason === '') return;
         submitBtn.disabled = true;
         submitLabel.textContent = 'Enviando…';
         statusEl.hidden = true;
@@ -131,9 +131,9 @@
             method: 'POST',
             headers: { 'Content-Type': 'application/json' },
             body: JSON.stringify({
-                subvencionId: grantId,
-                nombreSubvencion: grantTitle,
-                motivoReporte: motivo
+                grantId,
+                grantTitle,
+                reason
             })
         }).then(response => {
             if (!response.ok) throw new Error('HTTP ' + response.status);
