@@ -6,7 +6,7 @@ beneficiario: Asociaciones y ong
 tag_seo: deportes
 count: 6
 publication_date: 2026-08-27
-last_update_date: 2026-09-29
+last_update_date: 2026-09-30
 slug: subvenciones-asociaciones-tarragona-deportes
 ---
 
