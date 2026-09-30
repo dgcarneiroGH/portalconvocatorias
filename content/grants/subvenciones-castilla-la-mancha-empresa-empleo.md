@@ -5,8 +5,8 @@ region: Castilla la mancha
 beneficiario: Empresa
 tag_seo: empleo
 count: 8
-publication_date: 2026-09-29
-last_update_date: 2026-09-29
+publication_date: 2026-09-30
+last_update_date: 2026-09-30
 slug: subvenciones-castilla-la-mancha-empresa-empleo
 ---
 
