@@ -6,7 +6,7 @@ beneficiario: Pyme y autónomos
 tag_seo: empleo
 count: 5
 publication_date: 2026-09-24
-last_update_date: 2026-09-29
+last_update_date: 2026-09-30
 slug: subvenciones-autonomos-murcia-empleo
 ---
 
