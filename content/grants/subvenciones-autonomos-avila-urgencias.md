@@ -5,8 +5,8 @@ region: Ávila
 beneficiario: Pyme y autónomos
 tag_seo: urgencias
 count: 11
-publication_date: 2026-09-29T16:17:31.348Z
-last_update_date: 2026-09-29
+publication_date: 2026-09-29
+last_update_date: 2026-09-30
 slug: subvenciones-autonomos-avila-urgencias
 ---
 
