@@ -6,7 +6,7 @@ beneficiario: Particulares
 tag_seo: comercio
 count: 4
 publication_date: 2026-09-06
-last_update_date: 2026-09-29
+last_update_date: 2026-09-30
 slug: subvenciones-alicante-particulares-comercio
 ---
 
