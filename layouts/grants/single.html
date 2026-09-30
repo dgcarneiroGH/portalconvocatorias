@@ -11,6 +11,7 @@
 
         {{- $grants := partial "grants-parse.html" . -}}
         {{- $hasNominative := gt (len (where $grants "nominative" true)) 0 -}}
+        {{- $reportEnabled := $.Site.Params.reportWebhookUrl -}}
 
         <header class="grant-page-header">
             <h1 class="grant-page-title">{{ .Title }}</h1>
@@ -93,8 +94,18 @@
                 </div>
                 {{ end }}
 
-                <a class="grant-detail-cta" href="{{ .url }}" target="_blank" rel="noopener">Acceder a la convocatoria
-                    oficial</a>
+                {{ $identifier := .notion_id }}
+
+                <div class="grant-detail-footer">
+                    <a class="grant-detail-cta" href="{{ .url }}" target="_blank" rel="noopener">Acceder a la convocatoria
+                        oficial</a>
+                    {{- if and $reportEnabled $identifier }}
+                    <button type="button" class="grant-detail-report" data-grant-id="{{ $identifier }}"
+                        data-grant-title="{{ .title }}">
+                        {{ partial "icon.html" "flag" }} Reportar etiqueta incorrecta
+                    </button>
+                    {{- end }}
+                </div>
             </article>
 
             {{ end }}
@@ -158,6 +169,59 @@
     </main>
 </div>
 
+{{- if $reportEnabled }}
+<div class="report-overlay" id="report-overlay" hidden data-webhook-url="{{ $reportEnabled }}">
+    <div class="report-modal" role="dialog" aria-modal="true" aria-labelledby="report-modal-title">
+        <button type="button" class="report-modal-close" id="report-close" aria-label="Cerrar">
+            {{ partial "icon.html" "close" }}
+        </button>
+        <h2 class="report-modal-title" id="report-modal-title">Indícanos cual es el error</h2>
+        <fieldset class="report-options">
+            <legend class="report-options-legend">Motivo del reporte</legend>
+            <label class="report-option">
+                <input class="report-option-input" type="radio" name="report-reason" value="Tag erróneo">
+                <span class="report-option-icon">{{ partial "icon.html" "label_off" }}</span>
+                <span class="report-option-text">Subvención etiquetada incorrectamente</span>
+                <span class="report-option-radio" aria-hidden="true"></span>
+            </label>
+            <label class="report-option" data-reason-nominative>
+                <input class="report-option-input" type="radio" name="report-reason" value="No es nominativa">
+                <span class="report-option-icon">{{ partial "icon.html" "balance" }}</span>
+                <span class="report-option-text">Subvención incorrectamente etiquetada como nominativa / no
+                    nominativa</span>
+                <span class="report-option-radio" aria-hidden="true"></span>
+            </label>
+            <label class="report-option">
+                <input class="report-option-input" type="radio" name="report-reason" value="Región incorrecta">
+                <span class="report-option-icon">{{ partial "icon.html" "location_off" }}</span>
+                <span class="report-option-text">Región incorrecta</span>
+                <span class="report-option-radio" aria-hidden="true"></span>
+            </label>
+            <div class="report-option report-option-otros">
+                <label class="report-option-row" for="report-reason-other">
+                    <input class="report-option-input" type="radio" name="report-reason" id="report-reason-other"
+                        value="Otros">
+                    <span class="report-option-icon">{{ partial "icon.html" "edit" }}</span>
+                    <span class="report-option-text">Otros</span>
+                    <span class="report-option-radio" aria-hidden="true"></span>
+                </label>
+                <textarea class="report-option-textarea" id="report-other-text" rows="3" maxlength="500" disabled
+                    placeholder="Describe brevemente el problema detectado..." aria-label="Describe brevemente el problema detectado"></textarea>
+            </div>
+        </fieldset>
+        <p class="report-status" id="report-status" role="status" hidden></p>
+        <div class="report-modal-footer">
+            <button type="button" class="report-cancel" id="report-cancel">Cancelar</button>
+            <button type="button" class="report-submit" id="report-submit" disabled>
+                <span id="report-submit-label">Enviar reporte</span>
+                {{ partial "icon.html" "send" }}
+            </button>
+        </div>
+    </div>
+</div>
+<script src="/js/report-modal.js" defer></script>
+{{- end }}
+
 {{- /*
   Schema JSON-LD para grant pages.
   Incluye: Article + ItemList of Grant + BreadcrumbList + SpeakableSpecification.
@@ -170,10 +234,7 @@
 
 {{- $grantItems := slice -}}
 {{- range $i, $g := $grants -}}
-    {{- $identifier := "" -}}
-    {{- if findRE `convocatoria/(\d+)` $g.url -}}
-        {{- $identifier = replaceRE `.*convocatoria/(\d+).*` "$1" $g.url -}}
-    {{- end -}}
+    {{- $identifier := $g.notion_id -}}
     {{- $grantItem := dict
         "@type" "Grant"
         "name" $g.title
