@@ -5,8 +5,8 @@ region: Galicia
 beneficiario: Empresa
 tag_seo: investigacion_y_ciencia
 count: 1
-publication_date: 2026-09-29
-last_update_date: 2026-09-29
+publication_date: 2026-09-30
+last_update_date: 2026-09-30
 slug: subvenciones-empresa-galicia-investigacion_y_ciencia
 ---
 
@@ -14,6 +14,6 @@ slug: subvenciones-empresa-galicia-investigacion_y_ciencia
 
 Ayudas activas (1):
 
-- [BASES REGULADORAS AUTOMOCIÓN 2026, COFINANCIADAS FEDER, CONCURRENCIA NO COMPETITIVA, LÍNEA 1](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/919838)
+- [BASES REGULADORAS AUTOMOCIÓN 2026, COFINANCIADAS FEDER, CONCURRENCIA NO COMPETITIVA, LÍNEA 1](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/919838) (INSTITUTO GALLEGO DE PROMOCIÓN ECONÓMICA (IGAPE))
   - Description: Esta subvención tiene como objetivo impulsar y reforzar la transición hacia la cadena de valor del vehículo eléctrico y la descarbonización del sector de automoción en Galicia mediante el desarrollo e innovación de proyectos.
-  - notion_id: 3a883f94-7b2c-811b-9118-c6df4f327dd4 | Budget: 45.000.000 € | Reception: 16/07/2026 | Start: 29/07/2026 | End: 30/09/2026
+  - notion_id: 3a883f94-7b2c-811b-9118-c6df4f327dd4 | Budget: 15.000.000 € | Reception: 16/07/2026 | Start: 29/07/2026 | End: 30/09/2026
