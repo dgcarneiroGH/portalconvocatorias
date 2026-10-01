@@ -6,7 +6,7 @@ beneficiario: Pyme y autónomos
 tag_seo: cultura
 count: 6
 publication_date: 2026-09-21
-last_update_date: 2026-09-30
+last_update_date: 2026-10-01
 slug: subvenciones-almeria-autonomos-cultura
 ---
 
