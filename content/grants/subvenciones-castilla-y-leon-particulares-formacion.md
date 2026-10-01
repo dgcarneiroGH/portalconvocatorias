@@ -5,8 +5,8 @@ region: Castilla y león
 beneficiario: Particulares
 tag_seo: formacion
 count: 1
-publication_date: 2026-09-30
-last_update_date: 2026-09-30
+publication_date: 2026-10-01
+last_update_date: 2026-10-01
 slug: subvenciones-castilla-y-leon-particulares-formacion
 ---
 
