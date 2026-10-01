@@ -1,18 +1,18 @@
 ---
 title: Ayudas para educacion y becas en Comunidad valenciana para Particulares
-description: "Recopilatorio de las 18 ayudas activas en Comunidad valenciana para Particulares dentro del sector educacion_y_becas, con presupuesto y plazos de solicitud."
+description: "Recopilatorio de las 17 ayudas activas en Comunidad valenciana para Particulares dentro del sector educacion_y_becas, con presupuesto y plazos de solicitud."
 region: Comunidad valenciana
 beneficiario: Particulares
 tag_seo: educacion_y_becas
-count: 18
+count: 17
 publication_date: 2026-09-22
-last_update_date: 2026-09-30
+last_update_date: 2026-10-01
 slug: subvenciones-comunidad-valenciana-particulares-educacion_y_becas
 ---
 
 # Ayudas para educacion_y_becas en Comunidad valenciana para Particulares
 
-Ayudas activas (18):
+Ayudas activas (17):
 
 - [BECAS INTRAMURALES DE INICIACIÓN A LA INVESTIGACIÓN PARA ESTUDIANTADO DE MÁSTERES OFICIALES Y DE GRADOS CON NIVEL MECES3, PARA EL CURSO 2026-2027](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/922732) (UNIVERSIDAD JAUME I DE CASTELLÓN)
   - Description: El objetivo de estas becas es promover la iniciación en tareas de investigación del estudiantado matriculado en másteres oficiales o en el último curso de grados con nivel MECES3, específicamente en la Universitat Jaume I, durante el curso académico 2026-2027.
@@ -78,7 +78,3 @@ Ayudas activas (18):
   - Description: Estas ayudas financian los gastos relacionados con la participación del estudiantado de grado y máster en jornadas, cursos, seminarios y congresos durante el curso académico 2025/26.
   - Requirements: Estar matriculado en la Universitat Jaume I; Ser estudiante de grado o máster; Aplicar durante el curso 2025-2026
   - notion_id: 3e383f94-7b2c-8134-9caa-fd2b116198b2 | Budget: 18.000 € | Reception: 08/09/2026
-- [CONVOCATORIA DE AYUDAS DE IDIOMAS DEL CDL 2025/26 UFASU](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/929009) (UNIVERSITAT POLITÈCNICA DE VALÈNCIA)
-  - Description: La convocatoria tiene como objetivo conceder ayudas económicas a personal de administración, servicios e investigación de la Universitat Politècnica de València para financiar los costes de matrícula de cursos de idiomas extranjeros.
-  - Requirements: Personal de administración y servicios de la UPV; Personal de investigación de la UPV; Estar en activo durante la formación; Tener un periodo de carencia de prestación de servicios de doce meses en la UPV
-  - notion_id: 3e383f94-7b2c-818d-a5f2-ca61525478d5 | Budget: 10.000 € | Reception: 11/09/2026 | Start: 15/09/2026 | End: 29/09/2026
