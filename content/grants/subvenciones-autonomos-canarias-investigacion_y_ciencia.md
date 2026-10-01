@@ -5,8 +5,8 @@ region: Canarias
 beneficiario: Pyme y autónomos
 tag_seo: investigacion_y_ciencia
 count: 6
-publication_date: 2026-09-30
-last_update_date: 2026-09-30
+publication_date: 2026-10-01
+last_update_date: 2026-10-01
 slug: subvenciones-autonomos-canarias-investigacion_y_ciencia
 ---
 
