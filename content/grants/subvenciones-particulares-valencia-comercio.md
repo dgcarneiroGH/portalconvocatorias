@@ -6,7 +6,7 @@ beneficiario: Particulares
 tag_seo: comercio
 count: 1
 publication_date: 2026-09-02
-last_update_date: 2026-09-30
+last_update_date: 2026-10-01
 slug: subvenciones-particulares-valencia-comercio
 ---
 
