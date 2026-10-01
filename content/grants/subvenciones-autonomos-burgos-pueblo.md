@@ -1,23 +1,19 @@
 ---
 title: Ayudas para pueblo en Burgos para Pyme y autónomos
-description: "Recopilatorio de las 4 ayudas activas en Burgos para Pyme y autónomos dentro del sector pueblo, con presupuesto y plazos de solicitud."
+description: "Recopilatorio de las 3 ayudas activas en Burgos para Pyme y autónomos dentro del sector pueblo, con presupuesto y plazos de solicitud."
 region: Burgos
 beneficiario: Pyme y autónomos
 tag_seo: pueblo
-count: 4
+count: 3
 publication_date: 2026-09-25
-last_update_date: 2026-09-30
+last_update_date: 2026-10-01
 slug: subvenciones-autonomos-burgos-pueblo
 ---
 
 # Ayudas para pueblo en Burgos para Pyme y autónomos
 
-Ayudas activas (4):
+Ayudas activas (3):
 
-- [X CONVOCATORIA DE AYUDAS MUNICIPALES PARA LA REGENERACIÓN DEL CENTRO HISTÓRICO Y DE LA PLAZA DE ABASTOS DE MIRANDA DE EBRO](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/928304) (AYUNTAMIENTO DE MIRANDA DE EBRO)
-  - Description: Esta convocatoria de ayudas municipales está destinada a impulsar la creación y consolidación de iniciativas económicas en el Centro Histórico y la Plaza de Abastos de Miranda de Ebro, ofreciendo subvenciones a fondo perdido para mejorar infraestructuras comerciales y promover la apertura de nuevos comercios.
-  - Requirements: Autónomos y PYMES minoristas; Domicilio fiscal en Miranda de Ebro; Actuaciones realizadas en 2026; Ubicación en el Centro Histórico o la Plaza de Abastos
-  - notion_id: 3df83f94-7b2c-8139-8d70-f232b858bbed | Budget: 15.000 € | Reception: 08/09/2026 | Start: 09/09/2026 | End: 29/09/2026
 - [CONVOCATORIA PARA LA CONCESIÓN DE AYUDAS DESTINADAS A FACILITAR EL ACCESO A INTERNET, TELEFONÍA Y MÓVIL, EN VALLE DE VALDELUCIO (BURGOS), AÑO 2025.](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/808991) (AYUNTAMIENTO DE VALLE DE VALDELUCIO)
   - Description: Este programa tiene como objetivo promover el acceso a internet, telefonía y servicios móviles en Valle de Valdelucio, facilitando el uso eficiente y sostenible de las tecnologías de la información y comunicación para los ciudadanos del municipio.
   - Requirements: Personas físicas mayores de edad; Personas jurídicas privadas con sede social en el municipio
