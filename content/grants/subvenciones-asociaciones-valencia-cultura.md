@@ -5,8 +5,8 @@ region: Valencia
 beneficiario: Asociaciones y ong
 tag_seo: cultura
 count: 17
-publication_date: 2026-09-30T10:01:08.114Z
-last_update_date: 2026-09-30
+publication_date: 2026-09-30
+last_update_date: 2026-10-01
 slug: subvenciones-asociaciones-valencia-cultura
 ---
 
