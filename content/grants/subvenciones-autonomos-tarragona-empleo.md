@@ -1,18 +1,18 @@
 ---
 title: Ayudas para empleo en Tarragona para Pyme y autónomos
-description: "Recopilatorio de las 5 ayudas activas en Tarragona para Pyme y autónomos dentro del sector empleo, con presupuesto y plazos de solicitud."
+description: "Recopilatorio de las 4 ayudas activas en Tarragona para Pyme y autónomos dentro del sector empleo, con presupuesto y plazos de solicitud."
 region: Tarragona
 beneficiario: Pyme y autónomos
 tag_seo: empleo
-count: 5
-publication_date: 2026-10-01
-last_update_date: 2026-10-01
+count: 4
+publication_date: 2026-10-02
+last_update_date: 2026-10-02
 slug: subvenciones-autonomos-tarragona-empleo
 ---
 
 # Ayudas para empleo en Tarragona para Pyme y autónomos
 
-Ayudas activas (5):
+Ayudas activas (4):
 
 - [CONCESIÓN DE SUBVENCIONES DESTINADAS A LAS EMPRESAS Y NUEVOS EMPRENDEDORES PARA LA PROMOCIÓN DEL EMPLEO EN EL MUNICIPIO DE LA CANONJA](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/887340)
   - Description: Convocatoria de subvenciones para fomentar la creación de empleo y apoyar a nuevos emprendedores en el municipio de la Canonja, con el objetivo de incentivar la contratación de trabajadores empadronados y facilitar la creación de nuevas empresas.
@@ -26,10 +26,6 @@ Ayudas activas (5):
   - Description: La convocatoria tiene como objetivo fomentar el empleo mediante ayudas económicas para la contratación de personas desempleadas de 45 a 60 años que hayan participado en el Programa Talento 45+. Busca reducir el impacto del desempleo en este colectivo, especialmente tras la crisis provocada por la pandemia de COVID-19.
   - Requirements: Empresas que contraten a personas desempleadas entre 45 y 60 años.; Las personas contratadas deben haber finalizado la fase de orientación del Programa Talento 45+.; El centro de trabajo debe estar en la demarcación de la Cámara de Comercio de Tarragona.; No haber tenido relación laboral con el beneficiario en los seis meses anteriores a la contratación.
   - notion_id: 3a183f94-7b2c-812c-b222-ed7f8cc61f5c | Budget: 5000 € | Reception: 16/04/2026 | Start: 22/04/2026 | End: 31/12/2026
-- [CONVOCATORIA PARA EL OTORGAMIENTO DE SUBVENCIONES A LA CONTRATACIÓN (2026)](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/912086)
-  - Description: El objetivo principal de esta subvención es financiar la contratación de personas desempleadas en el municipio de Vandellòs y l'Hospitalet de l'Infant durante el periodo del 1 de octubre de 2025 al 30 de septiembre de 2026.
-  - Requirements: Empreses del municipi de Vandellòs i l'Hospitalet de l'Infant.; Contractació de treballadors aturats.; Compliment de les obligacions tributàries i amb la Seguretat Social.; Acreditar la situació de col·lectius vulnerables per a bonificacions addicionals.
-  - notion_id: 3a183f94-7b2c-8159-aa23-ebeded8f72d5 | Budget: 10.000 € | Reception: 10/06/2026 | Start: 11/06/2026 | End: 30/09/2026
 - [CONVOCATORIA PARA LA CONCESIÓN DE INCENTIVOS A LAS EMPRESAS Y NUEVOS EMPRENDEDORES PARA LA PROMOCIÓN DEL EMPLEO, AÑO 2026.](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/916493)
   - Description: Este programa tiene como objetivo incentivar la creación de puestos de trabajo en el municipio de Constantí mediante ayudas para la contratación de personas desempleadas y el apoyo a nuevos emprendedores en el establecimiento de empresas.
   - Requirements: Personas que contraten a desempleados empadronados en Constantí por un mínimo de 6 meses.; Nuevos emprendedores con actividad iniciada durante el ejercicio de la convocatoria.
