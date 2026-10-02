@@ -1,31 +1,23 @@
 ---
 title: Ayudas para empleo en Ciudad autonoma de ceuta para Pyme y autónomos
-description: "Recopilatorio de las 6 ayudas activas en Ciudad autonoma de ceuta para Pyme y autónomos dentro del sector empleo, con presupuesto y plazos de solicitud."
+description: "Recopilatorio de las 4 ayudas activas en Ciudad autonoma de ceuta para Pyme y autónomos dentro del sector empleo, con presupuesto y plazos de solicitud."
 region: Ciudad autonoma de ceuta
 beneficiario: Pyme y autónomos
 tag_seo: empleo
-count: 6
+count: 4
 publication_date: 2026-08-30
-last_update_date: 2026-10-01
+last_update_date: 2026-10-02
 slug: subvenciones-autonomos-ciudad-autonoma-de-ceuta-empleo
 ---
 
 # Ayudas para empleo en Ciudad autonoma de ceuta para Pyme y autónomos
 
-Ayudas activas (6):
+Ayudas activas (4):
 
-- [QUINTA CONVOCATORIA DE LAS AYUDAS PARA CONTRATACIÓN INDEFINIDA DE PERSONAS DESEMPLEADAS, EN EL MARCO DEL PROGRAMA FSE + PARA CEUTA, PERÍODO 2021-2027, PRIORIDAD 1, OBJETIVO ESPECÍFICO ESO4.1, MEDIDA1.A.03.](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/897643)
-  - Description: La subvención tiene como objetivo fomentar la contratación indefinida de personas desempleadas en situacion de dificultad, apoyadas por el programa FSE + en Ceuta para el periodo 2021-2027, con un enfoque en grupos específicos como personas desempleadas de larga duración y mujeres en situaciones vulnerables.
-  - Requirements: Estar inscrito como demandante de empleo en el Servicio Público de Empleo de Ceuta; Pertenecer a grupos específicos como personas desempleadas de larga duración, mayores de 45 años, menores de 30 años o mujeres con hijos menores de 4 años; No haber destruido empleo fijo en los seis meses anteriores a la solicitud; Las contrataciones deben llevarse a cabo tras la presentación de la solicitud
-  - notion_id: 3cc83f94-7b2c-810d-932f-ca3531d0f3b4 | Budget: 200.000 € | Reception: 08/04/2026 | Start: 01/06/2026 | End: 30/09/2026
 - [SEXTA CONVOCATORIA DE LAS AYUDAS PARA CONTRATACIÓN INDEFINIDA DE PERSONAS DESEMPLEADAS, EN EL MARCO DEL PROGRAMA FSE + PARA CEUTA, PERÍODO 2021-2027, PRIORIDAD 1, OBJETIVO ESPECÍFICO ESO4.1, MEDIDA1.A.03.](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/897648) (PROCESA SOCIEDAD DE DESARROLLO DE CEUTA)
   - Description: Ayudas para fomentar la contratación indefinida de personas desempleadas en Ceuta, especialmente para aquellos grupos con dificultades de inserción laboral, en el marco del programa FSE+ para el período 2021-2027.
   - Requirements: Estar inscrito como demandante de empleo en el Servicio Público de Empleo de Ceuta.; Ser desempleado de larga duración, mayor de 45 años, menor de 30 años, mujer con hijos menores de 4 años, o víctima de violencia de género.; No haber tenido relación laboral previa con el empleador en los 3 meses anteriores a la solicitud.; Las contrataciones deben suponer un incremento de la plantilla media.; Estar al corriente de obligaciones tributarias y con la Seguridad Social.; Localizado en Ceuta.; No podrá haber destruido empleo fijo en los 6 meses anteriores a la solicitud.
   - notion_id: 3cc83f94-7b2c-813b-a7d7-c8fa47a01b14 | Budget: 200.000 € | Reception: 08/04/2026 | Start: 01/10/2026 | End: 30/12/2026
-- [CUARTA CONV DE LAS AYUDAS PARA CONTRATACIÓN INDEFINIDA DE PERSONAS DESEMPLEADAS, EN EL MARCO DEL PROGRAMA FSE + PARA CEUTA, PERÍODO 2021-2027, PRIORIDAD 5, OBJETIVO ESPECÍFICO ESO4.1, MEDIDA5.A.02.JÓVENES INSCRITOS EN EL SISTEMA NACIONAL DE GARANTÍA JUV.](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/897655)
-  - Description: Ayudas para la contratación indefinida de personas desempleadas en Ceuta, dirigidas principalmente a jóvenes inscritos en el Sistema Nacional de Garantía Juvenil, con el objetivo de facilitar su inserción laboral.
-  - Requirements: Dirigido a jóvenes desempleados inscritos en el Sistema Nacional de Garantía Juvenil; Las empresas deben estar localizadas en Ceuta; No haber destruido empleo fijo en los 6 meses anteriores a la solicitud; Incremento neto de la plantilla media de trabajadores en la empresa respecto a los 6 meses anteriores; Presentación del formulario normalizado de solicitud; Hallarse al corriente de las obligaciones tributarias y de seguridad social; No haber tenido relación laboral previa con el empleador en los 3 meses anteriores; Exclusión de contratos fijos discontinuos y formativos
-  - notion_id: 3cc83f94-7b2c-8141-a5e1-d55b1b1e6efb | Budget: 100.000 € | Reception: 08/04/2026 | Start: 01/06/2026 | End: 30/09/2026
 - [QUINTA CONVOCATORIA DE LAS AYUDAS PARA CONTRATACIÓN INDEFINIDA DE PERSONAS DESEMPLEADAS, EN EL MARCO DEL PROGRAMA FSE + PARA CEUTA, PERÍODO 2021-2027, PRIORIDAD 5, OBJETIVO ESPECÍFICO ESO4.1, MEDIDA5.A.02. INSCRITAS EN EL SISTEMA DE GARANTIA JUVENIL](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/897658) (PROCESA SOCIEDAD DE DESARROLLO DE CEUTA)
   - Description: La ayuda financia la contratación indefinida de jóvenes desempleados en Ceuta, inscritos en el Sistema Nacional de Garantía Juvenil, con el objetivo de fomentar su inserción laboral a través de subvenciones cofinanciadas por el Fondo Social Europeo Plus.
   - Requirements: Jóvenes desempleados inscritos en el Sistema Nacional de Garantía Juvenil; Localización de la empresa en Ceuta; No haber destruido empleo fijo en los 6 meses anteriores a la contratación; Incremento de la plantilla media de trabajadores en la empresa respecto a la existente en los 6 meses anteriores a la contratación; No haber tenido relación laboral previa con el empleador en los 3 meses anteriores a la solicitud; Las contrataciones deben ser por tiempo indefinido; Las empresas no pueden ser servicios públicos con carácter de exclusividad
