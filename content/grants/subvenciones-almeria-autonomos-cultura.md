@@ -1,23 +1,19 @@
 ---
 title: Ayudas para cultura en Almería para Pyme y autónomos
-description: "Recopilatorio de las 6 ayudas activas en Almería para Pyme y autónomos dentro del sector cultura, con presupuesto y plazos de solicitud."
+description: "Recopilatorio de las 5 ayudas activas en Almería para Pyme y autónomos dentro del sector cultura, con presupuesto y plazos de solicitud."
 region: Almería
 beneficiario: Pyme y autónomos
 tag_seo: cultura
-count: 6
+count: 5
 publication_date: 2026-09-21
-last_update_date: 2026-10-01
+last_update_date: 2026-10-02
 slug: subvenciones-almeria-autonomos-cultura
 ---
 
 # Ayudas para cultura en Almería para Pyme y autónomos
 
-Ayudas activas (6):
+Ayudas activas (5):
 
-- [IX CONCURSO PINTURA SIGLO DE ORO](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/898214) (AYUNTAMIENTO DE ROQUETAS DE MAR)
-  - Description: El IX Concurso de Dibujo y Pintura del Siglo de Oro tiene como objetivo fomentar las artes plásticas entre los jóvenes alumnos de los I.E.S. del municipio y la provincia, centrando su temática en la indumentaria del Siglo de Oro español.
-  - Requirements: Jóvenes alumnos de I.E.S.; Ubicación en el municipio y provincia de Roquetas de Mar
-  - notion_id: 3e983f94-7b2c-811a-93af-ee262203ad3a | Budget: 900 € | Reception: 13/04/2026 | Start: 20/04/2026 | End: 30/09/2026
 - [XX CONCURSO PINTURA JUAN IBAÑEZ 226](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/930873) (AYUNTAMIENTO DE ROQUETAS DE MAR)
   - Description: No hay información disponible sobre la convocatoria.
   - notion_id: 3e983f94-7b2c-81af-891a-ce7147b7f06a | Budget: 4500 € | Reception: 22/09/2026 | Start: 23/09/2026 | End: 01/12/2026
