@@ -1,23 +1,19 @@
 ---
 title: Ayudas para emprendimiento en Málaga para Pyme y autónomos
-description: "Recopilatorio de las 7 ayudas activas en Málaga para Pyme y autónomos dentro del sector emprendimiento, con presupuesto y plazos de solicitud."
+description: "Recopilatorio de las 6 ayudas activas en Málaga para Pyme y autónomos dentro del sector emprendimiento, con presupuesto y plazos de solicitud."
 region: Málaga
 beneficiario: Pyme y autónomos
 tag_seo: emprendimiento
-count: 7
-publication_date: 2026-09-11
-last_update_date: 2026-10-01
+count: 6
+publication_date: 2026-10-02
+last_update_date: 2026-10-02
 slug: subvenciones-autonomos-malaga-emprendimiento
 ---
 
 # Ayudas para emprendimiento en Málaga para Pyme y autónomos
 
-Ayudas activas (7):
+Ayudas activas (6):
 
-- [RESOLUCIÓN DE PRESIDENCIA 2026/5559 DE 28 DE JULIO, REFERENTE A APROBACIÓN DE CONVOCATORIA DE CONCESIÓN DEL III PREMIO ACELERACIÓN Y CONSOLIDACIÓN DE IDEAS INNOVADORAS DE EMPRENDIMIENTO. ANUALIDAD 2026](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/922069) (DIPUTACIÓN PROVINCIAL DE MÁLAGA)
-  - Description: La convocatoria regula la concesión del III Premio Aceleración y Consolidación de Ideas Innovadoras de emprendimiento en Málaga, buscando promover y apoyar a empresas y emprendedores con ideas innovadoras que impacten positivamente en el empleo en municipios menores de 20.000 habitantes.
-  - Requirements: Personas autónomas, profesionales, emprendedoras y empresas que desarrollen ideas innovadoras.; Residencia o domicilio social en municipios de Málaga con población inferior a 20.000 habitantes.; No estar incursos en causas de prohibición de la Ley General de Subvenciones.; Alta y desarrollo de actividad económica desde el 1 de enero de 2025 (Premio Aceleración) o desde el 1 de enero de 2023 (Premio Consolidación).
-  - notion_id: 3d883f94-7b2c-8153-b328-c906ab1314a3 | Budget: 9000 € | Reception: 28/07/2026 | Start: 02/09/2026 | End: 30/09/2026
 - [SUBVENCION NOMINATIVA AMUPEMA 2026](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/897195)
   - Description: La subvención tiene como objetivo financiar jornadas de apoyo al tejido empresarial femenino, promoviendo la actividad de la Asociación de Mujeres Profesionales y Empresarias de Málaga (AMUPEMA).
   - Requirements: La solicitante debe ser la Asociación de Mujeres Profesionales y Empresarias de Málaga (AMUPEMA).; No se especifican limitaciones de edad o ubicación.
