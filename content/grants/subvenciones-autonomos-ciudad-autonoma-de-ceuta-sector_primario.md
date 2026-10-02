@@ -5,8 +5,8 @@ region: Ciudad autonoma de ceuta
 beneficiario: Pyme y autónomos
 tag_seo: sector_primario
 count: 6
-publication_date: 2026-10-01T10:02:16.526Z
-last_update_date: 2026-10-01
+publication_date: 2026-10-01
+last_update_date: 2026-10-02
 slug: subvenciones-autonomos-ciudad-autonoma-de-ceuta-sector_primario
 ---
 
