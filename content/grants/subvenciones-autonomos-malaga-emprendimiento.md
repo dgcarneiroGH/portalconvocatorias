@@ -1,18 +1,18 @@
 ---
 title: Ayudas para emprendimiento en Málaga para Pyme y autónomos
-description: "Recopilatorio de las 6 ayudas activas en Málaga para Pyme y autónomos dentro del sector emprendimiento, con presupuesto y plazos de solicitud."
+description: "Recopilatorio de las 5 ayudas activas en Málaga para Pyme y autónomos dentro del sector emprendimiento, con presupuesto y plazos de solicitud."
 region: Málaga
 beneficiario: Pyme y autónomos
 tag_seo: emprendimiento
-count: 6
-publication_date: 2026-10-02
-last_update_date: 2026-10-02
+count: 5
+publication_date: 2026-10-03
+last_update_date: 2026-10-03
 slug: subvenciones-autonomos-malaga-emprendimiento
 ---
 
 # Ayudas para emprendimiento en Málaga para Pyme y autónomos
 
-Ayudas activas (6):
+Ayudas activas (5):
 
 - [SUBVENCION NOMINATIVA AMUPEMA 2026](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/897195)
   - Description: La subvención tiene como objetivo financiar jornadas de apoyo al tejido empresarial femenino, promoviendo la actividad de la Asociación de Mujeres Profesionales y Empresarias de Málaga (AMUPEMA).
@@ -32,10 +32,6 @@ Ayudas activas (6):
   - Requirements: Los solicitantes deben ser personas trabajadoras autónomas; Los negocios deben tener menos de cinco años de antigüedad; El proyecto está dirigido a la provincia de Málaga
   - Nominative Grant
   - notion_id: 3b783f94-7b2c-8146-9b3b-cc598d9c6480 | Budget: 40.000 € | Reception: 18/06/2026
-- [BASES PARA LA CONVOCATORIA DE SUBVENCIONES EN RÉGIMEN DE CONCURRENCIA NO COMPETITIVA DESTINADAS AL FOMENTO DEL DESARROLLO EMPRESARIAL PARA JÓVENES EMPRENDEDORES](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/914697) (AYUNTAMIENTO DE ALHAURÍN EL GRANDE)
-  - Description: Este programa de subvenciones tiene como objetivo fomentar el desarrollo empresarial entre jóvenes emprendedores en Alhaurín el Grande, ofreciendo apoyo financiero para la creación de nuevos negocios.
-  - Requirements: Jóvenes menores de 35 años (hasta 40 en el sector primario); Empadronados en Alhaurín el Grande; Autónomos y microempresas de nueva creación
-  - notion_id: 3b783f94-7b2c-8120-bbdf-dc0feff68ea7 | Budget: 5000 € | Reception: 22/06/2026 | Start: 23/06/2026 | End: 01/10/2026
 - [RESOLUCIÓN DE PRESIDENCIA 2026/5210 DE 15 DE JULIO, REFERENTE A CONCESIÓN DE SUBVENCIÓN A LA FEDERACIÓN NACIONAL DE ASOCIACIONES DE EMPRESARIOS Y TRABAJADORES AUTÓNOMOS PARA EL PROYECTO "DA EL PASO: CLAVES PARA EL EMPRENDIMIENTO Y PLANIFICACIÓN". 2026](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/922024) (DIPUTACIÓN PROVINCIAL DE MÁLAGA)
   - Description: Apoyar el emprendimiento en los municipios de menos de 20,000 habitantes de la provincia de Málaga, facilitando la elaboración de planes de negocio y fomentando el desarrollo de nuevas actividades económicas.
   - Requirements: Municipios de menos de 20,000 habitantes en la provincia de Málaga; Representación por la Federación Nacional de Asociaciones de Empresarios y Trabajadores Autónomos–ATA
