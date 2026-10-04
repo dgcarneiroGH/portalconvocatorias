@@ -5,8 +5,8 @@ region: Toledo
 beneficiario: Particulares
 tag_seo: educacion_y_becas
 count: 4
-publication_date: 2026-10-03T10:01:09.071Z
-last_update_date: 2026-10-03
+publication_date: 2026-10-03
+last_update_date: 2026-10-04
 slug: subvenciones-particulares-toledo-educacion_y_becas
 ---
 
