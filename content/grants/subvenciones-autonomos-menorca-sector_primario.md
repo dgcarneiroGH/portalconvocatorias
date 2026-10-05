@@ -6,7 +6,7 @@ beneficiario: Pyme y autónomos
 tag_seo: sector_primario
 count: 4
 publication_date: 2026-09-28
-last_update_date: 2026-10-04
+last_update_date: 2026-10-05
 slug: subvenciones-autonomos-menorca-sector_primario
 ---
 
