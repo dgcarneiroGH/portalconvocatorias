@@ -5,8 +5,8 @@ region: Lleida
 beneficiario: Asociaciones y ong
 tag_seo: urgencias
 count: 19
-publication_date: 2026-10-05T10:01:04.791Z
-last_update_date: 2026-10-05
+publication_date: 2026-10-05
+last_update_date: 2026-10-06
 slug: subvenciones-asociaciones-lleida-urgencias
 ---
 
