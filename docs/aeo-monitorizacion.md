@@ -120,7 +120,10 @@ Las citaciones por IA requieren que el contenido sea **recuperable** primero. Se
    - **Impresiones sí, citación IA no** → eres recuperable pero no extraíble: candidato a mejorar respuesta rápida, FAQ y datos estructurados de esa página.
 4. Complemento: revisa en GSC las queries con impresiones crecientes del mes; ahí está el interés real que ya te detecta Google.
 
-### Paso 4 — Rollup automático (2 min)
+### Paso 4 — Workflow revisión de TAGs SEO (2 min)
+1. Corre el workflow `Review Tags` en N8N. Descarga primero el csv de Consultas desde GSC y sustituyelo en el Drive por el actual (carpeta 99_Temp).
+
+### Paso 5 — Rollup automático (IA)
 
 ```bash
 npm run aeo-summary
@@ -128,7 +131,7 @@ npm run aeo-summary
 
 Produce: % de aparición/citación global y por plataforma, KPI head vs long-tail, **ranking de dominios competidores citados** (agrega la columna `competitors_cited`), avisos de calidad de datos y delta vs el mes anterior. Añade `--json` si quieres volcarlo a otra herramienta.
 
-### Paso 5 — Cierre mensual (10 min)
+### Paso 6 — Cierre mensual (IA)
 
 Redacta un bloque de ~8 líneas (plantilla) y pégalo al final del CSV del mes o en tu herramienta de notas:
 
@@ -144,7 +147,7 @@ Redacta un bloque de ~8 líneas (plantilla) y pégalo al final del CSV del mes o
 - 1 acción del mes: {acción concreta sobre 1 página o query}
 ```
 
-### Paso 6 — Acciones derivadas
+### Paso 7 — Acciones derivadas
 
 Revisa el rollup y decide:
 - Queries con `appears = no` en TODAS las plataformas → candidatos a reforzar en FAQ, intro, descripciones
