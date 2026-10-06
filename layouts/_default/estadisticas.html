@@ -1,0 +1,246 @@
+{{ define "main" }}
+<div class="stats-page">
+    {{ partial "home-nav.html" . }}
+
+    {{- $grantPages := where .Site.RegularPages "Section" "grants" -}}
+    {{- $sc := newScratch -}}
+    {{- $sc.Set "totalAyudas" 0 -}}
+    {{- $sc.Set "totalBudget" 0 -}}
+    {{- $sc.Set "budgetKnown" 0 -}}
+    {{- $sc.Set "regiones" (dict) -}}
+    {{- $sc.Set "sectores" (dict) -}}
+    {{- $sc.Set "beneficiarios" (dict) -}}
+
+    {{- range $grantPages -}}
+        {{- $st := partial "grant-stats.html" (partial "grants-parse.html" .) -}}
+        {{- $sc.Set "totalAyudas" (add ($sc.Get "totalAyudas") $st.count) -}}
+        {{- $sc.Set "totalBudget" (add ($sc.Get "totalBudget") $st.budgetTotal) -}}
+        {{- $sc.Set "budgetKnown" (add ($sc.Get "budgetKnown") $st.budgetCount) -}}
+        {{- $pageAyudas := $st.count -}}
+        {{- $pageBudget := $st.budgetTotal -}}
+        {{- range $dim, $val := (dict "regiones" .Params.region "sectores" .Params.tag_seo "beneficiarios" .Params.beneficiario) -}}
+            {{- if $val -}}
+                {{- $map := $sc.Get $dim -}}
+                {{- $e := index $map $val | default (dict "pages" 0 "ayudas" 0 "presupuesto" 0) -}}
+                {{- $e = dict "pages" (add $e.pages 1) "ayudas" (add $e.ayudas $pageAyudas) "presupuesto" (add $e.presupuesto $pageBudget) -}}
+                {{- $sc.Set $dim (merge $map (dict $val $e)) -}}
+            {{- end -}}
+        {{- end -}}
+    {{- end -}}
+
+    {{- $totalAyudas := $sc.Get "totalAyudas" -}}
+    {{- $totalBudget := $sc.Get "totalBudget" -}}
+    {{- $budgetKnown := $sc.Get "budgetKnown" -}}
+    {{- $totalBudgetLabel := lang.FormatNumber 0 $totalBudget -}}
+
+    <main class="home-container stats-content">
+        <header class="home-header">
+            <h1>{{ .Title }}</h1>
+            <p class="home-intro">
+                En este momento hay <strong>{{ $totalAyudas }} ayudas y convocatorias públicas activas</strong> en España,
+                reunidas en <strong>{{ len $grantPages }} conjuntos</strong> clasificados por región, sector y tipo de
+                beneficiario{{ if $totalBudget }}, con un presupuesto conjunto declarado de
+                <strong>{{ $totalBudgetLabel }} €</strong>{{ end }}. Los datos proceden de la Base de Datos Nacional de
+                Ayudas (BDNS) y de los portales oficiales autonómicos, se actualizan a diario y cada cifra enlaza con las
+                convocatorias originales.
+            </p>
+        </header>
+
+        <dl class="stats-kpis">
+            <div>
+                <dt>Conjuntos de ayudas</dt>
+                <dd>{{ len $grantPages }}</dd>
+            </div>
+            <div>
+                <dt>Ayudas activas</dt>
+                <dd>{{ $totalAyudas }}</dd>
+            </div>
+            <div>
+                <dt>Presupuesto conjunto</dt>
+                <dd>{{ $totalBudgetLabel }} €</dd>
+            </div>
+            <div>
+                <dt>Sectores cubiertos</dt>
+                <dd>{{ len ($sc.Get "sectores") }}</dd>
+            </div>
+            <div>
+                <dt>Regiones cubiertas</dt>
+                <dd>{{ len ($sc.Get "regiones") }}</dd>
+            </div>
+        </dl>
+
+        {{- $regionList := slice -}}
+        {{- range $name, $v := $sc.Get "regiones" -}}
+            {{- $regionList = $regionList | append (merge $v (dict "name" $name)) -}}
+        {{- end -}}
+        {{- $regionList = sort $regionList "ayudas" "desc" -}}
+
+        {{- $sectorList := slice -}}
+        {{- range $name, $v := $sc.Get "sectores" -}}
+            {{- $label := index hugo.Data.sectores.sectores $name | default $name -}}
+            {{- $sectorList = $sectorList | append (merge $v (dict "name" $label)) -}}
+        {{- end -}}
+        {{- $sectorList = sort $sectorList "ayudas" "desc" -}}
+
+        {{- $benefList := slice -}}
+        {{- range $name, $v := $sc.Get "beneficiarios" -}}
+            {{- $benefList = $benefList | append (merge $v (dict "name" $name)) -}}
+        {{- end -}}
+        {{- $benefList = sort $benefList "ayudas" "desc" -}}
+
+        <section class="stats-section" aria-labelledby="stats-regiones-title">
+            <h2 id="stats-regiones-title">Ayudas activas por región</h2>
+            <p>Distribución de las <strong>{{ $totalAyudas }} ayudas activas</strong> por comunidad autónoma, provincia o
+                cabildo. Las ayudas de ámbito estatal aplicables a cada territorio se incluyen en su región correspondiente.</p>
+            <div class="table-wrap">
+                <table>
+                    <caption>Ayudas y convocatorias públicas activas por región en España</caption>
+                    <thead>
+                        <tr>
+                            <th scope="col">Región</th>
+                            <th scope="col">Conjuntos de ayudas</th>
+                            <th scope="col">Ayudas activas</th>
+                            <th scope="col">Presupuesto declarado</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        {{- range $regionList -}}
+                        <tr>
+                            <td>{{ .name }}</td>
+                            <td>{{ .pages }}</td>
+                            <td>{{ .ayudas }}</td>
+                            <td>{{ if .presupuesto }}{{ lang.FormatNumber 0 .presupuesto }} €{{ else }}—{{ end }}</td>
+                        </tr>
+                        {{- end -}}
+                    </tbody>
+                    <tfoot>
+                        <tr>
+                            <th scope="row">Total</th>
+                            <td>{{ len $grantPages }}</td>
+                            <td>{{ $totalAyudas }}</td>
+                            <td>{{ $totalBudgetLabel }} €</td>
+                        </tr>
+                    </tfoot>
+                </table>
+            </div>
+        </section>
+
+        <section class="stats-section" aria-labelledby="stats-sectores-title">
+            <h2 id="stats-sectores-title">Ayudas activas por sector</h2>
+            <p>Distribución de las ayudas y convocatorias activas por sector de actividad. La clasificación se asigna
+                automáticamente a partir del texto oficial de cada convocatoria.</p>
+            <div class="table-wrap">
+                <table>
+                    <caption>Ayudas y convocatorias públicas activas por sector en España</caption>
+                    <thead>
+                        <tr>
+                            <th scope="col">Sector</th>
+                            <th scope="col">Conjuntos de ayudas</th>
+                            <th scope="col">Ayudas activas</th>
+                            <th scope="col">Presupuesto declarado</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        {{- range $sectorList -}}
+                        <tr>
+                            <td>{{ .name }}</td>
+                            <td>{{ .pages }}</td>
+                            <td>{{ .ayudas }}</td>
+                            <td>{{ if .presupuesto }}{{ lang.FormatNumber 0 .presupuesto }} €{{ else }}—{{ end }}</td>
+                        </tr>
+                        {{- end -}}
+                    </tbody>
+                    <tfoot>
+                        <tr>
+                            <th scope="row">Total</th>
+                            <td>{{ len $grantPages }}</td>
+                            <td>{{ $totalAyudas }}</td>
+                            <td>{{ $totalBudgetLabel }} €</td>
+                        </tr>
+                    </tfoot>
+                </table>
+            </div>
+        </section>
+
+        <section class="stats-section" aria-labelledby="stats-beneficiarios-title">
+            <h2 id="stats-beneficiarios-title">Ayudas activas por tipo de beneficiario</h2>
+            <p>Distribución de las ayudas y convocatorias activas según el perfil de beneficiario: asociaciones y ONG,
+                pymes y autónomos, gran empresa y particulares.</p>
+            <div class="table-wrap">
+                <table>
+                    <caption>Ayudas y convocatorias públicas activas por tipo de beneficiario en España</caption>
+                    <thead>
+                        <tr>
+                            <th scope="col">Beneficiario</th>
+                            <th scope="col">Conjuntos de ayudas</th>
+                            <th scope="col">Ayudas activas</th>
+                            <th scope="col">Presupuesto declarado</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        {{- range $benefList -}}
+                        <tr>
+                            <td>{{ .name }}</td>
+                            <td>{{ .pages }}</td>
+                            <td>{{ .ayudas }}</td>
+                            <td>{{ if .presupuesto }}{{ lang.FormatNumber 0 .presupuesto }} €{{ else }}—{{ end }}</td>
+                        </tr>
+                        {{- end -}}
+                    </tbody>
+                    <tfoot>
+                        <tr>
+                            <th scope="row">Total</th>
+                            <td>{{ len $grantPages }}</td>
+                            <td>{{ $totalAyudas }}</td>
+                            <td>{{ $totalBudgetLabel }} €</td>
+                        </tr>
+                    </tfoot>
+                </table>
+            </div>
+        </section>
+
+        <p class="stats-meta">
+            Fuente: Base de Datos Nacional de Ayudas (BDNS) y portales oficiales autonómicos y locales.
+            Cifras calculadas sobre las convocatorias activas en el portal a fecha de
+            {{ lang.FormatNumber 0 (int now.Day) }} de {{ index (slice "enero" "febrero" "marzo" "abril" "mayo" "junio" "julio" "agosto" "septiembre" "octubre" "noviembre" "diciembre") (sub now.Month 1) }} de {{ now.Format "2006" }}.
+            Las ayudas cuya convocatoria no declara presupuesto no se incluyen en las sumas de presupuesto.
+        </p>
+    </main>
+</div>
+
+{{- $orgID := printf "%s#organization" .Site.BaseURL -}}
+{{- $siteID := printf "%s#website" .Site.BaseURL -}}
+{{- $schema := dict
+    "@context" "https://schema.org"
+    "@graph" (slice
+        (dict
+            "@type" "WebPage"
+            "url" .Permalink
+            "name" .Title
+            "description" .Description
+            "inLanguage" "es-ES"
+            "isPartOf" (dict "@id" $siteID)
+            "publisher" (dict "@id" $orgID)
+        )
+        (dict
+            "@type" "Dataset"
+            "name" "Estadísticas de ayudas y convocatorias públicas activas en España"
+            "description" (printf "Datos agregados de %d ayudas y convocatorias públicas activas en España por región, sector y tipo de beneficiario, con presupuesto conjunto declarado, extraídos diariamente de la BDNS." $totalAyudas)
+            "url" .Permalink
+            "creator" (dict "@id" $orgID)
+            "temporalCoverage" (now.Format "2006")
+            "isAccessibleForFree" true
+            "inLanguage" "es-ES"
+            "keywords" (slice "ayudas públicas" "subvenciones" "convocatorias" "BDNS" "España")
+        )
+        (dict
+            "@type" "BreadcrumbList"
+            "itemListElement" (slice
+                (dict "@type" "ListItem" "position" 1 "name" "Inicio" "item" .Site.BaseURL)
+                (dict "@type" "ListItem" "position" 2 "name" .Title "item" .Permalink)
+            )
+        )
+    )
+-}}
+<script type="application/ld+json">{{ $schema | jsonify | safeJS }}</script>
+{{ end }}

@@ -10,6 +10,7 @@
         {{- $tagLabel := index hugo.Data.sectores.sectores $tag | default $tag -}}
 
         {{- $grants := partial "grants-parse.html" . -}}
+        {{- $stats := partial "grant-stats.html" $grants -}}
         {{- $hasNominative := gt (len (where $grants "nominative" true)) 0 -}}
         {{- $reportEnabled := $.Site.Params.reportWebhookUrl -}}
 
@@ -19,7 +20,7 @@
 
         
         <section class="grant-page-summary" aria-label="Resumen de las ayudas">
-            <p>Esta página reúne <strong>{{ $count }} ayudas y convocatorias activas</strong> convocadas por organismos públicos de <strong>{{ $region }}</strong> (o de ámbito estatal aplicables a este territorio) y dirigidas a <strong>{{ $benef }}</strong> dentro del sector <strong>{{ $tagLabel }}</strong>. Los datos proceden de la Base de Datos Nacional de Ayudas (BDNS) y se actualizan a diario. Cada ficha incluye presupuesto, plazos de solicitud, requisitos y enlace directo a la convocatoria oficial.</p>
+            <p class="grant-page-quickanswer">En <strong>{{ $region }}</strong> hay ahora mismo <strong>{{ $stats.count }} ayudas activas</strong> para <strong>{{ $benef }}</strong> dentro del sector <strong>{{ $tagLabel }}</strong>{{ if $stats.budgetDisplay }}{{ if and (eq $stats.budgetCount $stats.count) (eq $stats.budgetParsed $stats.budgetCount) }}, con un presupuesto conjunto de <strong>{{ $stats.budgetDisplay }} €</strong>{{ else }}, con un presupuesto conjunto que supera los <strong>{{ $stats.budgetDisplay }} €</strong>{{ end }}{{ end }}{{ with $stats.nearestEndDisplay }}; el plazo más próximo finaliza el <strong><time datetime="{{ $stats.nearestEndIso }}">{{ . }}</time></strong>{{ end }}. Los datos proceden de la BDNS y se actualizan a diario.</p>            
             {{- $updatedRaw := .Params.last_update_date | default .Params.publication_date -}}
             {{- $updatedTime := time.AsTime $updatedRaw -}}
             {{- $updated := $updatedTime.Format "2006-01-02" -}}
@@ -120,32 +121,29 @@
             {{- end }}
         </section>
 
-        {{- $faqs := slice
-            (dict
-                "question" (printf "¿Qué ayudas hay para %s en %s dentro del sector %s?" $benef $region $tagLabel)
-                "answer" (printf "En esta página se listan <strong>%d ayudas activas</strong> convocadas por organismos públicos de %s o de ámbito estatal aplicables a este territorio, dirigidas a %s en el sector %s. Cada una incluye presupuesto, plazos, requisitos y enlace a la convocatoria oficial en la BDNS." $count $region $benef $tagLabel)
-            )
-            (dict
-                "question" "¿Cuál es el presupuesto total disponible?"
-                "answer" "El presupuesto agregado se calcula sumando los importes de cada convocatoria listada. Lo verás desglosado en cada ficha individual con su importe específico. La suma puede variar a medida que se publican o se cierran ayudas."
-            )
-            (dict
-                "question" "¿Hasta cuándo se puede solicitar?"
-                "answer" "Cada convocatoria tiene su propio plazo. En cada ficha aparecen las fechas de inicio y fin. Si una convocatoria no muestra fecha de fin, suele estar abierta de forma continuada hasta agotar crédito. Te recomendamos pulsar el enlace \"Acceder a la convocatoria oficial\" para confirmar el plazo vigente en la BDNS."
-            )
-            (dict
-                "question" "¿Quién puede acceder a estas ayudas?"
-                "answer" (printf "Las ayudas recogidas en esta página están dirigidas a <strong>%s</strong>. Dentro de este perfil puede haber requisitos adicionales (antigüedad, forma jurídica, ámbito geográfico, importe mínimo, etc.) que se detallan en el apartado \"Requisitos\" de cada ficha y en la convocatoria oficial." $benef)
-            )
-            (dict
-                "question" "¿Dónde se presenta la solicitud?"
-                "answer" "La solicitud se presenta en el portal del organismo convocante, nunca en este portal. Pulsa el botón \"Acceder a la convocatoria oficial\" de la ficha que te interese para ir al formulario de solicitud en la BDNS o en la sede electrónica correspondiente."
-            )
-            (dict
-                "question" "¿Esta información sustituye a la convocatoria oficial?"
-                "answer" "No. Este portal es meramente informativo. La información publicada no sustituye a la publicación oficial de cada convocatoria. Para presentar solicitudes o resolver dudas legales consulta siempre la fuente oficial enlazada en cada ficha."
-            )
-        -}}
+        {{- $faqs := slice -}}
+        {{- $faqs = $faqs | append (dict
+            "question" (printf "¿Qué ayudas hay para %s en %s dentro del sector %s?" $benef $region $tagLabel)
+            "answer" (printf "Ahora mismo hay <strong>%d ayudas activas</strong> para %s en %s dentro del sector %s, convocadas por organismos públicos de %s o de ámbito estatal aplicable a este territorio. Cada una incluye presupuesto, plazos, requisitos y enlace a la convocatoria oficial en la BDNS." $count $benef $region $tagLabel $region)
+        ) -}}
+        {{- if $stats.budgetDisplay -}}
+            {{- if and (eq $stats.budgetCount $stats.count) (eq $stats.budgetParsed $stats.budgetCount) -}}
+                {{- $faqs = $faqs | append (dict "question" "¿Cuál es el presupuesto total disponible?" "answer" (printf "El presupuesto conjunto de las %d convocatorias activas de esta página asciende a <strong>%s €</strong>, según los importes publicados en la BDNS. La cifra se recalcula a diario a medida que se publican o cierran convocatorias." $count $stats.budgetDisplay)) -}}
+            {{- else -}}
+                {{- $faqs = $faqs | append (dict "question" "¿Cuál es el presupuesto total disponible?" "answer" (printf "El presupuesto conjunto de esta página supera los <strong>%s €</strong>, según los importes publicados en la BDNS para las convocatorias que lo declaran. La cifra se recalcula a diario." $stats.budgetDisplay)) -}}
+            {{- end -}}
+        {{- else -}}
+            {{- $faqs = $faqs | append (dict "question" "¿Cuál es el presupuesto total disponible?" "answer" "El presupuesto agregado se calcula sumando los importes de cada convocatoria listada. Lo verás desglosado en cada ficha individual con su importe específico. La suma puede variar a medida que se publican o se cierran ayudas.") -}}
+        {{- end -}}
+        {{- if $stats.nearestEndDisplay -}}
+            {{- $faqs = $faqs | append (dict "question" "¿Hasta cuándo se puede solicitar?" "answer" (printf "El plazo más próximo de entre las convocatorias listadas finaliza el <strong><time datetime=\"%s\">%s</time></strong>. Cada convocatoria tiene su propio plazo de solicitud: consulta las fechas de inicio y fin en cada ficha y confirma el plazo vigente pulsando el enlace \"Acceder a la convocatoria oficial\"." $stats.nearestEndIso $stats.nearestEndDisplay)) -}}
+        {{- else -}}
+            {{- $faqs = $faqs | append (dict "question" "¿Hasta cuándo se puede solicitar?" "answer" "Cada convocatoria tiene su propio plazo. En cada ficha aparecen las fechas de inicio y fin. Si una convocatoria no muestra fecha de fin, suele estar abierta de forma continuada hasta agotar crédito. Te recomendamos pulsar el enlace \"Acceder a la convocatoria oficial\" para confirmar el plazo vigente en la BDNS.") -}}
+        {{- end -}}
+        {{- $faqs = $faqs | append (dict
+            "question" "¿Dónde se presenta la solicitud?"
+            "answer" "La solicitud se presenta en el portal del organismo convocante, nunca en este portal, que es meramente informativo: ante cualquier discrepancia prevalece la convocatoria oficial publicada en la BDNS o en la sede electrónica del organismo. Pulsa el botón \"Acceder a la convocatoria oficial\" de la ficha que te interese para ir al formulario de solicitud."
+        ) -}}
 
         <section class="grant-page-faq" aria-label="Preguntas frecuentes sobre estas ayudas">
             <h2>Preguntas frecuentes</h2>
@@ -275,8 +273,7 @@
     "cssSelector" (slice
         "title"
         ".grant-page-title"
-        ".grant-page-intro"
-        ".home-definition"
+        ".grant-page-quickanswer"
     )
 -}}
 
@@ -288,7 +285,7 @@
             "headline" .Title
             "description" .Description
             "datePublished" (.Date.Format "2006-01-02T15:04:05Z07:00")
-            "dateModified" (.Date.Format "2006-01-02T15:04:05Z07:00")
+            "dateModified" ($updatedTime.Format "2006-01-02T15:04:05Z07:00")
             "author" (dict "@type" "Person" "@id" $authorID)
             "publisher" (dict "@type" "Organization" "name" .Site.Title "url" .Site.BaseURL "@id" $orgID)
             "mainEntityOfPage" .Permalink

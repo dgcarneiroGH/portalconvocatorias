@@ -1,0 +1,61 @@
+{{- $grants := . -}}
+{{- $now := now -}}
+{{- $sentinel := time.AsTime "9999-12-31" -}}
+{{- $total := 0 -}}
+{{- $budgets := 0 -}}
+{{- $parsed := 0 -}}
+{{- $hasNearest := false -}}
+{{- $nearestTime := $sentinel -}}
+{{- range $grants -}}
+    {{- with .budget -}}
+        {{- $budgets = add $budgets 1 -}}
+        {{- $b := replaceRE `[^\d.,]` "" . -}}
+        {{- if $b -}}
+            {{- $intPart := $b -}}
+            {{- if findRE "," $b -}}
+                {{- $intPart = index (split $b ",") 0 -}}
+            {{- end -}}
+            {{- $intClean := replaceRE `\.` "" $intPart -}}
+            {{- if findRE `^\d+$` $intClean -}}
+                {{- $total = add $total (int $intClean) -}}
+                {{- $parsed = add $parsed 1 -}}
+            {{- end -}}
+        {{- end -}}
+    {{- end -}}
+    {{- with .end -}}
+        {{- $d := replaceRE `[^\d/]` "" . -}}
+        {{- if findRE `^\d{1,2}/\d{1,2}/\d{4}$` $d -}}
+            {{- $p := split $d "/" -}}
+            {{- $dd := index $p 0 -}}
+            {{- $mm := index $p 1 -}}
+            {{- if eq (len $dd) 1 -}}{{- $dd = printf "0%s" $dd -}}{{- end -}}
+            {{- if eq (len $mm) 1 -}}{{- $mm = printf "0%s" $mm -}}{{- end -}}
+            {{- $t := time.AsTime (printf "%s-%s-%s" (index $p 2) $mm $dd) -}}
+            {{- if and (gt $t $now) (or (not $hasNearest) (lt $t $nearestTime)) -}}
+                {{- $hasNearest = true -}}
+                {{- $nearestTime = $t -}}
+            {{- end -}}
+        {{- end -}}
+    {{- end -}}
+{{- end -}}
+{{- $budgetDisplay := "" -}}
+{{- if gt $parsed 0 -}}
+    {{- $budgetDisplay = lang.FormatNumber 0 $total -}}
+{{- end -}}
+{{- $nearestDisplay := "" -}}
+{{- $nearestIso := "" -}}
+{{- if $hasNearest -}}
+    {{- $meses := slice "enero" "febrero" "marzo" "abril" "mayo" "junio" "julio" "agosto" "septiembre" "octubre" "noviembre" "diciembre" -}}
+    {{- $nearestDisplay = printf "%s de %s de %s" ($nearestTime.Format "2") (index $meses (sub $nearestTime.Month 1)) ($nearestTime.Format "2006") -}}
+    {{- $nearestIso = $nearestTime.Format "2006-01-02" -}}
+{{- end -}}
+{{- return (dict
+    "count" (len $grants)
+    "budgetTotal" $total
+    "budgetCount" $budgets
+    "budgetParsed" $parsed
+    "budgetDisplay" $budgetDisplay
+    "nearestEnd" $nearestTime
+    "nearestEndIso" $nearestIso
+    "nearestEndDisplay" $nearestDisplay
+) -}}

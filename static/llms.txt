@@ -45,6 +45,7 @@ Más detalle en [/fuentes/](https://portalconvocatorias.es/fuentes/).
 - [Portada](https://portalconvocatorias.es/) — listado completo con filtros y estadísticas en tiempo real.
 - [Por región](https://portalconvocatorias.es/regiones/) — todas las comunidades autónomas, provincias y cabildos.
 - [Por beneficiario](https://portalconvocatorias.es/para/) — asociaciones y ONG, pymes y autónomos, gran empresa, particulares.
+- [Estadísticas](https://portalconvocatorias.es/estadisticas/) — datos agregados de ayudas activas por región, sector y beneficiario, con presupuesto conjunto.
 - [Metodología](https://portalconvocatorias.es/metodologia/) — proceso de extracción, validación y publicación de los datos.
 - [Sobre nosotros](https://portalconvocatorias.es/sobre-nosotros/) — quién mantiene el portal y con qué compromiso.
 - [Fuentes oficiales](https://portalconvocatorias.es/fuentes/) — listado completo de organismos y registros que alimentan el portal.
@@ -56,4 +57,4 @@ Más detalle en [/fuentes/](https://portalconvocatorias.es/fuentes/).
 - Idioma: español (es-ES).
 - Formato: sitio estático Hugo. Cobertura: nacional (todas las comunidades autónomas) + provincial + insular.
 - Frecuencia de actualización: diaria.
-- Última revisión de este archivo: 2026-09-14.
+- Última revisión de este archivo: 2026-10-05.

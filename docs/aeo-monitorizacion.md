@@ -6,10 +6,12 @@ Sistema de seguimiento continuo para la visibilidad del portal en respuestas de 
 
 | Archivo | Para qué sirve |
 |---|---|
-| `docs/aeo-tracking-template.csv` | Plantilla de tracking mensual. 45 filas = 15 queries × 3 plataformas. Abrir en Excel/Google Sheets y rellenar. |
+| `docs/aeo-tracking-template.csv` | Plantilla de tracking mensual. 60 filas = 20 queries × 3 plataformas. Abrir en Excel/Google Sheets y rellenar. |
+| `scripts/aeo-summary.js` | Rollup automático del CSV mensual: % de aparición/citación, ranking de dominios competidores citados, delta vs mes anterior y avisos de calidad de datos. Ejecutar con `npm run aeo-summary`. |
 | `static/js/ai-referrals.js` | Snippet que detecta visitas desde plataformas de IA y empuja el evento a `dataLayer`. Lo recoge `gtag.js`. |
 | `layouts/partials/ga4.html` | Snippet base de Google Analytics 4 con consent mode (analytics_storage denegado por defecto hasta consentimiento). |
 | `layouts/partials/head.html` | Carga `ga4.html`, `cookie-banner.js` y `ai-referrals.js` en cada página. |
+| `docs/aeo-ga4-template.csv` | Plantilla para registrar las métricas de GA4 de cada mes (alternativa editable al `aeo-ga4.ods`). |
 | `docs/aeo-monitorizacion.md` | Este documento. Plantillas de revisión mensual y trimestral. |
 
 ## Cómo funciona el tracking automático
@@ -65,42 +67,103 @@ Notas:
 
 ### Paso 1 — Tracking de queries manuales (20 min)
 
-1. Copia `docs/aeo-tracking-template.csv` a una hoja por mes: `aeo-tracking-2026-08.csv`, etc.
-2. Para cada una de las **15 queries prioritarias**, ejecuta la búsqueda en **ChatGPT**, **Perplexity** y **Google AI** (3 filas por query).
-3. Rellena las columnas:
+1. Copia `docs/aeo-tracking-template.csv` a una hoja por mes: `aeo-tracking-2026-10.csv`, etc.
+2. Para cada una de las **20 queries** (15 head + 5 long-tail, ver tabla de mapeo más abajo), ejecuta la búsqueda en **ChatGPT**, **Perplexity** y **Google AI** (3 filas por query). Usa siempre la misma cuenta, en incógnito y sin historial que personalice las respuestas.
+3. Antes de enviar los prompts a los agentes de IA, entrénalos con este:
+   `Instrucción estricta para esta conversación: Antes de responder a cualquier consulta, debes escribir una lista con los dominios web raíz que has consultado en formato texto plano, separados únicamente por punto y coma (;). Si no consultas fuentes externas, escribe 'Ninguno'. Deja una línea en blanco después de la lista y, a continuación, proporciona tu respuesta. No repitas dominios web si has consultado el mismo varias veces. Indica todos los dominios consultados.`
+4. Rellena las columnas. **Nunca dejes celdas vacías**: si no hay datos escribe `no` (para appears/is_cited) o `Ninguno` (para competitors_cited).
    - `date_checked`: fecha del chequeo
    - `appears`: ¿portalconvocatorias.es aparece en algún resultado/fuente? (sí/no)
    - `is_cited`: ¿se cita como fuente explícita? (sí/no)
+   - `appears_where`: dónde aparece (`fuentes` = solo en la lista de fuentes, `respuesta` = citado en el cuerpo de la respuesta, `ambos`)
    - `position`: posición si está citada (1ª, 2ª, 3ª...)
-   - `competitors_cited`: URLs de otros sitios citados (separados por `;`)
+   - `competitors_cited`: URLs o dominios de otros sitios citados (separados por `;`). Si el agente respondió "Ninguno", escribe `Ninguno`
    - `our_url`: URL exacta de portalconvocatorias.es que aparece (si aplica)
    - `notes`: observaciones (ej. "solo aparece si pregunto explícitamente por España")
+
+#### Mapeo de queries long-tail (type = longtail)
+
+Estas 5 queries corresponden a páginas reales del portal donde la granularidad región × beneficiario × sector es difícil de igualar. Son el **KPI ganable** del mes (las 15 head son el KPI aspiracional a medio plazo):
+
+| Query | Página objetivo |
+|---|---|
+| ayudas para deportes en Álava para asociaciones 2026 | `/subvenciones-alava-asociaciones-deportes/` |
+| subvenciones para autónomos en Valencia de empleo 2026 | `/subvenciones-autonomos-valencia-empleo/` |
+| ayudas para asociaciones en Córdoba de deportes 2026 | `/subvenciones-asociaciones-cordoba-deportes/` |
+| subvenciones para empresas en Galicia de formación 2026 | `/subvenciones-empresa-galicia-formacion/` |
+| ayudas para autónomos en Murcia de empleo 2026 | `/subvenciones-autonomos-murcia-empleo/` |
+
+Rota las queries long-tail cada trimestre: cuando una se consolida (3 meses seguidos con aparición), sustitúyela por otra página del portal y mueve la consolidada al bloque de mantenimiento.
 
 ### Paso 2 — Métricas de GA4 (5 min)
 
 1. Entra en Google Analytics 4 → portalconvocatorias.es.
-2. Ve a **Reports → Engagement → Events** y filtra por nombre de evento `ai_referral`. Esta es la url: https://analytics.google.com/analytics/web/#/a361434858p547488847/reports/explorer?params=_u..nav%3Dmaui&ruid=all-pages-and-screens,business-objectives,examine-user-behavior&collectionId=business-objectives&r=all-pages-and-screens
-3. Para desglose por fuente y página usa **Explorations** con las dimensiones personalizadas `ai_source` y `ai_path`.
-4. Anota:
-   - Total de eventos `ai_referral` este mes
-   - Top 5 fuentes (`ai_source`): chatgpt, perplexity, ...
-   - Top 5 páginas aterrizadas (`ai_path`)
-   - Comparativa con mes anterior (% cambio)
+2. Ve a **Reports → Engagement → Events** y filtra por nombre de evento `ai_referral`. Esta es la url: https://analytics.google.com/analytics/web/#/analysis/a361434858p547488847/edit/TqbXk40_RQuQwejck_wWdg
+3. Anota en `docs/aeo-ga4-template.csv` (fila del mes):
+   - `ai_referrals`: total de eventos `ai_referral` este mes
+   - `ai_top_sources`: top 5 fuentes (`ai_source`): chatgpt, perplexity, ...
+   - `ai_top_paths`: top 5 páginas aterrizadas (`ai_path`)
+   - `ai_engaged_sessions`: sesiones con engagement originadas por esas fuentes (Explorations → Traffic acquisition, segmento por `ai_source`)
+   - `organic_sessions`: sesiones orgánicas del mes (contexto para calcular el peso relativo del tráfico IA)
+4. **Regla de interpretación**: con menos de 10 eventos/mes no uses porcentajes ni variaciones % (con n=1 un cambio del 100% no significa nada); registra números absolutos y analiza tendencia solo con el acumulado del trimestre.
 
-### Paso 3 — Acciones derivadas (10 min)
+### Paso 3 — Search Console: KPI de recuperabilidad (10 min)
 
-Revisa la tabla mensual y decide:
+Las citaciones por IA requieren que el contenido sea **recuperable** primero. Search Console (no tiene reportes específicos de IA) es el indicador adelantado:
+
+1. Abre Search Console → Rendimiento → Resultados de búsqueda.
+2. Filtra por cada una de las 20 queries (o por términos principales) y anota en `notes` del CSV:
+   - ¿Aparece portalconvocatorias.es en los resultados? (impresiones > 0)
+   - Impresiones y clics del mes para esa query
+3. Interpretación:
+   - **Sin impresiones GSC** → no eres recuperable para esa query: problema de indexación/autoridad, no de extractabilidad. No tiene sentido pulir el contenido todavía; trabaja enlaces internos, sitemap y presencia externa.
+   - **Impresiones sí, citación IA no** → eres recuperable pero no extraíble: candidato a mejorar respuesta rápida, FAQ y datos estructurados de esa página.
+4. Complemento: revisa en GSC las queries con impresiones crecientes del mes; ahí está el interés real que ya te detecta Google.
+
+### Paso 4 — Rollup automático (2 min)
+
+```bash
+npm run aeo-summary
+```
+
+Produce: % de aparición/citación global y por plataforma, KPI head vs long-tail, **ranking de dominios competidores citados** (agrega la columna `competitors_cited`), avisos de calidad de datos y delta vs el mes anterior. Añade `--json` si quieres volcarlo a otra herramienta.
+
+### Paso 5 — Cierre mensual (10 min)
+
+Redacta un bloque de ~8 líneas (plantilla) y pégalo al final del CSV del mes o en tu herramienta de notas:
+
+```
+## Cierre AEO — {mes}
+- Checks: {n} | aparece: {n} ({%}) | citado: {n} ({%})
+- Long-tail: {n}/{m} checks con aparición | head: {n}/{m}
+- Mejor señal: {query} en {plataforma} ({appears_where})
+- Peor señal / pérdida: {query} ({qué cambió vs mes anterior})
+- Dominio competidor dominante: {dominio} (n citas) → {qué hace distinto: contenido/frescura/autoridad}
+- GSC: {n} queries con impresiones, {n} clics | tendencia: {↑/→/↓}
+- GA4: {n} eventos ai_referral (absoluto, n<10 sin %)
+- 1 acción del mes: {acción concreta sobre 1 página o query}
+```
+
+### Paso 6 — Acciones derivadas
+
+Revisa el rollup y decide:
 - Queries con `appears = no` en TODAS las plataformas → candidatos a reforzar en FAQ, intro, descripciones
 - Queries con `appears = sí` pero `is_cited = no` → falta extractabilidad
-- Queries con `competitors_cited` consistente → ver qué hacen ellos que tú no
+- Queries con `competitors_cited` consistente → ver qué hacen ellos que tú no (usa el ranking de dominios del rollup)
+- Queries long-tail con señal → replicar el patrón en más páginas del portal
 
-### Paso 3 — Tabla Tags SEO (10 min)
+## Expectativas realistas y palancas de visibilidad
 
-1. Entra en Google Search Console (https://search.google.com/search-console/performance/search-analytics?resource_id=sc-domain%3Aportalconvocatorias.es)
-2. Descarga el informe en el icono de la parte superior derecha. Ábrelo con Google Sheets
-3. Inserta esta fórmula `=PERCENTIL(C2:C$105; 0,75)` en una casilla cualquiera. El C es la columna de impresiones. Marca también la última fila donde hay datos (105 en este ejemplo)
-4. Selecciona toda la columna de impresiones, formatea las celdas según la condición de que el valor sea mayor que lo que has obtenido en la fórmula.
-5. Ahora, desde Notion, ve revisando una a una todas las tags (`Ctrl + F`) y mira si tienen un volumen de impresiones mayor, cercano o inferior al percentil obtenido. Marca en función de lo obtenido en la columna "volumen búsqueda SEO" 
+Contexto tras 3 meses de tracking (ago-oct 2026): 0 apariciones en 135 checks head y 1-2 referrals GA4/mes. Es el resultado esperable para un sitio nuevo frente a la competencia actual de esas queries, y condiciona dónde invertir:
+
+| Palanca | Horizonte | Qué es |
+|---|---|---|
+| **Long-tail programático** | 1-3 meses | Queries tipo región × beneficiario × sector (`/subvenciones-alava-asociaciones-deportes/`). Nadie más cubre esa granularidad con datos frescos; es donde el portal puede ser la mejor respuesta. Medir con el KPI long-tail + GSC. |
+| **Extractabilidad** | 1-3 meses | Respuesta rápida con cifras reales, FAQ data-driven, tablas y datos agregados (ver `/estadisticas/`). Convierte "recuperable" en "citable", pero solo actúa si GSC ya muestra impresiones. |
+| **Autoridad de dominio** | 6-18 meses | Las queries head están dominadas por organismos oficiales (BOE, hacienda, juntadeandalucia, gva) y agregadores veteranos (buscoayudas, mapasubvenciones, plazoabierto, fondai, avido). No se gana ahí con on-page: requiere backlinks, menciones y tiempo. |
+| **Terceras partes** | 3-6 meses | Las marcas se citan ~6,5× más vía fuentes externas que vía su propio dominio (estudio GEO). Menciones en prensa local/specializada, foros del sector, directorios de recursos públicos. Es la palanca con mejor ratio esfuerzo/impacto para el KPI head. |
+
+Regla de decisión mensual: si el rollup no muestra avance en long-tail ni en GSC tras 2 meses de mejoras de extractabilidad, el cuello de botella es de autoridad/recuperabilidad, no de contenido → pasa presupuesto a la palanca de terceras partes.
 
 ## Flujo trimestral (≈ 1 hora)
 
@@ -184,3 +247,4 @@ Si después de 2 trimestres consecutivos:
 | 2026-07-28 | Versión inicial del sistema de monitorización (Fase 4) |
 | 2026-07-30 | Reescrito. Confirmado que el stack gratuito de tracking es GA4 (nunca se integró Plausible). Documentada la arquitectura real (dataLayer push → gtag.js → GA4) y el procedimiento de configuración de custom dimensions. Limpiados caracteres no deseados. |
 | 2026-09-14 | Primera revisión trimestral ejecutada (sección 10 de `aeo-auditoria.md`). Fix `--cleanDestinationDir`, nuevo `scripts/list-orphans.js`, refresh de contenido. |
+| 2026-10-05 | Rediseño del análisis mensual tras 3 meses con 0/135 apariciones: +5 queries long-tail con KPI ganable separado, columna `appears_where`, paso de Search Console (KPI de recuperabilidad), `npm run aeo-summary` (rollup + ranking de dominios competidores), plantilla de cierre mensual, plantilla `aeo-ga4-template.csv`, regla de números absolutos con n<10 y sección de expectativas (head vs long-tail vs terceras partes). |
