@@ -1,23 +1,19 @@
 ---
 title: Ayudas para cultura en Castellón para Particulares
-description: "Recopilatorio de las 5 ayudas activas en Castellón para Particulares dentro del sector cultura, con presupuesto y plazos de solicitud."
+description: "Recopilatorio de las 4 ayudas activas en Castellón para Particulares dentro del sector cultura, con presupuesto y plazos de solicitud."
 region: Castellón
 beneficiario: Particulares
 tag_seo: cultura
-count: 5
+count: 4
 publication_date: 2026-09-14
-last_update_date: 2026-10-05
+last_update_date: 2026-10-06
 slug: subvenciones-castellon-particulares-cultura
 ---
 
 # Ayudas para cultura en Castellón para Particulares
 
-Ayudas activas (5):
+Ayudas activas (4):
 
-- [CONVOCATORIA XXVII CERTAMEN DE FOTOGRAFÍA CIUDAD DE BENICARLÓ](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/912905) (AYUNTAMIENTO DE BENICARLÓ)
-  - Description: El XXVII Certamen de Fotografía Ciudad de Benicarló busca incentivar el arte de la fotografía, promover la diversidad de técnicas fotográficas y apoyar a los artistas en su proyección y producción expositiva.
-  - Requirements: Pueden participar todas las personas profesionales o aficionadas a la fotografía; No podrán optar quienes hayan ganado el primer premio en la edición anterior
-  - notion_id: 3db83f94-7b2c-81cd-8ba5-ffd540945097 | Budget: 850 € | Reception: 15/06/2026 | Start: 16/06/2026 | End: 04/10/2026
 - [CONCURSO DE COMPOSICIÓN DE MÚSICA CORAL EN VALENCIANO](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/916660) (AYUNTAMIENTO DE BORRIANA/BURRIANA)
   - Description: Estimular la ampliación del repertorio coral en valenciano y ofrecer la oportunidad de interpretar obras inéditas.
   - Requirements: Músicos mayores de 18 años; Residentes o nacidos en la Comunidad Valenciana; Sin límite de edad; No estar bajo prohibiciones para obtener la condición de beneficiario según el artículo 13 de la ley general de subvenciones; Estar al corriente de obligaciones tributarias y frente a la Seguridad Social
