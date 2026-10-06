@@ -99,12 +99,12 @@ Rota las queries long-tail cada trimestre: cuando una se consolida (3 meses segu
 
 1. Entra en Google Analytics 4 → portalconvocatorias.es.
 2. Ve a **Reports → Engagement → Events** y filtra por nombre de evento `ai_referral`. Esta es la url: https://analytics.google.com/analytics/web/#/analysis/a361434858p547488847/edit/TqbXk40_RQuQwejck_wWdg
-3. Anota en `docs/aeo-ga4-template.csv` (fila del mes):
+3. Anota en `docs/aeo-ga4.csv` (fila del mes):
    - `ai_referrals`: total de eventos `ai_referral` este mes
    - `ai_top_sources`: top 5 fuentes (`ai_source`): chatgpt, perplexity, ...
    - `ai_top_paths`: top 5 páginas aterrizadas (`ai_path`)
-   - `ai_engaged_sessions`: sesiones con engagement originadas por esas fuentes (Explorations → Traffic acquisition, segmento por `ai_source`)
-   - `organic_sessions`: sesiones orgánicas del mes (contexto para calcular el peso relativo del tráfico IA)
+   - `ai_engaged_sessions`: sesiones con engagement originadas por esas fuentes (hoja 1 del informe, segunda columna)
+   - `organic_sessions`: sesiones orgánicas del mes (contexto para calcular el peso relativo del tráfico IA, página 3 del informe)
 4. **Regla de interpretación**: con menos de 10 eventos/mes no uses porcentajes ni variaciones % (con n=1 un cambio del 100% no significa nada); registra números absolutos y analiza tendencia solo con el acumulado del trimestre.
 
 ### Paso 3 — Search Console: KPI de recuperabilidad (10 min)
