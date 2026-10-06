@@ -236,3 +236,50 @@ h1, h2, h3, .font-space {
         width: calc(100% - 32px);
     }
 }
+
+.table-wrap {
+    overflow-x: auto;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    font-size: 15px;
+}
+
+caption {
+    caption-side: top;
+    text-align: left;
+    padding: 8px 0;
+    font-weight: 600;
+    color: var(--navy);
+}
+
+th,
+td {
+    padding: 8px 12px;
+    text-align: left;
+    border-bottom: 1px solid #d7dee6;
+}
+
+thead th {
+    color: var(--navy);
+}
+
+tfoot th,
+tfoot td {
+    font-weight: 600;
+}
+
+tbody tr:hover {
+    background: rgba(41, 182, 246, 0.06);
+}
+
+@media (max-width: 640px) {
+
+    th,
+    td {
+        padding: 6px 8px;
+        font-size: 14px;
+    }
+}

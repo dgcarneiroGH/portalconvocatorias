@@ -764,3 +764,13 @@
         line-height: 18px;
     }
 }
+
+.grant-page-quickanswer {
+    padding: 16px 20px;
+    margin-bottom: 16px;
+    background: var(--light-blue-bg);
+    border-left: 4px solid var(--blue);
+    border-radius: 8px;
+    font-size: 15px;
+    line-height: 24px;
+}

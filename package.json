@@ -12,6 +12,7 @@
     "validate-sectores": "node scripts/validate-sectores.js",
     "list-orphans": "node scripts/list-orphans.js",
     "audit-aeo": "node scripts/audit-aeo.js",
+    "aeo-summary": "node scripts/aeo-summary.js",
     "check": "npm run build && npm run verify && npm run validate-schema && npm run validate-sectores && npm run list-orphans",
     "og:build": "node scripts/embed-logo.js && node scripts/og-render.js",
     "logo:convert": "node scripts/convert-logo.js"

@@ -272,3 +272,44 @@
         white-space: normal;
     }
 }
+
+.stats-kpis {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+    gap: 16px;
+    margin: 0 0 32px;
+    padding: 0;
+}
+
+.stats-kpis div {
+    background: #fff;
+    border: 1px solid #d7dee6;
+    border-radius: 8px;
+    padding: 16px;
+}
+
+.stats-kpis dt {
+    font-size: 13px;
+    color: #24292e;
+}
+
+.stats-kpis dd {
+    margin: 4px 0 0;
+    font-size: 24px;
+    font-weight: 700;
+    font-family: 'Space Grotesk', sans-serif;
+    color: var(--navy);
+}
+
+.stats-section {
+    margin: 32px 0;
+}
+
+.stats-section table {
+    margin-top: 8px;
+}
+
+.stats-meta {
+    font-size: 13px;
+    color: #5a6570;
+}

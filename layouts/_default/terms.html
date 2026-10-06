@@ -39,15 +39,18 @@
     {{- range $g := $groups -}}
         {{- $pages := 0 -}}
         {{- $sum := 0 -}}
+        {{- $budget := 0 -}}
         {{- $gSlug := $g.slug -}}
         {{- range $grants -}}
             {{- $val := index .Params $groupKey -}}
             {{- if and $val (eq (urlize $val) $gSlug) -}}
                 {{- $pages = add $pages 1 -}}
                 {{- $sum = add $sum (int (or .Params.count 0)) -}}
+                {{- $st := partial "grant-stats.html" (partial "grants-parse.html" .) -}}
+                {{- $budget = add $budget $st.budgetTotal -}}
             {{- end -}}
         {{- end -}}
-        {{- $groupsAcc = $groupsAcc | append (dict "slug" $g.slug "label" $g.label "pages" $pages "sum" $sum) -}}
+        {{- $groupsAcc = $groupsAcc | append (dict "slug" $g.slug "label" $g.label "pages" $pages "sum" $sum "budget" $budget) -}}
     {{- end -}}
 
     {{- $groupsBySum := sort $groupsAcc "sum" "desc" -}}
@@ -61,7 +64,7 @@
             {{- $existing := where $rows "key" $sectorKey -}}
             {{- if not $existing -}}
                 {{- $sectorLabel := index hugo.Data.sectores.sectores $sectorKey | default $sectorKey -}}
-                {{- $rows = $rows | append (dict "key" $sectorKey "label" $sectorLabel "count" 0 "pages" 0) -}}
+                {{- $rows = $rows | append (dict "key" $sectorKey "label" $sectorLabel "count" 0 "pages" 0 "budget" 0) -}}
             {{- end -}}
         {{- end -}}
     {{- end -}}
@@ -70,19 +73,23 @@
         {{- if $sectorKey -}}
             {{- $match := index (where $rows "key" $sectorKey) 0 -}}
             {{- if $match -}}
+                {{- $st := partial "grant-stats.html" (partial "grants-parse.html" .) -}}
                 {{- $newCount := add $match.count (int (or .Params.count 0)) -}}
                 {{- $newPages := add $match.pages 1 -}}
+                {{- $newBudget := add (or $match.budget 0) $st.budgetTotal -}}
                 {{- $rows = where $rows "key" "ne" $sectorKey -}}
-                {{- $rows = $rows | append (dict "key" $sectorKey "label" $match.label "count" $newCount "pages" $newPages) -}}
+                {{- $rows = $rows | append (dict "key" $sectorKey "label" $match.label "count" $newCount "pages" $newPages "budget" $newBudget) -}}
             {{- end -}}
         {{- end -}}
     {{- end -}}
     {{- $rows = sort $rows "count" "desc" -}}
     {{- $totalSum := 0 -}}
     {{- $totalPages := 0 -}}
+    {{- $totalBudget := 0 -}}
     {{- range $rows -}}
         {{- $totalSum = add $totalSum .count -}}
         {{- $totalPages = add $totalPages .pages -}}
+        {{- $totalBudget = add $totalBudget .budget -}}
     {{- end -}}
 
     <main class="home-container terms-content">
@@ -104,12 +111,14 @@
             <h2 id="terms-ranking-title">Top 10 por número de ayudas activas</h2>
             <p>Las diez {{ $introLabel | lower }} con más ayudas activas en este momento, ordenadas de mayor a menor:</p>
             <table class="terms-ranking-table">
+                <caption>Top 10 {{ $introLabel | lower }} con más ayudas y convocatorias públicas activas</caption>
                 <thead>
                     <tr>
                         <th scope="col">#</th>
                         <th scope="col">{{ $introLabel }}</th>
                         <th scope="col">Conjuntos de ayudas</th>
                         <th scope="col">Total ayudas activas</th>
+                        <th scope="col">Presupuesto declarado</th>
                     </tr>
                 </thead>
                 <tbody>
@@ -119,6 +128,7 @@
                         <td>{{ .label }}</td>
                         <td>{{ .pages }}</td>
                         <td>{{ .sum }}</td>
+                        <td>{{ if .budget }}{{ lang.FormatNumber 0 .budget }} €{{ else }}—{{ end }}</td>
                     </tr>
                     {{ end }}
                 </tbody>
@@ -137,19 +147,21 @@
             </h2>
             <p>
                 {{ if eq $singular "region" }}
-                Distribución global del total de <strong>{{ $totalSum }} ayudas activas</strong> en el portal agrupadas por región. Esta tabla muestra en qué regiones se concentran las convocatorias, independientemente de la comunidad autónoma de origen.
+                Distribución global del total de <strong>{{ $totalSum }} ayudas activas</strong> en el portal agrupadas por región{{ if $totalBudget }}, con un presupuesto conjunto declarado de <strong>{{ lang.FormatNumber 0 $totalBudget }} €</strong>{{ end }}. Esta tabla muestra en qué regiones se concentran las convocatorias, independientemente de la comunidad autónoma de origen.
                 {{ else if eq $singular "beneficiario" }}
-                Distribución global del total de <strong>{{ $totalSum }} ayudas activas</strong> en el portal agrupadas por beneficiario. Esta tabla muestra en qué beneficiarios se concentran las convocatorias.
+                Distribución global del total de <strong>{{ $totalSum }} ayudas activas</strong> en el portal agrupadas por beneficiario{{ if $totalBudget }}, con un presupuesto conjunto declarado de <strong>{{ lang.FormatNumber 0 $totalBudget }} €</strong>{{ end }}. Esta tabla muestra en qué beneficiarios se concentran las convocatorias.
                 {{ else }}
                 Distribución global del total de ayudas activas en el portal agrupadas por sector.
                 {{ end }}
             </p>
             <table class="terms-crosstab-table">
+                <caption>Distribución de las ayudas y convocatorias públicas activas en España por sector</caption>
                 <thead>
                     <tr>
                         <th scope="col">Sector</th>
                         <th scope="col">Conjuntos de ayudas</th>
                         <th scope="col">Ayudas activas</th>
+                        <th scope="col">Presupuesto declarado</th>
                     </tr>
                 </thead>
                 <tbody>
@@ -158,6 +170,7 @@
                         <td>{{ .label }}</td>
                         <td>{{ .pages }}</td>
                         <td>{{ .count }}</td>
+                        <td>{{ if .budget }}{{ lang.FormatNumber 0 .budget }} €{{ else }}—{{ end }}</td>
                     </tr>
                     {{ end }}
                 </tbody>
@@ -166,6 +179,7 @@
                         <th scope="row">Total</th>
                         <td>{{ $totalPages }}</td>
                         <td>{{ $totalSum }}</td>
+                        <td>{{ if $totalBudget }}{{ lang.FormatNumber 0 $totalBudget }} €{{ else }}—{{ end }}</td>
                     </tr>
                 </tfoot>
             </table>
