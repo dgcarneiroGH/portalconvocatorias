@@ -5,7 +5,7 @@ region: Lleida
 beneficiario: Asociaciones y ong
 tag_seo: deportes
 count: 6
-publication_date: 2026-10-06T08:29:51.863Z
+publication_date: 2026-10-06
 last_update_date: 2026-10-06
 slug: subvenciones-asociaciones-lleida-deportes
 ---
