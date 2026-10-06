@@ -1,10 +1,10 @@
 ---
 title: Ayudas para comercio en Alicante para Particulares
-description: "Recopilatorio de las 4 ayudas activas en Alicante para Particulares dentro del sector comercio, con presupuesto y plazos de solicitud."
+description: "Recopilatorio de las 3 ayudas activas en Alicante para Particulares dentro del sector comercio, con presupuesto y plazos de solicitud."
 region: Alicante
 beneficiario: Particulares
 tag_seo: comercio
-count: 4
+count: 3
 publication_date: 2026-09-06
 last_update_date: 2026-10-06
 slug: subvenciones-alicante-particulares-comercio
@@ -12,7 +12,7 @@ slug: subvenciones-alicante-particulares-comercio
 
 # Ayudas para comercio en Alicante para Particulares
 
-Ayudas activas (4):
+Ayudas activas (3):
 
 - [CONVOCATORIA BONO-CONSUMO ANUALIDAD 2026](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/925311) (AYUNTAMIENTO DE FINESTRAT)
   - Description: Esta subvención tiene como objetivo fomentar el consumo en el comercio local de Finestrat mediante la distribución de bonos que los ciudadanos pueden utilizar en negocios adheridos, fortaleciendo así la economía local y generando un consumo responsable y sostenible.
@@ -26,6 +26,3 @@ Ayudas activas (4):
   - Description: El objetivo de esta subvención es promover el consumo local en el comercio de Els Poblets, beneficiando a la ciudadanía y al tejido empresarial local mediante la entrega de bonos de consumo que deben ser utilizados exclusivamente en establecimientos adheridos a la campaña.
   - Requirements: Ser persona empadronada en Els Poblets; Ser mayor de edad; Disponer de DNI o NIE; Exclusión de personas que solo dispongan de pasaporte
   - notion_id: 3d383f94-7b2c-812b-a479-e763052e64cb | Budget: 75.796 € | Reception: 02/09/2026 | Start: 02/09/2026
-- [PROGRAMA DE AYUDAS "BONO-CONSUMO 2026 CAMPAÑA OTOÑO" DE FORMENTERA DEL SEGURA](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/927461) (AYUNTAMIENTO DE FORMENTERA DEL SEGURA)
-  - Description: El programa Bono-Consumo 2026 Campaña Otoño tiene como objetivo incentivar el consumo de proximidad en el comercio, hostelería y servicios de Formentera del Segura, ayudando a revitalizar el tejido empresarial local y apoyando a los residentes en la adquisición de bienes de consumo.
-  - notion_id: 3d383f94-7b2c-81b5-b4f3-f4ddf47a0fc9 | Budget: 110.340 € | Reception: 02/09/2026 | Start: 30/09/2026 | End: 05/10/2026
