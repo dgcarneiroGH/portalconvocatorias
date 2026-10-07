@@ -5,8 +5,8 @@ region: España
 beneficiario: Empresa
 tag_seo: investigacion_y_ciencia
 count: 2
-publication_date: 2026-10-06
-last_update_date: 2026-10-06
+publication_date: 2026-10-07
+last_update_date: 2026-10-07
 slug: subvenciones-empresa-espana-investigacion_y_ciencia
 ---
 
