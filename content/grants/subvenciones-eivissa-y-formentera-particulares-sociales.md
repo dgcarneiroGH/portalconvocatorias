@@ -6,7 +6,7 @@ beneficiario: Particulares
 tag_seo: sociales
 count: 3
 publication_date: 2026-09-26
-last_update_date: 2026-10-06
+last_update_date: 2026-10-07
 slug: subvenciones-eivissa-y-formentera-particulares-sociales
 ---
 
