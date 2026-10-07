@@ -5,8 +5,8 @@ region: Lleida
 beneficiario: Asociaciones y ong
 tag_seo: sociales
 count: 4
-publication_date: 2026-10-06T10:01:05.581Z
-last_update_date: 2026-10-06
+publication_date: 2026-10-06
+last_update_date: 2026-10-07
 slug: subvenciones-asociaciones-lleida-sociales
 ---
 
