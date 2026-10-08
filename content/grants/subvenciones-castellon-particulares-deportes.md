@@ -6,7 +6,7 @@ beneficiario: Particulares
 tag_seo: deportes
 count: 4
 publication_date: 2026-09-14
-last_update_date: 2026-10-07
+last_update_date: 2026-10-08
 slug: subvenciones-castellon-particulares-deportes
 ---
 
