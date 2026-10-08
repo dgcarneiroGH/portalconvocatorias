@@ -1,18 +1,18 @@
 ---
 title: Ayudas para investigacion y ciencia en Canarias para Pyme y autónomos
-description: "Recopilatorio de las 6 ayudas activas en Canarias para Pyme y autónomos dentro del sector investigacion_y_ciencia, con presupuesto y plazos de solicitud."
+description: "Recopilatorio de las 5 ayudas activas en Canarias para Pyme y autónomos dentro del sector investigacion_y_ciencia, con presupuesto y plazos de solicitud."
 region: Canarias
 beneficiario: Pyme y autónomos
 tag_seo: investigacion_y_ciencia
-count: 6
-publication_date: 2026-10-07
-last_update_date: 2026-10-07
+count: 5
+publication_date: 2026-10-08
+last_update_date: 2026-10-08
 slug: subvenciones-autonomos-canarias-investigacion_y_ciencia
 ---
 
 # Ayudas para investigacion_y_ciencia en Canarias para Pyme y autónomos
 
-Ayudas activas (6):
+Ayudas activas (5):
 
 - [LÍNEA 3 INCENTIVOS CANARIOS](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/906076) (CONSEJERÍA DE ECONOMÍA, INDUSTRIA, COMERCIO Y AUTÓNOMOS)
   - Description: Esta subvención tiene como objetivo mejorar la competitividad, sostenibilidad, creación y crecimiento empresarial en Canarias, con un enfoque en la innovación y diversificación de las pymes a través de un financiamiento significativo de la Unión Europea.
@@ -24,9 +24,6 @@ Ayudas activas (6):
   - Description: No se proporciona información sobre el objetivo o el financiamiento de la subvención.
   - Nominative Grant
   - notion_id: 3dd83f94-7b2c-8160-a230-dae44b52aec6 | Budget: 32.458,18 € | Reception: 29/06/2026
-- [CONVOCATORIA SUBVENCIONES DIGINNOVA PARA LA INCORPORACIÓN DE TALENTO JOVEN A LAS EMPRESAS Y CENTROS DE INVESTIGACIÓN DE CANARIAS 2026](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/918019) (CONSEJERÍA DE UNIVERSIDADES, CIENCIA E INNOVACIÓN Y CULTURA)
-  - Description: Convocatoria de subvenciones para fomentar la formación y la incorporación de talento a empresas y centros de investigación en Canarias, en línea con la innovación, la sostenibilidad y la transformación digital, cofinanciada por el Fondo Social Europeo Plus.
-  - notion_id: 3dd83f94-7b2c-81b1-b8d7-cd1db26714a1 | Budget: 2.250.000 € | Reception: 08/07/2026 | Start: 15/09/2026 | End: 06/10/2026
 - [ORDEN POR LA QUE SE CONVOCAN SUBVENCIONES DE APOYO A AGRUPACIONES EMPRESARIALES INNOVADORAS O CLÚSTERES PARA LA REALIZACIÓN DE ACTUACIONES DE INNOVACIÓN EN CANARIAS, EJERCICIO 2027, EN TRAMITACIÓN ANTICIPADA](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/921311) (CONSEJERÍA DE UNIVERSIDADES, CIENCIA E INNOVACIÓN Y CULTURA)
   - Description: Esta subvención tiene como objetivo apoyar a Agrupaciones Empresariales Innovadoras o Clústeres en la realización de actuaciones de innovación en Canarias durante el ejercicio 2027.
   - notion_id: 3dd83f94-7b2c-8159-ab0d-e7c0a2f9bd55 | Budget: 300.000 € | Reception: 23/07/2026 | Start: 01/10/2026 | End: 31/10/2026
