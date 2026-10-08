@@ -5,8 +5,8 @@ region: Canarias
 beneficiario: Pyme y autónomos
 tag_seo: sector_primario
 count: 13
-publication_date: 2026-10-07
-last_update_date: 2026-10-07
+publication_date: 2026-10-08
+last_update_date: 2026-10-08
 slug: subvenciones-autonomos-canarias-sector_primario
 ---
 
