@@ -1,26 +1,22 @@
 ---
 title: Ayudas para cultura en Almería para Pyme y autónomos
-description: "Recopilatorio de las 5 ayudas activas en Almería para Pyme y autónomos dentro del sector cultura, con presupuesto y plazos de solicitud."
+description: "Recopilatorio de las 4 ayudas activas en Almería para Pyme y autónomos dentro del sector cultura, con presupuesto y plazos de solicitud."
 region: Almería
 beneficiario: Pyme y autónomos
 tag_seo: cultura
-count: 5
+count: 4
 publication_date: 2026-09-21
-last_update_date: 2026-10-07
+last_update_date: 2026-10-08
 slug: subvenciones-almeria-autonomos-cultura
 ---
 
 # Ayudas para cultura en Almería para Pyme y autónomos
 
-Ayudas activas (5):
+Ayudas activas (4):
 
 - [XX CONCURSO PINTURA JUAN IBAÑEZ 226](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/930873) (AYUNTAMIENTO DE ROQUETAS DE MAR)
   - Description: No hay información disponible sobre la convocatoria.
   - notion_id: 3e983f94-7b2c-81af-891a-ce7147b7f06a | Budget: 4500 € | Reception: 22/09/2026 | Start: 23/09/2026 | End: 01/12/2026
-- [BASES CERTAMEN NACIONAL DE LARGOMETRAJES "OPERA PRIMA", APROBADAS POR AC. NÚM. 7 EN J.G. DE 20 DE JULIO DE 2026.](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/920144) (DIPUTACIÓN PROVINCIAL DE ALMERÍA)
-  - Description: La subvención tiene como objetivo promocionar la provincia de Almería y su vinculación con la industria y la cultura audiovisual a través del XXV Festival Internacional de Cine de Almería.
-  - Requirements: Productores o realizadores con derechos sobre las obras; Largometrajes de nacionalidad española; Primer trabajo de dirección; Producción posterior al 1 de septiembre de 2025; Primer largometraje de ficción aceptado independientemente del número de documentales dirigidos
-  - notion_id: 3e083f94-7b2c-810f-ac97-f360a526ecbc | Budget: 42.000 € | Reception: 20/07/2026 | Start: 21/07/2026 | End: 06/10/2026
 - [CORAL POLIFONICA](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/911522) (AYUNTAMIENTO DE ROQUETAS DE MAR)
   - Description: Esta convocatoria no proporciona información disponible sobre su objetivo o financiamiento.
   - Nominative Grant
