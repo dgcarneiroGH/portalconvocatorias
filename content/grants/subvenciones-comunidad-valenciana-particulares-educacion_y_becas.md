@@ -1,18 +1,18 @@
 ---
 title: Ayudas para educacion y becas en Comunidad valenciana para Particulares
-description: "Recopilatorio de las 17 ayudas activas en Comunidad valenciana para Particulares dentro del sector educacion_y_becas, con presupuesto y plazos de solicitud."
+description: "Recopilatorio de las 16 ayudas activas en Comunidad valenciana para Particulares dentro del sector educacion_y_becas, con presupuesto y plazos de solicitud."
 region: Comunidad valenciana
 beneficiario: Particulares
 tag_seo: educacion_y_becas
-count: 17
+count: 16
 publication_date: 2026-09-22
-last_update_date: 2026-10-07
+last_update_date: 2026-10-08
 slug: subvenciones-comunidad-valenciana-particulares-educacion_y_becas
 ---
 
 # Ayudas para educacion_y_becas en Comunidad valenciana para Particulares
 
-Ayudas activas (17):
+Ayudas activas (16):
 
 - [BECAS INTRAMURALES DE INICIACIÓN A LA INVESTIGACIÓN PARA ESTUDIANTADO DE MÁSTERES OFICIALES Y DE GRADOS CON NIVEL MECES3, PARA EL CURSO 2026-2027](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/922732) (UNIVERSIDAD JAUME I DE CASTELLÓN)
   - Description: El objetivo de estas becas es promover la iniciación en tareas de investigación del estudiantado matriculado en másteres oficiales o en el último curso de grados con nivel MECES3, específicamente en la Universitat Jaume I, durante el curso académico 2026-2027.
@@ -53,10 +53,6 @@ Ayudas activas (17):
   - Description: El objetivo de esta convocatoria es conceder un premio al estudiante que presente el mejor Trabajo Fin de Grado o Tesina de Máster en Marketing Alimentario, realizado en la UPV durante el periodo indicado.
   - Requirements: Estudiantes de la UPV; Haber defendido y aprobado su Trabajo Fin de Grado o Tesina de Máster entre el 1 de octubre de 2025 y el 30 de septiembre de 2026; Temática relacionada con el Marketing Alimentario
   - notion_id: 3e383f94-7b2c-8176-9788-c0853453e53a | Budget: 1000 € | Reception: 11/09/2026 | Start: 16/09/2026 | End: 30/11/2026
-- [PROGRAMA DE MOVILIDAD ERASMUS MÁSTER DE LA UV PARA EL CURSO ACADÉMICO 2026-2027](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/929706) (UNIVERSITAT DE VALÈNCIA (ESTUDI GENERAL))
-  - Description: El objeto de la convocatoria es la concesión de becas del programa de movilidad de estudiantes de máster en el ámbito europeo (Erasmus Máster), permitiendo la realización de estudios de máster en otras universidades.
-  - Requirements: Alumnado de estudios oficiales de Máster de la Universitat de València; Estar matriculado/a en másteres oficiales de la Universitat de València; No haber disfrutado previamente de una estancia Erasmus que supere 12 meses; No haber obtenido una beca JMD ni de máster Erasmus Mundus; Acreditar el conocimiento del idioma según los requisitos establecidos; Cumplir requisitos específicos establecidos por la universidad de destino
-  - notion_id: 3e383f94-7b2c-81b7-8e6b-deddc2d16bb6 | Budget: 75.000 € | Reception: 16/09/2026 | Start: 08/09/2026 | End: 06/10/2026
 - [BECA D 'INICIACIÓ A LA INVESTIGACIÓ (PROJECTE «MODALITAT A: AJUDES COMPLEMENTÀRIES ALS PROJECTES D’INVESTIGACIÓ CAPTATS PEL PERSONAL INVESTIGADOR DE LA UNIVERSITAT JAUME I DINS DEL PEICTI I DEL PROGRAMA R+D+I DE LA GENERALITAT VALENCIANA» –](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/930380) (UNIVERSIDAD JAUME I DE CASTELLÓN)
   - Description: Convocatoria de una beca de iniciación a la investigación en la Universitat Jaume I, destinada a estudiantes de grado y máster universitario, con el objetivo de fomentar las vocaciones científicas mediante la realización de tareas de investigación tutorizadas en un proyecto específico.
   - Requirements: Estudiantes de grado y máster universitario en la Universitat Jaume I; Estar vinculados a un proyecto de investigación; No se especifican límites de edad; Ubicación en la Universitat Jaume I
