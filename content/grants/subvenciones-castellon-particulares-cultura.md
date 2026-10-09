@@ -6,7 +6,7 @@ beneficiario: Particulares
 tag_seo: cultura
 count: 4
 publication_date: 2026-09-14
-last_update_date: 2026-10-08
+last_update_date: 2026-10-09
 slug: subvenciones-castellon-particulares-cultura
 ---
 
