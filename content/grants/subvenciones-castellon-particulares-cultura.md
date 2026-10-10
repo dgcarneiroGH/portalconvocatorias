@@ -1,23 +1,19 @@
 ---
 title: Ayudas para cultura en Castellón para Particulares
-description: "Recopilatorio de las 4 ayudas activas en Castellón para Particulares dentro del sector cultura, con presupuesto y plazos de solicitud."
+description: "Recopilatorio de las 3 ayudas activas en Castellón para Particulares dentro del sector cultura, con presupuesto y plazos de solicitud."
 region: Castellón
 beneficiario: Particulares
 tag_seo: cultura
-count: 4
+count: 3
 publication_date: 2026-09-14
-last_update_date: 2026-10-09
+last_update_date: 2026-10-10
 slug: subvenciones-castellon-particulares-cultura
 ---
 
 # Ayudas para cultura en Castellón para Particulares
 
-Ayudas activas (4):
+Ayudas activas (3):
 
-- [CONCURSO DE COMPOSICIÓN DE MÚSICA CORAL EN VALENCIANO](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/916660) (AYUNTAMIENTO DE BORRIANA/BURRIANA)
-  - Description: Estimular la ampliación del repertorio coral en valenciano y ofrecer la oportunidad de interpretar obras inéditas.
-  - Requirements: Músicos mayores de 18 años; Residentes o nacidos en la Comunidad Valenciana; Sin límite de edad; No estar bajo prohibiciones para obtener la condición de beneficiario según el artículo 13 de la ley general de subvenciones; Estar al corriente de obligaciones tributarias y frente a la Seguridad Social
-  - notion_id: 3db83f94-7b2c-81c0-a5e7-cda078cd6cc4 | Budget: 600 € | Reception: 02/07/2026 | Start: 03/07/2026 | End: 08/10/2026
 - [CONCURSO RELATOS DE MUJERES 2026](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/920945) (AYUNTAMIENTO DE CASTELLÓN DE LA PLANA/CASTELLÓ DE LA PLANA)
   - Description: El concurso 'Relatos de Mujeres 2026' tiene como objetivo promover la creación literaria entre mujeres mayores de edad a través de relatos originales e inéditos en castellano o valenciano.
   - Requirements: Mujeres mayores de edad; Los relatos deben ser originales e inéditos; Presentación en castellano o valenciano; Extensión mínima de 10 folios y máxima de 40; Presentar los trabajos sin firma, lema o seudónimo
