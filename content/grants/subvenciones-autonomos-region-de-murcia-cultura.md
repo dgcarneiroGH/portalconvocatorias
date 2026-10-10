@@ -6,7 +6,7 @@ beneficiario: Pyme y autónomos
 tag_seo: cultura
 count: 1
 publication_date: 2026-09-29
-last_update_date: 2026-10-09
+last_update_date: 2026-10-10
 slug: subvenciones-autonomos-region-de-murcia-cultura
 ---
 
