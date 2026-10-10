@@ -6,7 +6,7 @@ beneficiario: Particulares
 tag_seo: educacion_y_becas
 count: 4
 publication_date: 2026-10-03
-last_update_date: 2026-10-09
+last_update_date: 2026-10-10
 slug: subvenciones-particulares-toledo-educacion_y_becas
 ---
 
