@@ -5,8 +5,8 @@ region: Mallorca
 beneficiario: Pyme y autónomos
 tag_seo: comercio
 count: 5
-publication_date: 2026-10-09T10:01:03.330Z
-last_update_date: 2026-10-09
+publication_date: 2026-10-09
+last_update_date: 2026-10-10
 slug: subvenciones-autonomos-mallorca-comercio
 ---
 
