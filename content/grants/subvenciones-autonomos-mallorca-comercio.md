@@ -1,26 +1,23 @@
 ---
 title: Ayudas para comercio en Mallorca para Pyme y autónomos
-description: "Recopilatorio de las 5 ayudas activas en Mallorca para Pyme y autónomos dentro del sector comercio, con presupuesto y plazos de solicitud."
+description: "Recopilatorio de las 4 ayudas activas en Mallorca para Pyme y autónomos dentro del sector comercio, con presupuesto y plazos de solicitud."
 region: Mallorca
 beneficiario: Pyme y autónomos
 tag_seo: comercio
-count: 5
+count: 4
 publication_date: 2026-10-09
-last_update_date: 2026-10-10
+last_update_date: 2026-10-11
 slug: subvenciones-autonomos-mallorca-comercio
 ---
 
 # Ayudas para comercio en Mallorca para Pyme y autónomos
 
-Ayudas activas (5):
+Ayudas activas (4):
 
 - [EN SESIÓN ORDINARIA CELEBRADA DÍA 9 DE FEBRERO DE 2026, LA JUNTA DE GOBIERNO DEL AYUNTAMIENTO DE ALCÚDIA HA APROBADO LAS BASES PARA LA CONCESIÓN DE BONOS DE COMPRA PARA LA PROMOCIÓN Y REACTIVACIÓN DEL COMERCIO LOCAL DEL MUNICIPIO DE ALCÚDIA.](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/895344) (AYUNTAMIENTO DE ALCÚDIA)
   - Description: El objetivo de esta subvención es promover y reactivar el comercio local en el municipio de Alcúdia mediante la concesión de bonos de compra, ayudando así a paliar las consecuencias de la reducción de las expectativas de crecimiento económico.
   - Requirements: Residencia en el municipio de Alcúdia; Establecimientos comerciales deben haber estado abiertos entre el 1 de noviembre de 2025 y el 28 de febrero de 2026
   - notion_id: 3f483f94-7b2c-81e9-8c03-d5212f6c6ada | Budget: 50.000 € | Reception: 25/03/2026
-- [APROBADA POR LA JUNTA DE GOBIERNO LOCAL DE DÍA 1 DE SEPTIEMBRE DE 2026 LAS BASES PARA LA CONCESIÓN DE VALES DE COMPRA PARA LA PROMOCIÓN Y REACTIVACIÓN DEL COMERCIO LOCAL DE FELANITX, AÑO 2026](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/926816) (AYUNTAMIENTO DE FELANITX)
-  - Description: La campaña de vales de compra del Ayuntamiento de Felanitx tiene como objetivo incentivar el consumo en el comercio local, ayudando a las familias a reducir el coste de sus compras y a mantener la actividad económica en el municipio.
-  - notion_id: 3f483f94-7b2c-81b2-baf0-df435e30c313 | Budget: 30.000 € | Reception: 27/08/2026 | Start: 28/08/2026 | End: 09/10/2026
 - [BASES REGULADORAS PARA LA CONCESIÓN DE BONOS DE COMPRA PARA LA PROMOCIÓN Y REACTIVACIÓN DEL COMERCIO LOCAL DEL MUNICIPIO DE POLLENÇA](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/927059) (AYUNTAMIENTO DE POLLENÇA)
   - Description: El objetivo de esta subvención es fomentar el comercio local en Pollença mediante la emisión de bonos de consumo que los ciudadanos pueden utilizar en establecimientos comerciales adheridos al programa, buscando reactivar la economía local y el desarrollo de pequeñas y medianas empresas.
   - Requirements: Personas físicas y jurídicas con establecimiento en Pollença; Establecimientos abiertos durante los meses de menor actividad turística
