@@ -1,18 +1,18 @@
 ---
 title: Ayudas para cultura en España para Asociaciones y ong
-description: "Recopilatorio de las 7 ayudas activas en España para Asociaciones y ong dentro del sector cultura, con presupuesto y plazos de solicitud."
+description: "Recopilatorio de las 6 ayudas activas en España para Asociaciones y ong dentro del sector cultura, con presupuesto y plazos de solicitud."
 region: España
 beneficiario: Asociaciones y ong
 tag_seo: cultura
-count: 7
-publication_date: 2026-10-10
-last_update_date: 2026-10-10
+count: 6
+publication_date: 2026-10-11
+last_update_date: 2026-10-11
 slug: subvenciones-asociaciones-espana-cultura
 ---
 
 # Ayudas para cultura en España para Asociaciones y ong
 
-Ayudas activas (7):
+Ayudas activas (6):
 
 - [CONVENIO ENTRE EL AYTO MISLATA Y LA ASOCIACIÓN DE VECINOS AGRUPACIÓN VECINAL DE MISLATA 2026](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/921096)
   - Description: Este convenio tiene como objetivo fomentar la realización de actividades culturales, festivas y de ocio para los vecinos de Mislata durante el año 2026, promoviendo la participación ciudadana y el asociacionismo.
@@ -35,10 +35,6 @@ Ayudas activas (7):
   - Description: El objetivo de esta subvención es financiar el desarrollo de la actividad cultural de la Fundación Amantes de Teruel a través de un convenio de colaboración con el Ayuntamiento de Teruel, con un monto total de 20.000 euros para el año 2026.
   - Nominative Grant
   - notion_id: 39f83f94-7b2c-81eb-9d92-da769e9ec000 | Budget: 20.000 € | Reception: 09/07/2026
-- [V CERTAMEN ARTÍSTICO AMIGOS DE LOS ANIMALES. MODALIDAD CLIPMETRAJE “MI VIDA CON UN ANIMAL”.](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/918017)
-  - Description: La finalidad de los premios es reconocer el valor artístico de las obras presentadas que promueven el mensaje y los valores relacionados con la convivencia y la protección animal.
-  - Requirements: Persona física mayor de edad residente en España; Menores de 18 años con autorización de padre, madre o tutor; Profesionales o personas jurídicas como centros educativos y asociaciones legalmente constituidas; No presentar obras con copias o plagios; No aceptar obras creadas exclusivamente por inteligencia artificial
-  - notion_id: 39f83f94-7b2c-819f-95d8-c4839f96afde | Budget: 7500 € | Reception: 08/07/2026 | Start: 09/07/2026 | End: 09/10/2026
 - [CONVOCATORIA QUE RIGE LA CONCESIÓN DE SUBVENCIONES A LAS ASOCIACIONES CULTURALES DE MISLATA, PARA CONTRIBUIR A LA FINANCIACIÓN DEL FUNCIONAMIENTO DE SUS SEDES SOCIALES, PROGRAMAS, ACTIVIDADES CULTURALES Y DESPLAZAMIENTOS DESARROLLADOS ENTRE 2025 Y 2026.](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/918536)
   - Description: Esta convocatoria tiene como objetivo financiar el funcionamiento ordinario de las sedes sociales, así como los programas y actividades culturales y desplazamientos derivados de la participación en actos culturales de las asociaciones culturales locales de Mislata.
   - Requirements: Asociaciones culturales locales inscritas en el Registro Municipal de Asociaciones de Mislata.; Estar legalmente constituidas como asociación sin ánimo de lucro.; Hallarse al corriente de obligaciones tributarias y con el Ayuntamiento de Mislata.; No tener deudas pendientes con la Administración.
