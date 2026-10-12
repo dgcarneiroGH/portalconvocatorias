@@ -6,7 +6,7 @@ beneficiario: Pyme y autónomos
 tag_seo: comercio
 count: 3
 publication_date: 2026-09-28
-last_update_date: 2026-10-11
+last_update_date: 2026-10-12
 slug: subvenciones-autonomos-salamanca-comercio
 ---
 
