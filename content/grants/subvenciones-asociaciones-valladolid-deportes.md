@@ -5,8 +5,8 @@ region: Valladolid
 beneficiario: Asociaciones y ong
 tag_seo: deportes
 count: 11
-publication_date: 2026-10-11T10:01:01.221Z
-last_update_date: 2026-10-11
+publication_date: 2026-10-11
+last_update_date: 2026-10-12
 slug: subvenciones-asociaciones-valladolid-deportes
 ---
 
