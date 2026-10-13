@@ -5,8 +5,8 @@ region: Pais vasco
 beneficiario: Pyme y autónomos
 tag_seo: investigacion_y_ciencia
 count: 1
-publication_date: 2026-10-12
-last_update_date: 2026-10-12
+publication_date: 2026-10-13
+last_update_date: 2026-10-13
 slug: subvenciones-autonomos-pais-vasco-investigacion_y_ciencia
 ---
 
