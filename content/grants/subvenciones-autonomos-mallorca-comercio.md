@@ -1,18 +1,18 @@
 ---
 title: Ayudas para comercio en Mallorca para Pyme y autónomos
-description: "Recopilatorio de las 4 ayudas activas en Mallorca para Pyme y autónomos dentro del sector comercio, con presupuesto y plazos de solicitud."
+description: "Recopilatorio de las 3 ayudas activas en Mallorca para Pyme y autónomos dentro del sector comercio, con presupuesto y plazos de solicitud."
 region: Mallorca
 beneficiario: Pyme y autónomos
 tag_seo: comercio
-count: 4
+count: 3
 publication_date: 2026-10-09
-last_update_date: 2026-10-12
+last_update_date: 2026-10-13
 slug: subvenciones-autonomos-mallorca-comercio
 ---
 
 # Ayudas para comercio en Mallorca para Pyme y autónomos
 
-Ayudas activas (4):
+Ayudas activas (3):
 
 - [EN SESIÓN ORDINARIA CELEBRADA DÍA 9 DE FEBRERO DE 2026, LA JUNTA DE GOBIERNO DEL AYUNTAMIENTO DE ALCÚDIA HA APROBADO LAS BASES PARA LA CONCESIÓN DE BONOS DE COMPRA PARA LA PROMOCIÓN Y REACTIVACIÓN DEL COMERCIO LOCAL DEL MUNICIPIO DE ALCÚDIA.](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/895344) (AYUNTAMIENTO DE ALCÚDIA)
   - Description: El objetivo de esta subvención es promover y reactivar el comercio local en el municipio de Alcúdia mediante la concesión de bonos de compra, ayudando así a paliar las consecuencias de la reducción de las expectativas de crecimiento económico.
@@ -25,7 +25,3 @@ Ayudas activas (4):
 - [CONVOCATÓRIA DE SUBVENCIONES PARA DAR APOYO AL COMERCIO Y AL PRODUCTO DE PROXIMIDAD MEDIANTE LA CAMPAÑA "BONOS MALLORCA" PARA EL AÑO 2026.](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/934349) (DEPARTAMENTO DE PROMOCIÓN ECONÓMICA Y DESARROLLO LOCAL)
   - Description: Sin información disponible sobre el objetivo del subsidio.
   - notion_id: 3f483f94-7b2c-81bb-be41-e1effd16e9a0 | Budget: 800.000 € | Reception: 08/10/2026
-- [XXI CONVOCATORIA PARA LA CONCESIÓN DE LOS PREMIOS DE DECORACIONES DE ESTABLECIMIENTOS COMERCIALES DE NAVIDAD DE 2026](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/930571) (AYUNTAMIENTO DE LLUCMAJOR)
-  - Description: La subvenció té com a objectiu premiar les millors decoracions dels establiments comercials de Nadal del municipi de Llucmajor per fomentar l’activitat del comerç local i potenciar l'ambientació nadalenca.
-  - Requirements: Ser titular d'establiments comercials permanents oberts al públic del terme municipal de Llucmajor.; No estar sotmesos a cap de les prohibicions per a ser beneficiaris de subvencions, establerts a l'article 13 de la Llei 38/2003.
-  - notion_id: 3f483f94-7b2c-810c-a539-d4ac6d04306a | Budget: 2500 € | Reception: 21/09/2026 | Start: 22/09/2026 | End: 11/10/2026
