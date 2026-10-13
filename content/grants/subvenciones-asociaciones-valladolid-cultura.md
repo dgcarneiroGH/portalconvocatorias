@@ -5,8 +5,8 @@ region: Valladolid
 beneficiario: Asociaciones y ong
 tag_seo: cultura
 count: 6
-publication_date: 2026-10-12T10:01:03.623Z
-last_update_date: 2026-10-12
+publication_date: 2026-10-12
+last_update_date: 2026-10-13
 slug: subvenciones-asociaciones-valladolid-cultura
 ---
 
@@ -25,7 +25,7 @@ Ayudas activas (6):
 - [BASES DE LA CONVOCATORIA PARA RESIDENTES DE GALERÍASVA AÑO 2027](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/930845) (FUNDACIÓN MUNICIPAL DE CULTURA)
   - Description: El objetivo de la convocatoria es seleccionar 10 proyectos residentes para 2027 en el Centro de Creación Galerías VA, enfocados en iniciativas culturales, artísticas o comunitarias. Se busca fomentar la producción creativa y activamente involucrar a la ciudadanía en la cultura.
   - Requirements: Domicilio fiscal en Valladolid capital; Propuestas artísticas, empresariales o de cultura comunitaria; Proyectos creativos con finalidad cultural, social o creativa; No pueden ser proyectos puramente musicales; No pueden promover actitudes discriminatorias; No deben carecer de viabilidad técnica
-  - notion_id: 3f683f94-7b2c-812b-a886-d4f011e115a5 | Budget: 11.000 € | Reception: 22/09/2026
+  - notion_id: 3f683f94-7b2c-812b-a886-d4f011e115a5 | Budget: 11.000 € | Reception: 22/09/2026 | Start: 23/09/2026
 - [CONVENIO DE COLABORACIÓN CON ASOCIACIÓN TE VEO PAR ALA CELEBRACIÓN EN EL TEATRO CALDERÓN DEL "XXVIII ENCUENTROS TE VEO 2026" DEL 9 AL 15 DE NOVIEMBRE](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/931789) (FUNDACIÓN MUNICIPAL DE CULTURA)
   - Description: Este convenio tiene como objetivo financiar la celebración del XXVIII Encuentros TE VEO 2026, un evento teatral destinado a niños y jóvenes, promovido por la Asociación TE VEO.
   - Nominative Grant
