@@ -6,7 +6,7 @@ beneficiario: Asociaciones y ong
 tag_seo: deportes
 count: 11
 publication_date: 2026-10-11
-last_update_date: 2026-10-14
+last_update_date: 2026-10-15
 slug: subvenciones-asociaciones-valladolid-deportes
 ---
 
