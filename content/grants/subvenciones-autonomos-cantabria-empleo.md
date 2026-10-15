@@ -5,8 +5,8 @@ region: Cantabria
 beneficiario: Pyme y autónomos
 tag_seo: empleo
 count: 6
-publication_date: 2026-10-14T10:01:03.058Z
-last_update_date: 2026-10-14
+publication_date: 2026-10-14
+last_update_date: 2026-10-15
 slug: subvenciones-autonomos-cantabria-empleo
 ---
 
