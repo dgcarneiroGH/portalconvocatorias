@@ -6,7 +6,7 @@ beneficiario: Empresa
 tag_seo: sostenibilidad
 count: 4
 publication_date: 2026-10-10
-last_update_date: 2026-10-14
+last_update_date: 2026-10-15
 slug: subvenciones-andalucia-empresa-sostenibilidad
 ---
 
