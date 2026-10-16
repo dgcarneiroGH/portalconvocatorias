@@ -6,7 +6,7 @@ beneficiario: Particulares
 tag_seo: formacion
 count: 8
 publication_date: 2026-09-02
-last_update_date: 2026-10-15
+last_update_date: 2026-10-16
 slug: subvenciones-particulares-valencia-formacion
 ---
 
