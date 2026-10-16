@@ -5,8 +5,8 @@ region: Navarra
 beneficiario: Pyme y autónomos
 tag_seo: emprendimiento
 count: 6
-publication_date: 2026-10-15T10:01:07.408Z
-last_update_date: 2026-10-15
+publication_date: 2026-10-15
+last_update_date: 2026-10-16
 slug: subvenciones-autonomos-navarra-emprendimiento
 ---
 
