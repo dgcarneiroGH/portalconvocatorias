@@ -1,18 +1,18 @@
 ---
 title: Ayudas para sector primario en Canarias para Pyme y autónomos
-description: "Recopilatorio de las 13 ayudas activas en Canarias para Pyme y autónomos dentro del sector sector_primario, con presupuesto y plazos de solicitud."
+description: "Recopilatorio de las 11 ayudas activas en Canarias para Pyme y autónomos dentro del sector sector_primario, con presupuesto y plazos de solicitud."
 region: Canarias
 beneficiario: Pyme y autónomos
 tag_seo: sector_primario
-count: 13
-publication_date: 2026-10-16
-last_update_date: 2026-10-16
+count: 11
+publication_date: 2026-10-17
+last_update_date: 2026-10-17
 slug: subvenciones-autonomos-canarias-sector_primario
 ---
 
 # Ayudas para sector_primario en Canarias para Pyme y autónomos
 
-Ayudas activas (13):
+Ayudas activas (11):
 
 - [SUBVENCIÓN A LA COMUNIDAD AUTÓNOMA DE CANARIAS PARA APOYAR LA FINANCIACIÓN DEL PLAN DE IMPULSO AL SECTOR PRIMARIO CANARIO](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/927825) (SUBSECRETARÍA DE AGRICULTURA, PESCA Y ALIMENTACIÓN)
   - Description: El objetivo de esta subvención es apoyar la financiación del Plan de impulso al sector primario en la Comunidad Autónoma de Canarias, garantizando la continuidad de las actividades agrícolas, ganaderas y pesqueras, así como la modernización de infraestructuras y equipamientos para mejorar la productividad y sostenibilidad del sector.
@@ -23,12 +23,6 @@ Ayudas activas (13):
 - [TERESA J. SANTIAGO HERN. REG (UE) 717/2014 MINIMIS](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/921315) (CONSEJERÍA DE AGRICULTURA, GANADERÍA, PESCA Y SOBERANÍA ALIMENTARIA)
   - Description: La subvención tiene como objetivo proporcionar apoyo financiero excepcional a los armadores de embarcaciones de la modalidad atuneros-cañeros con base en Canarias, con el fin de mantener la actividad pesquera durante el ejercicio 2025.
   - notion_id: 3dd83f94-7b2c-815d-88ea-fe2f6e01c6d7 | Budget: 619,18 € | Reception: 23/07/2026
-- [ORDEN POR LA QUE SE CONVOCAN PARA LA CAMPAÑA 2026 LAS AYUDAS DE LA ACCIÓN III.2 APOYO AL SECTOR VACUNO, SUBACCIÓN III.2.5 AYUDA A LA REPOSICIÓN EN VACUNO DE LECHE CON NOVILLAS NACIDAS EN CANARIAS](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/921968) (CONSEJERÍA DE AGRICULTURA, GANADERÍA, PESCA Y AGUAS)
-  - Description: Convocatoria de ayudas para apoyo al sector vacuno en Canarias, específicamente para la reposición de ganado vacuno de leche con novillas nacidas en la región, como parte del Programa Comunitario de Apoyo a las Producciones Agrarias de Canarias.
-  - notion_id: 3dd83f94-7b2c-81f8-9342-fac894df70e2 | Budget: 200.000 € | Reception: 28/07/2026 | Start: 01/10/2026 | End: 15/10/2026
-- [ORDEN POR LA QUE SE CONVOCAN PARA LA CAMPAÑA 2026, LAS AYUDAS DE LA MEDIDA III APOYO A LA PRODUCCIÓN ANIMAL, ACCIÓN III.7 AYUDA PARA LA PRODUCCIÓN DE REPRODUCTORES DE PORCINO EN CANARIAS](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/921984) (CONSEJERÍA DE AGRICULTURA, GANADERÍA, PESCA Y AGUAS)
-  - Description: Esta orden convoca ayudas para la producción de reproductores de porcino en Canarias, en el marco del Programa Comunitario de Apoyo a las Producciones Agrarias de Canarias, con el objetivo de apoyar el sector ganadero y adaptarlo a las necesidades locales.
-  - notion_id: 3dd83f94-7b2c-8121-b2e4-fc7834a9c62c | Budget: 250.000 € | Reception: 28/07/2026 | Start: 01/10/2026 | End: 15/10/2026
 - [RESOLUCION VICECONSEJERIA AGRICULTURA SECTOR PRIMARIO CONCEDEN AYUDAS DIRECTAS ALMAZARAS CANARIAS](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/925462) (CONSEJERÍA DE AGRICULTURA, GANADERÍA, PESCA Y SOBERANÍA ALIMENTARIA)
   - Description: Esta subvención está destinada a apoyar a las almazaras de Canarias dadas de alta en el Sistema de Información de los Mercados Oleícolas (SIMO), con el objetivo de preservar su capacidad de molturación y transformación oleícola ante la baja producción de aceituna en las últimas campañas.
   - Requirements: Almazaras dadas de alta en el SIMO en Canarias
