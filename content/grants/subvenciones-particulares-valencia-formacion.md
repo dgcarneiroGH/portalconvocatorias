@@ -1,18 +1,18 @@
 ---
 title: Ayudas para formacion en Valencia para Particulares
-description: "Recopilatorio de las 8 ayudas activas en Valencia para Particulares dentro del sector formacion, con presupuesto y plazos de solicitud."
+description: "Recopilatorio de las 7 ayudas activas en Valencia para Particulares dentro del sector formacion, con presupuesto y plazos de solicitud."
 region: Valencia
 beneficiario: Particulares
 tag_seo: formacion
-count: 8
+count: 7
 publication_date: 2026-09-02
-last_update_date: 2026-10-16
+last_update_date: 2026-10-17
 slug: subvenciones-particulares-valencia-formacion
 ---
 
 # Ayudas para formacion en Valencia para Particulares
 
-Ayudas activas (8):
+Ayudas activas (7):
 
 - [CONVOCATORIA DE LAS BASES DEL XXVII CONCURSO ESCOLAR DE NARRATIVA Y POESÍA INFANTIL-JUVENIL LES PENYETES](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/921802) (AYUNTAMIENTO DE XIRIVELLA)
   - Description: Estos premios tienen como objetivo fomentar el uso de la escritura en valenciano en el ámbito escolar del municipio de Xirivella, dirigiéndose a escolares de diversas etapas educativas.
@@ -41,7 +41,3 @@ Ayudas activas (8):
   - Description: La subvención tiene como objetivo financiar el programa Escuelas Taller, destinado a la formación y cualificación profesional de jóvenes desempleados en la Comunitat Valenciana, facilitando su inserción laboral a través de experiencias formativas relacionadas con proyectos de interés social.
   - Requirements: Ser jóvenes mayores de 16 y menores de 30 años.; Estar desempleados según la normativa vigente.; Cumplir con los requisitos para acceder a las acciones formativas establecidas.
   - notion_id: 3cf83f94-7b2c-8176-8d6d-e5d6cd90acbe | Budget: 12.000 € | Reception: 01/09/2026
-- [CONVOCATORIA DEL AYUNTAMIENTO DE MASSALFASSAR PARA LA CONCESIÓN DE AYUDAS EN MATERIA DE CHEQUE ESCOLAR - CURSO 2026-2027.](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/927207) (AYUNTAMIENTO DE MASSALFASSAR)
-  - Description: Las ayudas del Ayuntamiento de Massalfassar tienen como objetivo sufragar los gastos de los materiales escolares necesarios para el inicio del curso 2026-2027 en el CEIP Sant Llorenç Màrtir, con un límite máximo de 35 euros por alumno/a.
-  - Requirements: Ser padres, madres, tutores/as o acogedores/as de hijos/as empadronados/as en Massalfassar.; Estar matriculados/as en el CEIP Sant Llorenç Màrtir.; Haber incurrido en gastos de libros y material escolar específico.; Haber abonado la factura correspondiente a esos gastos.; No estar incurso en ninguna causa de exclusión según la Ley 38/2003.; No tener deudas pendientes con el Ayuntamiento de Massalfassar.; Haber justificado cualquier subvención previa del Ayuntamiento.
-  - notion_id: 3cf83f94-7b2c-811c-8aee-db12b7691044 | Budget: 5000 € | Reception: 01/09/2026 | Start: 01/09/2026 | End: 15/10/2026
