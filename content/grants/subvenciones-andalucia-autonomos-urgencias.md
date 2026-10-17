@@ -6,7 +6,7 @@ beneficiario: Pyme y autónomos
 tag_seo: urgencias
 count: 21
 publication_date: 2026-10-04
-last_update_date: 2026-10-16
+last_update_date: 2026-10-17
 slug: subvenciones-andalucia-autonomos-urgencias
 ---
 
