@@ -5,8 +5,8 @@ region: Comunidad foral de navarra
 beneficiario: Pyme y autónomos
 tag_seo: sector_primario
 count: 8
-publication_date: 2026-10-17T10:01:07.170Z
-last_update_date: 2026-10-17
+publication_date: 2026-10-17
+last_update_date: 2026-10-18
 slug: subvenciones-autonomos-comunidad-foral-de-navarra-sector_primario
 ---
 
