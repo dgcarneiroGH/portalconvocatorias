@@ -1,18 +1,18 @@
 ---
 title: Ayudas para cultura en España para Asociaciones y ong
-description: "Recopilatorio de las 5 ayudas activas en España para Asociaciones y ong dentro del sector cultura, con presupuesto y plazos de solicitud."
+description: "Recopilatorio de las 4 ayudas activas en España para Asociaciones y ong dentro del sector cultura, con presupuesto y plazos de solicitud."
 region: España
 beneficiario: Asociaciones y ong
 tag_seo: cultura
-count: 5
-publication_date: 2026-10-17
-last_update_date: 2026-10-17
+count: 4
+publication_date: 2026-10-18
+last_update_date: 2026-10-18
 slug: subvenciones-asociaciones-espana-cultura
 ---
 
 # Ayudas para cultura en España para Asociaciones y ong
 
-Ayudas activas (5):
+Ayudas activas (4):
 
 - [CONVENIO ENTRE EL AYTO MISLATA Y LA ASOCIACIÓN DE VECINOS AGRUPACIÓN VECINAL DE MISLATA 2026](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/921096)
   - Description: Este convenio tiene como objetivo fomentar la realización de actividades culturales, festivas y de ocio para los vecinos de Mislata durante el año 2026, promoviendo la participación ciudadana y el asociacionismo.
@@ -30,8 +30,3 @@ Ayudas activas (5):
   - Description: El objetivo de esta subvención es financiar el desarrollo de la actividad cultural de la Fundación Amantes de Teruel a través de un convenio de colaboración con el Ayuntamiento de Teruel, con un monto total de 20.000 euros para el año 2026.
   - Nominative Grant
   - notion_id: 39f83f94-7b2c-81eb-9d92-da769e9ec000 | Budget: 20.000 € | Reception: 09/07/2026
-- [CONVOCATORIA QUE RIGE LA CONCESIÓN DE SUBVENCIONES A LAS ASOCIACIONES CULTURALES DE MISLATA, PARA CONTRIBUIR A LA FINANCIACIÓN DEL FUNCIONAMIENTO DE SUS SEDES SOCIALES, PROGRAMAS, ACTIVIDADES CULTURALES Y DESPLAZAMIENTOS DESARROLLADOS ENTRE 2025 Y 2026.](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/918536)
-  - Description: Esta convocatoria tiene como objetivo financiar el funcionamiento ordinario de las sedes sociales, así como los programas y actividades culturales y desplazamientos derivados de la participación en actos culturales de las asociaciones culturales locales de Mislata.
-  - Requirements: Asociaciones culturales locales inscritas en el Registro Municipal de Asociaciones de Mislata.; Estar legalmente constituidas como asociación sin ánimo de lucro.; Hallarse al corriente de obligaciones tributarias y con el Ayuntamiento de Mislata.; No tener deudas pendientes con la Administración.
-  - Nominative Grant
-  - notion_id: 39f83f94-7b2c-8100-8849-de61c0e8e156 | Budget: 48.500 € | Reception: 10/07/2026 | Start: 13/07/2026 | End: 16/10/2026
