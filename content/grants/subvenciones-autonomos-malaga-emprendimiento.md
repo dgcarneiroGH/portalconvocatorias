@@ -5,8 +5,8 @@ region: Málaga
 beneficiario: Pyme y autónomos
 tag_seo: emprendimiento
 count: 5
-publication_date: 2026-10-17
-last_update_date: 2026-10-17
+publication_date: 2026-10-18
+last_update_date: 2026-10-18
 slug: subvenciones-autonomos-malaga-emprendimiento
 ---
 
