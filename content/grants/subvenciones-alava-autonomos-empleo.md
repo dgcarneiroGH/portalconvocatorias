@@ -5,8 +5,8 @@ region: Álava
 beneficiario: Pyme y autónomos
 tag_seo: empleo
 count: 3
-publication_date: 2026-10-18T10:01:02.355Z
-last_update_date: 2026-10-18
+publication_date: 2026-10-18
+last_update_date: 2026-10-19
 slug: subvenciones-alava-autonomos-empleo
 ---
 
