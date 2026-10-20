@@ -6,7 +6,7 @@ beneficiario: Pyme y autónomos
 tag_seo: emprendimiento
 count: 6
 publication_date: 2026-10-15
-last_update_date: 2026-10-19
+last_update_date: 2026-10-20
 slug: subvenciones-autonomos-navarra-emprendimiento
 ---
 
