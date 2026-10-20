@@ -6,7 +6,7 @@ beneficiario: Pyme y autónomos
 tag_seo: sector_primario
 count: 19
 publication_date: 2026-10-16
-last_update_date: 2026-10-19
+last_update_date: 2026-10-20
 slug: subvenciones-autonomos-teruel-sector_primario
 ---
 
