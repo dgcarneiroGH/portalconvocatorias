@@ -1,18 +1,18 @@
 ---
 title: Ayudas para sector primario en Menorca para Pyme y autónomos
-description: "Recopilatorio de las 4 ayudas activas en Menorca para Pyme y autónomos dentro del sector sector_primario, con presupuesto y plazos de solicitud."
+description: "Recopilatorio de las 3 ayudas activas en Menorca para Pyme y autónomos dentro del sector sector_primario, con presupuesto y plazos de solicitud."
 region: Menorca
 beneficiario: Pyme y autónomos
 tag_seo: sector_primario
-count: 4
+count: 3
 publication_date: 2026-09-28
-last_update_date: 2026-10-20
+last_update_date: 2026-10-21
 slug: subvenciones-autonomos-menorca-sector_primario
 ---
 
 # Ayudas para sector_primario en Menorca para Pyme y autónomos
 
-Ayudas activas (4):
+Ayudas activas (3):
 
 - [ACUERDO DEL CONSEJO EJECUTIVO EN SESIÓN DE CARÁCTER ORDINARIO DE 4 DE MAYO DE 2026, RELATIVO A LA CONVOCATORIA DE LAS AYUDAS DEL CONSEJO INSULAR DE MENORCA A LAS COFRADÍAS DE PESCADORES DE MENORCA](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/906773) (CONSELL INSULAR DE MENORCA)
   - Description: Apoyar las actividades generales y promocionales de las cofradías de pescadores de Menorca durante el periodo indicado.
@@ -26,6 +26,3 @@ Ayudas activas (4):
   - Description: Este programa tiene como objetivo promover los productos agroalimentarios autóctonos y diversificar el comercio en Menorca, buscando aliviar el impacto de la inflación en las familias, reforzar el sector primario y la industria alimentaria local, y dinamizar la actividad comercial para beneficiar la economía local.
   - Requirements: Residir en Menorca; Ser productor o elaborador de productos agroalimentarios; Formar parte de la red de venta directa de las Illes Balears; Ser autónomo, microempresa o pequeña empresa del sector comercial
   - notion_id: 3e883f94-7b2c-81a8-ba4d-e0baeb884d8f | Budget: 200.000 € | Reception: 31/07/2026 | Start: 10/08/2026 | End: 23/10/2026
-- [ACUERDO DEL CONSEJO EJECUTIVO EN SESIÓN DE CARÁCTER ORDINARIO DE 31 DE AGOSTO DE 2026, RELATIVO A LAS BASES Y CONVOCATORIA DE LAS AYUDAS A LAS AGRUPACIONES DE DEFENSA VEGETAL DE MENORCA 2026 (EXP. 3201- 2026-000001)](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/930455) (CONSELL INSULAR DE MENORCA)
-  - Description: Estos ajuntos tienen como objetivo apoyar a las agrupaciones de defensa vegetal (ADV) en Menorca para ayudar a combatir plagas y enfermedades vegetales, promoviendo prácticas agrícolas sostenibles y respetuosas con el medio ambiente durante el año 2026.
-  - notion_id: 3e883f94-7b2c-81bb-bee2-f7cb929cda4c | Budget: 60.000 € | Reception: 18/09/2026 | Start: 21/09/2026 | End: 19/10/2026
