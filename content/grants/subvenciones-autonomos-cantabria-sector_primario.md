@@ -1,18 +1,18 @@
 ---
 title: Ayudas para sector primario en Cantabria para Pyme y autónomos
-description: "Recopilatorio de las 12 ayudas activas en Cantabria para Pyme y autónomos dentro del sector sector_primario, con presupuesto y plazos de solicitud."
+description: "Recopilatorio de las 11 ayudas activas en Cantabria para Pyme y autónomos dentro del sector sector_primario, con presupuesto y plazos de solicitud."
 region: Cantabria
 beneficiario: Pyme y autónomos
 tag_seo: sector_primario
-count: 12
+count: 11
 publication_date: 2026-10-13
-last_update_date: 2026-10-21
+last_update_date: 2026-10-22
 slug: subvenciones-autonomos-cantabria-sector_primario
 ---
 
 # Ayudas para sector_primario en Cantabria para Pyme y autónomos
 
-Ayudas activas (12):
+Ayudas activas (11):
 
 - [CONVOCATORIA DE AYUDAS A LOS TITULARES DE EXPLOTACIONES GANADERAS QUE REALICEN PRUEBAS DIAGNÓSTICAS, VACUNACIONES Y/O MEDIDAS SANITARIAS EN EL MARCO DE LOS PROGRAMAS DE SANIDAD ANIMAL DE PREVENCIÓN, CONTROL Y ERRADICACIÓN PARA EL AÑO 2026.](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/913203) (CONSEJERÍA DE DESARROLLO RURAL, GANADERÍA, PESCA Y ALIMENTACIÓN)
   - Description: La subvención está destinada a cubrir los costos de las vacunaciones voluntarias de ganado y otras medidas sanitarias establecidas por la Dirección General de Ganadería.
@@ -52,10 +52,6 @@ Ayudas activas (12):
   - Description: Este programa tiene como objetivo apoyar a personas autónomas y empresas de reciente creación en Cantabria, fomentando su crecimiento y consolidación a través de subvenciones directas para facilitar la contratación y el empleo.
   - Nominative Grant
   - notion_id: 3f883f94-7b2c-8196-90d7-f49505fc5046 | Budget: 100.000 € | Reception: 24/09/2026 | Start: 25/09/2026
-- [ORDEN PRE/141/2026 DE 28 DE SEPTIEMBRE, POR LA QUE SE CONVOCA EN 2026 LA SUBVENCIÓN, DE CONCURRENCIA COMPETITIVA, DESTINADA INSTALACIÓN, PUESTA EN
-FUNCIONAMIENTO, EXPLOTACIÓN Y MANTENIMIENTO DE CAJEROS AUTOMÁTICOS EN MUNICIPIOS EN RIESGO DESPOBLAMIENTO.](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/932236) (CONSEJERÍA PRESIDENCIA, JUSTICIA, SEGURIDAD Y SIMPLIFICACIÓN ADMINISTRATIVA)
-  - Description: Este programa de subvenciones tiene como objetivo incentivar la instalación, funcionamiento y mantenimiento de cajeros automáticos en municipios de Cantabria que están en riesgo de despoblamiento, con el fin de garantizar el acceso a servicios bancarios básicos para los ciudadanos de esas áreas.
-  - notion_id: 3f883f94-7b2c-812f-bda7-d7cbf7f245cc | Budget: 2.279.500 € | Reception: 29/09/2026 | Start: 30/09/2026 | End: 20/10/2026
 - [CONVOCATORIA PARA EL AÑO 2027, DE LAS AYUDAS A LA PROMOCIÓN DE PRODUCTOS ALIMENTARIOS DE CANTABRIA - PYMES](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/929780) (CONSEJERÍA DE DESARROLLO RURAL, GANADERÍA, PESCA Y ALIMENTACIÓN)
   - Description: El objetivo de estas ayudas es promover los productos alimentarios de Cantabria mediante la organización de ferias y mercados alimentarios, así como la asistencia a eventos relevantes en este sector.
   - Requirements: Corporaciones locales de Cantabria; Entidades asociativas de Cantabria; Agrupaciones sin ánimo de lucro de Cantabria
