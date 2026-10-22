@@ -5,8 +5,8 @@ region: Extremadura
 beneficiario: Empresa
 tag_seo: formacion
 count: 3
-publication_date: 2026-10-21T10:01:09.632Z
-last_update_date: 2026-10-21
+publication_date: 2026-10-21
+last_update_date: 2026-10-22
 slug: subvenciones-empresa-extremadura-formacion
 ---
 
