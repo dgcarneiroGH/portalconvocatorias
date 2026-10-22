@@ -1,0 +1,142 @@
+---
+title: Ayudas sociales en Badajoz para Asociaciones y ong
+description: "Recopilatorio de las 29 ayudas activas en Badajoz para Asociaciones y ong dentro del sector sociales, con presupuesto y plazos de solicitud."
+region: Badajoz
+beneficiario: Asociaciones y ong
+tag_seo: sociales
+count: 29
+publication_date: 2026-10-22T10:01:10.828Z
+last_update_date: 2026-10-22
+slug: subvenciones-asociaciones-badajoz-sociales
+---
+
+# Ayudas sociales en Badajoz para Asociaciones y ong
+
+Ayudas activas (29):
+
+- [CONCESIÓN DIRECTA 2026 A EQUIPO SOLIDARIDAD PARA INSERCIÓN SOCIAL PARA COLECTIVOS EXCLUIDOS O EN RIESGO DE EXCLUSIÓN SOCIAL EN LA CIUDAD DE BADAJOZ Y PEDANÍAS](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/926327) (DIRECCIÓN GENERAL DE SERVICIOS SOCIALES, INFANCIA Y FAMILIA)
+  - Description: Subvención destinada a financiar un programa de inserción social para colectivos excluidos o en riesgo de exclusión social en la ciudad de Badajoz y sus pedanías, promovido por la Asociación Equipo Solidaridad.
+  - Requirements: Asociación Equipo Solidaridad debe estar registrada; No debe estar incursa en prohibiciones para obtener la condición de beneficiarios; Cumplir con las obligaciones tributarias y de seguridad social; Aplicar para programas sociales de interés regional
+  - Nominative Grant
+  - notion_id: 40183f94-7b2c-815f-ab18-dd5b5e136436 | Budget: 9000 € | Reception: 25/08/2026
+- [CONCESIÓN DIRECTA 2026 AL AYUNTAMIENTO DE ALMENDRALEJO PARA INTERVENCIÓN SOCIAL EN LA BARRIADA DE SAN JOSÉ](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/926330) (DIRECCIÓN GENERAL DE SERVICIOS SOCIALES, INFANCIA Y FAMILIA)
+  - Description: Subvención para financiar un programa de intervención social en la barriada de San José, promovida por el Ayuntamiento de Almendralejo, dentro del marco de programas sociales de interés regional en la Comunidad Autónoma de Extremadura.
+  - Requirements: Ser el Ayuntamiento de Almendralejo; No estar incursa en prohibiciones para obtener la condición de beneficiarios según la Ley de Subvenciones; Estar al corriente con las obligaciones tributarias y de seguridad social
+  - Nominative Grant
+  - notion_id: 40183f94-7b2c-8125-b4b5-c645eacf7473 | Budget: 60.000 € | Reception: 25/08/2026
+- [CONCESIÓN DIRECTA 2026 A CÁRITAS MÉRIDA BADAJOZ PARA DISPOSITIVOS DE ATENCIÓN A PERSONAS SIN HOGAR EN MÉRIDA-BADAJOZ](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/926346) (DIRECCIÓN GENERAL DE SERVICIOS SOCIALES, INFANCIA Y FAMILIA)
+  - Description: Subvención concedida a Cáritas Diocesana de Mérida-Badajoz para financiar el programa de atención a personas sin hogar en Mérida-Badajoz, en virtud de un decreto para programas sociales de interés regional en Extremadura.
+  - Requirements: Entidad solicitante debe ser Cáritas Diocesana de Mérida-Badajoz; No estar incursa en prohibiciones para la obtención de subvenciones según la Ley 62011; Cumplir con las obligaciones tributarias y de seguridad social
+  - Nominative Grant
+  - notion_id: 40183f94-7b2c-81a7-a9d8-d0a646fd37fe | Budget: 720.000 € | Reception: 25/08/2026
+- [CONCESIÓN DIRECTA 2026 A CRUZ ROJA ESPAÑOLA PARA PROGRAMA ESPACIOS EDUCATIVOS SALUDABLES](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/926373) (DIRECCIÓN GENERAL DE SERVICIOS SOCIALES, INFANCIA Y FAMILIA)
+  - Description: Financiación del programa 'Espacios educativos saludables' a cargo de la Cruz Roja, destinado a programas sociales de interés regional en Extremadura para el año 2026.
+  - Requirements: Entidad solicitante: Cruz Roja; Cumplir requisitos establecidos en la Ley 62011; No estar incurriendo en prohibiciones según el art. 12.2 y 3 de la Ley 62011; Estar al corriente con obligaciones tributarias y de la seguridad social
+  - Nominative Grant
+  - notion_id: 40183f94-7b2c-81aa-be93-e9b842766b23 | Budget: 662.376 € | Reception: 25/08/2026
+- [CONCESIÓN DIRECTA 2026 A TELÉFONO DE LA ESPERANZA PARA ATENCIÓN Y ACOMPAÑAMIENTO SOCIAL TELEFÓNICO A PERSONAS EN SITUACIÓN DE VULNERABILIDAD SOCIAL Y EMOCIONAL](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/926442) (DIRECCIÓN GENERAL DE SERVICIOS SOCIALES, INFANCIA Y FAMILIA)
+  - Description: Subvención a la Asociación Internacional del Teléfono de la Esperanza para financiar un programa de atención y acompañamiento social telefónico dirigido a personas en situaciones de vulnerabilidad social y emocional, en Extremadura.
+  - Nominative Grant
+  - notion_id: 40183f94-7b2c-8192-abc6-ca73699565a5 | Budget: 40.000 € | Reception: 26/08/2026
+- [SUBV. CONCESIÓN DIRECTA 2026 A LA UNIVERSIDAD DE EXTREMADURA PARA EL PROGRAMA "CONSEJO SOCIAL".](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/928019) (DIRECCIÓN GENERAL DE UNIVERSIDAD)
+  - Description: Esta subvención tiene como objetivo financiar el Programa 'UEx. Consejo Social' durante el año 2026, fomentando la colaboración entre la Universidad de Extremadura y la sociedad extremeña, así como supervisar las actividades económicas de la universidad.
+  - Nominative Grant
+  - notion_id: 40183f94-7b2c-815b-a632-c876cf2497aa | Budget: 210.000 € | Reception: 07/09/2026
+- [SUBVENCIÓN NOMINATIVA A CÁRITAS DIOCESANA DE MÉRIDA-BADAJOZ - CENTRO  DE MÍNIMA EXIGENCIA Y TRANSEÚNTES](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/929510) (AYUNTAMIENTO DE MÉRIDA)
+  - Description: La subvención tiene como objetivo apoyar los recursos de Cáritas Diocesana de Mérida-Badajoz para atender y acoger a personas sin hogar o en riesgo de exclusión social durante el año 2026.
+  - Nominative Grant
+  - notion_id: 40183f94-7b2c-81fb-ade4-f9b11a64e9d5 | Budget: 50.000 € | Reception: 15/09/2026 | Start: 01/01/2026 | End: 31/12/2026
+- [CONVENIO COLABORACION ENTRE EL ILMO AYTO DE DON BENITO Y LA ASOCIACION MUJERES EN ZONA DE CONFLICTO. PRROYECTO: EPICLERA: EMPODERAMIENTO Y AUTONOMIA DE MUJERES VICTIMAS DE VIOLENCIA BASADAS EN EL GENERO EN EXTREMADURA.FASE VI](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/930082) (AYUNTAMIENTO DE DON BENITO)
+  - Description: El Ayuntamiento de Don Benito ha firmado un convenio de colaboración con la ONGD Mujeres en Zona de Conflicto (MZC) para financiar el proyecto 'Epíclera', que busca empoderar y proporcionar autonomía a mujeres víctimas de violencia de género en situación de vulnerabilidad social en Extremadura.
+  - Nominative Grant
+  - notion_id: 40183f94-7b2c-81cf-af06-dd5d7628c9d7 | Budget: 10.000 € | Reception: 17/09/2026
+- [SUBVENCIÓN NOMINATIVA 2026 AL COLEGIO OFICIAL DE TRABAJO SOCIAL DE BADAJOZ DESTINADA A LA FINANCIACIÓN DEL PROYECTO "ATENCIÓN SOCIAL INTEGRAL VÍCTIMAS DE VIOLENCIA DE GÉNERO"](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/931034) (INSTITUTO DE LA MUJER DE EXTREMADURA)
+  - Description: Esta subvención tiene como objetivo financiar el Programa Atención Social Especializada a Mujeres Víctimas de Violencia de Género, desarrollado por el Colegio Oficial de Trabajo Social de Badajoz durante el año 2026.
+  - Nominative Grant
+  - notion_id: 40183f94-7b2c-8153-a5b9-e7d4d1793445 | Budget: 35.000 € | Reception: 22/09/2026
+- [CONVENIO COLABORACION ENTRE EL ILMO AYTO DE DON BENITO Y LA ASOC. DE OCIO Y TIEMPO LIBRE MINERVA](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/931189) (AYUNTAMIENTO DE DON BENITO)
+  - Description: Este convenio tiene como objetivo regular la concesión de una subvención para la financiación del Proyecto 'Semana del Mayor 2026', promovido por la Asociación de Ocio y Tiempo Libre Minerva, que busca mejorar la calidad de vida de diferentes colectivos, especialmente personas mayores y en riesgo de exclusión social.
+  - Requirements: Entidad beneficiaria: Asociación de Ocio y Tiempo Libre Minerva; Los beneficiarios son personas mayores y otros colectivos en riesgo de exclusión social; Localización: Don Benito
+  - Nominative Grant
+  - notion_id: 40183f94-7b2c-8179-9675-ce181ec52f53 | Budget: 5000 € | Reception: 23/09/2026
+- [SUBVENCIONES DEL AYUNTAMIENTO DE OLIVA DE LA FRONTERA DESTINADAS A ASOCIACIONES LOCALES SIN ÁNIMO DE LUCRO EN EL EJERCICIO 2026 EN RÉGIMEN DE CONCURRENCIA COMPETITIVA](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/932144) (AYUNTAMIENTO DE OLIVA DE LA FRONTERA)
+  - Description: Esta convocatoria tiene como objetivo proporcionar subvenciones a asociaciones locales sin ánimo de lucro para financiar proyectos y actividades de interés social en el municipio de Oliva de la Frontera durante el ejercicio 2026.
+  - Requirements: Asociaciones sin ánimo de lucro; Domicilio social o actividad anual en el municipio de Oliva de la Frontera
+  - notion_id: 40183f94-7b2c-815d-a714-d6d1dea8da29 | Budget: 10.000 € | Reception: 28/09/2026
+- [CONVENIO COLABORACION ENTRE EL ILMO AYTO DE DON BENITO Y LA ASOC. LGTBI+ DON BENITO ORGULLOSA](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/932596) (AYUNTAMIENTO DE DON BENITO)
+  - Description: El objeto de esta subvención es financiar un proyecto de inclusión social, diversidad e igualdad de derechos del colectivo LGBTQI, promovido por la Asociación LGBTI Don Benito Orgullosa, para responder a necesidades de inclusión social en el municipio.
+  - Nominative Grant
+  - notion_id: 40183f94-7b2c-81b9-b0d5-c7c9e60a6ff3 | Budget: 5000 € | Reception: 30/09/2026
+- [SUBVENCIÓN NOMINATIVA A FUNDACIÓN SECRETARIADO GITANO PARA COLABORACIÓN EN LA FINANCIACIÓN DE PROYECTOS FINANCIADOS POR FSE+ EN 2026](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/932904) (AYUNTAMIENTO DE BADAJOZ)
+  - Description: La subvención está destinada a la Fundación Secretariado Gitano para la realización de un proyecto enfocado en la inclusión social, garantía infantil y lucha contra la pobreza, dirigido específicamente a la población gitana durante el ejercicio 2026.
+  - Nominative Grant
+  - notion_id: 40183f94-7b2c-819f-bf2a-e916ea51c47f | Budget: 40.000 € | Reception: 01/10/2026 | Start: 01/01/2026 | End: 01/11/2026
+- [SUBV. PLAN RDEM. ADAPTACION EXPLANADA TRAS CENTRO DE DIA Y AULA INFANTIL PARA PARQUE DE OCIO. CASAS DE REINA](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/933680) (DIPUTACIÓN PROVINCIAL DE BADAJOZ)
+  - Description: Este convenio busca la colaboración entre entidades para fortalecer y promover proyectos sociales en la región de Badajoz.
+  - Nominative Grant
+  - notion_id: 40183f94-7b2c-81e6-b272-e2c413e156e7 | Budget: 36.948,24 € | Reception: 06/10/2026 | Start: 01/01/2026 | End: 31/12/2026
+- [SUBVENCIÓN DE CONCESIÓN DIRECTA POR RAZONES DE INTERÉS PÚBLICO, SOCIAL,CULTURAL Y PATRIMONIAL HERMANDAD SANTIAGO APÓSTOL 2026](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/933776) (AYUNTAMIENTO DE VILLANUEVA DE LA SERENA)
+  - Description: No hay información disponible sobre el objetivo o la financiación de la subvención.
+  - Nominative Grant
+  - notion_id: 40183f94-7b2c-81ff-bfd2-ff257afacbfa | Budget: 3000 € | Reception: 06/10/2026 | Start: 01/01/2026 | End: 31/12/2026
+- [SUBV. PLAN RDEM. NUEVO CENTRO DE SECCIONAMIENTO SITUADO EN UR UA-S1 23 Y UR UA-S1 24. ALCONERA](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/934001) (DIPUTACIÓN PROVINCIAL DE BADAJOZ)
+  - Description: La subvención tiene como objetivo la coordinación de los servicios municipales y la asistencia económica, jurídica y técnica a los municipios, promoviendo el desarrollo económico y social igualitario, así como el acceso a servicios mínimos de competencia municipal a través de planes provinciales de cooperación.
+  - Requirements: Entidades Locales; Preferiblemente las de menor población; Menor capacidad económica y de gestión; Mancomunidades en el ámbito territorial de la Provincia de Badajoz
+  - notion_id: 40183f94-7b2c-81a9-97c5-f062f9da1639 | Budget: 211.366,46 € | Reception: 07/10/2026 | Start: 01/01/2026 | End: 31/12/2026
+- [SUBVENCIÓN NOMINATIVA 2026. MÁRGENES Y VÍNCULOS. PREVENCIÓN PRIMARIA CONTRA LA VIOLENCIA SEXUAL](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/934700) (DIRECCIÓN GENERAL DE SERVICIOS SOCIALES, INFANCIA Y FAMILIA)
+  - Description: El programa de prevención primaria contra la violencia sexual tiene como objetivo proteger a los menores de edad y prevenir situaciones de violencia, garantizando sus derechos según la normativa nacional e internacional, mediante estrategias de sensibilización y detección precoz en ámbitos familiares, educativos y sociales.
+  - Nominative Grant
+  - notion_id: 40183f94-7b2c-81cf-ae70-d1f0c8c00b97 | Budget: 53.000 € | Reception: 09/10/2026
+- [SUBVENCIÓN NOMINATIVA 2026. MÁRGENES Y VÍNCULOS. PREVENCIÓN PRIMARIA VIOLENCIA EN ADOLESCENTES](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/934701) (DIRECCIÓN GENERAL DE SERVICIOS SOCIALES, INFANCIA Y FAMILIA)
+  - Description: El programa busca prevenir la violencia en adolescentes mediante acciones coordinadas entre sistemas educativos, sociales y comunitarios, enfocándose en la intervención temprana para evitar conductas violentas y abordando factores que las originan.
+  - Nominative Grant
+  - notion_id: 40183f94-7b2c-81bb-af2f-c92e6537f1be | Budget: 40.000 € | Reception: 09/10/2026
+- [SUBVENCIÓN NOMINATIVA 2026/181 PROYECTO INCLUSIÓN SOCIAL-CRUZ ROJA](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/934722) (DIPUTACIÓN PROVINCIAL DE BADAJOZ)
+  - Description: La subvención nominativa tiene como objetivo financiar los gastos corrientes del Proyecto Programa Operativo Inclusión Social, Garantía Infantil y Lucha contra la Pobreza 2026, que incluye la intervención e inclusión social.
+  - Nominative Grant
+  - notion_id: 40183f94-7b2c-8141-a6af-ef6dc3604720 | Budget: 45.000 € | Reception: 09/10/2026 | Start: 01/01/2026 | End: 31/12/2026
+- [SUBVENCIÓN NOMINATIVA 2026 A LA ASOCIACIÓN EXTREMADURA ENTIENDE PARA LA REALIZACIÓN DEL PROYECTO “APOYO A LA ASOCIACIÓN EXTREMADURA ENTIENDE EN EL ACOMPAÑAMIENTO SOCIAL A PERSONAS LGTBI+ Y PROMOCIÓN DE LA INCLUSIÓN SOCIAL EN EL ÁMBITO RURAL DEL COLECTIVO](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/934978) (SECRETARÍA GENERAL DE IGUALDAD Y CONCILIACIÓN)
+  - Description: La subvención tiene como objetivo financiar el proyecto de la Asociación Extremadura Entiende, que se centra en el acompañamiento social de personas LGTBI y la promoción de la inclusión social en el ámbito rural de este colectivo.
+  - Requirements: Entidad solicitante: Asociación Extremadura Entiende; No haber solicitado ni recibido otra ayuda para el mismo proyecto; No estar incursa en las circunstancias que impiden obtener la condición de beneficiaria
+  - Nominative Grant
+  - notion_id: 40183f94-7b2c-81c4-8af2-f41c16b9c26a | Budget: 40.000 € | Reception: 13/10/2026
+- [SUBVENCIÓN NOMINATIVA 2026 A LA ASOCIACIÓN MUJERES EN ZONA DE CONFLICTO PARA LA REALIZACIÓN DEL PROYECTO “PROGRAMA DE ATENCIÓN INTEGRAL A MUJERES EN SITUACIÓN DE VULNERABILIDAD”](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/935119) (SECRETARÍA GENERAL DE IGUALDAD Y CONCILIACIÓN)
+  - Description: Subvención destinada a la ASOCIACIÓN MUJERES EN ZONA DE CONFLICTO para financiar el PROGRAMA ATENCIÓN INTEGRAL A MUJERES EN SITUACIÓN DE VULNERABILIDAD, con un importe de 70.000 euros, según lo estipulado en los presupuestos de la Comunidad Autónoma de Extremadura para el año 2026.
+  - Requirements: ASOCIACIÓN MUJERES EN ZONA DE CONFLICTO debe estar al corriente con las obligaciones; No haber solicitado ni recibido otra ayuda para el mismo proyecto; No estar incursa en las circunstancias que impiden obtener la condición de beneficiaria
+  - Nominative Grant
+  - notion_id: 40183f94-7b2c-81dd-84b8-f88aab941bf0 | Budget: 70.000 € | Reception: 14/10/2026
+- [SUBVENCIÓN DIRECTA A CSIF PARA EL DESARROLLO DE SU ACTIVIDAD SINDICAL 2026](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/926838) (DIRECCIÓN GENERAL DE FUNCIÓN PÚBLICA)
+  - Description: La subvención tiene como objetivo apoyar a la organización sindical Central Sindical Independiente y de Funcionarios (CSIF) en el desarrollo de su actividad sindical, garantizando derechos como el acceso a locales y recursos necesarios para su funcionamiento.
+  - Requirements: Organización sindical Central Sindical Independiente y de Funcionarios (CSIF); No aplica edad límite; Ubicación en la Junta de Extremadura
+  - Nominative Grant
+  - notion_id: 40183f94-7b2c-81e1-8786-e74a55f6d89c | Budget: 41.919,25 € | Reception: 28/08/2026
+- [SUBVENCIÓN DIRECTA A USO PARA EL DESARROLLO DE SU ACTIVIDAD SINDICAL 2026](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/926839) (DIRECCIÓN GENERAL DE FUNCIÓN PÚBLICA)
+  - Description: Esta subvención se otorga a la organización sindical Unión Sindical Obrera (USO) para el desarrollo de su actividad sindical, de acuerdo con el Pacto en materia de derechos sindicales firmado con la Junta de Extremadura.
+  - Nominative Grant
+  - notion_id: 40183f94-7b2c-815a-8621-fb7828aef602 | Budget: 40.210,33 € | Reception: 28/08/2026
+- [SUBVENCIÓN DIRECTA A SGTEX PARA EL DESARROLLO DE SU ACTIVIDAD SINDICAL 2026](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/926840) (DIRECCIÓN GENERAL DE FUNCIÓN PÚBLICA)
+  - Description: Esta subvención está destinada al Sindicato General de Trabajadores de Extremadura (SGTEX) para el desarrollo de la actividad sindical, asegurando el cumplimiento de derechos sindicales en el ámbito de la Administración Pública en Extremadura.
+  - Requirements: Organización sindical SGTEX; Representación en comités de empresa; Actividades en centros de trabajo con más de 250 trabajadores
+  - Nominative Grant
+  - notion_id: 40183f94-7b2c-8105-8a2c-d3d99bed6320 | Budget: 40.210,33 € | Reception: 28/08/2026
+- [SUBVENCIÓN DIRECTA SIN CONVOCATORIA PÚBLICA 2026 CRUZ ROJA. COORDINACIÓN CON LA JUNTA DE EXTREMADURA EN MATERIA ASISTENCIAL Y DE PROTECCIÓN CIVIL](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/933162) (SECRETARÍA GENERAL DE INTERIOR, EMERGENCIAS Y PROTECCIÓN CIVIL)
+  - Description: Esta subvención tiene como objetivo financiar un proyecto de colaboración a nivel asistencial, de coordinación y de protección civil en Extremadura, específicamente a la entidad Cruz Roja Española en la comunidad.
+  - Nominative Grant
+  - notion_id: 40183f94-7b2c-814e-8738-c610e8259544 | Budget: 230.000 € | Reception: 02/10/2026
+- [SUBVENCIÓN DIRECTA A UGT-SP PARA EL DESARROLLO DE SU ACTIVIDAD SINDICAL 2026](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/933389) (DIRECCIÓN GENERAL DE FUNCIÓN PÚBLICA)
+  - Description: Esta subvención se concede para el desarrollo de la actividad sindical de la Federación de empleados y empleadas de servicios públicos del sindicato Unión General de Trabajadores (FeSP-UGT). Busca garantizar derechos y recursos necesarios para las secciones sindicales en la administración pública.
+  - Nominative Grant
+  - notion_id: 40183f94-7b2c-8147-b382-f20c422f1ab9 | Budget: 34.149,61 € | Reception: 05/10/2026
+- [SUBVENCIÓN DIRECTA 2026 A FSC-CCOO PARA EL DESARROLLO DE SU ACTIVIDAD SINDICAL](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/935428) (DIRECCIÓN GENERAL DE FUNCIÓN PÚBLICA)
+  - Description: La subvención tiene como objetivo apoyar el desarrollo de la actividad sindical de la Federación de Servicios a la Ciudadanía de CC. OO. Extremadura, garantizando derechos y recursos para la representación de los trabajadores en la administración pública.
+  - Nominative Grant
+  - notion_id: 40183f94-7b2c-817a-9f37-f268329cd012 | Budget: 39.976,84 € | Reception: 15/10/2026
+- [CONVENIO COLABORACION ENTRE EL ILMO AYTO DE DON BENITO Y LA ASOC. AMAL](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/936348) (AYUNTAMIENTO DE DON BENITO)
+  - Description: El objeto de este convenio es regular una subvención a la Asociación Amal para financiar el Proyecto de apoyo en el campamento de refugiados de Tindouf, específicamente en la guardería Daira Hausa de la Wilaya Smara.
+  - Requirements: Entidad beneficiaria: Asociación Amal - Amigos y amigas del pueblo saharaui de Don Benito; Ubicación: Don Benito; Debe tener objeto social relacionado con la cooperación al desarrollo y sensibilización ciudadana
+  - Nominative Grant
+  - notion_id: 40183f94-7b2c-8103-89e8-c8a2d2111831 | Budget: 6000 € | Reception: 20/10/2026
+- [BASES ESPECÍFICAS CON CONVOCATORIA REGULADORAS DE SUBVENCIONES DEL AYUNTAMIENTO DE MEDINA DE LAS TORRES DESTINADAS A ASOCIACIONES LOCALES SIN ÁNIMO DE LUCRO EN EL EJERCICIO 2026 EN RÉGIMEN DE CONCURRENCIA COMPETITIVA.](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/936383) (AYUNTAMIENTO DE MEDINA DE LAS TORRES)
+  - Description: Convocatoria de subvenciones destinadas a asociaciones locales sin ánimo de lucro en Medina de las Torres para fomentar la participación ciudadana y el desarrollo de proyectos y actividades que enriquezcan la oferta municipal.
+  - Requirements: Ser una asociación sin ánimo de lucro; Estar legalmente constituida e inscrita en el Registro correspondiente; Desarrollar un proyecto o actividades en el año 2026
+  - notion_id: 40183f94-7b2c-8151-a0b6-f2a0411e49fd | Budget: 20.000 € | Reception: 20/10/2026 | Start: 21/10/2026 | End: 21/11/2026
