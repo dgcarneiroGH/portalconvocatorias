@@ -1,18 +1,18 @@
 ---
 title: Ayudas para formacion en Valencia para Particulares
-description: "Recopilatorio de las 7 ayudas activas en Valencia para Particulares dentro del sector formacion, con presupuesto y plazos de solicitud."
+description: "Recopilatorio de las 6 ayudas activas en Valencia para Particulares dentro del sector formacion, con presupuesto y plazos de solicitud."
 region: Valencia
 beneficiario: Particulares
 tag_seo: formacion
-count: 7
+count: 6
 publication_date: 2026-09-02
-last_update_date: 2026-10-22
+last_update_date: 2026-10-23
 slug: subvenciones-particulares-valencia-formacion
 ---
 
 # Ayudas para formacion en Valencia para Particulares
 
-Ayudas activas (7):
+Ayudas activas (6):
 
 - [CONVOCATORIA DE LAS BASES DEL XXVII CONCURSO ESCOLAR DE NARRATIVA Y POESÍA INFANTIL-JUVENIL LES PENYETES](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/921802) (AYUNTAMIENTO DE XIRIVELLA)
   - Description: Estos premios tienen como objetivo fomentar el uso de la escritura en valenciano en el ámbito escolar del municipio de Xirivella, dirigiéndose a escolares de diversas etapas educativas.
@@ -33,10 +33,6 @@ Ayudas activas (7):
   - Description: El proyecto 'Éfeso València' tiene como objetivo ofrecer itinerarios formativos personalizados para la inserción laboral de personas desempleadas y de colectivos alejados del mercado laboral, mediante la concesión de becas de formación a quienes carecen de ingresos adecuados.
   - Requirements: Haber sido seleccionada para participar en el programa EFESO; Carecer de rentas o ingresos mensuales iguales o superiores al 75% del IPREM; Asistir al curso con una asistencia mínima del 75%; Haber finalizado las acciones programadas y superado las evaluaciones; No tener deudas pendientes con el Ayuntamiento de València; No encontrarse incursa en circunstancias excluyentes según la L.G.S.
   - notion_id: 3cf83f94-7b2c-8180-9ddf-faf92bb77ee8 | Budget: 224.749,5 € | Reception: 20/08/2026
-- [CONCESIÓN DE AYUDAS DE 60 € AL MATERIAL ESCOLAR PARA EL ALUMNADO ESCOLARIZADO EN CENTROS PÚBLICOS O CONCERTADOS DE EDUCACIÓN SECUNDARIA OBLIGATORIA Y EMPADRONADO EN MASSAMAGRELL PARA EL CURSO 2026-2027](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/927205) (AYUNTAMIENTO DE MASSAMAGRELL)
-  - Description: La subvención tiene como objetivo regular la concesión de ayudas por parte del Ayuntamiento de Massamagrell, fomentando actividades de interés público y asistencia social en la comunidad.
-  - Requirements: Personas físicas o jurídicas que realicen la actividad subvencionada; Agrupaciones sin personalidad jurídica que acrediten compromiso de ejecución; No estar incursos en las causas de exclusión establecidas por la Ley 38/2003; Cumplir con las obligaciones tributarias y frente a la Seguridad Social
-  - notion_id: 3cf83f94-7b2c-8139-99f1-cd47ec43dd9f | Budget: 25.000 € | Reception: 01/09/2026 | Start: 05/10/2026 | End: 21/10/2026
 - [BECAS ASISTENCIA JUNIO 2026 DEVESA-ALBUFERA](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/927265) (AYUNTAMIENTO DE VALENCIA)
   - Description: La subvención tiene como objetivo financiar el programa Escuelas Taller, destinado a la formación y cualificación profesional de jóvenes desempleados en la Comunitat Valenciana, facilitando su inserción laboral a través de experiencias formativas relacionadas con proyectos de interés social.
   - Requirements: Ser jóvenes mayores de 16 y menores de 30 años.; Estar desempleados según la normativa vigente.; Cumplir con los requisitos para acceder a las acciones formativas establecidas.
