@@ -6,7 +6,7 @@ beneficiario: Asociaciones y ong
 tag_seo: cultura
 count: 6
 publication_date: 2026-10-12
-last_update_date: 2026-10-22
+last_update_date: 2026-10-23
 slug: subvenciones-asociaciones-valladolid-cultura
 ---
 
