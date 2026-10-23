@@ -5,8 +5,8 @@ region: Badajoz
 beneficiario: Asociaciones y ong
 tag_seo: sociales
 count: 29
-publication_date: 2026-10-22T10:01:10.828Z
-last_update_date: 2026-10-22
+publication_date: 2026-10-22
+last_update_date: 2026-10-23
 slug: subvenciones-asociaciones-badajoz-sociales
 ---
 
