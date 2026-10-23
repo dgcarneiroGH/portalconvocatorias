@@ -1,18 +1,18 @@
 ---
 title: Ayudas para cultura en Pais vasco para Pyme y autónomos
-description: "Recopilatorio de las 5 ayudas activas en Pais vasco para Pyme y autónomos dentro del sector cultura, con presupuesto y plazos de solicitud."
+description: "Recopilatorio de las 4 ayudas activas en Pais vasco para Pyme y autónomos dentro del sector cultura, con presupuesto y plazos de solicitud."
 region: Pais vasco
 beneficiario: Pyme y autónomos
 tag_seo: cultura
-count: 5
+count: 4
 publication_date: 2026-10-20
-last_update_date: 2026-10-22
+last_update_date: 2026-10-23
 slug: subvenciones-autonomos-pais-vasco-cultura
 ---
 
 # Ayudas para cultura en Pais vasco para Pyme y autónomos
 
-Ayudas activas (5):
+Ayudas activas (4):
 
 - [AYUDAS DIRECTAS POR DISMINUCION CAPTURAS CABALLA](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/899477) (DEPARTAMENTO DE ALIMENTACIÓN, DESARROLLO RURAL, AGRICULTURA Y PESCA)
   - Description: El Gobierno Vasco concede ayudas directas extraordinarias a las empresas pesqueras que utilizan artes diferentes al arrastre y al cerco, para compensar las pérdidas económicas debidas a la disminución de capturas durante la costera de la caballa en 2025.
@@ -22,9 +22,6 @@ Ayudas activas (5):
   - Description: El objetivo de esta convocatoria es otorgar ayudas para viajes a creadores y agentes del ámbito del cine y la literatura que operan fuera del ámbito geográfico del euskera, con el propósito de internacionalizar su trabajo durante el año 2026.
   - Requirements: Creador o agente del ámbito del cine o la literatura; Participación en festivales de cine internacionales; Proyectos relacionados con películas producidas en EAE o en euskera
   - notion_id: 3fb83f94-7b2c-8154-914e-fd99c5147a59 | Budget: 30.000 € | Reception: 12/06/2026 | Start: 02/06/2026 | End: 02/11/2026
-- [SUBVENCIÓN PARA LA PUBLICACIÓN DE LIBROS  2026](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/931570) (INSTITUTO DE LA MEMORIA, CONVIVENCIA Y LOS DERECHOS HUMANOS)
-  - Description: Esta subvención tiene como objetivo la publicación de libros inéditos de no ficción que aborden la recuperación de la memoria democrática de Euskadi, abarcando desde la Guerra Civil hasta la actualidad, honrando y recuperando a las víctimas de la guerra y el terrorismo.
-  - notion_id: 3ed83f94-7b2c-81f1-aa15-c0d4e963208e | Budget: 40.000 € | Reception: 24/09/2026 | Start: 22/09/2026 | End: 21/10/2026
 - [2026 KO BIRA KULTURALAK DEIALDIA. CONVOCATORIA GIRAS CULTURALES 2026](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/932394) (PRESIDENCIA DE GOBIERNO)
   - Description: Esta subvención tiene como objetivo establecer las bases reguladoras y convocar fondos para la realización de giras culturales en las casas vascas ubicadas en el extranjero, con el fin de promover, impulsar y desarrollar la cultura vasca y fortalecer las relaciones culturales con los lugares donde la comunidad vasca está asentada.
   - notion_id: 3ed83f94-7b2c-8110-a8e9-c8f1a3e602d9 | Budget: 70.000 € | Reception: 29/09/2026 | Start: 30/09/2026 | End: 30/10/2026
