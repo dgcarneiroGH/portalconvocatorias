@@ -1,18 +1,18 @@
 ---
 title: Ayudas para cultura en Badajoz para Asociaciones y ong
-description: "Recopilatorio de las 24 ayudas activas en Badajoz para Asociaciones y ong dentro del sector cultura, con presupuesto y plazos de solicitud."
+description: "Recopilatorio de las 26 ayudas activas en Badajoz para Asociaciones y ong dentro del sector cultura, con presupuesto y plazos de solicitud."
 region: Badajoz
 beneficiario: Asociaciones y ong
 tag_seo: cultura
-count: 24
-publication_date: 2026-10-23T10:01:07.660Z
-last_update_date: 2026-10-23
+count: 26
+publication_date: 2026-10-23
+last_update_date: 2026-10-24
 slug: subvenciones-asociaciones-badajoz-cultura
 ---
 
 # Ayudas para cultura en Badajoz para Asociaciones y ong
 
-Ayudas activas (24):
+Ayudas activas (26):
 
 - [SUBV. PLAN RDEM. NAVE DESTINADA A GIMNASIO Y ALMACEN. CASAS DE DON PEDRO](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/927579) (DIPUTACIÓN PROVINCIAL DE BADAJOZ)
   - Description: El objetivo de esta convocatoria es establecer un convenio para la gestión de las Casas de D. Pedro, posiblemente con fines culturales o turísticos, dentro de la Diputación de Badajoz.
@@ -89,6 +89,10 @@ Ayudas activas (24):
   - Description: Esta subvención está destinada a sufragar gastos corrientes relacionados con el proyecto de actividades para la Red de Centros de Artesanía y el Festival de Oficios Artesanos de la Provincia de Badajoz durante el año 2026.
   - Nominative Grant
   - notion_id: 40183f94-7b2c-8101-851c-cb9ebf8a1355 | Budget: 108.000 € | Reception: 27/08/2026 | Start: 01/01/2026 | End: 31/12/2026
+- [SUBVENCIÓN NOMINATIVA CI FLAMENCO JESÚS ORTEGA. JALEO WEEK](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/928676) (DIPUTACIÓN PROVINCIAL DE BADAJOZ)
+  - Description: No se proporciona información sobre los objetivos o el financiamiento de la subvención.
+  - Nominative Grant
+  - notion_id: 40183f94-7b2c-81f3-9e69-d4ee6f044f8f | Budget: 10.000 € | Reception: 10/09/2026 | Start: 01/01/2026 | End: 31/12/2026
 - [SUBVENCIÓN NOMINATIVA 2026. UNIÓN DE BIBLIÓFILOS EXTREMEÑOS. FOMENTO Y DIFUSIÓN DEL LIBRO. LEY 2/2026, DE 3 DE AGOSTO, DE PRESUPUESTOS GENERALES DE LA COMUNIDAD](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/931675) (SECRETARÍA GENERAL DE CULTURA)
   - Description: Esta subvención tiene como objetivo fomentar y difundir el libro durante el año 2026 a través de la Unión de Bibliófilos Extremeños, con una dotación presupuestaria de 20.000 euros.
   - Nominative Grant
@@ -105,6 +109,10 @@ Ayudas activas (24):
   - Description: La subvención tiene como objetivo financiar la realización del Festival Pueblos del Mundo durante el año 2026, a favor de la Federación Extremeña de Folklore, con una dotación de 55.000 euros.
   - Nominative Grant
   - notion_id: 40183f94-7b2c-81d2-b884-ded4d675ad0f | Budget: 55.000 € | Reception: 09/10/2026
+- [SUBVENCIÓN NOMINATIVA AL AYUNTAMIENTO DE MEDELLÍN PARA METELLIUM MUSIC FESTIVAL 2026](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/935716) (DIPUTACIÓN PROVINCIAL DE BADAJOZ)
+  - Description: No hay información disponible sobre los objetivos o tipos de financiamiento de esta subvención.
+  - Nominative Grant
+  - notion_id: 40183f94-7b2c-8111-8653-cc2706a81e54 | Budget: 10.000 € | Reception: 16/10/2026 | Start: 01/01/2026 | End: 31/12/2026
 - [SUBVENCIÓN NOMINATIVA 2026. AYUNTAMIENTO DE VALVERDE DE LEGANÉS. LA FUGA DE LA DIABLA. LEY 2/2026, DE 3 DE AGOSTO, DE PRESUPUESTOS GENERALES DE LA COMUNIDAD](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/936018) (SECRETARÍA GENERAL DE CULTURA)
   - Description: La subvención tiene como objetivo financiar la realización de la Fuga de la Diabla en Valverde de Leganés durante el año 2026, con un total de 5.000 euros otorgados al Ayuntamiento para cubrir parte de los gastos del evento.
   - Requirements: Ayuntamiento de Valverde de Leganés
