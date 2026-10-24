@@ -5,8 +5,8 @@ region: Pontevedra
 beneficiario: Asociaciones y ong
 tag_seo: deportes
 count: 5
-publication_date: 2026-10-23
-last_update_date: 2026-10-23
+publication_date: 2026-10-24
+last_update_date: 2026-10-24
 slug: subvenciones-asociaciones-pontevedra-deportes
 ---
 
