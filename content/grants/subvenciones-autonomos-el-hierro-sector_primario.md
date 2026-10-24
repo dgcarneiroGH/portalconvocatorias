@@ -1,19 +1,31 @@
 ---
 title: Ayudas para sector primario en El hierro para Pyme y autónomos
-description: "Recopilatorio de las 6 ayudas activas en El hierro para Pyme y autónomos dentro del sector sector_primario, con presupuesto y plazos de solicitud."
+description: "Recopilatorio de las 9 ayudas activas en El hierro para Pyme y autónomos dentro del sector sector_primario, con presupuesto y plazos de solicitud."
 region: El hierro
 beneficiario: Pyme y autónomos
 tag_seo: sector_primario
-count: 6
+count: 9
 publication_date: 2026-09-08
-last_update_date: 2026-10-23
+last_update_date: 2026-10-24
 slug: subvenciones-autonomos-el-hierro-sector_primario
 ---
 
 # Ayudas para sector_primario en El hierro para Pyme y autónomos
 
-Ayudas activas (6):
+Ayudas activas (9):
 
+- [BASES ESPECÍFICAS PARA EL OTORGAMIENTO DE SUBVENCIONES PARA LA ADQUISICIÓN DE EQUIPAMIENTO PARA EMBARCACIONES DE PESCADORES PROFESIONALES 2025-2026.](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/929084) (CABILDO INSULAR DE HIERRO, EL)
+  - Description: Concesión de subvenciones en régimen de concurrencia competitiva destinadas a la adquisición de equipamiento para embarcaciones de pescadores profesionales. Su objetivo es fomentar la mejora y el equipamiento de las embarcaciones, mejorar la eficiencia energética y la seguridad de los barcos y su tripulación, apoyar el mantenimiento de la actividad pesquera profesional en la isla de El Hierro y favorecer el relevo generacional apoyando a jóvenes pescadores que se inicien en la actividad.
+  - Requirements: Ser pescador profesional.; Estar residente en la isla de El Hierro.; Ser titular de una embarcación de pesca profesional (o ser joven pescador que se inicie en la actividad, para favorecer el relevo generacional).; Cumplir con los requisitos de gastos subvencionables establecidos en el artículo 31 de la Ley 38/2003, General de Subvenciones.
+  - notion_id: 40283f94-7b2c-81ba-982b-f52620fe9426 | Budget: 200.000 € | Reception: 11/09/2026
+- [BASES ESPECÍFICAS PARA EL OTORGAMIENTO DE SUBVENCIONES PARA LA PRODUCCIÓN ECOLÓGICA 2026](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/935961) (CABILDO INSULAR DE HIERRO, EL)
+  - Description: Subvenciones dirigidas a financiar la producción ecológica en la isla de El Hierro, apoyando tanto el mantenimiento como la conversión de prácticas de agricultura y ganadería ecológica. Los fondos pretenden financiar la adopción de metodologías sostenibles, la reestructuración y modernización de explotaciones, y la mejora de prácticas ambientales para paliar las dificultades del sector agrario insular.
+  - Requirements: Activarse en el ámbito de la agricultura y/o ganadería ecológica; Realizar prácticas de mantenimiento o conversión a métodos de producción ecológica; Estar sujeto a un procedimiento de concurrencia competitiva
+  - notion_id: 40283f94-7b2c-8174-966b-d4faaf573e10 | Budget: 100.000 € | Reception: 16/10/2026
+- [BASES ESPECÍFICAS REGULADORAS PARA LA SUBVENCIÓN A LA PRODUCCIÓN DE DETERMINADAS VARIEDADES DE UVA PARA LA OBTENCIÓN DE VINO DE CALIDAD ELABORADO EN EL HIERRO EN 2026](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/935970) (CABILDO INSULAR DE HIERRO, EL)
+  - Description: Subvenciones para la producción de variedades específicas de uva autóctonas de El Hierro (como Verijadiego, Baboso, Verdello, etc.) con el objetivo de elaborar vino de calidad, recuperar variedades en riesgo de desaparición, diversificar la producción vitivinícola y fomentar el relevo generacional entre los viticultores.
+  - Requirements: Destinado a la producción de uva de variedades específicas: Verijadiego blanco, Verijadiego negro, Baboso blanco, Baboso negro, Verdello de El Hierro, Gual (Uval), Bermejuela.; El cultivo debe estar ubicado en la isla de El Hierro.; Las actividades subvencionadas deben realizarse entre el 1 de enero y el 31 de octubre de 2026.
+  - notion_id: 40283f94-7b2c-81ee-9a4e-fb36c91c2528 | Budget: 44.732,82 € | Reception: 16/10/2026
 - [SUBVENCIÓN DIRECTA NOMINATIVA 2025 SOC. COOP. DEL MAR PESCA RESTINGA](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/855518) (AYUNTAMIENTO DE PINAR DE EL HIERRO, EL)
   - Description: Esta subvención tiene como objetivo financiar la implantación de una nueva fábrica de hielo que garantice una producción estable de hielo durante todo el año, adaptándose a la demanda estacional.
   - Requirements: Ser la Sociedad Cooperativa del Mar Pesca Restinga.; Presentar la solicitud y la documentación complementaria.; Estar inscrito en el Registro correspondiente.
