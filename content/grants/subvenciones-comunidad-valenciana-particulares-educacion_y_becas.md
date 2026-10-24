@@ -1,18 +1,18 @@
 ---
 title: Ayudas para educacion y becas en Comunidad valenciana para Particulares
-description: "Recopilatorio de las 16 ayudas activas en Comunidad valenciana para Particulares dentro del sector educacion_y_becas, con presupuesto y plazos de solicitud."
+description: "Recopilatorio de las 15 ayudas activas en Comunidad valenciana para Particulares dentro del sector educacion_y_becas, con presupuesto y plazos de solicitud."
 region: Comunidad valenciana
 beneficiario: Particulares
 tag_seo: educacion_y_becas
-count: 16
+count: 15
 publication_date: 2026-09-22
-last_update_date: 2026-10-23
+last_update_date: 2026-10-24
 slug: subvenciones-comunidad-valenciana-particulares-educacion_y_becas
 ---
 
 # Ayudas para educacion_y_becas en Comunidad valenciana para Particulares
 
-Ayudas activas (16):
+Ayudas activas (15):
 
 - [BECAS INTRAMURALES DE INICIACIÓN A LA INVESTIGACIÓN PARA ESTUDIANTADO DE MÁSTERES OFICIALES Y DE GRADOS CON NIVEL MECES3, PARA EL CURSO 2026-2027](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/922732) (UNIVERSIDAD JAUME I DE CASTELLÓN)
   - Description: El objetivo de estas becas es promover la iniciación en tareas de investigación del estudiantado matriculado en másteres oficiales o en el último curso de grados con nivel MECES3, específicamente en la Universitat Jaume I, durante el curso académico 2026-2027.
@@ -60,9 +60,6 @@ Ayudas activas (16):
 - [BECA DE INICIACIÓN A LA INVESTIGACIÓN (PROYECTO «PEDAGOGIA: TOOLKIT PEL DISSENY I LA INTEGRACIÓ DE LA INTEL·LIGÈNCIA ARTIFICIAL EN PROCESSOS D’ENSENYAMENT-APRENENTATGE EN EDUCACIÓ SUPERIOR» – CÓDIGO 25I674 - DIRIGIDO POR: ANNA SÁNCHEZ](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/930567) (UNIVERSIDAD JAUME I DE CASTELLÓN)
   - Description: La beca té com a objectiu fomentar les vocacions científiques entre estudiants de grau i màster a través de la seva participació en un projecte d'investigació vinculada a l'ús de la intel·ligència artificial en processos d'ensenyament-aprenentatge en educació superior.
   - notion_id: 3e383f94-7b2c-814f-8684-fc879df61d55 | Budget: 2922,68 € | Reception: 21/09/2026
-- [CONVOCATORIA CONCESIÓN DE AYUDAS INDIVIDUALES PARA SUFRAGAR PARTE DE LOS COSTES DE LIBROS DE TEXTO Y MATERIAL ESCOLAR ESTUDIANTES CURSO 2026/2027 (EXPTE. 5214/2026)](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/930598) (AYUNTAMIENTO DE TEULADA)
-  - Description: Sin datos disponibles sobre el objetivo de la subvención.
-  - notion_id: 3e383f94-7b2c-81a2-859b-ee8da26cdb3a | Budget: 10.000 € | Reception: 21/09/2026 | Start: 23/09/2026 | End: 22/10/2026
 - [CONVOCATORIA PREMIOS Y DISTINCIONES A LA EXCELENCIA ACADÉMICA 2024/2025](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/927365) (UNIVERSIDAD JAUME I DE CASTELLÓN)
   - Description: Este programa tiene como objetivo impulsar la excelencia y el alto rendimiento del estudiantado de la Universitat Jaume I mediante la concesión de distinciones y premios a la excelencia académica, incluyendo premios extraordinarios de fin de grado y de fin de máster.
   - notion_id: 3e383f94-7b2c-81b1-be55-c49e70c032de | Budget: 35.000 € | Reception: 02/09/2026
