@@ -1,18 +1,18 @@
 ---
 title: Ayudas sociales en Badajoz para Asociaciones y ong
-description: "Recopilatorio de las 29 ayudas activas en Badajoz para Asociaciones y ong dentro del sector sociales, con presupuesto y plazos de solicitud."
+description: "Recopilatorio de las 32 ayudas activas en Badajoz para Asociaciones y ong dentro del sector sociales, con presupuesto y plazos de solicitud."
 region: Badajoz
 beneficiario: Asociaciones y ong
 tag_seo: sociales
-count: 29
+count: 32
 publication_date: 2026-10-22
-last_update_date: 2026-10-23
+last_update_date: 2026-10-24
 slug: subvenciones-asociaciones-badajoz-sociales
 ---
 
 # Ayudas sociales en Badajoz para Asociaciones y ong
 
-Ayudas activas (29):
+Ayudas activas (32):
 
 - [CONCESIÓN DIRECTA 2026 A EQUIPO SOLIDARIDAD PARA INSERCIÓN SOCIAL PARA COLECTIVOS EXCLUIDOS O EN RIESGO DE EXCLUSIÓN SOCIAL EN LA CIUDAD DE BADAJOZ Y PEDANÍAS](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/926327) (DIRECCIÓN GENERAL DE SERVICIOS SOCIALES, INFANCIA Y FAMILIA)
   - Description: Subvención destinada a financiar un programa de inserción social para colectivos excluidos o en riesgo de exclusión social en la ciudad de Badajoz y sus pedanías, promovido por la Asociación Equipo Solidaridad.
@@ -127,6 +127,18 @@ Ayudas activas (29):
   - Description: Esta subvención se concede para el desarrollo de la actividad sindical de la Federación de empleados y empleadas de servicios públicos del sindicato Unión General de Trabajadores (FeSP-UGT). Busca garantizar derechos y recursos necesarios para las secciones sindicales en la administración pública.
   - Nominative Grant
   - notion_id: 40183f94-7b2c-8147-b382-f20c422f1ab9 | Budget: 34.149,61 € | Reception: 05/10/2026
+- [SUBVENCIÓN NOMINATIVA 25/2026 HERMANDAD DE SANTA ANA](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/933529) (AYUNTAMIENTO DE VILLANUEVA DE LA SERENA)
+  - Description: No hay información disponible sobre la subvención.
+  - Nominative Grant
+  - notion_id: 40183f94-7b2c-8115-bd74-daf2eb8772ce | Budget: 5000 € | Reception: 05/10/2026 | Start: 01/01/2026 | End: 31/12/2026
+- [SUBVENCIÓN NOMINATIVA 26/2026 HERMANDAD DE DONANTES DE SANGRE DON BENITO VILLANUEVA](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/933537) (AYUNTAMIENTO DE VILLANUEVA DE LA SERENA)
+  - Description: No se proporciona información sobre la subvención.
+  - Nominative Grant
+  - notion_id: 40183f94-7b2c-8140-8fcf-c9e32ab6bdb1 | Budget: 1200 € | Reception: 05/10/2026 | Start: 01/01/2026 | End: 31/12/2026
+- [SUBVENCIÓN NOMINATIVA 28/2026 HERMANDAD DE SANTIAGO APÓSTOL](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/933542) (AYUNTAMIENTO DE VILLANUEVA DE LA SERENA)
+  - Description: Sin información disponible sobre los objetivos o financiamiento.
+  - Nominative Grant
+  - notion_id: 40183f94-7b2c-81aa-a83b-eafdb32dc415 | Budget: 5000 € | Reception: 05/10/2026 | Start: 01/01/2026 | End: 31/12/2026
 - [SUBVENCIÓN DIRECTA 2026 A FSC-CCOO PARA EL DESARROLLO DE SU ACTIVIDAD SINDICAL](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/935428) (DIRECCIÓN GENERAL DE FUNCIÓN PÚBLICA)
   - Description: La subvención tiene como objetivo apoyar el desarrollo de la actividad sindical de la Federación de Servicios a la Ciudadanía de CC. OO. Extremadura, garantizando derechos y recursos para la representación de los trabajadores en la administración pública.
   - Nominative Grant
