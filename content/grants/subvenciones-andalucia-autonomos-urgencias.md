@@ -1,23 +1,19 @@
 ---
 title: Ayudas para urgencias en Andalucia para Pyme y autónomos
-description: "Recopilatorio de las 20 ayudas activas en Andalucia para Pyme y autónomos dentro del sector urgencias, con presupuesto y plazos de solicitud."
+description: "Recopilatorio de las 19 ayudas activas en Andalucia para Pyme y autónomos dentro del sector urgencias, con presupuesto y plazos de solicitud."
 region: Andalucia
 beneficiario: Pyme y autónomos
 tag_seo: urgencias
-count: 20
+count: 19
 publication_date: 2026-10-04
-last_update_date: 2026-10-24
+last_update_date: 2026-10-25
 slug: subvenciones-andalucia-autonomos-urgencias
 ---
 
 # Ayudas para urgencias en Andalucia para Pyme y autónomos
 
-Ayudas activas (20):
+Ayudas activas (19):
 
-- [RESOLUCIÓN DE 1 DE OCTUBRE DE 2026, DE LA DIRECCIÓN GENERAL DE INDUSTRIAS AGROALIMENTARIAS, POR LA QUE SE CONVOCAN PARA EL EJERCICIO 2026 LAS AYUDAS DIRIGIDAS A COMPENSAR LAS PÉRDIDAS OCASIONADAS POR LAS INUNDACIONES PROVOCADAS POR LAS BORRASCAS](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/932960) (CONSEJERÍA DE AGRICULTURA, PESCA, AGUA Y DESARROLLO RURAL)
-  - Description: Las ayudas tienen como objetivo compensar las pérdidas económicas de las agroindustrias en Andalucía que se hayan visto afectadas por las inundaciones ocurridas entre el 10 de noviembre de 2025 y el 9 de febrero de 2026, favoreciendo la continuidad de su actividad económica y el mantenimiento del empleo agrario.
-  - Requirements: Titulares de centrales de manipulación y acondicionamiento hortofrutícolas; Titulares de almazaras; Centros de recepción, clasificación, tratamiento, envasado y almacenamiento de granos y semillas; Localización en Andalucía
-  - notion_id: 3ef83f94-7b2c-81e3-b2e0-cecdd1d1d5ce | Budget: 12.000.000 € | Reception: 01/10/2026 | Start: 02/10/2026 | End: 23/10/2026
 - [REAL DECRETO-LEY 5/2026, DE 17 DE FEBRERO, POR EL QUE SE ADOPTAN MEDIDAS URGENTES EN RESPUESTA A LOS DAÑOS CAUSADOS POR DIVERSOS FENÓMENOS METEOROLÓGICOS ADVERSOS, DE ESPECIAL AFECTACIÓN EN LAS COMUNIDADES AUTÓNOMAS DE ANDALUCÍA Y EXTREMADURA.](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/916519)
   - Description: El Real Decreto-ley 5/2026 tiene como objetivo adoptar medidas urgentes en respuesta a los daños causados por fenómenos meteorológicos adversos en Andalucía y Extremadura, incluyendo ayudas para la recuperación de infraestructuras, apoyo a sectores económicos afectados y asistencia a las personas damnificadas.
   - Requirements: Afectados por fenómenos meteorológicos en Andalucía y Extremadura; Personas, empresas y entidades locales; Dañados personales o materiales específicos
