@@ -6,7 +6,7 @@ beneficiario: Asociaciones y ong
 tag_seo: sociales
 count: 32
 publication_date: 2026-10-22
-last_update_date: 2026-10-24
+last_update_date: 2026-10-25
 slug: subvenciones-asociaciones-badajoz-sociales
 ---
 
