@@ -1,18 +1,18 @@
 ---
 title: Ayudas para sector primario en Cantabria para Pyme y autónomos
-description: "Recopilatorio de las 11 ayudas activas en Cantabria para Pyme y autónomos dentro del sector sector_primario, con presupuesto y plazos de solicitud."
+description: "Recopilatorio de las 10 ayudas activas en Cantabria para Pyme y autónomos dentro del sector sector_primario, con presupuesto y plazos de solicitud."
 region: Cantabria
 beneficiario: Pyme y autónomos
 tag_seo: sector_primario
-count: 11
+count: 10
 publication_date: 2026-10-13
-last_update_date: 2026-10-24
+last_update_date: 2026-10-25
 slug: subvenciones-autonomos-cantabria-sector_primario
 ---
 
 # Ayudas para sector_primario en Cantabria para Pyme y autónomos
 
-Ayudas activas (11):
+Ayudas activas (10):
 
 - [CONVOCATORIA DE AYUDAS A LOS TITULARES DE EXPLOTACIONES GANADERAS QUE REALICEN PRUEBAS DIAGNÓSTICAS, VACUNACIONES Y/O MEDIDAS SANITARIAS EN EL MARCO DE LOS PROGRAMAS DE SANIDAD ANIMAL DE PREVENCIÓN, CONTROL Y ERRADICACIÓN PARA EL AÑO 2026.](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/913203) (CONSEJERÍA DE DESARROLLO RURAL, GANADERÍA, PESCA Y ALIMENTACIÓN)
   - Description: La subvención está destinada a cubrir los costos de las vacunaciones voluntarias de ganado y otras medidas sanitarias establecidas por la Dirección General de Ganadería.
@@ -33,10 +33,6 @@ Ayudas activas (11):
   - Description: La subvención está destinada a animales inscritos en el libro genealógico de la raza Campos, cubriendo aspectos administrativos relacionados con la identificación y registro de estos animales.
   - Nominative Grant
   - notion_id: 3f983f94-7b2c-813e-aedc-fcc91313c900 | Budget: 9.000.000 € | Reception: 11/06/2026 | Start: 12/06/2026 | End: 31/01/2028
-- [SUBVENCIÓN PARA LA DESPARASITACIÓN DEL GANADO BOVINO, EQUINO, OVINO Y CAPRINO PARA EL AÑO 2026](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/931777) (AYUNTAMIENTO DE ARGOÑOS)
-  - Description: La subvención tiene como objetivo regular y otorgar ayudas para la desparasitación de ganado bovino, equino, ovino y caprino en el municipio de Argoños durante el año 2026.
-  - Requirements: Estar empadronados o tener la sede en el municipio de Argoños; Ser titular en activo de una explotación inscrita en el Registro de Explotaciones Ganaderas de Cantabria (REGA); Los animales a desparacitar deben figurar en el Libro Registro de la explotación; No estar en ninguna de las situaciones excluyentes de la Ley de Cantabria de Subvenciones
-  - notion_id: 3f983f94-7b2c-81b5-b488-eef6094f0e62 | Budget: 1800 € | Reception: 25/09/2026 | Start: 28/09/2026 | End: 23/10/2026
 - [CONVOCATORIA PARA 2027 LAS AYUDAS A LAS INVERSIONES A BORDO DE LOS BUQUES PESQUEROS COFINANCIADAS POR EL FONDO EUROPEO MARÍTIMO, DE PESCA Y DE ACUICULTURA (FEMPA 2021-2027).](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/923812) (CONSEJERÍA DE DESARROLLO RURAL, GANADERÍA, PESCA Y ALIMENTACIÓN)
   - Description: Estas ayudas están destinadas a financiar inversiones a bordo de buques pesqueros, cofinanciadas por el Fondo Europeo Marítimo, de Pesca y de Acuicultura (FEMPA 2021-2027).
   - notion_id: 3f883f94-7b2c-8158-b8fc-d200453d47fd | Budget: 1.500.000 € | Reception: 06/08/2026 | Start: 07/08/2026 | End: 07/11/2026
