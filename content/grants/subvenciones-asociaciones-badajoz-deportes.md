@@ -5,8 +5,8 @@ region: Badajoz
 beneficiario: Asociaciones y ong
 tag_seo: deportes
 count: 19
-publication_date: 2026-10-24T10:01:06.460Z
-last_update_date: 2026-10-24
+publication_date: 2026-10-24
+last_update_date: 2026-10-25
 slug: subvenciones-asociaciones-badajoz-deportes
 ---
 
