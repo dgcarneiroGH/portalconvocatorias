@@ -6,7 +6,7 @@ beneficiario: Asociaciones y ong
 tag_seo: cultura
 count: 17
 publication_date: 2026-09-30
-last_update_date: 2026-10-24
+last_update_date: 2026-10-25
 slug: subvenciones-asociaciones-valencia-cultura
 ---
 
