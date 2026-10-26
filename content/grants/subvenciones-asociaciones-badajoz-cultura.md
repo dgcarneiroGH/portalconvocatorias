@@ -6,7 +6,7 @@ beneficiario: Asociaciones y ong
 tag_seo: cultura
 count: 26
 publication_date: 2026-10-23
-last_update_date: 2026-10-25
+last_update_date: 2026-10-26
 slug: subvenciones-asociaciones-badajoz-cultura
 ---
 
