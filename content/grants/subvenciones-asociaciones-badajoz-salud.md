@@ -1,18 +1,18 @@
 ---
 title: Ayudas para salud en Badajoz para Asociaciones y ong
-description: "Recopilatorio de las 11 ayudas activas en Badajoz para Asociaciones y ong dentro del sector salud, con presupuesto y plazos de solicitud."
+description: "Recopilatorio de las 12 ayudas activas en Badajoz para Asociaciones y ong dentro del sector salud, con presupuesto y plazos de solicitud."
 region: Badajoz
 beneficiario: Asociaciones y ong
 tag_seo: salud
-count: 11
-publication_date: 2026-10-25T11:01:03.866Z
-last_update_date: 2026-10-25
+count: 12
+publication_date: 2026-10-25
+last_update_date: 2026-10-26
 slug: subvenciones-asociaciones-badajoz-salud
 ---
 
 # Ayudas para salud en Badajoz para Asociaciones y ong
 
-Ayudas activas (11):
+Ayudas activas (12):
 
 - [CONCESIÓN DIRECTA 2026 A FAMUGEX PARA PROMOCIÓN DE LA SALUD EN LA MUJER GITANA](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/926445) (DIRECCIÓN GENERAL DE SERVICIOS SOCIALES, INFANCIA Y FAMILIA)
   - Description: Subvención destinada a la financiación del programa 'Promoción de la salud en la mujer gitana' a cargo de la Federación de Asociaciones de mujeres gitanas de Extremadura, con el objetivo de mejorar la salud y bienestar de este grupo específico en la Comunidad Autónoma de Extremadura.
@@ -45,6 +45,10 @@ Ayudas activas (11):
   - Description: No se proporciona información sobre el objetivo o financiamiento de la subvención.
   - Nominative Grant
   - notion_id: 40183f94-7b2c-8143-ab6d-fd67a5d3dceb | Budget: 5000 € | Reception: 05/10/2026 | Start: 01/01/2026 | End: 31/12/2026
+- [SUBVENCIÓN NOMINATIVA 9/2026 ASOCIACIÓN DE EXTREMADURA DEL LUPUS 2023 ADELEX](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/933431) (AYUNTAMIENTO DE VILLANUEVA DE LA SERENA)
+  - Description: No hay información disponible sobre esta subvención.
+  - Nominative Grant
+  - notion_id: 40183f94-7b2c-81f1-a97c-e1c95d3e407b | Budget: 1000 € | Reception: 05/10/2026 | Start: 01/01/2026 | End: 31/12/2026
 - [SUBVENCIÓN NOMINATIVA 32/2026 ASOCIACIÓN DE ALCOHÓLICOS REHABILITADOS EXTREMEÑOS (ALREX)](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/934268) (AYUNTAMIENTO DE VILLANUEVA DE LA SERENA)
   - Description: No se proporciona información sobre el objetivo de la subvención.
   - Nominative Grant
