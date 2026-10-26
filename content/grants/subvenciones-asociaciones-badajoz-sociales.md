@@ -1,18 +1,18 @@
 ---
 title: Ayudas sociales en Badajoz para Asociaciones y ong
-description: "Recopilatorio de las 32 ayudas activas en Badajoz para Asociaciones y ong dentro del sector sociales, con presupuesto y plazos de solicitud."
+description: "Recopilatorio de las 33 ayudas activas en Badajoz para Asociaciones y ong dentro del sector sociales, con presupuesto y plazos de solicitud."
 region: Badajoz
 beneficiario: Asociaciones y ong
 tag_seo: sociales
-count: 32
+count: 33
 publication_date: 2026-10-22
-last_update_date: 2026-10-25
+last_update_date: 2026-10-26
 slug: subvenciones-asociaciones-badajoz-sociales
 ---
 
 # Ayudas sociales en Badajoz para Asociaciones y ong
 
-Ayudas activas (32):
+Ayudas activas (33):
 
 - [CONCESIÓN DIRECTA 2026 A EQUIPO SOLIDARIDAD PARA INSERCIÓN SOCIAL PARA COLECTIVOS EXCLUIDOS O EN RIESGO DE EXCLUSIÓN SOCIAL EN LA CIUDAD DE BADAJOZ Y PEDANÍAS](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/926327) (DIRECCIÓN GENERAL DE SERVICIOS SOCIALES, INFANCIA Y FAMILIA)
   - Description: Subvención destinada a financiar un programa de inserción social para colectivos excluidos o en riesgo de exclusión social en la ciudad de Badajoz y sus pedanías, promovido por la Asociación Equipo Solidaridad.
@@ -119,6 +119,11 @@ Ayudas activas (32):
   - Requirements: Organización sindical SGTEX; Representación en comités de empresa; Actividades en centros de trabajo con más de 250 trabajadores
   - Nominative Grant
   - notion_id: 40183f94-7b2c-8105-8a2c-d3d99bed6320 | Budget: 40.210,33 € | Reception: 28/08/2026
+- [SUBVENCIÓN NOMINATIVA A LA ASOCIACIÓN BENÉFICA CAMPAÑA DEL MOCHUELO 2026](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/932774) (AYUNTAMIENTO DE MÉRIDA)
+  - Description: La subvención nominativa está destinada a la Asociación Benéfica Campaña del Mochuelo, para apoyar su iniciativa solidaria que canaliza donativos hacia entidades asistenciales locales en Mérida.
+  - Requirements: La solicitud debe ser presentada por una asociación benéfica; Las acciones deben realizarse en la localidad de Mérida; No se permite la no presentación de los informes preceptivos
+  - Nominative Grant
+  - notion_id: 40183f94-7b2c-81e0-a8d2-c4735519e989 | Budget: 7700 € | Reception: 01/10/2026 | Start: 01/01/2026 | End: 31/12/2026
 - [SUBVENCIÓN DIRECTA SIN CONVOCATORIA PÚBLICA 2026 CRUZ ROJA. COORDINACIÓN CON LA JUNTA DE EXTREMADURA EN MATERIA ASISTENCIAL Y DE PROTECCIÓN CIVIL](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/933162) (SECRETARÍA GENERAL DE INTERIOR, EMERGENCIAS Y PROTECCIÓN CIVIL)
   - Description: Esta subvención tiene como objetivo financiar un proyecto de colaboración a nivel asistencial, de coordinación y de protección civil en Extremadura, específicamente a la entidad Cruz Roja Española en la comunidad.
   - Nominative Grant
