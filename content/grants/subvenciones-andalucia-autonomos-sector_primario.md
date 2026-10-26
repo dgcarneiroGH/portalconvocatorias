@@ -6,7 +6,7 @@ beneficiario: Pyme y autónomos
 tag_seo: sector_primario
 count: 4
 publication_date: 2026-10-08
-last_update_date: 2026-10-25
+last_update_date: 2026-10-26
 slug: subvenciones-andalucia-autonomos-sector_primario
 ---
 
