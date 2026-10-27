@@ -6,7 +6,7 @@ beneficiario: Pyme y autónomos
 tag_seo: empleo
 count: 2
 publication_date: 2026-09-08
-last_update_date: 2026-10-26
+last_update_date: 2026-10-27
 slug: subvenciones-autonomos-el-hierro-empleo
 ---
 
