@@ -6,7 +6,7 @@ beneficiario: Pyme y autónomos
 tag_seo: sector_primario
 count: 10
 publication_date: 2026-10-13
-last_update_date: 2026-10-26
+last_update_date: 2026-10-27
 slug: subvenciones-autonomos-cantabria-sector_primario
 ---
 
