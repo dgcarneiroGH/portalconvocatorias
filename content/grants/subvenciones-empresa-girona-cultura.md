@@ -1,0 +1,281 @@
+---
+title: Ayudas para cultura en Girona para Empresa
+description: "Recopilatorio de las 68 ayudas activas en Girona para Empresa dentro del sector cultura, con presupuesto y plazos de solicitud."
+region: Girona
+beneficiario: Empresa
+tag_seo: cultura
+count: 68
+publication_date: 2026-10-28T11:01:10.483Z
+last_update_date: 2026-10-28
+slug: subvenciones-empresa-girona-cultura
+---
+
+# Ayudas para cultura en Girona para Empresa
+
+Ayudas activas (68):
+
+- [SUBVENCIÓ NOMINATIVA A LA FUNDACIÓ CASA DE LA MÚSICA DE LES COMARQUES GIRONINES PER AL FINANÇAMENT DEL PROJECTE CASA DE LA MÚSICA.](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/899917) (DIPUTACIÓN PROVINCIAL DE GIRONA)
+  - Description: La Ordenanza General de Subvenciones de la Diputació de Girona tiene como objetivo principal regular la concesión de subvenciones a diversas entidades y proyectos que favorezcan el fomento social, cultural y económico en la región de Girona.
+  - Nominative Grant
+  - notion_id: 40783f94-7b2c-814c-810a-d06ab9aec41a | Budget: 70.000 € | Reception: 20/04/2026 | Start: 01/01/2026 | End: 31/12/2026
+- [SUBVENCIÓ NOMINATIVA A DE DE EMA VISUAL SL PER AL FINANÇAMENT DE GIRONA A CAPPELLA FESTIVAL.](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/899924) (DIPUTACIÓN PROVINCIAL DE GIRONA)
+  - Description: Esta ordenanza regula la concesión de subvenciones por parte de la Diputación de Girona, estableciendo los principios, procedimientos y requisitos para la obtención de dichos fondos, con el fin de fomentar actividades de interés social y local en la región.
+  - Nominative Grant
+  - notion_id: 40783f94-7b2c-8134-a9a5-d866144cc78c | Budget: 21.000 € | Reception: 20/04/2026 | Start: 01/01/2026 | End: 31/12/2026
+- [SUBVENCIÓ NOMINATIVA A L`ASSOCIACIÓ ESCENARIS ESPECIALS PER AL FINANÇAMENT DEL PROGRAMA TEATRE 2026.](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/899925) (DIPUTACIÓN PROVINCIAL DE GIRONA)
+  - Description: La ordenanza tiene como objetivo regular la concesión de subvenciones por parte de la Diputació de Girona, proporcionando un marco legal para fomentar diversas actividades a través de apoyo financiero.
+  - Nominative Grant
+  - notion_id: 40783f94-7b2c-81a6-a3c7-f920ba376fd6 | Budget: 18.000 € | Reception: 20/04/2026 | Start: 01/01/2026 | End: 31/12/2026
+- [SUBVENCIÓ NOMINATIVA A MULTI-ART PRODUCCIONS, SL PER AL FINANÇAMENT DEL BLACK MUSIC FESTIVAL.](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/899928) (DIPUTACIÓN PROVINCIAL DE GIRONA)
+  - Description: La Ordenanza General de Subvenciones de la Diputació de Girona tiene como objetivo regular la concesión de subvenciones para fomentar actividades que beneficien a la comunidad local, asegurando un proceso administrativo simplificado y transparente.
+  - Nominative Grant
+  - notion_id: 40783f94-7b2c-810e-85ea-ecc814569f45 | Budget: 38.000 € | Reception: 20/04/2026 | Start: 01/01/2026 | End: 31/12/2026
+- [SUBVENCIÓ NOMINATIVA A L`ASSOCIACIÓ JUVENIL I CULTURAL ELS VOLTORS PER AL FINANÇAMENT DE L`EMPORDÀ MUSIC FESTIVAL](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/899930) (DIPUTACIÓN PROVINCIAL DE GIRONA)
+  - Description: La Ordenanza General de Subvenciones de la Diputació de Girona tiene como objetivo regular la concesión de subvenciones en el ámbito local, garantizando un régimen jurídico claro y accesible para diversas actividades de fomento en la región.
+  - Nominative Grant
+  - notion_id: 40783f94-7b2c-81a3-ae07-c8c7f12789d9 | Budget: 30.000 € | Reception: 20/04/2026 | Start: 01/01/2026 | End: 31/12/2026
+- [SUBVENCIÓ NOMINATIVA A ALTER SINERGIES, SL PER AL FINANÇAMENT DEL FESTIVAL DE LA VEU (A)PHONICA.](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/900089) (DIPUTACIÓN PROVINCIAL DE GIRONA)
+  - Description: La Ordenanza General de Subvenciones de la Diputació de Girona tiene como objetivo regular la concesión de subvenciones para fomentar diversas actividades de interés local y cooperación internacional.
+  - Nominative Grant
+  - notion_id: 40783f94-7b2c-81c3-83f0-e86ca7897981 | Budget: 43.000 € | Reception: 20/04/2026 | Start: 01/01/2026 | End: 31/12/2026
+- [SUBVENCIÓ NOMINATIVA A L`AJUNTAMENT DE GIRONA PER AL FINANÇAMENT DE LA MARFÀ- CENTRE DE CREACIÓ CULTURAL.](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/900090) (DIPUTACIÓN PROVINCIAL DE GIRONA)
+  - Description: La Ordenanza General de Subvenciones de la Diputació de Girona establece un marco regulatorio para la concesión y gestión de subvenciones dirigidas a fomentar actividades de interés público en la región.
+  - Nominative Grant
+  - notion_id: 40783f94-7b2c-81e0-8daa-e881adc577ca | Budget: 19.000 € | Reception: 20/04/2026 | Start: 01/01/2026 | End: 31/12/2026
+- [SUBVENCIÓ NOMINATIVA A LINK PRODUCCIONS, SLU PER AL FINANÇAMENT DEL FESTIVAL ÍTACA.](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/900091) (DIPUTACIÓN PROVINCIAL DE GIRONA)
+  - Description: La Ordenanza General de Subvenciones de la Diputación de Girona tiene como objetivo regular el procedimiento de concesión de subvenciones en el ámbito local, fomentando diferentes actividades en la región.
+  - Nominative Grant
+  - notion_id: 40783f94-7b2c-817d-943e-d6be575ec978 | Budget: 20.000 € | Reception: 20/04/2026 | Start: 01/01/2026 | End: 31/12/2026
+- [APROVACIÓ SUBVENCIÓ NOMINATIVA A FAVOR DE L`ESCOLA DE MÚSICA DE PALAFRUGELL, SL PER AL FINANÇAMENT DEL FUNCIONAMENT I ACTIVITATS DE L`ENERGIA, CENTRE D`ENSENYAMENTS ARTÍSTICS PROFESSIONALS.](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/900096) (DIPUTACIÓN PROVINCIAL DE GIRONA)
+  - Description: La Ordenanza General de Subvenciones de la Diputació de Girona tiene como objetivo regular la concesión de subvenciones para fomentar actividades dentro de la administración local catalana.
+  - Nominative Grant
+  - notion_id: 40783f94-7b2c-8169-a5d7-fa1159249b36 | Budget: 19.000 € | Reception: 20/04/2026 | Start: 01/01/2026 | End: 31/12/2026
+- [SUBVENCIÓ NOMINATIVA A GIRONA ARTELIER, SL PER AL FINANÇAMENT DELS PROJECTES DE L`ESCOLA DE MÚSICA MODERNA DE GIRONA.](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/900098) (DIPUTACIÓN PROVINCIAL DE GIRONA)
+  - Description: La Ordenanza General de Subvenciones de la Diputació de Girona tiene como objetivo regular el otorgamiento de subvenciones para fomentar actividades en el ámbito local, garantizando principios de legalidad, transparencia y eficiencia en la gestión pública.
+  - Nominative Grant
+  - notion_id: 40783f94-7b2c-81a5-aac4-f2c480de234d | Budget: 32.000 € | Reception: 20/04/2026 | Start: 01/01/2026 | End: 31/12/2026
+- [SUBVENCIÓ NOMINATIVA A CERCLE DE CULTURA TRADICIONAL I POPULAR MARBOLENY PER AL FINANÇAMENT DEL FESTIVAL ÉSDANSA](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/900100) (DIPUTACIÓN PROVINCIAL DE GIRONA)
+  - Description: La Ordenanza General de Subvenciones de la Diputació de Girona tiene como objetivo regular el otorgamiento de subvenciones para fomentar y facilitar la acción administrativa en el ámbito local, permitiendo así la mejora de los servicios y actividades de interés público en la región.
+  - Nominative Grant
+  - notion_id: 40783f94-7b2c-81fe-a8ea-d390826fa13b | Budget: 29.000 € | Reception: 20/04/2026 | Start: 01/01/2026 | End: 31/12/2026
+- [SUBVENCIÓ NOMINATIVA A CERDANYAFEST, SL PER AL FINANÇAMENT DEL FESTIVAL SUMMERFEST CERDANYA 2026.](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/918575) (DIPUTACIÓN PROVINCIAL DE GIRONA)
+  - Description: La Ordenanza General de Subvenciones de la Diputació de Girona tiene como objetivo regular la concesión de subvenciones para fomentar actividades dentro del ámbito de las administraciones locales catalanas.
+  - Nominative Grant
+  - notion_id: 40783f94-7b2c-81ca-910f-ed48561efa4f | Budget: 35.000 € | Reception: 10/07/2026 | Start: 01/01/2026 | End: 31/12/2026
+- [SUBVENCIÓ NOMINATIVA A L`ASSOCIACIÓ GIRONINA DE TEATRE PER AL FINANÇAMENT DEL CENTRE D`ARTS ESCÈNIQUES EL GALLINER.](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/918578) (DIPUTACIÓN PROVINCIAL DE GIRONA)
+  - Description: La Ordenanza General de Subvenciones de la Diputació de Girona tiene como objetivo regular la concesión de subvenciones para fomentar actividades de interés público y social en la región.
+  - Nominative Grant
+  - notion_id: 40783f94-7b2c-815b-aa56-d4509aa57193 | Budget: 113.820 € | Reception: 10/07/2026 | Start: 01/01/2026 | End: 31/12/2026
+- [SUBVENCIÓ NOMINATIVA A LA FUNDACIÓ EUDALD MORERA PER AL FINANÇAMENT DEL FESTIVAL VALLVIVA 2026.](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/918579) (DIPUTACIÓN PROVINCIAL DE GIRONA)
+  - Description: La Ordenanza General de Subvenciones de la Diputació de Girona tiene como objetivo regular la gestión y otorgamiento de subvenciones para fomentar actividades que beneficien a la comunidad local y mejorar los servicios públicos.
+  - Nominative Grant
+  - notion_id: 40783f94-7b2c-813a-8b15-f4cfe13ce129 | Budget: 40.000 € | Reception: 10/07/2026 | Start: 01/01/2026 | End: 31/12/2026
+- [SUBVENCIÓ NOMINATIVA A SURREALBEATS, SL PER AL FINANÇAMENT DEL DELIRIUM FESTIVAL 2025.](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/918581) (DIPUTACIÓN PROVINCIAL DE GIRONA)
+  - Description: La Ordenanza General de Subvenciones de la Diputació de Girona tiene como objetivo regular la concesión de subvenciones y facilitar el fomento de actividades a través de apoyo financiero a organismos y proyectos que contribuyan al desarrollo local.
+  - Nominative Grant
+  - notion_id: 40783f94-7b2c-810b-abc5-e4a7dd29c249 | Budget: 25.000 € | Reception: 10/07/2026 | Start: 01/01/2026 | End: 31/12/2026
+- [SUBVENCIÓ NOMINATIVA A LA FUNDACIÓ JOSEP PLA PER AL FINANÇAMENT DEL PROJECTE ` (AUTO)REPRESENTACIÓ I IDENTITAT(S) A TRAVÉS DE LA LITERATURA DE JOSEP PLA`.](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/918586) (DIPUTACIÓN PROVINCIAL DE GIRONA)
+  - Description: La Ordenanza General de Subvenciones de la Diputació de Girona tiene como objetivo regular la concesión de subvenciones para fomentar actividades en el ámbito local, así como establecer los principios, procedimientos y obligaciones relacionadas con estas ayudas.
+  - Nominative Grant
+  - notion_id: 40783f94-7b2c-810f-b9e7-fd76902f51e0 | Budget: 5000 € | Reception: 10/07/2026 | Start: 01/01/2026 | End: 31/12/2026
+- [SUBVENCIÓ NOMINATIVA A L`AJUNTAMENT DE PUIGCERDÀ PER AL FINANÇAMENT DEL CONSERVATORI DE MÚSICA DELS PIRINEUS 2026.](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/918590) (DIPUTACIÓN PROVINCIAL DE GIRONA)
+  - Description: La Ordenanza General de Subvenciones de la Diputació de Girona tiene como objetivo regular el proceso de concesión de subvenciones, estableciendo criterios claros para su otorgamiento y gestión, así como asegurando la transparencia y la correcta utilización de los fondos públicos.
+  - Nominative Grant
+  - notion_id: 40783f94-7b2c-8128-8a09-d7adf705d637 | Budget: 19.000 € | Reception: 10/07/2026 | Start: 01/01/2026 | End: 31/12/2026
+- [SUBVENCIÓ NOMINATIVA A PASCUAL ARTS MUSIC, SLU PER LA FINANÇAMENT DEL FESTIVAL STRENES 2026.](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/918600) (DIPUTACIÓN PROVINCIAL DE GIRONA)
+  - Description: La Ordenanza General de Subvenciones de la Diputació de Girona tiene como objetivo regular el marco jurídico y los procedimientos relacionados con la concesión de subvenciones, promoviendo el fomento de actividades en el ámbito local a través de la financiación pública.
+  - Nominative Grant
+  - notion_id: 40783f94-7b2c-8140-8388-e6ac1a41eeff | Budget: 50.000 € | Reception: 10/07/2026 | Start: 01/01/2026 | End: 31/12/2026
+- [SUBVENCIÓ NOMINATIVA A FESTIVAL PERELADA, SL PER AL FINANÇAMENT DEL FESTIVAL PERALADA 40 ANIVERSARI.](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/918601) (DIPUTACIÓN PROVINCIAL DE GIRONA)
+  - Description: La Ordenanza General de Subvenciones de la Diputació de Girona tiene como objetivo regular la concesión de subvenciones para fomentar diversas actividades administrativas dentro de su ámbito, garantizando la transparencia y la concurrencia competitiva.
+  - Nominative Grant
+  - notion_id: 40783f94-7b2c-817d-929d-dc049dac906f | Budget: 75.000 € | Reception: 10/07/2026 | Start: 01/01/2026 | End: 31/12/2026
+- [SUBVENCIÓ NOMINATIVA AL CONSORCI DEL MUSEU MEMORIAL DE L`EXILI PER AL FINANÇAMENT D`ACTIVITATS CULTURAL MUME.](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/918602) (DIPUTACIÓN PROVINCIAL DE GIRONA)
+  - Description: La Ordenanza General de Subvenciones de la Diputació de Girona tiene como objetivo regular la concesión y gestión de subvenciones para fomentar actividades en el ámbito local, garantizando un régimen jurídico claro y criterios de evaluación transparentes.
+  - Nominative Grant
+  - notion_id: 40783f94-7b2c-81ce-bea3-ea69a2d45692 | Budget: 33.000 € | Reception: 10/07/2026 | Start: 01/01/2026 | End: 31/12/2026
+- [SUBVENCIÓ NOMINATIVA A L`ASSOCIACIÓ FESTIVAL DE MÚSICA ANTIGA DELS PIRINEUS PER AL FINANÇAMENT DEL FESTIVAL DE MÚSICA ANTIGA DELS PIRINEUS.](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/918604) (DIPUTACIÓN PROVINCIAL DE GIRONA)
+  - Description: La Ordenanza General de Subvenciones de la Diputació de Girona tiene como objetivo regular el procedimiento y las condiciones bajo las cuales se otorgan subvenciones para fomentar diversas actividades en el ámbito local de Cataluña.
+  - Nominative Grant
+  - notion_id: 40783f94-7b2c-81aa-a303-f06b11230f77 | Budget: 24.000 € | Reception: 10/07/2026 | Start: 01/01/2026 | End: 31/12/2026
+- [SUBVENCIÓ NOMINATIVA AL CONSORCI TRANSFRONTERER PUIGCERDÀ-BOURG-MADAME PER AL FINANÇAMENT DEL FESTIVAL TRANSFRONTERER.](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/918612) (DIPUTACIÓN PROVINCIAL DE GIRONA)
+  - Description: La Ordenanza General de Subvenciones de la Diputació de Girona tiene como objetivo regular la concesión de subvenciones a entidades y organizaciones en diversas áreas, facilitando el acceso a fondos para fomentar actividades de interés público y social.
+  - Nominative Grant
+  - notion_id: 40783f94-7b2c-817d-aa6c-fdaf92b3dc3c | Budget: 28.000 € | Reception: 10/07/2026 | Start: 01/01/2026 | End: 31/12/2026
+- [SUBVENCIÓ EXCLOSA DE CONCURRÈNCIA PÚBLICA A  SECRETARIAT DE CORALS INFANTILS DE CATALUNYA PER AL FINANÇAMENT DEL FESTIVAL EUROPA CANTAT JUNIOR 2026.](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/918626) (DIPUTACIÓN PROVINCIAL DE GIRONA)
+  - Description: La Ordenanza General de Subvenciones de la Diputació de Girona tiene como objetivo regular la concesión de subvenciones para fomentar actividades de interés local, garantizando la transparencia, la concurrencia competitiva y el apoyo a iniciativas que beneficien a la comunidad.
+  - notion_id: 40783f94-7b2c-8191-9b92-e988521595dd | Budget: 18.000 € | Reception: 10/07/2026 | Start: 01/01/2026 | End: 31/12/2026
+- [IMPORT PENDENT DE PAGAR DE LA SUBVENCIÓ A L`AJUNTAMENT DE GIRONA, EXP. 2022/22, PER FINANÇAMENT DE L`ORGANITZACIÓ DEL FESTIVAL LITERARI MOT 2022](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/924436) (DIPUTACIÓN PROVINCIAL DE GIRONA)
+  - Description: La Ordenanza General de Subvenciones de la Diputació de Girona tiene como objetivo regular y establecer términos sobre la concesión, procedimiento y gestión de subvenciones para fomentar actividades en el ámbito local, así como establecer obligaciones y condiciones para los beneficiarios.
+  - notion_id: 40783f94-7b2c-810c-a27f-c86bee1dc00f | Budget: 653,36 € | Reception: 11/08/2026 | Start: 01/01/2026 | End: 31/12/2026
+- [SUBVENCIÓ NOMINATIVA A MÚSICA ANTIGA DE GIRONA PER L`ORGANITZACIÓ DE LA CELEBRACIÓ DEL SEU 25È ANIVERSARI.](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/924446) (DIPUTACIÓN PROVINCIAL DE GIRONA)
+  - Description: La Ordenanza General de Subvenciones de la Diputació de Girona tiene como objetivo regular la concesión de subvenciones para fomentar actividades en el ámbito local, apoyando proyectos que contribuyan al desarrollo social y económico de la región.
+  - Nominative Grant
+  - notion_id: 40783f94-7b2c-81b4-a3a0-fab142b39c24 | Budget: 8714,5 € | Reception: 11/08/2026 | Start: 01/01/2026 | End: 31/12/2026
+- [SUBVENCIÓ NOMINATIVA A LA TORNADA CAT, SL PER AL FINANÇAMENT DEL FESTIVAL RECÒNDIT 2026](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/924447) (DIPUTACIÓN PROVINCIAL DE GIRONA)
+  - Description: Esta ordenanza regula el otorgamiento de subvenciones por parte de la Diputación de Girona, con el objetivo de fomentar actividades y proyectos en el ámbito local y garantizar el buen uso de los recursos públicos.
+  - Nominative Grant
+  - notion_id: 40783f94-7b2c-81c0-910c-ca8d50111d20 | Budget: 14.000 € | Reception: 11/08/2026 | Start: 01/01/2026 | End: 31/12/2026
+- [SUBVENCIÓ NOMINATIVA A L`ASSOCIACIÓ FANÀTICS I AMICS SÚPER TEATREROS PER AL FINANÇAMENT DEL FESTIVAL FASTT.](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/924449) (DIPUTACIÓN PROVINCIAL DE GIRONA)
+  - Description: La Ordenanza General de Subvenciones de la Diputación de Girona establece el marco legal para la concesión de subvenciones, fomentando actividades de interés local y social en Cataluña, con la finalidad de promover el desarrollo económico, social y cultural de la región.
+  - Nominative Grant
+  - notion_id: 40783f94-7b2c-816e-8590-c6214b1a41be | Budget: 20.000 € | Reception: 11/08/2026 | Start: 01/01/2026 | End: 31/12/2026
+- [SUBVENCIÓ NOMINATIVA A CRUÃ¯LLA FESTIVALS SLU PER AL FINANÇAMENT DEL FESTIVAL PORTA FERRADA 2026.](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/924450) (DIPUTACIÓN PROVINCIAL DE GIRONA)
+  - Description: La Ordenanza General de Subvenciones de la Diputació de Girona tiene como objetivo regular la concesión de subvenciones para apoyar iniciativas en el ámbito local, siguiendo principios de transparencia, concurrencia y justificación adecuada de los gastos subvencionables.
+  - Nominative Grant
+  - notion_id: 40783f94-7b2c-8164-b3e0-de056337f5bd | Budget: 65.000 € | Reception: 11/08/2026 | Start: 01/01/2026 | End: 31/12/2026
+- [SUBVENCIÓ NOMINATIVA A PASCUAL ARTS MUSIC SLU PER AL FINANÇAMENT DEL FESTIVAL SONS DEL MÓN 2026.](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/924452) (DIPUTACIÓN PROVINCIAL DE GIRONA)
+  - Description: La Ordenanza General de Subvenciones de la Diputació de Girona tiene como objetivo regular las subvenciones concedidas por la administración local, asegurando que se otorguen de manera justa y transparente, y fomentando actividades de interés local.
+  - Nominative Grant
+  - notion_id: 40783f94-7b2c-8198-9a7f-c3218e45def7 | Budget: 35.000 € | Reception: 11/08/2026 | Start: 01/01/2026 | End: 31/12/2026
+- [SUBVENCIÓ NOMINATIVA A PASCUAL ARTS MUSIC SLU PER AL FINANÇAMENT DEL FESTIVAL ACÚSTICA.](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/924461) (DIPUTACIÓN PROVINCIAL DE GIRONA)
+  - Description: La Ordenanza General de Subvenciones de la Diputació de Girona tiene como objetivo regular la concesión de subvenciones para fomentar la actividad administrativa en el ámbito de las administraciones locales catalanas.
+  - Nominative Grant
+  - notion_id: 40783f94-7b2c-8186-aab2-c4ed25626d31 | Budget: 85.000 € | Reception: 11/08/2026 | Start: 01/01/2026 | End: 31/12/2026
+- [SUBVENCIÓ NOMINATIVA A JOVENTUTS MUSICALS DE TORROELLA DE MONTGRÍ PER AL FINANÇAMENT DEL FESTIVAL DE TORROELLA DE MONTGRÍ](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/924467) (DIPUTACIÓN PROVINCIAL DE GIRONA)
+  - Description: La Ordenanza General de Subvenciones de la Diputació de Girona tiene como objetivo regular la concesión de subvenciones para fomentar diversas actividades en el ámbito local, garantizando la transparencia y la igualdad de oportunidades en su gestión.
+  - Nominative Grant
+  - notion_id: 40783f94-7b2c-81fe-bc30-feb8719c1c97 | Budget: 109.000 € | Reception: 11/08/2026 | Start: 01/01/2026 | End: 31/12/2026
+- [CONVOCATÒRIA ANTICIPADA DE SUBVENCIONS PER ACTIVITAT I PROJECTES CULTURALS DE LES OFICINES JOVES - EXERCICI 2027.](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/937803) (DIPUTACIÓN PROVINCIAL DE GIRONA)
+  - Description: Subvenciones para el financiamiento de actividades y proyectos culturales en las oficinas jóvenes, capitales de comarca y municipios con más de 15,000 habitantes de las comarcas gironinas, con el objetivo de fomentar la participación juvenil y el desarrollo cultural.
+  - Requirements: Oficinas jóvenes en las comarcas de Girona; Capacidades culturales de los jóvenes; Organización de actividades culturales
+  - notion_id: 40783f94-7b2c-814b-8e26-d60db6995813 | Budget: 85.000 € | Reception: 26/10/2026 | Start: 16/01/2027 | End: 12/02/2027
+- [CONVOCATÒRIA ANTICIPADA DE SUBVENCIONS PER A FESTIVALS O CICLES ARTÍSTICS EN MUNICIPIS RURALS- EXERCICI 2027.](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/937804) (DIPUTACIÓN PROVINCIAL DE GIRONA)
+  - Description: Subvencions dirigides a festivals o cicles artístics celebrats en municipis rurals de les comarques gironines, enfocades en fomentar la creació cultural i l'augment del públic.
+  - Requirements: Festivals o cicles artístics que es realitzin en municipis rurals de fins a 1.000 habitants; Ubicació en les comarques gironines
+  - notion_id: 40783f94-7b2c-81ec-a1f8-d0f15b27dfa5 | Budget: 200.000 € | Reception: 26/10/2026 | Start: 01/01/2027 | End: 31/12/2027
+- [SUBVENCIÓ NOMINATIVA A L`APPEC PER AL FINANÇAMENT DEL PROJECTE LA REVISTERIA, ANY 2026](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/896577) (DIPUTACIÓN PROVINCIAL DE GIRONA)
+  - Description: Esta ordenanza regula las subvenciones otorgadas por la Diputació de Girona, estableciendo los principios, procedimientos y condiciones para su concesión y justificación, con el objetivo de fomentar actividades que beneficien a la comunidad local.
+  - Nominative Grant
+  - notion_id: 40783f94-7b2c-817f-90d9-fe323b1b33b1 | Budget: 5000 € | Reception: 01/04/2026 | Start: 01/01/2026 | End: 31/12/2026
+- [SUBVENCIÓ NOMINATIVA A QUELCOM GLOBAL PER L`EDICIÓ DE LA REVISTA LA MIRA, ANY 2026](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/899884) (DIPUTACIÓN PROVINCIAL DE GIRONA)
+  - Description: La Ordenanza General de Subvenciones de la Diputació de Girona tiene como objetivo regular el procedimiento y las condiciones para la concesión de subvenciones destinadas a fomentar actividades de interés general en el ámbito local.
+  - Nominative Grant
+  - notion_id: 40783f94-7b2c-8143-b912-db73a6f9c6de | Budget: 8000 € | Reception: 20/04/2026 | Start: 01/01/2026 | End: 31/12/2026
+- [SUBVENCIÓ NOMINATIVA A CIRCUS ARTS FOUNDATION PER AL FINANÇAMENT DEL GRAN CIRC DE NADAL- PETER PAN SOBRE GEL.](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/899915) (DIPUTACIÓN PROVINCIAL DE GIRONA)
+  - Description: La Ordenanza General de Subvenciones de la Diputació de Girona tiene como objetivo regular la concesión de subvenciones para promover actividades de interés público dentro del ámbito local, asegurando una gestión eficiente y transparente de los recursos públicos.
+  - Nominative Grant
+  - notion_id: 40783f94-7b2c-81b1-858e-de312136d092 | Budget: 27.000 € | Reception: 20/04/2026 | Start: 01/01/2026 | End: 31/12/2026
+- [SUBVENCIÓ NOMINATIVA A LA FUNDACIÓ PRIVADA FUNDACIÓ FITA PER AL FINANÇAMENT D`ACTIVITATS ORDINÀRIES.](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/899919) (DIPUTACIÓN PROVINCIAL DE GIRONA)
+  - Description: La Ordenanza General de Subvenciones de la Diputació de Girona tiene como objetivo establecer las bases para la concesión de subvenciones en diferentes áreas, con un enfoque en la simplificación de trámites y la transparencia administrativa.
+  - Nominative Grant
+  - notion_id: 40783f94-7b2c-815d-a0d3-fae516afefbe | Budget: 65.000 € | Reception: 20/04/2026 | Start: 01/01/2026 | End: 31/12/2026
+- [SUBVENCIÓ NOMINATIVA A LA FUNDACIÓ PRIVADA ONCOLLIGA GIRONA PER AL FINANÇAMENT DE GIRONA EN MOVIMENT.](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/899926) (DIPUTACIÓN PROVINCIAL DE GIRONA)
+  - Description: La Ordenanza General de Subvenciones de la Diputació de Girona tiene como objetivo regular y facilitar la concesión de subvenciones para fomentar diversas actividades en el ámbito local de Girona.
+  - Nominative Grant
+  - notion_id: 40783f94-7b2c-811d-a295-ce5d776c90cb | Budget: 18.000 € | Reception: 20/04/2026 | Start: 01/01/2026 | End: 31/12/2026
+- [SUBVENCIÓ NOMINATIVA A LA FUNDACIÓ PRIVADA L`OLIVAR PER AL FINANÇAMENT D`ACTIVITATS I MANTENIMENT DEL FONS ESCULTÒRIC DE LA FUNDACIÓ L`OLIVAR.](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/899931) (DIPUTACIÓN PROVINCIAL DE GIRONA)
+  - Description: La Ordenanza General de Subvenciones de la Diputació de Girona tiene como objetivo regular la concesión de subvenciones, promoviendo la actividad administrativa y el fomento en el ámbito local, siguiendo las normativas vigentes en Cataluña.
+  - Nominative Grant
+  - notion_id: 40783f94-7b2c-8170-bac3-cd3e0b4623b4 | Budget: 18.000 € | Reception: 20/04/2026 | Start: 01/01/2026 | End: 31/12/2026
+- [SUBVENCIÓ NOMINATIVA A OH TELEVISION ENTERTAINMENT SYSTEM, SL PER AL FINANÇAMENT DEL SHOW GRAN GENT A LES COMARQUES GIRONINES.](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/900088) (DIPUTACIÓN PROVINCIAL DE GIRONA)
+  - Description: La Ordenanza General de Subvenciones de la Diputació de Girona tiene como objetivo regular y establecer los principios para la concesión de subvenciones a proyectos y actividades de interés general, facilitando el acceso a recursos económicos a entidades y organismos que contribuyan al fomento del desarrollo local.
+  - Nominative Grant
+  - notion_id: 40783f94-7b2c-81cc-a675-ef5015a384b3 | Budget: 16.335 € | Reception: 20/04/2026 | Start: 01/01/2026 | End: 31/12/2026
+- [SUBVENCIÓ NOMINATIVA A PISTATXO PRODUCCIONS, SL PER AL FINANÇAMENT DEL FESTIVALOT 2026.](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/900092) (DIPUTACIÓN PROVINCIAL DE GIRONA)
+  - Description: La Ordenanza General de Subvenciones de la Diputació de Girona establece un marco para la concesión de subvenciones destinadas a fomentar actividades dentro de las administraciones locales catalanas, regulando procedimientos, requisitos y obligaciones de los beneficiarios.
+  - Nominative Grant
+  - notion_id: 40783f94-7b2c-810a-978e-c1fe6a6239e7 | Budget: 26.000 € | Reception: 20/04/2026 | Start: 01/01/2026 | End: 31/12/2026
+- [SUBVENCIÓ NOMINATIVA A ALTER SINERGIES, SL PER AL FINANÇAMENT DE CÀNTUT, CANÇONS DE TRADICIÓ ORAL.](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/900102) (DIPUTACIÓN PROVINCIAL DE GIRONA)
+  - Description: La Ordenanza General de Subvenciones de la Diputació de Girona establece un marco para la gestión y concesión de subvenciones, cuyo principal objetivo es fomentar actividades en el ámbito local, ofreciendo apoyo financiero a diferentes iniciativas y proyectos.
+  - Nominative Grant
+  - notion_id: 40783f94-7b2c-81f8-96ad-c96c30d5bd7e | Budget: 35.000 € | Reception: 20/04/2026 | Start: 01/01/2026 | End: 31/12/2026
+- [SUBVENCIÓ NOMINATIVA A L`AJUNTAMENT DE CELRÀ PER AL FINANÇAMENT DE L`ESCOLA MUNICIPAL DE DANSA DE CELRÀ.](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/900103) (DIPUTACIÓN PROVINCIAL DE GIRONA)
+  - Description: La Ordenanza General de Subvenciones de la Diputació de Girona tiene como objetivo regular la concesión de subvenciones en el ámbito local, facilitando el acceso a financiación para diversas actividades y proyectos que beneficien a la comunidad.
+  - Nominative Grant
+  - notion_id: 40783f94-7b2c-81a1-9c58-e3b6efde553f | Budget: 19.000 € | Reception: 20/04/2026 | Start: 01/01/2026 | End: 31/12/2026
+- [SUBVENCIÓ NOMINATIVA A L`ASSOCIACIÓ FRANZ SCHUBERT PER AL FINANÇAMENT DE LA SCHUBERTÍADA 2026.](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/900104) (DIPUTACIÓN PROVINCIAL DE GIRONA)
+  - Description: La Ordenanza General de Subvenciones de la Diputación de Girona tiene como objetivo regular las ayudas públicas, estableciendo procedimientos y criterios para la concesión de subvenciones en diversas áreas, así como asegurar la transparencia y la correcta justificación de los fondos otorgados.
+  - Nominative Grant
+  - notion_id: 40783f94-7b2c-81ec-a3b5-d0b21ba0c2b2 | Budget: 25.000 € | Reception: 20/04/2026 | Start: 01/01/2026 | End: 31/12/2026
+- [SUBVENCIÓ NOMINATIVA A L`AJUNTAMENT DE BANYOLES PER AL FINANÇAMENT DE LA FACTORIA D`ARTS ESCÈNIQUES.](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/900657) (DIPUTACIÓN PROVINCIAL DE GIRONA)
+  - Description: La Ordenanza General de Subvenciones de la Diputació de Girona tiene como objetivo regular el proceso de concesión de subvenciones para apoyar diferentes actividades y proyectos en el ámbito local de Girona.
+  - Nominative Grant
+  - notion_id: 40783f94-7b2c-8128-b43c-eba009c68583 | Budget: 19.000 € | Reception: 22/04/2026 | Start: 01/01/2026 | End: 31/12/2026
+- [SUBVENCIÓ NOMINATIVA A L`AJUNTAMENT DE GIRONA PER AL FINANÇAMENT DEL BÒLIT CENTRE D`ART CONTEMPORANI DE GIRONA.](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/900659) (DIPUTACIÓN PROVINCIAL DE GIRONA)
+  - Description: La Ordenanza General de Subvenciones de la Diputació de Girona tiene como objetivo regular la concesión de subvenciones para fomentar actividades en el ámbito local, estableciendo normas sobre procedimientos, gestión y justificación de las ayudas.
+  - Nominative Grant
+  - notion_id: 40783f94-7b2c-81fa-ac11-f30768bb059f | Budget: 19.000 € | Reception: 22/04/2026 | Start: 01/01/2026 | End: 31/12/2026
+- [SUBVENCIÓ NOMINATIVA A L`ACADÈMIA DE LES ARTS I LES CIÈNCIES CINEMATOGRÀFIQUES CATALANES PER AL FINANÇAMENT DEL CICLE GAUDÍ A LA DEMARCACIÓ DE GIRONA.](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/900662) (DIPUTACIÓN PROVINCIAL DE GIRONA)
+  - Description: La Ordenanza General de Subvenciones de la Diputació de Girona tiene como objetivo regular la concesión y gestión de subvenciones en el ámbito de la diputación, promoviendo el desarrollo de acciones de fomento en las administraciones locales catalanas.
+  - Nominative Grant
+  - notion_id: 40783f94-7b2c-812c-875c-e6a0d87d9a20 | Budget: 20.000 € | Reception: 22/04/2026 | Start: 01/01/2026 | End: 31/12/2026
+- [DIRECTE LA KASETA IDEAS FACTORY,SLU. DOCUMENTAL GENUÃ¯NS PEL PROGRAMA SENSE FICCIÓ DE TV3](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/902497) (DIPUTACIÓN PROVINCIAL DE GIRONA)
+  - Description: Esta ordenanza tiene como objetivo regular la concesión de subvenciones por parte de la Diputación de Girona, promoviendo actividades de fomento dentro de su ámbito local y asegurando la correcta justificación y gestión de los fondos asignados.
+  - notion_id: 40783f94-7b2c-81bf-a323-c49686112353 | Budget: 10.000 € | Reception: 29/04/2026 | Start: 01/01/2026 | End: 31/12/2026
+- [SUBVENCIÓ NOMINATIVA A L`ASSOCIACIÓ LA BOMBONERA PER AL FINANÇAMENT DE L`EXPOSICIÓ `L`OMBRA` DE JOAN CROUS.](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/908106) (DIPUTACIÓN PROVINCIAL DE GIRONA)
+  - Description: La Ordenanza General de Subvenciones de la Diputació de Girona tiene como objetivo regular el otorgamiento de subvenciones en la región, promoviendo actividades de fomento en diversas áreas y garantizando un procedimiento claro y justo para los beneficiarios.
+  - Nominative Grant
+  - notion_id: 40783f94-7b2c-8115-83e2-dbce8986b0d4 | Budget: 60.000 € | Reception: 26/05/2026 | Start: 01/01/2026 | End: 31/12/2026
+- [CONVOCATÒRIA PER LA SUBVENCIÓ PER L¿ELABORACIÓ DE PLANS MUNICIPALS DE BIBLIOTEQUES, PROJECTES DE CONSTRUCCIÓ O ADEQUACIÓ (BÀSICS I EXECUTIUS), I PROJECTES DE MOBILIARI I DE SENYALITZACIÓ PER A BIBLIOTEQUES PÚBLIQUES DE L¿ANY 2026](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/911487) (DIPUTACIÓN PROVINCIAL DE GIRONA)
+  - Description: No se dispone de información sobre la subvención o los objetivos que financia.
+  - notion_id: 40783f94-7b2c-81d5-8f58-c216fec5c430 | Budget: 55.577,48 € | Reception: 09/06/2026 | Start: 12/05/2026 | End: 31/12/2026
+- [SUBVENCIÓ NOMINATIVA A LA FUNDACIÓ CIUTAT INVISIBLE PER AL FINANÇAMENT D`UNIVERS`ART 2026](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/918263) (DIPUTACIÓN PROVINCIAL DE GIRONA)
+  - Description: La Ordenanza General de Subvenciones de la Diputació de Girona regula los procedimientos para la concesión de subvenciones destinadas a fomentar actividades en el ámbito local, garantizando la transparencia y la eficiencia en la gestión de recursos públicos.
+  - Nominative Grant
+  - notion_id: 40783f94-7b2c-81da-abea-fa76b3a14ec8 | Budget: 40.000 € | Reception: 09/07/2026 | Start: 01/01/2026 | End: 31/12/2026
+- [SUBVENCIÓ NOMINATIVA  A GIO PRODUCTIONS, SL PER AL FINANÇAMENT DE GIO SYMPHONIA - TEMPORADA DE CONCERTS 2025/2026.](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/918576) (DIPUTACIÓN PROVINCIAL DE GIRONA)
+  - Description: La Ordenanza General de Subvenciones de la Diputació de Girona tiene como objetivo establecer el marco normativo para la concesión de subvenciones, promoviendo el fomento de actividades por parte de las administraciones locales en Cataluña.
+  - Nominative Grant
+  - notion_id: 40783f94-7b2c-81b9-9f2e-cceee28c6c1d | Budget: 40.000 € | Reception: 10/07/2026 | Start: 01/01/2026 | End: 31/12/2026
+- [SUBVENCIÓ NOMINATIVA A LA FUNDACIÓ PRIVADA EL FOMENT DE BANYOLES PER AL FINANÇAMENT D`ACTIVITATS 2026.](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/918580) (DIPUTACIÓN PROVINCIAL DE GIRONA)
+  - Description: La Ordenanza General de Subvenciones de la Diputació de Girona tiene como objetivo regular la concesión de subvenciones para fomentar el desarrollo local y la cooperación en diversas áreas de actuación administrativa en la provincia de Girona.
+  - Nominative Grant
+  - notion_id: 40783f94-7b2c-81dc-9c84-f4d86c8c8f8a | Budget: 22.500 € | Reception: 10/07/2026 | Start: 01/01/2026 | End: 31/12/2026
+- [SUBVENCIÓ NOMINATIVA A LA FUNDACIÓ PRIVADA PRUDENCI BERTRANA PER AL FINANÇAMENT DELS PREMIS LITERARIS DE GIRONA 2026.](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/918588) (DIPUTACIÓN PROVINCIAL DE GIRONA)
+  - Description: La Ordenanza General de Subvenciones de la Diputació de Girona tiene como objetivo regular la concesión de subvenciones por parte de la diputación para fomentar diversas actividades y proyectos en el ámbito local.
+  - Nominative Grant
+  - notion_id: 40783f94-7b2c-8107-8280-fe6c53ed089c | Budget: 30.000 € | Reception: 10/07/2026 | Start: 01/01/2026 | End: 31/12/2026
+- [SUBVENCIÓ NOMINATIVA A BITÒ PRODUCCIONS, AL PER AL FINANÇAMENT DEL TEMPORADA ALTA 2026.](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/918593) (DIPUTACIÓN PROVINCIAL DE GIRONA)
+  - Description: La Ordenanza General de Subvenciones de la Diputació de Girona tiene como objetivo regular la concesión de ayudas económicas para fomentar actividades y proyectos que beneficien a las administraciones locales en Cataluña.
+  - Nominative Grant
+  - notion_id: 40783f94-7b2c-8111-a638-cf2593ff9a1f | Budget: 265.000 € | Reception: 10/07/2026 | Start: 01/01/2026 | End: 31/12/2026
+- [SUBVENCIÓ NOMINATIVA A L`ASSOCIACIÓ FIRA DE CIRC AL CARRER  PER AL FINANÇAMENT DE LA FIRA DE CIRC AL CARRER DE LA BISBAL](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/918598) (DIPUTACIÓN PROVINCIAL DE GIRONA)
+  - Description: La Ordenanza General de Subvenciones de la Diputació de Girona tiene como objetivo regular la concesión de subvenciones para financiar distintas actividades dentro del ámbito de las administraciones locales catalanas, promoviendo el fomento de acciones y proyectos que beneficien a la comunidad.
+  - Nominative Grant
+  - notion_id: 40783f94-7b2c-81da-9241-ce406bceeaaf | Budget: 35.000 € | Reception: 10/07/2026 | Start: 01/01/2026 | End: 31/12/2026
+- [SUBVENCIÓ NOMINATIVA A LA FUNDACIÓ LA CIUTAT INVISIBLE PER AL FINANÇAMENT DEL PREMI QUIM MASÓ.](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/918608) (DIPUTACIÓN PROVINCIAL DE GIRONA)
+  - Description: La Ordenanza General de Subvenciones de la Diputació de Girona tiene como objetivo regular la concesión y gestión de subvenciones para fomentar diversas actividades entre las entidades locales de la provincia.
+  - Nominative Grant
+  - notion_id: 40783f94-7b2c-8199-9bce-e29649168e4d | Budget: 11.500 € | Reception: 10/07/2026 | Start: 01/01/2026 | End: 31/12/2026
+- [SUBVENCIÓ NOMINATIVA  A LA FUNDACIÓ PRIVADA PAU CASALS PER AL FINANÇAMENT D`ACTIVITATS I FUNCIONAMENT DE LA FUNDACIÓ.](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/918619) (DIPUTACIÓN PROVINCIAL DE GIRONA)
+  - Description: La Ordenanza General de Subvenciones de la Diputació de Girona tiene como objetivo regular la concesión de subvenciones para apoyar diversas actividades y proyectos en el ámbito local, facilitando así el fomento y desarrollo de iniciativas que beneficien a la comunidad.
+  - Nominative Grant
+  - notion_id: 40783f94-7b2c-818a-b0f0-e693f00bd7aa | Budget: 20.000 € | Reception: 10/07/2026 | Start: 01/01/2026 | End: 31/12/2026
+- [CONVOCATÒRIA DE LA SUBVENCIÓ PER L`AQUISICIÓ D`EQUIPS AMB TECNOLOGIA RFID PER A LA GESTIÓ DE LES BIBLIOTEQUES PÚBLIQUES](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/922686) (DIPUTACIÓN PROVINCIAL DE GIRONA)
+  - Description: No hay información disponible sobre los objetivos de la subvención.
+  - notion_id: 40783f94-7b2c-813e-9565-e7f8056708a6 | Budget: 28.810,1 € | Reception: 30/07/2026 | Start: 03/07/2026 | End: 31/12/2027
+- [SUBVENCIÓ NOMINATIVA AL CAMP D`APRENENTATGE EMPÚRIES PER L`EDICIÓ DEL LLIBRE-CD `UNIVERS KAVAFIS` AMB POEMES DE KAVAFIS MUSICATS EN CATALÀ](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/923549) (DIPUTACIÓN PROVINCIAL DE GIRONA)
+  - Description: La Ordenanza General de Subvenciones de la Diputació de Girona tiene como objetivo regular la concesión de subvenciones para promover la actividad administrativa y el desarrollo de proyectos en el ámbito local, facilitando así el trabajo de las entidades y asociaciones del territorio.
+  - Nominative Grant
+  - notion_id: 40783f94-7b2c-81bb-8568-ca9f30036d0e | Budget: 6000 € | Reception: 05/08/2026 | Start: 01/01/2026 | End: 15/11/2026
+- [SUBVENCIÓ DIRECTA NOMINATIVA A L`OSIC PER A LA PROGRAMACIÓ DE LES ARTS ESCÈNIQUES, MÚICA I ARTS PLÀSTIQUES EN L`ENSENYAMENT REGLAT. CURS 2025 - 2026](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/924438) (DIPUTACIÓN PROVINCIAL DE GIRONA)
+  - Description: La Ordenanza General de Subvenciones de la Diputació de Girona tiene como objetivo regular la concesión de subvenciones para fomentar diversas actividades en el ámbito local, garantizando la simplificación de procedimientos y la transparencia en la gestión de fondos públicos.
+  - Nominative Grant
+  - notion_id: 40783f94-7b2c-8180-bb0a-e4fe100a6069 | Budget: 75.000 € | Reception: 11/08/2026 | Start: 01/01/2026 | End: 31/12/2026
+- [APROVACIÓ SUBVENCIÓ NOMINATIVA A L`ORQUESTRA SIMFÒNICA DEL VALLÈS PER AL FINANÇAMENT DELS CONCERTS A COMARQUES GIRONINES.](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/924443) (DIPUTACIÓN PROVINCIAL DE GIRONA)
+  - Description: Esta ordenanza establece el marco regulador para la concesión de subvenciones por parte de la Diputació de Girona, con el objetivo de fomentar actividades en el ámbito local.
+  - Nominative Grant
+  - notion_id: 40783f94-7b2c-8148-8df8-d8a756944759 | Budget: 47.000 € | Reception: 11/08/2026 | Start: 01/01/2026 | End: 31/12/2026
+- [APROVACIÓ SUBVENCIÓ NOMINATIVA A L`AJUNTAMENT DE SALT PER AL FINANÇAMENT DEL FUNCIONAMENT I ACTIVITAT DEL CENTRE D`ARTS ESCÈNIQUES EL CANAL.](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/924444) (DIPUTACIÓN PROVINCIAL DE GIRONA)
+  - Description: La Ordenanza General de Subvenciones de la Diputació de Girona tiene como objetivo establecer las bases y procedimientos para la concesión de subvenciones en diversas áreas de actuación administrativa local, fomentando así el desarrollo de iniciativas en la región.
+  - Nominative Grant
+  - notion_id: 40783f94-7b2c-81d5-a6ca-cd1fbef16307 | Budget: 150.000 € | Reception: 11/08/2026 | Start: 01/01/2026 | End: 31/12/2026
+- [APROVACIÓ SUBVENCIÓ NOMINATIVA A L`AGRUPACIÓ CORAL DE LES COMARQUES DE GIRONA PER AL FINANÇAMENT DEL FUNCIONAMENT I ACTIVITAT.](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/924445) (DIPUTACIÓN PROVINCIAL DE GIRONA)
+  - Description: La Ordenanza General de Subvenciones de la Diputació de Girona tiene como objetivo regular el otorgamiento y gestión de subvenciones para fomentar diversas actividades y proyectos en el ámbito local, asegurando la transparencia y equidad en su distribución.
+  - Nominative Grant
+  - notion_id: 40783f94-7b2c-819b-9f69-c704278fb05a | Budget: 40.000 € | Reception: 11/08/2026 | Start: 01/01/2026 | End: 31/12/2026
+- [SUBVENCIÓ NOMINATIVA A GRUP ENDERROCK EDICIONS,SL PER AL FINANÇAMENT DELS PREMIS ENDERROCK](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/924448) (DIPUTACIÓN PROVINCIAL DE GIRONA)
+  - Description: La Ordenanza General de Subvenciones de la Diputació de Girona tiene como objetivo regular la concesión y gestión de subvenciones para fomentar actividades de interés general en el ámbito local de Cataluña.
+  - Nominative Grant
+  - notion_id: 40783f94-7b2c-81e4-ac16-d8d734dbcc73 | Budget: 37.500 € | Reception: 11/08/2026 | Start: 01/01/2026 | End: 31/12/2026
+- [SUBVENCIÓ NOMINATIVA A L`AJUNTAMENT DE CALONGE I SANT ANTONI PER AL FINANÇAMENT DEL F`ESTIU 2026.](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/924453) (DIPUTACIÓN PROVINCIAL DE GIRONA)
+  - Description: La Ordenanza General de Subvenciones de la Diputació de Girona establece los principios y procedimientos para la concesión de subvenciones con el objetivo de fomentar actividades de interés público, garantizando una gestión eficiente y transparente de los recursos públicos.
+  - Nominative Grant
+  - notion_id: 40783f94-7b2c-8143-b3d7-f97f8f811104 | Budget: 20.000 € | Reception: 11/08/2026 | Start: 01/01/2026 | End: 31/12/2026
+- [DIRECTE A FUNDACIÓ ELNA PEL PLA ANUAL 2026](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/927704) (DIPUTACIÓN PROVINCIAL DE GIRONA)
+  - Description: La Ordenanza General de Subvenciones de la Diputació de Girona tiene como objetivo regular la concesión de subvenciones, garantizando un marco legal adecuado para la gestión y distribución de ayudas públicas en diversas áreas de actuación administrativa.
+  - notion_id: 40783f94-7b2c-8136-92dd-e115b41de7b4 | Budget: 3000 € | Reception: 03/09/2026 | Start: 01/01/2026 | End: 31/12/2026
+- [CONVOCATÒRIA DE SUBVENCIONS PER A OBRES DE REFORMA, MILLORA I MANTENIMENT DELS EQUIPAMENTS DE LECTURA PÚBLICA 2026](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/931760) (DIPUTACIÓN PROVINCIAL DE GIRONA)
+  - Description: No se proporciona información sobre el objetivo o financiación de la subvención.
+  - notion_id: 40783f94-7b2c-810e-9ef8-fbd8b36fe0e1 | Budget: 180.000 € | Reception: 25/09/2026
