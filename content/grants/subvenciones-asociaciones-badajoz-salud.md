@@ -1,18 +1,18 @@
 ---
 title: Ayudas para salud en Badajoz para Asociaciones y ong
-description: "Recopilatorio de las 12 ayudas activas en Badajoz para Asociaciones y ong dentro del sector salud, con presupuesto y plazos de solicitud."
+description: "Recopilatorio de las 13 ayudas activas en Badajoz para Asociaciones y ong dentro del sector salud, con presupuesto y plazos de solicitud."
 region: Badajoz
 beneficiario: Asociaciones y ong
 tag_seo: salud
-count: 12
+count: 13
 publication_date: 2026-10-25
-last_update_date: 2026-10-27
+last_update_date: 2026-10-28
 slug: subvenciones-asociaciones-badajoz-salud
 ---
 
 # Ayudas para salud en Badajoz para Asociaciones y ong
 
-Ayudas activas (12):
+Ayudas activas (13):
 
 - [CONCESIÓN DIRECTA 2026 A FAMUGEX PARA PROMOCIÓN DE LA SALUD EN LA MUJER GITANA](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/926445) (DIRECCIÓN GENERAL DE SERVICIOS SOCIALES, INFANCIA Y FAMILIA)
   - Description: Subvención destinada a la financiación del programa 'Promoción de la salud en la mujer gitana' a cargo de la Federación de Asociaciones de mujeres gitanas de Extremadura, con el objetivo de mejorar la salud y bienestar de este grupo específico en la Comunidad Autónoma de Extremadura.
@@ -49,6 +49,10 @@ Ayudas activas (12):
   - Description: No hay información disponible sobre esta subvención.
   - Nominative Grant
   - notion_id: 40183f94-7b2c-81f1-a97c-e1c95d3e407b | Budget: 1000 € | Reception: 05/10/2026 | Start: 01/01/2026 | End: 31/12/2026
+- [SUBVENCIÓN NOMINATIVA 12/2026 ASOCIACIÓN ONCOLÓGICA EXTREMEÑA (AOEX)](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/933446) (AYUNTAMIENTO DE VILLANUEVA DE LA SERENA)
+  - Description: No se proporciona información sobre los objetivos o la financiamiento de la subvención.
+  - Nominative Grant
+  - notion_id: 40183f94-7b2c-819f-b6db-e2bc9ec9404e | Budget: 1500 € | Reception: 05/10/2026 | Start: 01/01/2026 | End: 31/12/2026
 - [SUBVENCIÓN NOMINATIVA 32/2026 ASOCIACIÓN DE ALCOHÓLICOS REHABILITADOS EXTREMEÑOS (ALREX)](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/934268) (AYUNTAMIENTO DE VILLANUEVA DE LA SERENA)
   - Description: No se proporciona información sobre el objetivo de la subvención.
   - Nominative Grant
