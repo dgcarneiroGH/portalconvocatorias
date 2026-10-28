@@ -5,8 +5,8 @@ region: Menorca
 beneficiario: Pyme y autónomos
 tag_seo: investigacion_y_ciencia
 count: 7
-publication_date: 2026-10-27
-last_update_date: 2026-10-27
+publication_date: 2026-10-28
+last_update_date: 2026-10-28
 slug: subvenciones-autonomos-menorca-investigacion_y_ciencia
 ---
 
