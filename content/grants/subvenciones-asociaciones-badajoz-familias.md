@@ -6,7 +6,7 @@ beneficiario: Asociaciones y ong
 tag_seo: familias
 count: 10
 publication_date: 2026-10-27
-last_update_date: 2026-10-28
+last_update_date: 2026-10-29
 slug: subvenciones-asociaciones-badajoz-familias
 ---
 
