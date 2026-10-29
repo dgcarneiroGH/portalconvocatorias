@@ -1,32 +1,36 @@
 ---
 title: Ayudas para empleo en Tarragona para Pyme y autónomos
-description: "Recopilatorio de las 4 ayudas activas en Tarragona para Pyme y autónomos dentro del sector empleo, con presupuesto y plazos de solicitud."
+description: "Recopilatorio de las 5 ayudas activas en Tarragona para Pyme y autónomos dentro del sector empleo, con presupuesto y plazos de solicitud."
 region: Tarragona
 beneficiario: Pyme y autónomos
 tag_seo: empleo
-count: 4
-publication_date: 2026-10-28
-last_update_date: 2026-10-28
+count: 5
+publication_date: 2026-10-29
+last_update_date: 2026-10-29
 slug: subvenciones-autonomos-tarragona-empleo
 ---
 
 # Ayudas para empleo en Tarragona para Pyme y autónomos
 
-Ayudas activas (4):
+Ayudas activas (5):
 
+- [SUBVENCIONES MUNICIPALES PARA LA AYUDA DE FOMENTO DEL EMPLEO DESTINADA A EMPRESAS DE ULLDECONA QUE CONTRATEN PERSONAS DESEMPLEADAS Y A NUEVOS AUTÓNOMOS EMPADRONADOS EN ULLDECONA, ANUALIDAD 2026.](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/935995) (AYUNTAMIENTO DE ULLDECONA)
+  - Description: Esta subvención tiene como objetivo fomentar la contratación laboral de personas desocupadas y el inicio de actividades autónomas en el municipio de Ulldecona.
+  - Requirements: Empresas y autónomos empadronados en Ulldecona; Contratación de personas desocupadas empadronadas a Ulldecona; Nuevos autónomos empadronados a Ulldecona; Las actividades deben iniciarse entre el 1 de enero de 2026 y el 31 de diciembre de 2026
+  - notion_id: 40883f94-7b2c-8185-af81-f01c89eff9e3 | Budget: 15.000 € | Reception: 18/10/2026 | Start: 18/10/2026 | End: 31/12/2026
 - [CONCESIÓN DE SUBVENCIONES DESTINADAS A LAS EMPRESAS Y NUEVOS EMPRENDEDORES PARA LA PROMOCIÓN DEL EMPLEO EN EL MUNICIPIO DE LA CANONJA](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/887340)
   - Description: Convocatoria de subvenciones para fomentar la creación de empleo y apoyar a nuevos emprendedores en el municipio de la Canonja, con el objetivo de incentivar la contratación de trabajadores empadronados y facilitar la creación de nuevas empresas.
   - Requirements: Empresas y autónomos que contraten personas empadronadas en la Canonja; Personas físicas o jurídicas con limitación de responsabilidad empadronadas en la Canonja con un año de antigüedad; Personas físicas o jurídicas no empadronadas que contraten un trabajador empadronado en la Canonja; Las contrataciones deben aumentar el número de trabajadores de la empresa; Obligatorio tener autorización administrativa para ejercer la actividad
   - notion_id: 3a183f94-7b2c-8108-853c-eb86cd652021 | Budget: 30.000 € | Reception: 16/02/2026 | Start: 16/02/2026
-- [AYUDAS DE LA CONTRATACIÓN TALENTO JOVEN CÁMARA DE COMERCIO DE TARRAGONA 2026](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/899190)
+- [AYUDAS DE LA CONTRATACIÓN TALENTO JOVEN CÁMARA DE COMERCIO DE TARRAGONA 2026](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/899190) (CÁMARA DE COMERCIO DE TARRAGONA)
   - Description: La convocatoria tiene como objetivo facilitar ayudas económicas para fomentar la contratación de jóvenes beneficiarios del Sistema Nacional de Garantía Juvenil, mediante un programa diseñado para mejorar su empleabilidad y fomentar la creación de empleo.
   - Requirements: Empresas que formalicen contratos con jóvenes inscritos en el Sistema Nacional de Garantía Juvenil.; El joven debe tener menos de 30 años.; El centro de trabajo debe estar en la demarcación de la Cámara de Comercio de Tarragona.; No haber tenido relación laboral con el joven en los seis meses anteriores.; Cumplir con las obligaciones tributarias y de Seguridad Social.
   - notion_id: 3a183f94-7b2c-819e-89af-e9ffc9ba92d1 | Budget: 5000 € | Reception: 16/04/2026 | Start: 22/04/2026 | End: 31/12/2026
-- [AYUDAS A LA CONTRATACIÓN TALENTO 45+ CÁMARA DE COMERCIO DE TARRAGONA 2026](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/899218)
+- [AYUDAS A LA CONTRATACIÓN TALENTO 45+ CÁMARA DE COMERCIO DE TARRAGONA 2026](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/899218) (CÁMARA DE COMERCIO DE TARRAGONA)
   - Description: La convocatoria tiene como objetivo fomentar el empleo mediante ayudas económicas para la contratación de personas desempleadas de 45 a 60 años que hayan participado en el Programa Talento 45+. Busca reducir el impacto del desempleo en este colectivo, especialmente tras la crisis provocada por la pandemia de COVID-19.
   - Requirements: Empresas que contraten a personas desempleadas entre 45 y 60 años.; Las personas contratadas deben haber finalizado la fase de orientación del Programa Talento 45+.; El centro de trabajo debe estar en la demarcación de la Cámara de Comercio de Tarragona.; No haber tenido relación laboral con el beneficiario en los seis meses anteriores a la contratación.
   - notion_id: 3a183f94-7b2c-812c-b222-ed7f8cc61f5c | Budget: 5000 € | Reception: 16/04/2026 | Start: 22/04/2026 | End: 31/12/2026
-- [CONVOCATORIA PARA LA CONCESIÓN DE INCENTIVOS A LAS EMPRESAS Y NUEVOS EMPRENDEDORES PARA LA PROMOCIÓN DEL EMPLEO, AÑO 2026.](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/916493)
+- [CONVOCATORIA PARA LA CONCESIÓN DE INCENTIVOS A LAS EMPRESAS Y NUEVOS EMPRENDEDORES PARA LA PROMOCIÓN DEL EMPLEO, AÑO 2026.](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/916493) (AYUNTAMIENTO DE CONSTANTÍ)
   - Description: Este programa tiene como objetivo incentivar la creación de puestos de trabajo en el municipio de Constantí mediante ayudas para la contratación de personas desempleadas y el apoyo a nuevos emprendedores en el establecimiento de empresas.
   - Requirements: Personas que contraten a desempleados empadronados en Constantí por un mínimo de 6 meses.; Nuevos emprendedores con actividad iniciada durante el ejercicio de la convocatoria.
   - notion_id: 3a183f94-7b2c-811e-a090-f5249a61771b | Budget: 44.000 € | Reception: 01/07/2026 | Start: 02/07/2026 | End: 31/12/2026
