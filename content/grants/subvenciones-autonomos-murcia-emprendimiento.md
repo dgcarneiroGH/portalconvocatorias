@@ -6,7 +6,7 @@ beneficiario: Pyme y autónomos
 tag_seo: emprendimiento
 count: 3
 publication_date: 2026-09-25
-last_update_date: 2026-10-28
+last_update_date: 2026-10-29
 slug: subvenciones-autonomos-murcia-emprendimiento
 ---
 
