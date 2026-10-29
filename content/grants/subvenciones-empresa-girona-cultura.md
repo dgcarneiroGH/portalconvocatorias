@@ -5,8 +5,8 @@ region: Girona
 beneficiario: Empresa
 tag_seo: cultura
 count: 68
-publication_date: 2026-10-28T11:01:10.483Z
-last_update_date: 2026-10-28
+publication_date: 2026-10-28
+last_update_date: 2026-10-29
 slug: subvenciones-empresa-girona-cultura
 ---
 
