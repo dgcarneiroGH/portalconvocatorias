@@ -6,7 +6,7 @@ beneficiario: Empresa
 tag_seo: cultura
 count: 68
 publication_date: 2026-10-28
-last_update_date: 2026-10-29
+last_update_date: 2026-10-30
 slug: subvenciones-empresa-girona-cultura
 ---
 
