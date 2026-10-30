@@ -6,7 +6,7 @@ beneficiario: Asociaciones y ong
 tag_seo: educacion_y_becas
 count: 10
 publication_date: 2026-10-26
-last_update_date: 2026-10-29
+last_update_date: 2026-10-30
 slug: subvenciones-asociaciones-badajoz-educacion_y_becas
 ---
 
