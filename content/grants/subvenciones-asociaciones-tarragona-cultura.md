@@ -1,19 +1,23 @@
 ---
 title: Ayudas para cultura en Tarragona para Asociaciones y ong
-description: "Recopilatorio de las 28 ayudas activas en Tarragona para Asociaciones y ong dentro del sector cultura, con presupuesto y plazos de solicitud."
+description: "Recopilatorio de las 29 ayudas activas en Tarragona para Asociaciones y ong dentro del sector cultura, con presupuesto y plazos de solicitud."
 region: Tarragona
 beneficiario: Asociaciones y ong
 tag_seo: cultura
-count: 28
+count: 29
 publication_date: 2026-08-27
-last_update_date: 2026-10-29
+last_update_date: 2026-10-30
 slug: subvenciones-asociaciones-tarragona-cultura
 ---
 
 # Ayudas para cultura en Tarragona para Asociaciones y ong
 
-Ayudas activas (28):
+Ayudas activas (29):
 
+- [CONVENIO DE COLABORACIÓN ENTRE LA ENTIDAD GUUP PESSEBRISTA DEL VENDRELL Y EL AYUNTAMIENTO DEL VENDRELL PARA EL AÑO 2026.](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/938230) (AYUNTAMIENTO DE VENDRELL, EL)
+  - Description: La subvenció té com a objectiu donar suport a entitats que fomenten la cultura, en aquest cas, el Grup Pessebrista del Vendrell, per continuar la tradició de pessebres i diorames i promoure aquesta pràctica entre els infants.
+  - Nominative Grant
+  - notion_id: 40983f94-7b2c-8140-8c7d-e35f463b8480 | Budget: 8000 € | Reception: 27/10/2026 | Start: 01/01/2026 | End: 31/12/2026
 - [CONVENIO DE COLABORACIÓN ENTRE LA COLLA GEGANTERA Y DE GRALLERS Y EL AYUNTAMIENTO DE MÓRA D'EBRE](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/922469) (AYUNTAMIENTO DE MÓRA D’EBRE)
   - Description: Este convenio tiene como objetivo fomentar y apoyar las actividades culturales tradicionales en el municipio de Móra d'Ebre mediante la colaboración entre el Ayuntamiento y la Asociación Colla Gegantera i Grallers de Móra d'Ebre durante el año 2026.
   - Nominative Grant
