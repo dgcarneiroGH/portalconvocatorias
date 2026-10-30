@@ -6,7 +6,7 @@ beneficiario: Asociaciones y ong
 tag_seo: sociales
 count: 4
 publication_date: 2026-10-06
-last_update_date: 2026-10-29
+last_update_date: 2026-10-30
 slug: subvenciones-asociaciones-lleida-sociales
 ---
 
