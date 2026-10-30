@@ -5,8 +5,8 @@ region: Barcelona
 beneficiario: Empresa
 tag_seo: sociales
 count: 19
-publication_date: 2026-10-29T11:01:13.329Z
-last_update_date: 2026-10-29
+publication_date: 2026-10-29
+last_update_date: 2026-10-30
 slug: subvenciones-barcelona-empresa-sociales
 ---
 
