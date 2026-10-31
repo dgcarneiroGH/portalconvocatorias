@@ -1,18 +1,18 @@
 ---
 title: Ayudas para educacion y becas en Comunidad valenciana para Particulares
-description: "Recopilatorio de las 15 ayudas activas en Comunidad valenciana para Particulares dentro del sector educacion_y_becas, con presupuesto y plazos de solicitud."
+description: "Recopilatorio de las 14 ayudas activas en Comunidad valenciana para Particulares dentro del sector educacion_y_becas, con presupuesto y plazos de solicitud."
 region: Comunidad valenciana
 beneficiario: Particulares
 tag_seo: educacion_y_becas
-count: 15
+count: 14
 publication_date: 2026-09-22
-last_update_date: 2026-10-30
+last_update_date: 2026-10-31
 slug: subvenciones-comunidad-valenciana-particulares-educacion_y_becas
 ---
 
 # Ayudas para educacion_y_becas en Comunidad valenciana para Particulares
 
-Ayudas activas (15):
+Ayudas activas (14):
 
 - [BECAS INTRAMURALES DE INICIACIÓN A LA INVESTIGACIÓN PARA ESTUDIANTADO DE MÁSTERES OFICIALES Y DE GRADOS CON NIVEL MECES3, PARA EL CURSO 2026-2027](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/922732) (UNIVERSIDAD JAUME I DE CASTELLÓN)
   - Description: El objetivo de estas becas es promover la iniciación en tareas de investigación del estudiantado matriculado en másteres oficiales o en el último curso de grados con nivel MECES3, específicamente en la Universitat Jaume I, durante el curso académico 2026-2027.
@@ -41,10 +41,6 @@ Ayudas activas (15):
 - [CONVOCATORIA DE BECAS BANCO SANTANDER - AYUDAS PREDOCTORALES 2026](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/927752) (UNIVERSIDAD JAUME I DE CASTELLÓN)
   - Description: La convocatoria tiene como objetivo promover la calidad de la investigación del personal investigador predoctoral de la Universitat Jaume I, así como estimular su participación en actividades científicas y la publicación en acceso abierto de los resultados de sus tesis.
   - notion_id: 3e383f94-7b2c-815a-b937-e9d803c252e7 | Budget: 40.000 € | Reception: 03/09/2026
-- [BASES Y CONVOCATORIA CONCURSO DE RELATOS SOLIDARIOS 2026 XX EDICIÓN,  DEL CENTRO DE VOLUNTARIADO Y PARTICIPACIÓN CIUDADANA DEL AYUNTAMIENTO DE CHIVA](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/928533) (AYUNTAMIENTO DE CHIVA)
-  - Description: El objetivo de la convocatoria es fomentar la educación en los valores de la solidaridad, voluntariado y participación ciudadana entre los estudiantes de los centros educativos de Chiva, desde 5º y 6º de Primaria hasta toda la Educación Secundaria y Bachillerato, a través de un concurso de relatos.
-  - Requirements: Alumnado de 5º y 6º de Primaria de CEIP Dr. Corachán, Francisco Martínez Culla y La Murta; Alumnado del IES Marjana; Alumnado a partir de 5º de Primaria del Colegio Internacional de Levante; Estar escolarizado en centros educativos de Chiva
-  - notion_id: 3e383f94-7b2c-81cf-87d0-f9eda69cffb6 | Budget: 2000 € | Reception: 09/09/2026 | Start: 20/10/2026 | End: 29/10/2026
 - [BECA DE INICIACIÓN A LA INVESTIGACIÓN (PROYECTO «MODALITAT A: AJUDES COMPLEMENTÀRIES ALS PROJECTES D’INVESTIGACIÓ CAPTATS PEL PERSONAL INVESTIGADOR DE LA UNIVERSITAT JAUME I DINS DEL PEICTI I DEL PROGRAMA R+D+I DE LA GENERALITAT VALENCIANA»](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/928817) (UNIVERSIDAD JAUME I DE CASTELLÓN)
   - Description: Beca destinada a estudiantes del Máster Universitario en Ingeniería Industrial de la Universitat Jaume I, con el objetivo de proporcionar formación supervisada y colaborar en un proyecto de investigación relacionado con la gestión de energía en plantas de energía virtual y machine learning.
   - Requirements: Estudiantes del Máster Universitario en Ingeniería Industrial de la Universitat Jaume I; No haber superado todos los créditos del máster; Nacionalidad española o ser nacional de un estado miembro de la Unión Europea; Tener permiso de residencia o de estudios en España; Documentación identificativa en vigor al momento de la incorporación
