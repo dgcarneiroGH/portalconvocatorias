@@ -5,8 +5,8 @@ region: Andalucia
 beneficiario: Asociaciones y ong
 tag_seo: cultura
 count: 21
-publication_date: 2026-10-30T11:01:15.909Z
-last_update_date: 2026-10-30
+publication_date: 2026-10-30
+last_update_date: 2026-10-31
 slug: subvenciones-andalucia-asociaciones-cultura
 ---
 
