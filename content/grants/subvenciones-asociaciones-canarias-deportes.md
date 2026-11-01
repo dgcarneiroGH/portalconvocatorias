@@ -1,23 +1,21 @@
 ---
 title: Ayudas para deportes en Canarias para Asociaciones y ong
-description: "Recopilatorio de las 8 ayudas activas en Canarias para Asociaciones y ong dentro del sector deportes, con presupuesto y plazos de solicitud."
+description: "Recopilatorio de las 7 ayudas activas en Canarias para Asociaciones y ong dentro del sector deportes, con presupuesto y plazos de solicitud."
 region: Canarias
 beneficiario: Asociaciones y ong
 tag_seo: deportes
-count: 8
-publication_date: 2026-10-31
-last_update_date: 2026-10-31
+count: 7
+publication_date: 2026-11-01
+last_update_date: 2026-11-01
 slug: subvenciones-asociaciones-canarias-deportes
 ---
 
 # Ayudas para deportes en Canarias para Asociaciones y ong
 
-Ayudas activas (8):
+Ayudas activas (7):
 
 - [ORDEN DEL CONSEJERO DE EDUCACIÓN, FP, ACTIVIDAD FÍSICA Y DEPORTES, POR LA QUE SE CONCEDEN SUBVENCIONES DIRECTAS A 20 FEDERACIONES CANARIAS Y AL CD ORIENTACIÓN AGÜICO, PARA FINANCIAR LA PARTICIPACIÓN EN CAMPEONATOS DE ESPAÑA EN EDAD ESCOLAR 2026.](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/909754)
   - notion_id: 39283f94-7b2c-810e-a538-c17fcd4b9e6d | Budget: 27.011,16 € | Reception: 01/06/2026
-- [SDVF05-2026 FEDERACIÓN CANARIA DE NATACIÓN (CAMPEONATOS DE ESPAÑA DE NATACIÓN 2026)](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/909755)
-  - notion_id: 39283f94-7b2c-81cc-a6ee-fdd532aa3007 | Budget: 36.000 € | Reception: 01/06/2026 | Start: 01/01/2026 | End: 30/10/2026
 - [ORDEN DEL CONSEJERO DE EDUCACIÓN, FP, ACTIVIDAD FÍSICA Y DEPORTES, POR LA QUE SE CONCEDEN SUBVENCIONES DIRECTAS A 20 FEDERACIONES CANARIAS Y AL CD ORIENTACIÓN AGÜICO, PARA FINANCIAR LA PARTICIPACIÓN EN CAMPEONATOS DE ESPAÑA EN EDAD ESCOLAR 2026.](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/910128)
   - notion_id: 39283f94-7b2c-8161-b7b5-cf05c5d250bb | Budget: 2362,74 € | Reception: 02/06/2026
 - [ORDEN DEL CONSEJERO DE EDUCACIÓN, FP, ACTIVIDAD FÍSICA Y DEPORTES, POR LA QUE SE CONCEDEN SUBVENCIONES DIRECTAS A 20 FEDERACIONES CANARIAS Y AL CD ORIENTACIÓN AGÜICO, PARA FINANCIAR LA PARTICIPACIÓN EN CAMPEONATOS DE ESPAÑA EN EDAD ESCOLAR 2026.](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/910480)
