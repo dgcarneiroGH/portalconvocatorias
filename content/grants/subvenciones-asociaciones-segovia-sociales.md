@@ -1,18 +1,18 @@
 ---
 title: Ayudas sociales en Segovia para Asociaciones y ong
-description: "Recopilatorio de las 13 ayudas activas en Segovia para Asociaciones y ong dentro del sector sociales, con presupuesto y plazos de solicitud."
+description: "Recopilatorio de las 12 ayudas activas en Segovia para Asociaciones y ong dentro del sector sociales, con presupuesto y plazos de solicitud."
 region: Segovia
 beneficiario: Asociaciones y ong
 tag_seo: sociales
-count: 13
+count: 12
 publication_date: 2026-10-19
-last_update_date: 2026-10-31
+last_update_date: 2026-11-01
 slug: subvenciones-asociaciones-segovia-sociales
 ---
 
 # Ayudas sociales en Segovia para Asociaciones y ong
 
-Ayudas activas (13):
+Ayudas activas (12):
 
 - [CONVENIO PARA LA CONCESIÓN DIRECTA DE SUBVENCIÓN A LA ASOCIACIÓN PARA LA PROMOCIÓN Y DESARROLLO HONORSE-TIERRA DE PINARES DE LA PROVINCIA DE SEGOVIA, PARA EL AÑO 2026](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/897599) (DIPUTACIÓN PROVINCIAL DE SEGOVIA)
   - Description: Este convenio tiene como objetivo la concesión de una subvención directa a la Asociación para la Promoción y Desarrollo Honorse-Tierra de Pinares, con el fin de fomentar el desarrollo económico y social, y contribuir a la fijación de población en la provincia de Segovia.
@@ -56,11 +56,6 @@ Ayudas activas (13):
 - [SUBVENCIÓN A LA ACADEMIA DE HISTORIA Y ARTE DE SAN QUIRCE PARA SU FUNCIONAMIENTO Y ACTIVIDADES](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/925350) (DIPUTACIÓN PROVINCIAL DE SEGOVIA)
   - Description: La subvención tiene como objetivo financiar el funcionamiento y las actividades de la Academia de Historia y Arte de San Quirce, contribuyendo al conocimiento y desarrollo social de la provincia de Segovia, así como a la difusión del patrimonio cultural y el fortalecimiento del ecosistema cultural local.
   - notion_id: 3fe83f94-7b2c-811f-9119-eba9ca039ff2 | Budget: 5000 € | Reception: 18/08/2026 | Start: 01/01/2026 | End: 26/02/2027
-- [CONCESIÓN DIRECTA DE SUBVENCIÓN AL AYUNTAMIENTO DE FUENTEPELAYO PARA EL DESFILE DE CARROZAS](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/925442) (DIPUTACIÓN PROVINCIAL DE SEGOVIA)
-  - Description: La subvención tiene como objetivo colaborar con el Ayuntamiento de Fuentepelayo en la realización del Desfile de Carrozas, un evento cultural único que fomenta la participación comunitaria, la transmisión cultural y la atracción turística, contribuyendo así a varios objetivos estratégicos de desarrollo social y económico en la provincia de Segovia.
-  - Requirements: Ayuntamiento de Fuentepelayo como beneficiario; Participación de peñistas de entre 12 y más de 80 años
-  - Nominative Grant
-  - notion_id: 3fe83f94-7b2c-8162-bdea-d5c9e4cc5780 | Budget: 6000 € | Reception: 18/08/2026 | Start: 01/01/2026 | End: 30/10/2026
 - [SUBVENCIÓN A LA ASOCIACIÓN CULTURAL Y SOCIAL DE MUJERES DEL BARRIO DE SANTO TOMÁS PARA EL III ENCUENTRO DEL TRAJE REGIONAL SEGOVIANO](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/925698) (DIPUTACIÓN PROVINCIAL DE SEGOVIA)
   - Description: Colaborar con la Asociación Cultural y Social de Mujeres del Barrio de Santo Tomás para la realización del III Encuentro del Traje Regional Segoviano, promoviendo la transmisión cultural y la participación comunitaria en la provincia de Segovia.
   - notion_id: 3fe83f94-7b2c-8101-8c7e-cd2105dad40c | Budget: 4000 € | Reception: 20/08/2026 | Start: 01/01/2026 | End: 13/11/2026
