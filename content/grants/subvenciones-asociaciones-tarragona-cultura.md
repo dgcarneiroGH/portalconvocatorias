@@ -1,23 +1,27 @@
 ---
 title: Ayudas para cultura en Tarragona para Asociaciones y ong
-description: "Recopilatorio de las 29 ayudas activas en Tarragona para Asociaciones y ong dentro del sector cultura, con presupuesto y plazos de solicitud."
+description: "Recopilatorio de las 30 ayudas activas en Tarragona para Asociaciones y ong dentro del sector cultura, con presupuesto y plazos de solicitud."
 region: Tarragona
 beneficiario: Asociaciones y ong
 tag_seo: cultura
-count: 29
+count: 30
 publication_date: 2026-08-27
-last_update_date: 2026-11-01
+last_update_date: 2026-11-02
 slug: subvenciones-asociaciones-tarragona-cultura
 ---
 
 # Ayudas para cultura en Tarragona para Asociaciones y ong
 
-Ayudas activas (29):
+Ayudas activas (30):
 
 - [CONVENIO DE COLABORACIÓN ENTRE LA ENTIDAD GUUP PESSEBRISTA DEL VENDRELL Y EL AYUNTAMIENTO DEL VENDRELL PARA EL AÑO 2026.](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/938230) (AYUNTAMIENTO DE VENDRELL, EL)
   - Description: La subvenció té com a objectiu donar suport a entitats que fomenten la cultura, en aquest cas, el Grup Pessebrista del Vendrell, per continuar la tradició de pessebres i diorames i promoure aquesta pràctica entre els infants.
   - Nominative Grant
   - notion_id: 40983f94-7b2c-8140-8c7d-e35f463b8480 | Budget: 8000 € | Reception: 27/10/2026 | Start: 01/01/2026 | End: 31/12/2026
+- [CONVENIO CON SUJETO DE DERECHO PRIVADO ENTRE EL AYUNTAMIENTO DE LES PILES Y LA AFA DE LA LLAR D’INFANTS EL ROSSINYOL DE SANTA COLOMA DE QUERALT PARA LA REALIZACIÓN DE ESPECTÁCULOS Y/O TALLERES LÚDICOS](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/938542) (AYUNTAMIENTO DE PILES, LES)
+  - Description: No se proporciona información sobre esta convocatoria.
+  - Nominative Grant
+  - notion_id: 40983f94-7b2c-81be-9ce2-ce9cc1d41ed5 | Budget: 200 € | Reception: 28/10/2026 | Start: 22/10/2026 | End: 30/11/2026
 - [CONVENIO DE COLABORACIÓN ENTRE LA COLLA GEGANTERA Y DE GRALLERS Y EL AYUNTAMIENTO DE MÓRA D'EBRE](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/922469) (AYUNTAMIENTO DE MÓRA D’EBRE)
   - Description: Este convenio tiene como objetivo fomentar y apoyar las actividades culturales tradicionales en el municipio de Móra d'Ebre mediante la colaboración entre el Ayuntamiento y la Asociación Colla Gegantera i Grallers de Móra d'Ebre durante el año 2026.
   - Nominative Grant
