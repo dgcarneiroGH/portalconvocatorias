@@ -1,18 +1,18 @@
 ---
 title: Ayudas para cultura en Andalucia para Asociaciones y ong
-description: "Recopilatorio de las 21 ayudas activas en Andalucia para Asociaciones y ong dentro del sector cultura, con presupuesto y plazos de solicitud."
+description: "Recopilatorio de las 23 ayudas activas en Andalucia para Asociaciones y ong dentro del sector cultura, con presupuesto y plazos de solicitud."
 region: Andalucia
 beneficiario: Asociaciones y ong
 tag_seo: cultura
-count: 21
+count: 23
 publication_date: 2026-10-30
-last_update_date: 2026-11-01
+last_update_date: 2026-11-02
 slug: subvenciones-andalucia-asociaciones-cultura
 ---
 
 # Ayudas para cultura en Andalucia para Asociaciones y ong
 
-Ayudas activas (21):
+Ayudas activas (23):
 
 - [SUBVENCIÓN NOMINATIVA AL TEATRO CERVANTES_29 EDICIÓN CINE DE MÁLAGA](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/914442) (CONSEJERÍA DE CULTURA Y DEPORTE)
   - Description: La subvención nominativa al Teatro Cervantes de Málaga e Iniciativas Audiovisuales, S.A. se otorga para financiar los gastos de funcionamiento y organización de la 29 edición del Festival de Cine de Málaga.
@@ -41,11 +41,20 @@ Ayudas activas (21):
   - Description: Subvención nominativa destinada a cubrir gastos de funcionamiento y actividades de la Asociación Editores de Andalucía para el año 2026.
   - Nominative Grant
   - notion_id: 40983f94-7b2c-81b9-9cb4-f59ff877df40 | Budget: 22.000 € | Reception: 14/08/2026
+- [SUBV. NOMINATIVA-GTOS. FUNC. Y ACTIVIDADES - AYALA - 2026](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/925187) (CONSEJERÍA DE CULTURA Y DEPORTE)
+  - Description: La subvención nominativa es para cubrir gastos de funcionamiento y actividades de la Fundación Francisco Ayala durante el año 2026, con un importe total de 35.000,00 €.
+  - Nominative Grant
+  - notion_id: 40983f94-7b2c-811a-bce5-cfeacc312b11 | Budget: 35.000 € | Reception: 14/08/2026 | Start: 01/01/2026 | End: 31/12/2026
 - [SUBV. NOMINATIVA-GTOS. FUNC. Y ACTIVIDADES - ASOC. COL. ESCRITORES - 2026](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/931831) (CONSEJERÍA DE CULTURA Y DEPORTE)
   - Description: La subvención nominativa tiene como objetivo financiar gastos de funcionamiento y actividades de la Asociación Colegial de Escritores de España para el año 2026.
   - Requirements: Beneficiario: Asociación Colegial de Escritores de España, Sección Autónoma de Andalucía
   - Nominative Grant
   - notion_id: 40983f94-7b2c-8104-bbd8-eb8ad19c1536 | Budget: 18.000 € | Reception: 25/09/2026
+- [SUBV. MUREC](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/934726) (CONSEJERÍA DE CULTURA Y DEPORTE)
+  - Description: Subvención nominativa destinada a cubrir gastos de funcionamiento del Museo del Realismo Español Contemporáneo, administrado por la Diputación Provincial de Almería.
+  - Requirements: Beneficiario debe ser la Diputación Provincial de Almería; No se especifican limitaciones de edad; Localización: Provincia de Almería
+  - Nominative Grant
+  - notion_id: 40983f94-7b2c-81a3-bc46-f329122355d9 | Budget: 250.000 € | Reception: 09/10/2026
 - [CONVENIO DE COLABORACIÓN ENTRE LA EXCMA DIPUTACIÓN DE CÓRDOBA Y LA ASOCIACIÓN RECORD](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/918165) (DIPUTACIÓN PROVINCIAL DE CÓRDOBA)
   - Description: Este Decreto aprueba un convenio de colaboración entre la Diputación de Córdoba y la Asociación Record para financiar el desarrollo del proyecto 'Campus de cine', con un gasto de 35.000 euros.
   - notion_id: 3a883f94-7b2c-8148-ae6a-c14ec160de1d | Budget: 35.000 € | Reception: 09/07/2026 | Start: 01/01/2026 | End: 01/12/2026
