@@ -1,18 +1,18 @@
 ---
 title: Ayudas para deportes en Tarragona para Asociaciones y ong
-description: "Recopilatorio de las 22 ayudas activas en Tarragona para Asociaciones y ong dentro del sector deportes, con presupuesto y plazos de solicitud."
+description: "Recopilatorio de las 21 ayudas activas en Tarragona para Asociaciones y ong dentro del sector deportes, con presupuesto y plazos de solicitud."
 region: Tarragona
 beneficiario: Asociaciones y ong
 tag_seo: deportes
-count: 22
+count: 21
 publication_date: 2026-08-27
-last_update_date: 2026-11-01
+last_update_date: 2026-11-02
 slug: subvenciones-asociaciones-tarragona-deportes
 ---
 
 # Ayudas para deportes en Tarragona para Asociaciones y ong
 
-Ayudas activas (22):
+Ayudas activas (21):
 
 - [CONVENIO ENTRE EL AYUNTAMIENTO DE SARRAL Y LA ASOCIACIÓN ESPORT CLUB SARRALENC](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/938339) (AYUNTAMIENTO DE SARRAL)
   - Description: Este convenio tiene como objetivo apoyar al Asociación Esport Club Sarralenc en el desarrollo de actividades deportivas en el municipio de Sarral, fomentando la participación de la población en dichas actividades.
@@ -41,11 +41,6 @@ Ayudas activas (22):
   - Requirements: El beneficiario debe estar al corriente de pagos con la Seguridad Social.; No debe estar incursado en las inhabilitaciones establecidas por la ley.; Debe justificar la utilización de subvenciones previas no justificadas.; Es necesario comunicar si ha recibido otras subvenciones o ayudas.
   - Nominative Grant
   - notion_id: 40683f94-7b2c-8185-8754-ea17a54885f6 | Budget: 15.000 € | Reception: 30/07/2026
-- [CONVOCATORIA DE LAS SUBVENCIONES PARA LAS ASOCIACIONES Y OTRAS ENTIDADES DEPORTIVAS SIN ÁNIMO DE LUCRO QUE FOMENTAN LA ACTIVIDAD FÍSICA Y EL DEPORTE DE FORMA DIRECTA Y CONTINUADA Y DEPORTISTAS A TÍTULO INDIVIDUAL DEL MUNICIPIO DE VILA-SECA](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/930836) (AYUNTAMIENTO DE VILA-SECA)
-  - Description: Esta convocatoria tiene como objetivo conceder subvenciones a asociaciones y entidades deportivas sin ánimo de lucro del municipio de Vila-seca para la promoción de actividades deportivas, fomentando el desarrollo del deporte, los valores cívicos y la convivencia ciudadana.
-  - Requirements: Asociaciones y entidades deportivas sin ánimo de lucro del municipio de Vila-seca; Deportistas en situación de dificultad económica o social
-  - Nominative Grant
-  - notion_id: 40683f94-7b2c-81bb-9296-d105dd875754 | Budget: 262.090 € | Reception: 22/09/2026 | Start: 01/10/2026 | End: 31/10/2026
 - [CONVENIO DE COLABORACIÓN CLUB BASQUET BELLVEI 2026](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/933422) (AYUNTAMIENTO DE BELLVEI)
   - Description: El convenio tiene como objetivo conceder una subvención nominativa al Club Baloncesto Bellvei para fomentar el desarrollo y la promoción del deporte en el municipio de Bellvei a través de diversas actividades y adquisiciones necesarias para la entidad.
   - Nominative Grant
