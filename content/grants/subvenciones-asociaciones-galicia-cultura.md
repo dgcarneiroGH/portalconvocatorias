@@ -1,18 +1,18 @@
 ---
 title: Ayudas para cultura en Galicia para Asociaciones y ong
-description: "Recopilatorio de las 21 ayudas activas en Galicia para Asociaciones y ong dentro del sector cultura, con presupuesto y plazos de solicitud."
+description: "Recopilatorio de las 22 ayudas activas en Galicia para Asociaciones y ong dentro del sector cultura, con presupuesto y plazos de solicitud."
 region: Galicia
 beneficiario: Asociaciones y ong
 tag_seo: cultura
-count: 21
+count: 22
 publication_date: 2026-10-31
-last_update_date: 2026-11-01
+last_update_date: 2026-11-02
 slug: subvenciones-asociaciones-galicia-cultura
 ---
 
 # Ayudas para cultura en Galicia para Asociaciones y ong
 
-Ayudas activas (21):
+Ayudas activas (22):
 
 - [CONVENIO ENTRE LA CONSELLERÍA DE CULTURA, LENGUA Y JUVENTUD Y EL AYUNTAMIENTO DE ÓRDENES PARA OBRAS DE ADECUACIÓN INTERIOR PARA LA IMPLANTACIÓN DE SALA DE LECTURA Y CENTRO CULTURAL MULTIUSOS EN ÓRDENES.](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/925005) (CONSELLERÍA DE CULTURA, LENGUA Y JUVENTUD)
   - Description: Este convenio entre la Consellería de Cultura, Lengua y Juventud y el Ayuntamiento de Órdenes tiene como principal objetivo la adecuación interior de un edificio para crear una Sala de Lectura y un Centro Cultural Multiusos, promoviendo actividades culturales y la divulgación del patrimonio gallego.
@@ -100,3 +100,6 @@ Ayudas activas (21):
   - Description: El concurso tiene como objetivo fomentar la participación de los alumnos del C.E.I.P. Antonio Carpintero en la creación de carteles y redacciones sobre la LXVII Festa da Lamprea, celebrada en Arbo.
   - Requirements: Alumnos matriculados en el C.E.I.P. Antonio Carpintero; Participación de todos los cursos de educación infantil y los cursos de 3 a 6 de primaria
   - notion_id: 40983f94-7b2c-81af-ab1d-e35e7069db8a | Budget: 0 € | Reception: 28/09/2026 | Start: 02/10/2026 | End: 15/02/2027
+- [BASES DEL XII CERTAMEN GALLEGO DE CORALES “VILA DE ARBO”.](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/934850) (AYUNTAMIENTO DE ARBO)
+  - Description: No hay información disponible sobre esta subvención.
+  - notion_id: 40983f94-7b2c-81da-b3e5-efa48d84f932 | Budget: 2000 € | Reception: 13/10/2026 | Start: 13/10/2026 | End: 14/03/2027
