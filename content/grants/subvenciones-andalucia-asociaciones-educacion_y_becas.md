@@ -5,8 +5,8 @@ region: Andalucia
 beneficiario: Asociaciones y ong
 tag_seo: educacion_y_becas
 count: 20
-publication_date: 2026-11-02T11:01:12.576Z
-last_update_date: 2026-11-02
+publication_date: 2026-11-02
+last_update_date: 2026-11-03
 slug: subvenciones-andalucia-asociaciones-educacion_y_becas
 ---
 
