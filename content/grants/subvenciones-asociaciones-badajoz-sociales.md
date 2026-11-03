@@ -1,18 +1,18 @@
 ---
 title: Ayudas sociales en Badajoz para Asociaciones y ong
-description: "Recopilatorio de las 33 ayudas activas en Badajoz para Asociaciones y ong dentro del sector sociales, con presupuesto y plazos de solicitud."
+description: "Recopilatorio de las 32 ayudas activas en Badajoz para Asociaciones y ong dentro del sector sociales, con presupuesto y plazos de solicitud."
 region: Badajoz
 beneficiario: Asociaciones y ong
 tag_seo: sociales
-count: 33
+count: 32
 publication_date: 2026-10-22
-last_update_date: 2026-11-02
+last_update_date: 2026-11-03
 slug: subvenciones-asociaciones-badajoz-sociales
 ---
 
 # Ayudas sociales en Badajoz para Asociaciones y ong
 
-Ayudas activas (33):
+Ayudas activas (32):
 
 - [CONCESIÓN DIRECTA 2026 A EQUIPO SOLIDARIDAD PARA INSERCIÓN SOCIAL PARA COLECTIVOS EXCLUIDOS O EN RIESGO DE EXCLUSIÓN SOCIAL EN LA CIUDAD DE BADAJOZ Y PEDANÍAS](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/926327) (DIRECCIÓN GENERAL DE SERVICIOS SOCIALES, INFANCIA Y FAMILIA)
   - Description: Subvención destinada a financiar un programa de inserción social para colectivos excluidos o en riesgo de exclusión social en la ciudad de Badajoz y sus pedanías, promovido por la Asociación Equipo Solidaridad.
@@ -67,10 +67,6 @@ Ayudas activas (33):
   - Description: El objeto de esta subvención es financiar un proyecto de inclusión social, diversidad e igualdad de derechos del colectivo LGBTQI, promovido por la Asociación LGBTI Don Benito Orgullosa, para responder a necesidades de inclusión social en el municipio.
   - Nominative Grant
   - notion_id: 40183f94-7b2c-81b9-b0d5-c7c9e60a6ff3 | Budget: 5000 € | Reception: 30/09/2026
-- [SUBVENCIÓN NOMINATIVA A FUNDACIÓN SECRETARIADO GITANO PARA COLABORACIÓN EN LA FINANCIACIÓN DE PROYECTOS FINANCIADOS POR FSE+ EN 2026](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/932904) (AYUNTAMIENTO DE BADAJOZ)
-  - Description: La subvención está destinada a la Fundación Secretariado Gitano para la realización de un proyecto enfocado en la inclusión social, garantía infantil y lucha contra la pobreza, dirigido específicamente a la población gitana durante el ejercicio 2026.
-  - Nominative Grant
-  - notion_id: 40183f94-7b2c-819f-bf2a-e916ea51c47f | Budget: 40.000 € | Reception: 01/10/2026 | Start: 01/01/2026 | End: 01/11/2026
 - [SUBV. PLAN RDEM. ADAPTACION EXPLANADA TRAS CENTRO DE DIA Y AULA INFANTIL PARA PARQUE DE OCIO. CASAS DE REINA](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/933680) (DIPUTACIÓN PROVINCIAL DE BADAJOZ)
   - Description: Este convenio busca la colaboración entre entidades para fortalecer y promover proyectos sociales en la región de Badajoz.
   - Nominative Grant
