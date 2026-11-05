@@ -1,18 +1,18 @@
 ---
 title: Ayudas para deportes en Tarragona para Asociaciones y ong
-description: "Recopilatorio de las 21 ayudas activas en Tarragona para Asociaciones y ong dentro del sector deportes, con presupuesto y plazos de solicitud."
+description: "Recopilatorio de las 18 ayudas activas en Tarragona para Asociaciones y ong dentro del sector deportes, con presupuesto y plazos de solicitud."
 region: Tarragona
 beneficiario: Asociaciones y ong
 tag_seo: deportes
-count: 21
+count: 18
 publication_date: 2026-08-27
-last_update_date: 2026-11-03
+last_update_date: 2026-11-05
 slug: subvenciones-asociaciones-tarragona-deportes
 ---
 
 # Ayudas para deportes en Tarragona para Asociaciones y ong
 
-Ayudas activas (21):
+Ayudas activas (18):
 
 - [CONVENIO ENTRE EL AYUNTAMIENTO DE SARRAL Y LA ASOCIACIÓN ESPORT CLUB SARRALENC](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/938339) (AYUNTAMIENTO DE SARRAL)
   - Description: Este convenio tiene como objetivo apoyar al Asociación Esport Club Sarralenc en el desarrollo de actividades deportivas en el municipio de Sarral, fomentando la participación de la población en dichas actividades.
@@ -49,12 +49,6 @@ Ayudas activas (21):
   - Description: Esta subvención tiene como objetivo financiar la participación del Club Patí Calafell en competiciones de patinaje y las actividades de promoción deportiva del municipio de Calafell.
   - Nominative Grant
   - notion_id: 40683f94-7b2c-81a7-82a1-ea751885daef | Budget: 171.500 € | Reception: 09/10/2026 | Start: 01/01/2026 | End: 31/12/2026
-- [MÒDUL B. ÚS REGULAR D`INSTAL·LACIONS (SENSE COMPETICIÓ) TEMP. 2026-2027](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/935157) (AYUNTAMIENTO DE REUS)
-  - Description: Esta subvención tiene como objetivo financiar el uso de instalaciones deportivas municipales por parte de entidades y organizaciones deportivas a través de varios módulos, incluyendo actividades de entrenamiento, competición escolar, y actividades de tecnificación deportiva para la temporada 2026-2027.
-  - notion_id: 40683f94-7b2c-8100-b61d-f28a5ac2576c | Budget: 156.000 € | Reception: 14/10/2026 | Start: 15/10/2026 | End: 03/11/2026
-- [MÒDUL C. ÚS PUNTUAL O EXTRAORDINARI TEMP 2026-2027](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/935158) (AYUNTAMIENTO DE REUS)
-  - Description: Esta subvención tiene como objetivo facilitar el uso de instalaciones deportivas municipales por parte de entidades y organizaciones deportivas, apoyando tanto entrenamientos como actividades de tecnificación y competiciones escolares federadas.
-  - notion_id: 40683f94-7b2c-81cf-bbe2-df7277a45c9b | Budget: 105.800 € | Reception: 14/10/2026 | Start: 15/10/2026 | End: 03/11/2026
 - [CONVENIO DE COLABORACIÓN CON EL CLUB ESPORTIU HOSPITALT DE L'INFANT PARA LA FINANCIACIÓN DE LAS ACTIVIDADES DEPORTIVAS DEL EQUIPO DE FUTBOL FEMENINO "FEMENÍ 7 TARRAGONA (GRUP 1)" DURANTE LA TEMPORADA 2026/2027](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/935503) (AYUNTAMIENTO DE VANDELLÒS I L'HOSPITALET DE I'INFANT)
   - Description: El objetivo de estas subvenciones es financiar proyectos y actividades a través de ayudas nominativas especificadas en los Presupuestos Generales del Estado, Comunidades Autónomas o Entidades Locales, asegurando que los fondos se utilicen de acuerdo a lo estipulado en los convenios y reglamentos aplicables.
   - Nominative Grant
@@ -71,9 +65,6 @@ Ayudas activas (21):
   - Description: La subvención está destinada a financiar las actividades de diversas entidades del municipio de Vila-seca durante el año 2026.
   - Nominative Grant
   - notion_id: 40683f94-7b2c-8130-b10d-c7284f64d437 | Budget: 18.000 € | Reception: 28/09/2026
-- [MÒDUL A. ÚS REGULAR D`INSTAL·LACIONS (ENTRENAMENT I COMPETICIÓ) TEMP 2026-2027](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/935156) (AYUNTAMIENTO DE REUS)
-  - Description: La subvenció té com a objectiu finançar l'ús de les instal·lacions esportives municipals per part d'entitats i organitzacions esportives, incloent activitats d'entrenament, competició i tecnificació.
-  - notion_id: 40683f94-7b2c-811e-bc16-daa642e81e2f | Budget: 1.160.200 € | Reception: 14/10/2026 | Start: 15/10/2026 | End: 03/11/2026
 - [CONVENIO DE COLABORACIÓN ENTRE EL FUTBOL SALA MÓRA D'EBRE Y EL AYUNTAMIENTO DE MÓRA D'EBRE](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/922575) (AYUNTAMIENTO DE MÓRA D’EBRE)
   - Description: El conveni entre l'Ajuntament de Móra d'Ebre i el Club Futbol Sala Móra d'Ebre té com a objectiu fomentar l'esport del futbol sala a nivell local, organitzant competicions durant l'any 2026.
   - Requirements: L'entitat ha d'estar al corrent de pagaments amb la Seguretat Social i Hisendes Públiques; No estar incursa en l'article 13.2 de la Llei 38/2003; No tenir pendent de reintegrar cap subvenció no justificada; Haver de comunicar altres subvencions obtingudes
