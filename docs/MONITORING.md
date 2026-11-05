@@ -47,24 +47,16 @@ Configuracion recomendada:
 
 ## Analitica web
 
-### Opcion recomendada: Plausible Analytics (RGPD-friendly)
+### Google Analytics 4 (integrado, RGPD-friendly)
 
-1. Crear cuenta en https://plausible.io
-2. Anadir el dominio `portalconvocatorias.es`
-3. En `config.toml`:
-   ```toml
-   [params]
-     plausibleEnabled = true
-     plausibleDomain = "portalconvocatorias.es"
-   ```
-4. Rebuild y redeploy.
+GA4 esta integrado con consent mode:
 
-### Alternativa: Google Analytics 4
+1. Snippet base en `layouts/partials/ga4.html` (analytics_storage denegado hasta el consentimiento del banner `cookie-banner.js`).
+2. `static/js/ai-referrals.js` detecta visitas desde plataformas de IA y empuja el evento `ai_referral` (source, path, full_referrer) al dataLayer; gtag.js lo envia a GA4.
+3. Custom dimensions configuradas en GA4 Admin: `ai_source`, `ai_path`, `ai_full_referrer` (detalles en `docs/aeo-monitorizacion.md`).
+4. Los eventos solo se envian tras aceptar cookies: las cifras de referrals AI subestiman el trafico real.
 
-Si prefieres GA4:
-1. Crear propiedad GA4
-2. Obtener ID de medicion (formato `G-XXXXXXXX`)
-3. Anadir script en `layouts/partials/head.html` (no incluido por defecto)
+(Plausible se evaluó y se descartó; el stack gratuito vigente es GA4.)
 
 ## Performance / Core Web Vitals
 
@@ -110,6 +102,7 @@ Configuracion en `.github/workflows/lighthouse.yml`.
 
 ### Mensual
 - [ ] Ejecutar `node scripts/verify-seo.js` y `node scripts/validate-schema.js`
+- [ ] Ejecutar `npm run aeo-summary` y seguir el flujo mensual de `docs/aeo-monitorizacion.md`
 - [ ] Lighthouse audit en home y 3 fichas representativas
 - [ ] Revisar paginas excluidas en Search Console
 - [ ] Comprobar que las landings (`/regiones/`, `/para/`) tienen trafico
