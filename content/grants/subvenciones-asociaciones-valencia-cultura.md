@@ -1,18 +1,18 @@
 ---
 title: Ayudas para cultura en Valencia para Asociaciones y ong
-description: "Recopilatorio de las 17 ayudas activas en Valencia para Asociaciones y ong dentro del sector cultura, con presupuesto y plazos de solicitud."
+description: "Recopilatorio de las 16 ayudas activas en Valencia para Asociaciones y ong dentro del sector cultura, con presupuesto y plazos de solicitud."
 region: Valencia
 beneficiario: Asociaciones y ong
 tag_seo: cultura
-count: 17
+count: 16
 publication_date: 2026-09-30
-last_update_date: 2026-10-20
+last_update_date: 2026-11-03
 slug: subvenciones-asociaciones-valencia-cultura
 ---
 
 # Ayudas para cultura en Valencia para Asociaciones y ong
 
-Ayudas activas (17):
+Ayudas activas (16):
 
 - [CONCESIÓN SUBVENCIÓN NOMINATIVA EJERCICIO 2026](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/925913) (AYUNTAMIENTO DE PATERNA)
   - Description: La subvención tiene como objetivo financiar actividades de la Asociación Comparsa Guardianas de Sibila, relacionadas con un desfile y otras actividades organizadas por la entidad, para el ejercicio 2026.
@@ -81,10 +81,6 @@ Ayudas activas (17):
   - Requirements: Estar inscrita en el Registro de Asociaciones del Ayuntamiento de Paterna; Estar al corriente de obligaciones con la Agencia Tributaria; Estar al corriente de obligaciones con la Seguridad Social; No tener deudas con el Ayuntamiento
   - Nominative Grant
   - notion_id: 3d183f94-7b2c-81ae-9855-d35981a7b025 | Budget: 500 € | Reception: 01/09/2026 | Start: 01/01/2026 | End: 31/12/2026
-- [CONVENIO DE COLABORACIÓN PARA LA CONCESIÓN DE SUBVENCIÓN DESTINADA A GASTOS CORRIENTES ENTRE EL AYUNTAMIENTO DE ALMUSSAFES Y LA ASOCIACIÓN SOM I ESTEM 2026](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/927724) (AYUNTAMIENTO DE ALMUSSAFES)
-  - Description: El objetivo de esta subvención es financiar actividades de integración, prevención, convivencia y sensibilización para el colectivo de personas con diversidad funcional, promoviendo la cultura y el asociacionismo.
-  - Nominative Grant
-  - notion_id: 3d183f94-7b2c-8166-972f-e18a7e071e9d | Budget: 5000 € | Reception: 03/09/2026 | Start: 01/11/2025 | End: 31/10/2026
 - [SUBVENCIÓN NOMINATIVA A AVETID (ASOCIACIÓN VALENCIANA DE EMPRESAS PROMOTORAS DE TEATRO Y DANZA), PROYECTO “INICI DE TEMPORADA D’ARTS ESCÈNIQUES 2026/2027”,](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/927793) (AYUNTAMIENTO DE VALENCIA)
   - Description: Esta subvención está destinada a apoyar la realización del proyecto 'Inici de Temporada d'Arts Escèniques 2026-2027', que tiene como objetivo promover y fortalecer las artes escénicas valencianas, facilitando la colaboración entre profesionales y fomentando el acceso de la ciudadanía a la cultura.
   - Nominative Grant

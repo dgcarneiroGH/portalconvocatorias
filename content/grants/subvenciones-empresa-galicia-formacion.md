@@ -1,23 +1,19 @@
 ---
 title: Ayudas para formacion en Galicia para Empresa
-description: "Recopilatorio de las 3 ayudas activas en Galicia para Empresa dentro del sector formacion, con presupuesto y plazos de solicitud."
+description: "Recopilatorio de las 2 ayudas activas en Galicia para Empresa dentro del sector formacion, con presupuesto y plazos de solicitud."
 region: Galicia
 beneficiario: Empresa
 tag_seo: formacion
-count: 3
-publication_date: 2026-10-20
-last_update_date: 2026-10-20
+count: 2
+publication_date: 2026-11-03
+last_update_date: 2026-11-03
 slug: subvenciones-empresa-galicia-formacion
 ---
 
 # Ayudas para formacion en Galicia para Empresa
 
-Ayudas activas (3):
+Ayudas activas (2):
 
-- [CONVENIO DE COLABORACIÓN ENTRE LA AGENCIA PARA LA MODERNIZACIÓN TECNOLÓGICA DE GALICIA Y EL COLEGIO PROFESIONAL DE INGENIERÍA TÉCNICA EN INFORMÁTICA DE GALICIA PARA LA REALIZACIÓN DE ACTUACIONES DE FORMACIÓN, CAPACITACIÓN Y PROMOCIÓN EN EL ÁMBITO DE LAS T](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/893756) (AGENCIA PARA LA MODERNIZACIÓN TECNOLÓGICA DE GALICIA (AMTEGA))
-  - Description: El presente convenio tiene como objetivo la realización de actuaciones de formación, capacitación y promoción en el ámbito de las tecnologías de la información en Galicia, fomentando la inclusión digital y la igualdad de género en el sector de las TIC.
-  - Requirements: Dirigido a niños y niñas de 7 a 15 años; Participación de adultos acompañantes en las actividades; Los talleres están orientados a toda la comunidad gallega
-  - notion_id: 3a883f94-7b2c-8118-829a-fc40a963e6ad | Budget: 39.500 € | Reception: 18/03/2026 | Start: 01/01/2026 | End: 31/10/2026
 - [CONVENIO DE COLABORACIÓN ENTRE LA AGENCIA PARA LA MODERNIZACIÓN TECNOLÓGICA DE GALICIA Y LA ASOCIACIÓN DE EMPRESAS GALLEGAS DE SOFTWARE LIBRE PARA LA REALIZACIÓN DE ACTUACIONES DE FORMACIÓN, CAPACITACIÓN Y PROMOCIÓN DEL SOFTWARE LIBRE Y DE FUENTES ABIERTA](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/914231) (AGENCIA PARA LA MODERNIZACIÓN TECNOLÓGICA DE GALICIA (AMTEGA))
   - Description: Este convenio entre la Axencia para a Modernización Tecnolóxica de Galicia y la Asociación de Empresas Galegas de Software Libre tiene como objetivo la realización de acciones de formación, capacitación y promoción del software libre y de fuentes abiertas en Galicia, fomentando así la Sociedad de la Información.
   - Nominative Grant

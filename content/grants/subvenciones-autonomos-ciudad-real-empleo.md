@@ -1,23 +1,19 @@
 ---
 title: Ayudas para empleo en Ciudad real para Pyme y autónomos
-description: "Recopilatorio de las 3 ayudas activas en Ciudad real para Pyme y autónomos dentro del sector empleo, con presupuesto y plazos de solicitud."
+description: "Recopilatorio de las 2 ayudas activas en Ciudad real para Pyme y autónomos dentro del sector empleo, con presupuesto y plazos de solicitud."
 region: Ciudad real
 beneficiario: Pyme y autónomos
 tag_seo: empleo
-count: 3
-publication_date: 2026-10-20
-last_update_date: 2026-10-20
+count: 2
+publication_date: 2026-11-03
+last_update_date: 2026-11-03
 slug: subvenciones-autonomos-ciudad-real-empleo
 ---
 
 # Ayudas para empleo en Ciudad real para Pyme y autónomos
 
-Ayudas activas (3):
+Ayudas activas (2):
 
-- [BASES REGULADORAS AYUDAS A LA CONTRATACIÓN REALIZADA POR AUTÓNOMOS Y MICROEMPRESAS-2026](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/894525)
-  - Description: La convocatoria tiene como objetivo fomentar la contratación de trabajadores por parte de autónomos y microempresas que cumplan con los requisitos establecidos.
-  - Requirements: Ser autónomo o microempresa; Contratar a trabajadores que cumplan requisitos específicos; Presentar la solicitud según el modelo oficial
-  - notion_id: 3ad83f94-7b2c-81f7-9ca6-e0b327b21131 | Budget: 15.000 € | Reception: 23/03/2026 | Start: 26/03/2026 | End: 31/10/2026
 - [CONVOCATORIA DE SUBVENCIÓNES "PLAN CONTINÚA: ESCUDO PARA EL AUTÓNOMO DE CIUDAD REAL" 2026.](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/904540)
   - Description: La subvención tiene como objetivo ayudar a trabajadores autónomos en Ciudad Real que se encuentran en vulnerabilidad económica debido a una incapacidad temporal de larga duración, cubriendo parcialmente las cuotas del Régimen Especial de Trabajadores Autónomos durante los primeros 60 días de dicha incapacidad.
   - Requirements: Trabajadores autónomos con domicilio fiscal en Ciudad Real; Situación de vulnerabilidad económica por incapacidad temporal de larga duración; La baja médica debe ser validada por el INSS o Mutua Colaboradora; La incapacidad debe durar al menos dos meses naturales consecutivos

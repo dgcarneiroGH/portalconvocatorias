@@ -1,18 +1,18 @@
 ---
 title: Ayudas para comercio en Comunidad de madrid para Pyme y autónomos
-description: "Recopilatorio de las 6 ayudas activas en Comunidad de madrid para Pyme y autónomos dentro del sector comercio, con presupuesto y plazos de solicitud."
+description: "Recopilatorio de las 5 ayudas activas en Comunidad de madrid para Pyme y autónomos dentro del sector comercio, con presupuesto y plazos de solicitud."
 region: Comunidad de madrid
 beneficiario: Pyme y autónomos
 tag_seo: comercio
-count: 6
+count: 5
 publication_date: 2026-09-13
-last_update_date: 2026-10-20
+last_update_date: 2026-11-03
 slug: subvenciones-autonomos-comunidad-de-madrid-comercio
 ---
 
 # Ayudas para comercio en Comunidad de madrid para Pyme y autónomos
 
-Ayudas activas (6):
+Ayudas activas (5):
 
 - [ORDEN DISPONIBILIDAD DE CRÉDITO COMERCIO 2026 LÍNEA 2 MANT. ESTABLEC.](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/905547) (CONSEJERÍA DE PRESIDENCIA, JUSTICIA Y ADMINISTRACIÓN LOCAL)
   - Description: Este programa no contiene información específica sobre su objetivo o financiamiento.
@@ -31,6 +31,3 @@ Ayudas activas (6):
 - [CONVOCATORIA DEL VII CONCURSO DE ESCAPARATISMO NAVIDEÑO DE FUENLABRADA. EJERCICIO 2026. (JGL DE FECHA  04/09/2026 (PTO. 22)](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/928620) (AYUNTAMIENTO DE FUENLABRADA)
   - Description: El VII Concurso de Escaparatismo Navideño de Fuenlabrada busca promover el comercio y la hostelería local mediante un concurso que premiará los mejores escaparates durante la temporada navideña, de carácter innovador y creativo.
   - notion_id: 3da83f94-7b2c-8109-83e5-ec780f7c7d3d | Budget: 14.100 € | Reception: 10/09/2026 | Start: 13/10/2026 | End: 15/11/2026
-- [BASES REGULADORAS QUE DEBEN REGIR LA CONVOCATORIA 2026 DE AYUDAS PARA LA ADQUISICIÓN DE EQUIPAMIENTOS E INSTALACIONES PARA LA MEJORA DE LA SEGURIDAD DE LOS ESTABLECIMIENTOS COMERCIALES Y HOSTELEROS DE RIVAS VACIAMADRID](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/906563) (AYUNTAMIENTO DE RIVAS-VACIAMADRID)
-  - Description: La convocatoria tiene como objetivo regular la concesión de ayudas para la adquisición de equipamientos e instalaciones que mejoren la seguridad en establecimientos comerciales y hosteleros en Rivas Vaciamadrid, con el fin de reducir el impacto económico de estas inversiones en los negocios locales.
-  - notion_id: 3da83f94-7b2c-81ea-b03c-c37d192fb726 | Budget: 240.000 € | Reception: 19/05/2026 | Start: 20/05/2026 | End: 31/10/2026
