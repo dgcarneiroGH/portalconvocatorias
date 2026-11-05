@@ -6,7 +6,7 @@ beneficiario: Pyme y autónomos
 tag_seo: comercio
 count: 5
 publication_date: 2026-09-13
-last_update_date: 2026-11-03
+last_update_date: 2026-11-05
 slug: subvenciones-autonomos-comunidad-de-madrid-comercio
 ---
 
