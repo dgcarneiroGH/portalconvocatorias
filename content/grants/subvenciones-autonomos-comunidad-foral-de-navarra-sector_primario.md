@@ -1,18 +1,18 @@
 ---
 title: Ayudas para sector primario en Comunidad foral de navarra para Pyme y autónomos
-description: "Recopilatorio de las 8 ayudas activas en Comunidad foral de navarra para Pyme y autónomos dentro del sector sector_primario, con presupuesto y plazos de solicitud."
+description: "Recopilatorio de las 7 ayudas activas en Comunidad foral de navarra para Pyme y autónomos dentro del sector sector_primario, con presupuesto y plazos de solicitud."
 region: Comunidad foral de navarra
 beneficiario: Pyme y autónomos
 tag_seo: sector_primario
-count: 8
+count: 7
 publication_date: 2026-10-17
-last_update_date: 2026-11-03
+last_update_date: 2026-11-05
 slug: subvenciones-autonomos-comunidad-foral-de-navarra-sector_primario
 ---
 
 # Ayudas para sector_primario en Comunidad foral de navarra para Pyme y autónomos
 
-Ayudas activas (8):
+Ayudas activas (7):
 
 - [BASES REGULADORAS Y CONVOCATORIA PARA 2026 DE LA AYUDA A INVERSIONES EN EXPLOTACIONES AGRARIAS PEPAC 2023-2027](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/928367) (DEPARTAMENTO DE DESARROLLO RURAL Y MEDIO AMBIENTE)
   - Description: Esta ayuda tiene como objetivo apoyar inversiones en explotaciones agrarias específicamente para mejorar la competitividad de las mismas, mediante la aplicación de medidas que contribuyan a la sostenibilidad y eficiencia en el sector agroalimentario.
@@ -34,9 +34,6 @@ Ayudas activas (8):
   - Description: Esta resolución autoriza la financiación para la prestación de servicios de asesoramiento a explotaciones agrarias en Navarra durante el año 2026, en el marco de la política agrícola común y del Plan Estratégico Nacional correspondiente.
   - Nominative Grant
   - notion_id: 3fb83f94-7b2c-813a-b3fc-f2ccb5f6a186 | Budget: 2.400.000 € | Reception: 14/09/2026
-- [AYUDAS PARA REPARAR LOS DAÑOS CAUSADOS POR ENFERMEDADES DE ANIMALES EN EL GANADO VACUNO, EN EL MARCO DE CAMPAÑAS DE SANEAMIENTO GANADERO, PARA EL AÑO 2026.](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/930820) (DEPARTAMENTO DE DESARROLLO RURAL Y MEDIO AMBIENTE)
-  - Description: El objetivo de estas ayudas es reparar los daños causados por enfermedades de animales en el ganado vacuno, facilitando la reconstitución del rebaño y recuperando la productividad y rentabilidad de las explotaciones ganaderas afectadas.
-  - notion_id: 3fb83f94-7b2c-81d9-b5de-d6097aa1ee9d | Budget: 238.103 € | Reception: 22/09/2026 | Start: 22/09/2026 | End: 02/11/2026
 - [AYUDAS PARA LAS INVERSIONES FORESTALES PRODUCTIVAS DESTINADAS A APROVECHAMIENTOS FORESTALES, TRABAJOS SELVÍCOLAS, SERVICIOS FORESTALES Y PRIMERA TRANSFORMACIÓN. (INTERVENCIÓN 6883 DEL PEPAC) EN EL AÑO 2027](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/930328) (DEPARTAMENTO DE DESARROLLO RURAL Y MEDIO AMBIENTE)
   - Description: Ayudas para inversiones en tecnologías forestales, transformación, movilización y comercialización de productos forestales, cofinanciadas por el FEADER en el marco del PEPAC 2023-2027.
   - notion_id: 3fb83f94-7b2c-810d-ad37-f048733946ef | Budget: 1.159.980 € | Reception: 18/09/2026 | Start: 01/11/2026 | End: 30/11/2026
