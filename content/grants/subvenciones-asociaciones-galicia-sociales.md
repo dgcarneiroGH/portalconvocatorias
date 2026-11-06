@@ -5,8 +5,8 @@ region: Galicia
 beneficiario: Asociaciones y ong
 tag_seo: sociales
 count: 14
-publication_date: 2026-11-05T11:01:11.363Z
-last_update_date: 2026-11-05
+publication_date: 2026-11-05
+last_update_date: 2026-11-06
 slug: subvenciones-asociaciones-galicia-sociales
 ---
 
