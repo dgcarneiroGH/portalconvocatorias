@@ -1,18 +1,18 @@
 ---
 title: Ayudas para cultura en Andalucia para Asociaciones y ong
-description: "Recopilatorio de las 23 ayudas activas en Andalucia para Asociaciones y ong dentro del sector cultura, con presupuesto y plazos de solicitud."
+description: "Recopilatorio de las 22 ayudas activas en Andalucia para Asociaciones y ong dentro del sector cultura, con presupuesto y plazos de solicitud."
 region: Andalucia
 beneficiario: Asociaciones y ong
 tag_seo: cultura
-count: 23
+count: 22
 publication_date: 2026-10-30
-last_update_date: 2026-11-07
+last_update_date: 2026-11-08
 slug: subvenciones-andalucia-asociaciones-cultura
 ---
 
 # Ayudas para cultura en Andalucia para Asociaciones y ong
 
-Ayudas activas (23):
+Ayudas activas (22):
 
 - [SUBVENCIÓN NOMINATIVA AL TEATRO CERVANTES_29 EDICIÓN CINE DE MÁLAGA](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/914442) (CONSEJERÍA DE CULTURA Y DEPORTE)
   - Description: La subvención nominativa al Teatro Cervantes de Málaga e Iniciativas Audiovisuales, S.A. se otorga para financiar los gastos de funcionamiento y organización de la 29 edición del Festival de Cine de Málaga.
@@ -34,9 +34,6 @@ Ayudas activas (23):
   - Description: La subvención nominativa está destinada a financiar los gastos de alquiler del local social de la Asociación Cultural Carnavalesca El Tatachín de la Frontera para el año 2026.
   - Nominative Grant
   - notion_id: 40983f94-7b2c-8195-93b8-e5566a4f2500 | Budget: 5800 € | Reception: 22/09/2026
-- [BASES REGULADORAS ESPECÍFICAS Y CONVOCATORIA DE SUBVENCIONES DEL ÁREA DE CULTURA Y CIUDADANÍA DESTINADAS A ASOCIACIONES DE CONSUMIDORES Y USUARIOS, EJERCICIO 2026.](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/935783) (DIPUTACIÓN PROVINCIAL DE SEVILLA)
-  - Description: Esta subvención está destinada a asociaciones de consumidores y usuarios para fomentar la defensa y protección de sus derechos, y fortalecer el papel de estas asociaciones como agentes esenciales en dicha defensa.
-  - notion_id: 40983f94-7b2c-8132-9d98-f3da297856e0 | Budget: 200.000 € | Reception: 16/10/2026 | Start: 19/10/2026 | End: 06/11/2026
 - [SUBV. NOMINATIVA-GTOS. FUNC. Y ACTIVIDADES - ASOC. EDITORES - 2026](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/925184) (CONSEJERÍA DE CULTURA Y DEPORTE)
   - Description: Subvención nominativa destinada a cubrir gastos de funcionamiento y actividades de la Asociación Editores de Andalucía para el año 2026.
   - Nominative Grant
