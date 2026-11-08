@@ -6,7 +6,7 @@ beneficiario: Particulares
 tag_seo: cultura
 count: 2
 publication_date: 2026-09-29
-last_update_date: 2026-11-07
+last_update_date: 2026-11-08
 slug: subvenciones-alicante-particulares-cultura
 ---
 
