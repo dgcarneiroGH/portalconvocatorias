@@ -5,8 +5,8 @@ region: Galicia
 beneficiario: Asociaciones y ong
 tag_seo: turismo
 count: 12
-publication_date: 2026-11-07T11:01:11.786Z
-last_update_date: 2026-11-07
+publication_date: 2026-11-07
+last_update_date: 2026-11-08
 slug: subvenciones-asociaciones-galicia-turismo
 ---
 
