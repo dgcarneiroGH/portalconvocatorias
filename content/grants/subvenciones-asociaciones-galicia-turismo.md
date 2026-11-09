@@ -6,7 +6,7 @@ beneficiario: Asociaciones y ong
 tag_seo: turismo
 count: 12
 publication_date: 2026-11-07
-last_update_date: 2026-11-08
+last_update_date: 2026-11-09
 slug: subvenciones-asociaciones-galicia-turismo
 ---
 
