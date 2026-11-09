@@ -5,8 +5,8 @@ region: Región de murcia
 beneficiario: Empresa
 tag_seo: formacion
 count: 1
-publication_date: 2026-11-08
-last_update_date: 2026-11-08
+publication_date: 2026-11-09
+last_update_date: 2026-11-09
 slug: subvenciones-empresa-region-de-murcia-formacion
 ---
 
