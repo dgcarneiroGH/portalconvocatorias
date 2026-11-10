@@ -1,18 +1,18 @@
 ---
 title: Ayudas para deportes en Tarragona para Asociaciones y ong
-description: "Recopilatorio de las 18 ayudas activas en Tarragona para Asociaciones y ong dentro del sector deportes, con presupuesto y plazos de solicitud."
+description: "Recopilatorio de las 17 ayudas activas en Tarragona para Asociaciones y ong dentro del sector deportes, con presupuesto y plazos de solicitud."
 region: Tarragona
 beneficiario: Asociaciones y ong
 tag_seo: deportes
-count: 18
+count: 17
 publication_date: 2026-08-27
-last_update_date: 2026-11-09
+last_update_date: 2026-11-10
 slug: subvenciones-asociaciones-tarragona-deportes
 ---
 
 # Ayudas para deportes en Tarragona para Asociaciones y ong
 
-Ayudas activas (18):
+Ayudas activas (17):
 
 - [CONVENIO ENTRE EL AYUNTAMIENTO DE SARRAL Y LA ASOCIACIÓN ESPORT CLUB SARRALENC](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/938339) (AYUNTAMIENTO DE SARRAL)
   - Description: Este convenio tiene como objetivo apoyar al Asociación Esport Club Sarralenc en el desarrollo de actividades deportivas en el municipio de Sarral, fomentando la participación de la población en dichas actividades.
@@ -24,10 +24,6 @@ Ayudas activas (18):
   - Requirements: Entitat beneficiària: CLUB NATACIÓ TÀRRACO; No té subvencions pendents de justificar; Certificacions requerides sobre deutes amb la Seguretat Social i l'Agència Tributària
   - Nominative Grant
   - notion_id: 40983f94-7b2c-8198-a1bd-eb22bd474834 | Budget: 40.000 € | Reception: 28/10/2026 | Start: 01/01/2026 | End: 31/12/2026
-- [CONVOCATORIA 2026 DE LAS SUBVENCIONES EN REGIMEN DE CONCURRENCIA COMPETITIVA DIRIGIDAS A LAS ENTIDADES DEPORTIVAS MUNICIPALES Y A LOS DEPORTISTAS INDIVIDUALES DEL MUNICIPIO DE ALTAFULLA](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/938653) (AYUNTAMIENTO DE ALTAFULLA)
-  - Description: La subvenció té com a objecte oferir ajuts econòmics a les Associacions de Famílies d'Alumnes (AFAs) dels centres educatius públics i municipals d'Altafulla, per a projectes d'activitats que fomentin l'activitat educativa dins del marc del Projecte Educatiu del Centre.
-  - Requirements: AFAs legalment constituïdes com a entitats sense ànim de lucre; Tindre presència i base social al municipi d'Altafulla
-  - notion_id: 40983f94-7b2c-81bc-919a-feaf87c6c94b | Budget: 18.000 € | Reception: 29/10/2026 | Start: 30/10/2026 | End: 08/11/2026
 - [CONVOCATORIA 2026 DE SUBVENCIONES EN LOS ÁMBITOS (1) CULTURAL Y FESTIVO (2) DEPORTIVO Y (3) VECINAL DEL AYUNTAMIENTO DE RODA DE BERÀ](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/938751) (AYUNTAMIENTO DE RODA DE BERÀ)
   - Description: No se proporciona información sobre los objetivos o financiamiento del anuncio.
   - notion_id: 40983f94-7b2c-8186-a30e-f50a97ad8757 | Budget: 55.000 € | Reception: 29/10/2026 | Start: 30/10/2026 | End: 30/11/2026
