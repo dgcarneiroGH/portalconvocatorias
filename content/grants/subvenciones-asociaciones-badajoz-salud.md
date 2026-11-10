@@ -6,7 +6,7 @@ beneficiario: Asociaciones y ong
 tag_seo: salud
 count: 13
 publication_date: 2026-10-25
-last_update_date: 2026-11-09
+last_update_date: 2026-11-10
 slug: subvenciones-asociaciones-badajoz-salud
 ---
 
