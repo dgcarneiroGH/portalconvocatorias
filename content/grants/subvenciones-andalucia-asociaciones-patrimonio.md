@@ -6,7 +6,7 @@ beneficiario: Asociaciones y ong
 tag_seo: patrimonio
 count: 17
 publication_date: 2026-11-04
-last_update_date: 2026-11-09
+last_update_date: 2026-11-10
 slug: subvenciones-andalucia-asociaciones-patrimonio
 ---
 
