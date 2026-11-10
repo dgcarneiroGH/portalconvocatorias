@@ -1,28 +1,24 @@
 ---
 title: Ayudas sociales en Tarragona para Asociaciones y ong
-description: "Recopilatorio de las 19 ayudas activas en Tarragona para Asociaciones y ong dentro del sector sociales, con presupuesto y plazos de solicitud."
+description: "Recopilatorio de las 18 ayudas activas en Tarragona para Asociaciones y ong dentro del sector sociales, con presupuesto y plazos de solicitud."
 region: Tarragona
 beneficiario: Asociaciones y ong
 tag_seo: sociales
-count: 19
+count: 18
 publication_date: 2026-11-01
-last_update_date: 2026-11-09
+last_update_date: 2026-11-10
 slug: subvenciones-asociaciones-tarragona-sociales
 ---
 
 # Ayudas sociales en Tarragona para Asociaciones y ong
 
-Ayudas activas (19):
+Ayudas activas (18):
 
 - [ACUERDO DE LA JUNTA DE GOBIERNO LOCAL DEL AYUNTAMIENTO DEL CATLLAR, DE FECHA 8 DE OCTUBRE DE 2026, POR EL QUE SE CONCEDE LA SUBVENCIÓN NOMINATIVA DE CONCESIÓN DIRECTA A LA ASOCIACIÓN MEDIAMBIENTAL LA SÍNIA, CORRESPONDIENTE AL EJERCICIO 2026](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/938069) (AYUNTAMIENTO DE CATLLAR, EL)
   - Description: La subvenció nominativa atorgada a l'Associació Mediambiental la Sínia per l'any 2026 té com a objectiu finançar les activitats mediambientals i garantir el compliment de les obligacions tributàries i de seguretat social de l'entitat.
   - Requirements: Entitat beneficiària: ASSOCIACIÓ MEDIAMBIENTAL LA SÍNIA; Estar al corrent en el compliment de les obligacions tributàries; No estar incurs en les prohibicions per obtenir aquesta condició
   - Nominative Grant
   - notion_id: 40983f94-7b2c-8115-baea-d9fd90d6b1d0 | Budget: 2000 € | Reception: 27/10/2026 | Start: 01/01/2026 | End: 31/12/2026
-- [CONVOCATORIA 2026 DE LA SUBVENCIÓN EN RÉGIMEN DE CONCURRÉNCIA COMPETITIVA PARA LOS PROYECTOS DE ACCIÓN HUMANITARIA](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/938659) (AYUNTAMIENTO DE ALTAFULLA)
-  - Description: Subvenció destinada a projectes d'acció humanitària que busquen salvar i alleugerir el sofriment de les persones afectades per emergències nacionals i internacionals, així com protegir la seva dignitat i drets en contextos de desastres, conflictes armats, i exclusió social.
-  - Requirements: Organitzacions nacionals i internacionals de dret públic creades per tractat o acord internacional.; Persones jurídiques associades amb l'objectiu de l'acció humanitària.; Organitzacions no governamentals sense afany de lucre legalment constituïdes al Registre d'Entitats de Catalunya.; Complir els requisits d'objectiu i finalitat reconeguda per l'acció humanitària.; No estar incursos en circumstàncies que prohibeixen rebre subvencions.; Estar al corrent amb obligacions tributàries.
-  - notion_id: 40983f94-7b2c-8147-af67-dd83ad95cb7e | Budget: 18.000 € | Reception: 29/10/2026 | Start: 30/10/2026 | End: 08/11/2026
 - [CONVENIO ENTRE EL AYUNTAMIENTO DE SARRAL Y LA ASSOCIACIÓN DE MARES I PARES D’ALUMNES DE L’ESCOLA SALVADOR NINOT](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/938340) (AYUNTAMIENTO DE SARRAL)
   - Description: El conveni entre l'Ajuntament de Sarral i l'Associació de Mares i Pares d'Alumnes de l'Escola Salvador Ninot té com a objectiu donar suport a les associacions del municipi per al desenvolupament d'activitats i incrementar la participació de la població en els actes locals.
   - Requirements: L'Associació ha de estar constituïda legalment; Complir amb les obligacions tributàries amb l'AEAT; Estar al corrent amb la TGSS; No ser deutor de l'Ajuntament de Sarral; Complir amb les obligacions generals de les subvencions públiques
