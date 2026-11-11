@@ -1,18 +1,18 @@
 ---
 title: Ayudas para sector primario en Comunidad foral de navarra para Pyme y autónomos
-description: "Recopilatorio de las 7 ayudas activas en Comunidad foral de navarra para Pyme y autónomos dentro del sector sector_primario, con presupuesto y plazos de solicitud."
+description: "Recopilatorio de las 6 ayudas activas en Comunidad foral de navarra para Pyme y autónomos dentro del sector sector_primario, con presupuesto y plazos de solicitud."
 region: Comunidad foral de navarra
 beneficiario: Pyme y autónomos
 tag_seo: sector_primario
-count: 7
+count: 6
 publication_date: 2026-10-17
-last_update_date: 2026-11-10
+last_update_date: 2026-11-11
 slug: subvenciones-autonomos-comunidad-foral-de-navarra-sector_primario
 ---
 
 # Ayudas para sector_primario en Comunidad foral de navarra para Pyme y autónomos
 
-Ayudas activas (7):
+Ayudas activas (6):
 
 - [BASES REGULADORAS Y CONVOCATORIA PARA 2026 DE LA AYUDA A INVERSIONES EN EXPLOTACIONES AGRARIAS PEPAC 2023-2027](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/928367) (DEPARTAMENTO DE DESARROLLO RURAL Y MEDIO AMBIENTE)
   - Description: Esta ayuda tiene como objetivo apoyar inversiones en explotaciones agrarias específicamente para mejorar la competitividad de las mismas, mediante la aplicación de medidas que contribuyan a la sostenibilidad y eficiencia en el sector agroalimentario.
@@ -37,7 +37,3 @@ Ayudas activas (7):
 - [AYUDAS PARA LAS INVERSIONES FORESTALES PRODUCTIVAS DESTINADAS A APROVECHAMIENTOS FORESTALES, TRABAJOS SELVÍCOLAS, SERVICIOS FORESTALES Y PRIMERA TRANSFORMACIÓN. (INTERVENCIÓN 6883 DEL PEPAC) EN EL AÑO 2027](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/930328) (DEPARTAMENTO DE DESARROLLO RURAL Y MEDIO AMBIENTE)
   - Description: Ayudas para inversiones en tecnologías forestales, transformación, movilización y comercialización de productos forestales, cofinanciadas por el FEADER en el marco del PEPAC 2023-2027.
   - notion_id: 3fb83f94-7b2c-810d-ad37-f048733946ef | Budget: 1.159.980 € | Reception: 18/09/2026 | Start: 01/11/2026 | End: 30/11/2026
-- [CONVOCATORIA DE LAS SUBVENCIONES DESTINADAS A LAS INVERSIONES FORESTALES](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/932518) (DEPARTAMENTO DE DESARROLLO RURAL Y MEDIO AMBIENTE)
-  - Description: Convocatoria de subvenciones destinadas a inversiones forestales productivas, incluyendo equipamientos para aprovechamientos forestales y transformación de productos forestales.
-  - Requirements: Ser titular de montes o terrenos forestales, públicos o privados; Aprovechamientos forestales; Asociaciones forestales; Industrias y empresas forestales
-  - notion_id: 3fb83f94-7b2c-81b8-9357-cb55c506328b | Budget: 579.990 € | Reception: 30/09/2026 | Start: 07/10/2026 | End: 09/11/2026
