@@ -5,8 +5,8 @@ region: Galicia
 beneficiario: Asociaciones y ong
 tag_seo: infraestructura_urbana
 count: 8
-publication_date: 2026-11-10T11:01:13.078Z
-last_update_date: 2026-11-10
+publication_date: 2026-11-10
+last_update_date: 2026-11-11
 slug: subvenciones-asociaciones-galicia-infraestructura_urbana
 ---
 
