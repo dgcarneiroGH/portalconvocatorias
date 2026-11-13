@@ -5,8 +5,8 @@ region: Andalucia
 beneficiario: Asociaciones y ong
 tag_seo: sociales
 count: 6
-publication_date: 2026-11-11T11:01:10.864Z
-last_update_date: 2026-11-11
+publication_date: 2026-11-11
+last_update_date: 2026-11-13
 slug: subvenciones-andalucia-asociaciones-sociales
 ---
 
