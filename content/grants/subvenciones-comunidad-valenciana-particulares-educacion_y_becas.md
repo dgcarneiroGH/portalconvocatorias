@@ -6,7 +6,7 @@ beneficiario: Particulares
 tag_seo: educacion_y_becas
 count: 14
 publication_date: 2026-09-22
-last_update_date: 2026-11-11
+last_update_date: 2026-11-13
 slug: subvenciones-comunidad-valenciana-particulares-educacion_y_becas
 ---
 
