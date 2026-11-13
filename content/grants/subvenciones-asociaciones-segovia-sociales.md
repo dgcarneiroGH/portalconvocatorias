@@ -6,7 +6,7 @@ beneficiario: Asociaciones y ong
 tag_seo: sociales
 count: 12
 publication_date: 2026-10-19
-last_update_date: 2026-11-11
+last_update_date: 2026-11-13
 slug: subvenciones-asociaciones-segovia-sociales
 ---
 
