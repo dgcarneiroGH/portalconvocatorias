@@ -6,7 +6,7 @@ beneficiario: Asociaciones y ong
 tag_seo: educacion_y_becas
 count: 20
 publication_date: 2026-11-02
-last_update_date: 2026-11-11
+last_update_date: 2026-11-13
 slug: subvenciones-andalucia-asociaciones-educacion_y_becas
 ---
 
