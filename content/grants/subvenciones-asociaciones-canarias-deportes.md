@@ -5,8 +5,8 @@ region: Canarias
 beneficiario: Asociaciones y ong
 tag_seo: deportes
 count: 7
-publication_date: 2026-11-13
-last_update_date: 2026-11-13
+publication_date: 2026-11-14
+last_update_date: 2026-11-14
 slug: subvenciones-asociaciones-canarias-deportes
 ---
 
