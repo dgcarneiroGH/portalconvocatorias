@@ -5,8 +5,8 @@ region: La palma
 beneficiario: Pyme y autónomos
 tag_seo: cultura
 count: 5
-publication_date: 2026-11-13
-last_update_date: 2026-11-13
+publication_date: 2026-11-14
+last_update_date: 2026-11-14
 slug: subvenciones-autonomos-la-palma-cultura
 ---
 
