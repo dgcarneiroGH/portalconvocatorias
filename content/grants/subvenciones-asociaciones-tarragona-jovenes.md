@@ -5,8 +5,8 @@ region: Tarragona
 beneficiario: Asociaciones y ong
 tag_seo: jovenes
 count: 5
-publication_date: 2026-11-15T11:01:10.288Z
-last_update_date: 2026-11-15
+publication_date: 2026-11-15
+last_update_date: 2026-11-16
 slug: subvenciones-asociaciones-tarragona-jovenes
 ---
 
