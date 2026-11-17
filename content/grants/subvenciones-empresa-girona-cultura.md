@@ -1,18 +1,18 @@
 ---
 title: Ayudas para cultura en Girona para Empresa
-description: "Recopilatorio de las 68 ayudas activas en Girona para Empresa dentro del sector cultura, con presupuesto y plazos de solicitud."
+description: "Recopilatorio de las 67 ayudas activas en Girona para Empresa dentro del sector cultura, con presupuesto y plazos de solicitud."
 region: Girona
 beneficiario: Empresa
 tag_seo: cultura
-count: 68
+count: 67
 publication_date: 2026-10-28
-last_update_date: 2026-11-16
+last_update_date: 2026-11-17
 slug: subvenciones-empresa-girona-cultura
 ---
 
 # Ayudas para cultura en Girona para Empresa
 
-Ayudas activas (68):
+Ayudas activas (67):
 
 - [SUBVENCIÓ NOMINATIVA A LA FUNDACIÓ CASA DE LA MÚSICA DE LES COMARQUES GIRONINES PER AL FINANÇAMENT DEL PROJECTE CASA DE LA MÚSICA.](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/899917) (DIPUTACIÓN PROVINCIAL DE GIRONA)
   - Description: La Ordenanza General de Subvenciones de la Diputació de Girona tiene como objetivo principal regular la concesión de subvenciones a diversas entidades y proyectos que favorezcan el fomento social, cultural y económico en la región de Girona.
@@ -245,10 +245,6 @@ Ayudas activas (68):
 - [CONVOCATÒRIA DE LA SUBVENCIÓ PER L`AQUISICIÓ D`EQUIPS AMB TECNOLOGIA RFID PER A LA GESTIÓ DE LES BIBLIOTEQUES PÚBLIQUES](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/922686) (DIPUTACIÓN PROVINCIAL DE GIRONA)
   - Description: No hay información disponible sobre los objetivos de la subvención.
   - notion_id: 40783f94-7b2c-813e-9565-e7f8056708a6 | Budget: 28.810,1 € | Reception: 30/07/2026 | Start: 03/07/2026 | End: 31/12/2027
-- [SUBVENCIÓ NOMINATIVA AL CAMP D`APRENENTATGE EMPÚRIES PER L`EDICIÓ DEL LLIBRE-CD `UNIVERS KAVAFIS` AMB POEMES DE KAVAFIS MUSICATS EN CATALÀ](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/923549) (DIPUTACIÓN PROVINCIAL DE GIRONA)
-  - Description: La Ordenanza General de Subvenciones de la Diputació de Girona tiene como objetivo regular la concesión de subvenciones para promover la actividad administrativa y el desarrollo de proyectos en el ámbito local, facilitando así el trabajo de las entidades y asociaciones del territorio.
-  - Nominative Grant
-  - notion_id: 40783f94-7b2c-81bb-8568-ca9f30036d0e | Budget: 6000 € | Reception: 05/08/2026 | Start: 01/01/2026 | End: 15/11/2026
 - [SUBVENCIÓ DIRECTA NOMINATIVA A L`OSIC PER A LA PROGRAMACIÓ DE LES ARTS ESCÈNIQUES, MÚICA I ARTS PLÀSTIQUES EN L`ENSENYAMENT REGLAT. CURS 2025 - 2026](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/924438) (DIPUTACIÓN PROVINCIAL DE GIRONA)
   - Description: La Ordenanza General de Subvenciones de la Diputació de Girona tiene como objetivo regular la concesión de subvenciones para fomentar diversas actividades en el ámbito local, garantizando la simplificación de procedimientos y la transparencia en la gestión de fondos públicos.
   - Nominative Grant
