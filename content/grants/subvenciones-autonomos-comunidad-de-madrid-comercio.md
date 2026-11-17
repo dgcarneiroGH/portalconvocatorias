@@ -1,18 +1,18 @@
 ---
 title: Ayudas para comercio en Comunidad de madrid para Pyme y autónomos
-description: "Recopilatorio de las 5 ayudas activas en Comunidad de madrid para Pyme y autónomos dentro del sector comercio, con presupuesto y plazos de solicitud."
+description: "Recopilatorio de las 4 ayudas activas en Comunidad de madrid para Pyme y autónomos dentro del sector comercio, con presupuesto y plazos de solicitud."
 region: Comunidad de madrid
 beneficiario: Pyme y autónomos
 tag_seo: comercio
-count: 5
+count: 4
 publication_date: 2026-09-13
-last_update_date: 2026-11-16
+last_update_date: 2026-11-17
 slug: subvenciones-autonomos-comunidad-de-madrid-comercio
 ---
 
 # Ayudas para comercio en Comunidad de madrid para Pyme y autónomos
 
-Ayudas activas (5):
+Ayudas activas (4):
 
 - [ORDEN DISPONIBILIDAD DE CRÉDITO COMERCIO 2026 LÍNEA 2 MANT. ESTABLEC.](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/905547) (CONSEJERÍA DE PRESIDENCIA, JUSTICIA Y ADMINISTRACIÓN LOCAL)
   - Description: Este programa no contiene información específica sobre su objetivo o financiamiento.
@@ -28,6 +28,3 @@ Ayudas activas (5):
   - Description: No se proporciona información sobre este anuncio de subvención.
   - Nominative Grant
   - notion_id: 3da83f94-7b2c-815d-980e-f9d53bfb8cb9 | Budget: 9000 € | Reception: 16/06/2026 | Start: 01/01/2026 | End: 31/12/2026
-- [CONVOCATORIA DEL VII CONCURSO DE ESCAPARATISMO NAVIDEÑO DE FUENLABRADA. EJERCICIO 2026. (JGL DE FECHA  04/09/2026 (PTO. 22)](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/928620) (AYUNTAMIENTO DE FUENLABRADA)
-  - Description: El VII Concurso de Escaparatismo Navideño de Fuenlabrada busca promover el comercio y la hostelería local mediante un concurso que premiará los mejores escaparates durante la temporada navideña, de carácter innovador y creativo.
-  - notion_id: 3da83f94-7b2c-8109-83e5-ec780f7c7d3d | Budget: 14.100 € | Reception: 10/09/2026 | Start: 13/10/2026 | End: 15/11/2026
