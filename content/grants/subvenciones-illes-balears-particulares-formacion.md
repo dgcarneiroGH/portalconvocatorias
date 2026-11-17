@@ -5,8 +5,8 @@ region: Illes balears
 beneficiario: Particulares
 tag_seo: formacion
 count: 1
-publication_date: 2026-11-16
-last_update_date: 2026-11-16
+publication_date: 2026-11-17
+last_update_date: 2026-11-17
 slug: subvenciones-illes-balears-particulares-formacion
 ---
 
