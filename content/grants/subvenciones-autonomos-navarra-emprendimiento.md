@@ -1,18 +1,18 @@
 ---
 title: Ayudas para emprendimiento en Navarra para Pyme y autónomos
-description: "Recopilatorio de las 6 ayudas activas en Navarra para Pyme y autónomos dentro del sector emprendimiento, con presupuesto y plazos de solicitud."
+description: "Recopilatorio de las 5 ayudas activas en Navarra para Pyme y autónomos dentro del sector emprendimiento, con presupuesto y plazos de solicitud."
 region: Navarra
 beneficiario: Pyme y autónomos
 tag_seo: emprendimiento
-count: 6
+count: 5
 publication_date: 2026-10-15
-last_update_date: 2026-11-16
+last_update_date: 2026-11-17
 slug: subvenciones-autonomos-navarra-emprendimiento
 ---
 
 # Ayudas para emprendimiento en Navarra para Pyme y autónomos
 
-Ayudas activas (6):
+Ayudas activas (5):
 
 - [CONVOCATORIA DE SUBVENCIONES DEL AYUNTAMIENTO DE VIANA A LA CONTRATACIÓN PARA FOMENTO DE EMPLEO Y AUTOEMPLEO](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/864403) (AYUNTAMIENTO DE VIANA)
   - Description: El Ayuntamiento de Viana convoca subvenciones para fomentar el empleo y autoempleo, apoyando la contratación de personas desempleadas empadronadas en el municipio, así como la creación de empleo autónomo.
@@ -25,10 +25,6 @@ Ayudas activas (6):
   - Description: Esta convocatoria tiene como objetivo establecer incentivos para fomentar la creación de iniciativas de autoempleo, apoyando la puesta en marcha de proyectos innovadores en el Valle de Aranguren durante el año 2026.
   - Requirements: Ser persona trabajadora autónoma; Estar empadronada en el Valle de Aranguren por al menos un año; Haber estado desempleada al menos 15 días; Estar inscrita como demandante de empleo; Estar legalmente dada de alta como autónoma; Tener un grado de discapacidad igual o superior al 33% (si aplica); Mujeres víctimas de violencia de género (si aplica); Cumplir con requisitos de edad conforme al DNI
   - notion_id: 3fa83f94-7b2c-8101-b345-c6be05ddec2f | Budget: 100.000 € | Reception: 24/03/2026
-- [CONVOCATORIA PÚBLICA DE SUBVENCIONES AL EMPRENDIMIENTO, (LÍNEA 1). AÑO 2026](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/895266) (AYUNTAMIENTO DE TUDELA)
-  - Description: Esta subvención tiene como objetivo fomentar el emprendimiento y la creación de nuevas actividades empresariales en el término municipal de Tudela, a través de ayudas económicas por parte del Ayuntamiento.
-  - Requirements: Personas físicas o jurídicas con centros de trabajo en Tudela; Estar al corriente de pago con Hacienda, Seguridad Social y el Ayuntamiento de Tudela; Disponer o haber solicitado licencias municipales; Reunir requisitos específicos para cada línea de ayuda; Mantener contratos de trabajo o proyectos durante el periodo establecido; Comunicar la obtención de otras subvenciones o ayudas
-  - notion_id: 3fa83f94-7b2c-8158-986f-dd4e3c684396 | Budget: 80.000 € | Reception: 25/03/2026 | Start: 26/03/2026 | End: 15/11/2026
 - [CONVOCATORIA DE SUBVENCIONES PARA FOMENTO DEL AUTOEMPLEO AÑO 2026 DEL AYUNTAMIENTO DEL VALLE DE ELORZ](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/901822) (AYUNTAMIENTO DE NOÁIN (VALLE DE ELORZ)/NOAIN (ELORTZIBAR))
   - Description: El objetivo de estas subvenciones es fomentar la creación de iniciativas a través del autoempleo, apoyando la puesta en marcha de proyectos innovadores en el Valle de Elorz durante el año 2026.
   - Requirements: Estar empadronado en alguno de los pueblos del Valle de Elorz con una antigüedad mínima de un año.; Haber estado desempleado e inscrito como demandante de empleo en las Agencias del Servicio Navarro de Empleo al inicio de la actividad.; Establecerse como trabajador autónomo dándose de alta en el Impuesto de Actividades Económicas y en el Régimen Especial de la Seguridad Social.; No estar en ninguna de las prohibiciones del artículo 13 de la Ley 38/2003, de 17 de noviembre, General de Subvenciones.; Estar al corriente de sus obligaciones tributarias.
