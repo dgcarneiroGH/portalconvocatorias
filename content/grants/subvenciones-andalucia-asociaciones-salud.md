@@ -6,7 +6,7 @@ beneficiario: Asociaciones y ong
 tag_seo: salud
 count: 8
 publication_date: 2026-11-09
-last_update_date: 2026-11-16
+last_update_date: 2026-11-17
 slug: subvenciones-andalucia-asociaciones-salud
 ---
 
