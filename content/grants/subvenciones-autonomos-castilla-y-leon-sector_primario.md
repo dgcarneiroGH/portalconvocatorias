@@ -6,7 +6,7 @@ beneficiario: Pyme y autónomos
 tag_seo: sector_primario
 count: 5
 publication_date: 2026-09-05
-last_update_date: 2026-11-16
+last_update_date: 2026-11-17
 slug: subvenciones-autonomos-castilla-y-leon-sector_primario
 ---
 
