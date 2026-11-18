@@ -1,18 +1,18 @@
 ---
 title: Ayudas para educacion y becas en Toledo para Particulares
-description: "Recopilatorio de las 3 ayudas activas en Toledo para Particulares dentro del sector educacion_y_becas, con presupuesto y plazos de solicitud."
+description: "Recopilatorio de las 2 ayudas activas en Toledo para Particulares dentro del sector educacion_y_becas, con presupuesto y plazos de solicitud."
 region: Toledo
 beneficiario: Particulares
 tag_seo: educacion_y_becas
-count: 3
+count: 2
 publication_date: 2026-10-03
-last_update_date: 2026-11-17
+last_update_date: 2026-11-18
 slug: subvenciones-particulares-toledo-educacion_y_becas
 ---
 
 # Ayudas para educacion_y_becas en Toledo para Particulares
 
-Ayudas activas (3):
+Ayudas activas (2):
 
 - [BASES DE LA CONVOCATORIA DE BECAS PARA LOS COMPONENTES DE LA BANDA SINFÓNICA MUNICIPAL DE MADRIDEJOS 2026](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/920721) (AYUNTAMIENTO DE MADRIDEJOS)
   - Description: El objetivo de esta convocatoria es otorgar becas a los componentes de la Banda Sinfónica Municipal de Madridejos para mantener y fortalecer el nivel cultural y musical del municipio y organizar actuaciones públicas periódicas.
@@ -22,8 +22,3 @@ Ayudas activas (3):
   - Description: La subvención está destinada a la Universidad de Castilla-La Mancha para ofrecer información sobre los niveles polínicos en Talavera de la Reina, con el objetivo de mejorar la salud pública y las condiciones sanitarias relacionadas con la calidad del aire.
   - Nominative Grant
   - notion_id: 3ee83f94-7b2c-812c-bab3-e98295e54e29 | Budget: 7000 € | Reception: 30/09/2026 | Start: 01/01/2026 | End: 31/12/2026
-- [CONCESIÓN DE SUBVENCIÓN NOMINATIVA MEJORES NOTAS DE BACHILLER CURSO 2025/2026](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/921045) (AYUNTAMIENTO DE COBEJA)
-  - Description: Subvención nominativa de 600 euros otorgada a Carlos Querencia Díaz por su excelente expediente académico en segundo de Bachillerato, para sufragar gastos de formación académica durante el año 2026.
-  - Requirements: Estudiantes de Bachillerato de IES Castillo del Águila; Residencia en la localidad de Cobeja; Estar al corriente con obligaciones tributarias y de seguridad social
-  - Nominative Grant
-  - notion_id: 3ee83f94-7b2c-811b-ba7c-f381ecde790e | Budget: 600 € | Reception: 23/07/2026 | Start: 01/01/2026 | End: 16/11/2026
