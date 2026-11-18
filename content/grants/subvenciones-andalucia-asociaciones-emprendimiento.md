@@ -5,8 +5,8 @@ region: Andalucia
 beneficiario: Asociaciones y ong
 tag_seo: emprendimiento
 count: 4
-publication_date: 2026-11-17T11:01:11.485Z
-last_update_date: 2026-11-17
+publication_date: 2026-11-17
+last_update_date: 2026-11-18
 slug: subvenciones-andalucia-asociaciones-emprendimiento
 ---
 
