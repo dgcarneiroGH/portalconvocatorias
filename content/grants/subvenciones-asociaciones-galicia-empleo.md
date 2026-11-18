@@ -1,18 +1,18 @@
 ---
 title: Ayudas para empleo en Galicia para Asociaciones y ong
-description: "Recopilatorio de las 13 ayudas activas en Galicia para Asociaciones y ong dentro del sector empleo, con presupuesto y plazos de solicitud."
+description: "Recopilatorio de las 12 ayudas activas en Galicia para Asociaciones y ong dentro del sector empleo, con presupuesto y plazos de solicitud."
 region: Galicia
 beneficiario: Asociaciones y ong
 tag_seo: empleo
-count: 13
+count: 12
 publication_date: 2026-11-06
-last_update_date: 2026-11-17
+last_update_date: 2026-11-18
 slug: subvenciones-asociaciones-galicia-empleo
 ---
 
 # Ayudas para empleo en Galicia para Asociaciones y ong
 
-Ayudas activas (13):
+Ayudas activas (12):
 
 - [CONVENIO DE COLABORACIÓN ENTRE LA CONSELLERÍA DE EMPLEO, COMERCIO Y EMIGRACIÓN Y LA RED DE ASOCIACIONES DE INVESTIGADORES Y CIENTÍFICOS EN EL EXTRANJERO (RAICEX), PARA EL DESARROLLO DE ACCIONES QUE CONTRIBUYAN A APOYAR A LA COMUNIDAD CIENTÍFICA Y ACADÉMIC](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/927216) (CONSELLERÍA DE EMPLEO, COMERCIO Y EMIGRACIÓN)
   - Description: Esta subvención está destinada a apoyar iniciativas en ciertas áreas específicas, aunque los detalles concretos no están claros en el anuncio proporcionado.
@@ -63,6 +63,3 @@ Ayudas activas (13):
   - Description: El objetivo del convenio es el acondicionamiento del Museo-Taller de Olería de Niñodaguia en Xunqueira de Espadanedo, asegurando su adecuada conservación y modernización para facilitar actividades culturales y artesanales.
   - Nominative Grant
   - notion_id: 40983f94-7b2c-8198-a019-ca97ee5f4a32 | Budget: 11.700 € | Reception: 07/10/2026 | Start: 01/10/2026 | End: 02/12/2026
-- [CONVENIO DE COLABORACIÓN ENTRE LA CONSELLERÍA DE EMPLEO, COMERCIO Y EMIGRACIÓN, LA DIPUTACIÓN PROVINCIAL DE A CORUÑA Y EL AYUNTAMIENTO DE AMES PARA LA CONSTRUCCIÓN DEL MERCADO MUNICIPAL DE BERTAMIRÁNS](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/934040) (CONSELLERÍA DE EMPLEO, COMERCIO Y EMIGRACIÓN)
-  - Nominative Grant
-  - notion_id: 40983f94-7b2c-8130-8a0f-f97a04c00d1e | Budget: 1.000.000 € | Reception: 07/10/2026 | Start: 01/10/2026 | End: 16/11/2026
