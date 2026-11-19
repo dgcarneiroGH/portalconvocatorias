@@ -5,8 +5,8 @@ region: Andalucia
 beneficiario: Asociaciones y ong
 tag_seo: internacional
 count: 4
-publication_date: 2026-11-18T11:01:07.984Z
-last_update_date: 2026-11-18
+publication_date: 2026-11-18
+last_update_date: 2026-11-19
 slug: subvenciones-andalucia-asociaciones-internacional
 ---
 
