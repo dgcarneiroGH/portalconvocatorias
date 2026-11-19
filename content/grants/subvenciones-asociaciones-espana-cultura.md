@@ -5,8 +5,8 @@ region: España
 beneficiario: Asociaciones y ong
 tag_seo: cultura
 count: 4
-publication_date: 2026-11-18
-last_update_date: 2026-11-18
+publication_date: 2026-11-19
+last_update_date: 2026-11-19
 slug: subvenciones-asociaciones-espana-cultura
 ---
 
