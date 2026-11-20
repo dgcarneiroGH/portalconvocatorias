@@ -6,7 +6,7 @@ beneficiario: Asociaciones y ong
 tag_seo: jovenes
 count: 5
 publication_date: 2026-11-15
-last_update_date: 2026-11-19
+last_update_date: 2026-11-20
 slug: subvenciones-asociaciones-tarragona-jovenes
 ---
 
