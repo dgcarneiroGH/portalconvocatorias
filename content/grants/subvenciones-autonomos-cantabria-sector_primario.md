@@ -1,18 +1,18 @@
 ---
 title: Ayudas para sector primario en Cantabria para Pyme y autónomos
-description: "Recopilatorio de las 9 ayudas activas en Cantabria para Pyme y autónomos dentro del sector sector_primario, con presupuesto y plazos de solicitud."
+description: "Recopilatorio de las 8 ayudas activas en Cantabria para Pyme y autónomos dentro del sector sector_primario, con presupuesto y plazos de solicitud."
 region: Cantabria
 beneficiario: Pyme y autónomos
 tag_seo: sector_primario
-count: 9
+count: 8
 publication_date: 2026-10-13
-last_update_date: 2026-11-19
+last_update_date: 2026-11-20
 slug: subvenciones-autonomos-cantabria-sector_primario
 ---
 
 # Ayudas para sector_primario en Cantabria para Pyme y autónomos
 
-Ayudas activas (9):
+Ayudas activas (8):
 
 - [CONVOCATORIA DE AYUDAS A LOS TITULARES DE EXPLOTACIONES GANADERAS QUE REALICEN PRUEBAS DIAGNÓSTICAS, VACUNACIONES Y/O MEDIDAS SANITARIAS EN EL MARCO DE LOS PROGRAMAS DE SANIDAD ANIMAL DE PREVENCIÓN, CONTROL Y ERRADICACIÓN PARA EL AÑO 2026.](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/913203) (CONSEJERÍA DE DESARROLLO RURAL, GANADERÍA, PESCA Y ALIMENTACIÓN)
   - Description: La subvención está destinada a cubrir los costos de las vacunaciones voluntarias de ganado y otras medidas sanitarias establecidas por la Dirección General de Ganadería.
@@ -37,10 +37,6 @@ Ayudas activas (9):
   - Description: La convocatoria tiene como objetivo apoyar la contratación indefinida de personal técnico en empresas de Cantabria para fomentar actividades de innovación y expansión comercial internacional, así como facilitar el acceso al mercado laboral y el retorno del talento a la región.
   - Requirements: Empresas válidamente constituidas en Cantabria; Incluir autónomos y mutualistas; Cumplir con los requisitos de la convocatoria
   - notion_id: 3f883f94-7b2c-8190-889e-f1c0ec954bec | Budget: 50.000 € | Reception: 20/08/2026
-- [RESOLUCIÓN SOD/PEF/22/26, DE 16 DE SEPTIEMBRE DE 2026, POR LA QUE SE APRUEBA LA CONVOCATORIA PARA EL AÑO 2026 DE LAS SUBVENCIONES DEL PROGRAMA “PROTOCOLO FAMILIAR EN LAS PYMES”, PROMOVIDO POR SODERCAN, S.A. REG (UE) Nº 717/2014 MINIMIS PESCA Y ACUICULTURA](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/930095) (SOCIEDAD PARA EL DESARROLLO REGIONAL DE CANTABRIA, S.A.)
-  - Description: Convocatoria para subvenciones destinadas a la continuidad y profesionalización de empresas familiares en Cantabria, especialmente pequeñas y medianas empresas y autónomos, con el fin de favorecer su desarrollo y consolidación intergeneracional.
-  - Requirements: Empresas familiares; Pequeñas y medianas empresas; Autónomos
-  - notion_id: 3f883f94-7b2c-8148-a9f7-ead733942086 | Budget: 15.000 € | Reception: 17/09/2026 | Start: 18/09/2026 | End: 18/11/2026
 - [DECRETO 68/2026, DE 17 DE SEPTIEMBRE, QUE REGULA LA CONCESIÓN DIRECTA DE SUBVENCIONES POR SODERCAN, S.A. PARA APOYAR A LAS PERSONAS AUTÓNOMAS Y EMPRESAS DE RECIENTE CREACIÓN EN EL MARCO PROGRAMAS EMPRECAN Y EMPLEA. REG (UE) 717/2014 MINIMIS PESCA Y ACUICU](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/931510) (SOCIEDAD PARA EL DESARROLLO REGIONAL DE CANTABRIA, S.A.)
   - Description: Este programa tiene como objetivo apoyar a personas autónomas y empresas de reciente creación en Cantabria, fomentando su crecimiento y consolidación a través de subvenciones directas para facilitar la contratación y el empleo.
   - Nominative Grant
