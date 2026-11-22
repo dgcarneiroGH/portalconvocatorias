@@ -6,7 +6,7 @@ beneficiario: Asociaciones y ong
 tag_seo: emprendimiento
 count: 4
 publication_date: 2026-11-17
-last_update_date: 2026-11-21
+last_update_date: 2026-11-22
 slug: subvenciones-andalucia-asociaciones-emprendimiento
 ---
 
