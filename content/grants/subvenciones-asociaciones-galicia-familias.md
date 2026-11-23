@@ -6,7 +6,7 @@ beneficiario: Asociaciones y ong
 tag_seo: familias
 count: 5
 publication_date: 2026-11-14
-last_update_date: 2026-11-22
+last_update_date: 2026-11-23
 slug: subvenciones-asociaciones-galicia-familias
 ---
 
