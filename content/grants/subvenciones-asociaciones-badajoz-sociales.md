@@ -1,18 +1,18 @@
 ---
 title: Ayudas sociales en Badajoz para Asociaciones y ong
-description: "Recopilatorio de las 32 ayudas activas en Badajoz para Asociaciones y ong dentro del sector sociales, con presupuesto y plazos de solicitud."
+description: "Recopilatorio de las 31 ayudas activas en Badajoz para Asociaciones y ong dentro del sector sociales, con presupuesto y plazos de solicitud."
 region: Badajoz
 beneficiario: Asociaciones y ong
 tag_seo: sociales
-count: 32
+count: 31
 publication_date: 2026-10-22
-last_update_date: 2026-11-22
+last_update_date: 2026-11-23
 slug: subvenciones-asociaciones-badajoz-sociales
 ---
 
 # Ayudas sociales en Badajoz para Asociaciones y ong
 
-Ayudas activas (32):
+Ayudas activas (31):
 
 - [CONCESIÓN DIRECTA 2026 A EQUIPO SOLIDARIDAD PARA INSERCIÓN SOCIAL PARA COLECTIVOS EXCLUIDOS O EN RIESGO DE EXCLUSIÓN SOCIAL EN LA CIUDAD DE BADAJOZ Y PEDANÍAS](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/926327) (DIRECCIÓN GENERAL DE SERVICIOS SOCIALES, INFANCIA Y FAMILIA)
   - Description: Subvención destinada a financiar un programa de inserción social para colectivos excluidos o en riesgo de exclusión social en la ciudad de Badajoz y sus pedanías, promovido por la Asociación Equipo Solidaridad.
@@ -149,7 +149,3 @@ Ayudas activas (32):
   - Requirements: Entidad beneficiaria: Asociación Amal - Amigos y amigas del pueblo saharaui de Don Benito; Ubicación: Don Benito; Debe tener objeto social relacionado con la cooperación al desarrollo y sensibilización ciudadana
   - Nominative Grant
   - notion_id: 40183f94-7b2c-8103-89e8-c8a2d2111831 | Budget: 6000 € | Reception: 20/10/2026
-- [BASES ESPECÍFICAS CON CONVOCATORIA REGULADORAS DE SUBVENCIONES DEL AYUNTAMIENTO DE MEDINA DE LAS TORRES DESTINADAS A ASOCIACIONES LOCALES SIN ÁNIMO DE LUCRO EN EL EJERCICIO 2026 EN RÉGIMEN DE CONCURRENCIA COMPETITIVA.](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/936383) (AYUNTAMIENTO DE MEDINA DE LAS TORRES)
-  - Description: Convocatoria de subvenciones destinadas a asociaciones locales sin ánimo de lucro en Medina de las Torres para fomentar la participación ciudadana y el desarrollo de proyectos y actividades que enriquezcan la oferta municipal.
-  - Requirements: Ser una asociación sin ánimo de lucro; Estar legalmente constituida e inscrita en el Registro correspondiente; Desarrollar un proyecto o actividades en el año 2026
-  - notion_id: 40183f94-7b2c-8151-a0b6-f2a0411e49fd | Budget: 20.000 € | Reception: 20/10/2026 | Start: 21/10/2026 | End: 21/11/2026
