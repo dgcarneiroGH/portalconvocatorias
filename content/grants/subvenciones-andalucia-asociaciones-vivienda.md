@@ -5,8 +5,8 @@ region: Andalucia
 beneficiario: Asociaciones y ong
 tag_seo: vivienda
 count: 3
-publication_date: 2026-11-23T11:01:16.046Z
-last_update_date: 2026-11-23
+publication_date: 2026-11-23
+last_update_date: 2026-11-24
 slug: subvenciones-andalucia-asociaciones-vivienda
 ---
 
