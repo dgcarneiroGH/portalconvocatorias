@@ -6,7 +6,7 @@ beneficiario: Asociaciones y ong
 tag_seo: turismo
 count: 4
 publication_date: 2026-11-20
-last_update_date: 2026-11-23
+last_update_date: 2026-11-24
 slug: subvenciones-asociaciones-tarragona-turismo
 ---
 
