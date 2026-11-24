@@ -1,0 +1,365 @@
+---
+title: Ayudas para urgencias en Cáceres para Pyme y autónomos
+description: "Recopilatorio de las 89 ayudas activas en Cáceres para Pyme y autónomos dentro del sector urgencias, con presupuesto y plazos de solicitud."
+region: Cáceres
+beneficiario: Pyme y autónomos
+tag_seo: urgencias
+count: 89
+publication_date: 2026-11-24T11:01:17.232Z
+last_update_date: 2026-11-24
+slug: subvenciones-autonomos-caceres-urgencias
+---
+
+# Ayudas para urgencias en Cáceres para Pyme y autónomos
+
+Ayudas activas (89):
+
+- [SUBV. DL 7/2025 INCENDIOS SECTOR TURÍSTICO_1. VICTOR MANUEL RUBIO GONZÁLEZ](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/930285) (DIRECCIÓN GENERAL DE TURISMO)
+  - Description: Esta subvención tiene como objetivo apoyar a empresas turísticas en la recuperación de las zonas afectadas por incendios forestales en Extremadura durante el verano de 2025, proporcionando ayudas económicas para fomentar la actividad turística alternativa.
+  - Requirements: Empresas turísticas en Extremadura; Actividad relacionada con el turismo alternativo; No superar el coste de la actividad subvencionada con otras ayudas
+  - notion_id: 42283f94-7b2c-8111-bd12-ca949af7e505 | Budget: 1200 € | Reception: 18/09/2026
+- [SUBV. DL 7/2025 INCENDIOS SECTOR TURÍSTICO_2. LAS NOGALEDAS ESPJ](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/930286) (DIRECCIÓN GENERAL DE TURISMO)
+  - Description: Esta subvención se otorga a empresas turísticas para ayudar en la recuperación de las zonas afectadas por incendios forestales en Extremadura, particularmente para el establecimiento de casas rurales.
+  - Requirements: Empresas turísticas en Extremadura; Propietarios de casas rurales
+  - notion_id: 42283f94-7b2c-81e4-a3a4-c30e2d816578 | Budget: 2000 € | Reception: 18/09/2026
+- [SUBV. DL 7/2025 INCENDIOS SECTOR TURÍSTICO_3. NATURALM GEST ALOJAM S.C.](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/930287) (DIRECCIÓN GENERAL DE TURISMO)
+  - Description: Esta subvención tiene como objetivo proporcionar apoyo financiero a empresas turísticas en Extremadura que han sido afectadas por los incendios forestales, facilitando su recuperación y otras medidas preventivas.
+  - Requirements: Ser una empresa turística; Localización en Extremadura; No superar el coste de la actividad subvencionada con otras ayudas
+  - notion_id: 42283f94-7b2c-818e-8293-f832f413ea7d | Budget: 2000 € | Reception: 18/09/2026
+- [SUBV. DL 7/2025 INCENDIOS SECTOR TURÍSTICO_4. RUTH BEATRIZ NIETO TORRES](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/930288) (DIRECCIÓN GENERAL DE TURISMO)
+  - Description: La subvención tiene como objetivo apoyar a las empresas turísticas, en particular a las casas rurales, afectadas por los incendios forestales en Extremadura, proporcionando ayudas económicas para su recuperación.
+  - Requirements: Ser una empresa turística; Ubicación en zonas afectadas por incendios forestales; Cumplir con la normativa reguladora
+  - notion_id: 42283f94-7b2c-8167-8468-d990b17bac67 | Budget: 1700 € | Reception: 18/09/2026
+- [SUBV. DL 7/2025 INCENDIOS SECTOR TURÍSTICO_5. RGJ TURISMO ESPJ](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/930289) (DIRECCIÓN GENERAL DE TURISMO)
+  - Description: Esta subvención tiene como objetivo apoyar a empresas turísticas mediante ayudas extraordinarias para la recuperación de las zonas afectadas por los incendios forestales en Extremadura durante el verano de 2025.
+  - Requirements: Empresas turísticas; Ubicación en Extremadura; Tipo de establecimiento: Alojamientos rurales
+  - notion_id: 42283f94-7b2c-812d-9efd-ef7758e56a26 | Budget: 2000 € | Reception: 18/09/2026
+- [SUBV. DL 7/2025 INCENDIOS SECTOR TURÍSTICO_6. Mª ESTHER DOMÍNGUEZ MARTÍN](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/930290) (DIRECCIÓN GENERAL DE TURISMO)
+  - Description: La subvención tiene como objetivo apoyar a las empresas turísticas afectadas por los incendios forestales en Extremadura, proporcionando recursos económicos para su recuperación y mejora.
+  - Requirements: Empresas turísticas situadas en Extremadura; No superar el coste de la actividad subvencionada con otras ayudas
+  - notion_id: 42283f94-7b2c-8172-95cc-d34a8ec6950b | Budget: 2000 € | Reception: 18/09/2026
+- [SUBV. DL 7/2025 INCENDIOS SECTOR TURÍSTICO_7. ALBERJERTE S.L.](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/930291) (DIRECCIÓN GENERAL DE TURISMO)
+  - Description: La subvención tiene como objetivo la recuperación de las zonas afectadas por los incendios forestales en Extremadura, mediante ayudas económicas a empresas turísticas que cumplen con las condiciones establecidas en la normativa correspondiente.
+  - Requirements: Ser una empresa turística; Situarse en una zona afectada por incendios forestales en Extremadura; Cumplir con las condiciones establecidas en la normativa reguladora
+  - notion_id: 42283f94-7b2c-8122-944b-f169a57ebaf0 | Budget: 2400 € | Reception: 18/09/2026
+- [SUBV. DL 7/2025 INCENDIOS SECTOR TURÍSTICO_8. CLARA MARTÍNEZ MORENO](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/930292) (DIRECCIÓN GENERAL DE TURISMO)
+  - Description: Subvención destinada a empresas turísticas en Extremadura para la recuperación de zonas afectadas por incendios forestales durante el verano de 2025, incluyendo ayudas para casas rurales como la solicitada por Clara Martínez Moreno.
+  - Requirements: Empresas turísticas; Situadas en Extremadura; Casa rural como tipo de establecimiento
+  - notion_id: 42283f94-7b2c-8112-90bf-df202804520d | Budget: 1700 € | Reception: 18/09/2026
+- [SUBV. DL 7/2025 INCENDIOS SECTOR TURÍSTICO_9. MERCEDES DONIGA DOMINGUEZ](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/930293) (DIRECCIÓN GENERAL DE TURISMO)
+  - Description: Subvenciones destinadas a empresas turísticas para la recuperación de zonas afectadas por incendios forestales en Extremadura, con el objetivo de apoyar la reactivación del sector turístico y facilitar ayudas económicas directas.
+  - Requirements: Empresas turísticas en Extremadura; No superar el coste de la actividad subvencionada con otras ayudas; Presentar solicitud de acuerdo al Decreto-Ley 72025
+  - notion_id: 42283f94-7b2c-81a0-9631-f8210a8d05ac | Budget: 1700 € | Reception: 18/09/2026
+- [SUBV. DL 7/2025 INCENDIOS SECTOR TURÍSTICO_10. JOSÉ CARLOS SÁNCHEZ GARCÍA](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/930294) (DIRECCIÓN GENERAL DE TURISMO)
+  - Description: Esta subvención tiene como objetivo apoyar a empresas turísticas afectadas por incendios forestales en Extremadura, facilitando recursos para su recuperación y medidas preventivas.
+  - Requirements: Empresas turísticas de la localidad de Villar de Plasencia; No se especifican restricciones de edad
+  - notion_id: 42283f94-7b2c-8135-a37b-f5b09489706e | Budget: 1200 € | Reception: 18/09/2026
+- [SUBV. DL 7/2025 INCENDIOS SECTOR TURÍSTICO_11. SERGIO TORRES DUQUE](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/930317) (DIRECCIÓN GENERAL DE TURISMO)
+  - Description: Esta subvención tiene como objetivo apoyar a las empresas turísticas en Extremadura afectadas por los incendios forestales ocurridos en el verano de 2025, facilitando recursos económicos para su recuperación.
+  - Requirements: Empresas turísticas afectadas por incendios forestales; Localización en Extremadura
+  - notion_id: 42283f94-7b2c-812c-a3bb-ce637a62abd5 | Budget: 1700 € | Reception: 18/09/2026
+- [SUBV. DL 7/2025 INCENDIOS SECTOR TURÍSTICO_12. Mª ISABEL IGLESIAS CANO](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/930318) (DIRECCIÓN GENERAL DE TURISMO)
+  - Description: Subvenciones destinadas a empresas turísticas en Extremadura, específicamente para la recuperación de zonas afectadas por incendios forestales durante el verano de 2025, con el propósito de apoyar a alojamientos rurales y fomentar su restauración.
+  - Requirements: Establecimiento turístico ubicado en Extremadura; Cumplir las condiciones impuestas por la normativa reguladora
+  - notion_id: 42283f94-7b2c-81e4-9f4e-fba7aa77b333 | Budget: 1700 € | Reception: 18/09/2026
+- [SUBV. DL 7/2025 INCENDIOS SECTOR TURÍSTICO_13. MERCEDES GALLEGO GALLEGO](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/930319) (DIRECCIÓN GENERAL DE TURISMO)
+  - Description: La subvención está destinada a empresas turísticas en Extremadura, con el objetivo de apoyar la recuperación de las zonas afectadas por incendios forestales durante el verano de 2025, mediante ayudas directas a alojamientos rurales.
+  - Requirements: Empresas turísticas; Localización en Extremadura; Alojamientos rurales
+  - notion_id: 42283f94-7b2c-81e9-a139-e7000f6b0b21 | Budget: 2000 € | Reception: 18/09/2026
+- [SUBV. DL 7/2025 INCENDIOS SECTOR TURÍSTICO_14. MARÍA GONZÁLEZ BUENADICHA](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/930320) (DIRECCIÓN GENERAL DE TURISMO)
+  - Description: La subvención está destinada a empresas turísticas en Extremadura para ayudar en la recuperación de las zonas afectadas por los incendios forestales ocurridos en el verano de 2025, específicamente para el establecimiento de alojamientos rurales.
+  - Requirements: Empresas turísticas.; Ubicación en Extremadura.; Tipo de establecimiento: Alojamiento Rural.
+  - notion_id: 42283f94-7b2c-81fd-b7a2-e478f0daf53a | Budget: 1700 € | Reception: 18/09/2026
+- [SUBV. DL 7/2025 INCENDIOS SECTOR TURÍSTICO_15. CRISTINA GARCÍA MUÑOZ](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/930321) (DIRECCIÓN GENERAL DE TURISMO)
+  - Description: Se otorgan subvenciones a empresas turísticas en Extremadura para la recuperación de zonas afectadas por incendios forestales, destinadas específicamente a alojamientos rurales.
+  - Requirements: Empresas turísticas en Extremadura; Alojamientos rurales
+  - notion_id: 42283f94-7b2c-818b-aa7d-f06b22c9ee61 | Budget: 2000 € | Reception: 18/09/2026
+- [SUBV. DL 7/2025 INCENDIOS SECTOR TURÍSTICO_16. JAVIER MARCOS TALAVÁN](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/930322) (DIRECCIÓN GENERAL DE TURISMO)
+  - Description: Esta subvención está destinada a empresas turísticas afectadas por incendios forestales en Extremadura, ofreciendo ayudas para la recuperación de estas zonas, especialmente para la casa rural El balcón de Cabezuela.
+  - Requirements: Empresas turísticas en Extremadura; No haber superado el coste de la actividad subvencionada con otras ayudas
+  - notion_id: 42283f94-7b2c-8168-b85e-f10ef2d53899 | Budget: 1700 € | Reception: 18/09/2026
+- [SUBV. DL 7/2025 INCENDIOS SECTOR TURÍSTICO_17. ROSA MARÍA PÉREZ CUSTODIO](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/930323) (DIRECCIÓN GENERAL DE TURISMO)
+  - Description: Esta subvención tiene como objetivo apoyar a empresas turísticas en la recuperación de las zonas afectadas por incendios forestales en Extremadura, proporcionando ayudas económicas para facilitar su recuperación y mantenimiento.
+  - Requirements: Ser una empresa turística; Estar ubicada en zonas afectadas por incendios en Extremadura; Cumplir las condiciones impuestas en la normativa reguladora
+  - notion_id: 42283f94-7b2c-810f-b723-e6571de80d44 | Budget: 1700 € | Reception: 18/09/2026
+- [SUBV. DL 7/2025 INCENDIOS SECTOR TURÍSTICO_18. Mª BELÉN ACERA LARRIBA](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/930324) (DIRECCIÓN GENERAL DE TURISMO)
+  - Description: Este fondo tiene como objetivo proporcionar ayudas económicas a empresas turísticas en Extremadura afectadas por los incendios forestales del verano de 2025, para su recuperación y medidas preventivas relacionadas con incendios.
+  - Requirements: Empresas turísticas; Localizadas en zonas afectadas por incendios en Extremadura; Cumplir con las condiciones impuestas en la normativa reguladora
+  - notion_id: 42283f94-7b2c-814f-98eb-cae900778a86 | Budget: 1700 € | Reception: 18/09/2026
+- [SUBV. DL 7/2025 INCENDIOS SECTOR TURÍSTICO_19. CRISTINA ARIAS FELIPE](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/930325) (DIRECCIÓN GENERAL DE TURISMO)
+  - Description: El objetivo de esta subvención es ayudar a las empresas turísticas de las zonas afectadas por los incendios forestales en Extremadura durante el verano de 2025, específicamente para apoyar la recuperación y prevención de futuros incendios.
+  - Requirements: Empresas turísticas en áreas afectadas por incendios; Ubicación en la localidad de Jerte
+  - notion_id: 42283f94-7b2c-816b-995a-c92ab6dbc51c | Budget: 1700 € | Reception: 18/09/2026
+- [SUBV. DL 7/2025 INCENDIOS SECTOR TURÍSTICO_20. CASANDRA RODRÍGUEZ CASTILLA](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/930326) (DIRECCIÓN GENERAL DE TURISMO)
+  - Description: Esta subvención tiene como objetivo apoyar a empresas turísticas en la recuperación de las zonas afectadas por los incendios forestales en Extremadura durante el verano de 2025, proporcionando ayudas económicas para mejorar el alojamiento rural.
+  - Requirements: Ser una empresa turística; Situarse en zonas afectadas por incendios forestales en Extremadura; Cumplir con las condiciones impuestas en la normativa reguladora
+  - notion_id: 42283f94-7b2c-8180-9cd8-fb1041912274 | Budget: 2000 € | Reception: 18/09/2026
+- [SUBV. DL 7/2025 INCENDIOS SECTOR TURÍSTICO_21. TIEMPO DE CRISTAL C.B.](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/930327) (DIRECCIÓN GENERAL DE TURISMO)
+  - Description: Esta subvención se otorga a empresas turísticas situadas en zonas afectadas por incendios forestales en Extremadura, con el objetivo de apoyar la recuperación de las áreas y fomentar la sostenibilidad del turismo rural.
+  - Requirements: Empresas turísticas situadas en zonas afectadas por incendios forestales; Deben cumplir con las condiciones establecidas en la normativa reguladora
+  - notion_id: 42283f94-7b2c-8120-8180-c6273f6cc29d | Budget: 2000 € | Reception: 18/09/2026
+- [SUBV. DL 7/2025 INCENDIOS SECTOR TURÍSTICO_22. Mª DEL ROCÍO HERNÁNDEZ RAMA](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/930350) (DIRECCIÓN GENERAL DE TURISMO)
+  - Description: La subvención tiene como objetivo apoyar a empresas turísticas en la recuperación de las zonas afectadas por los incendios forestales en Extremadura, brindando ayudas económicas específicas para la rehabilitación y prevención de futuros incendios.
+  - Requirements: Empresas turísticas; Localización en áreas afectadas por incendios en Extremadura; Cumplimiento de condiciones establecidas en la normativa
+  - notion_id: 42283f94-7b2c-81d8-880d-eb93585052d6 | Budget: 2000 € | Reception: 18/09/2026
+- [SUBV. DL 7/2025 INCENDIOS SECTOR TURÍSTICO_23. VÍCTOR PÉREZ CEPEDA](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/930351) (DIRECCIÓN GENERAL DE TURISMO)
+  - Description: Subvención destinada a empresas turísticas en Extremadura para la recuperación tras los incendios forestales ocurridos durante el verano de 2025, específicamente para la casa rural La Pilota en Jerte.
+  - Requirements: Empresas turísticas; Establecimientos ubicados en Extremadura; Cumplimiento de condiciones impuestas por la normativa reguladora
+  - notion_id: 42283f94-7b2c-81fb-93a9-c09577840ee8 | Budget: 1700 € | Reception: 18/09/2026
+- [SUBV. DL 7/2025 INCENDIOS SECTOR TURÍSTICO_24. IRIS SÁNCHEZ RICO](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/930352) (DIRECCIÓN GENERAL DE TURISMO)
+  - Description: Subvención para la recuperación de empresas turísticas afectadas por incendios forestales en Extremadura, para ayudas a casas rurales.
+  - Requirements: Empresas turísticas; Ubicación en Extremadura; Cumplimiento de condiciones específicas de la normativa reguladora
+  - notion_id: 42283f94-7b2c-81f4-a695-e58cc3c41ee3 | Budget: 1700 € | Reception: 18/09/2026
+- [SUBV. DL 7/2025 INCENDIOS SECTOR TURÍSTICO_25. LA DAMA DEL JERTE S.L.](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/930353) (DIRECCIÓN GENERAL DE TURISMO)
+  - Description: Esta ayuda está destinada a empresas turísticas en Extremadura que hayan sido afectadas por los incendios forestales de verano de 2025, con el objetivo de apoyar su recuperación mediante subsidios.
+  - Requirements: Empresas turísticas; Ubicación en Extremadura; Casa Apartamento Rural; No superar el coste de la actividad subvencionada
+  - notion_id: 42283f94-7b2c-815b-bab7-da08001e339a | Budget: 1700 € | Reception: 18/09/2026
+- [SUBV. DL 7/2025 INCENDIOS SECTOR TURÍSTICO_26. CLAUDIA CONEJERO HERNÁNDEZ](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/930354) (DIRECCIÓN GENERAL DE TURISMO)
+  - Description: La subvención tiene como objetivo apoyar a empresas turísticas en la recuperación de áreas afectadas por incendios forestales en Extremadura, proporcionando ayuda económica a alojamientos rurales.
+  - Requirements: Empresas turísticas; Localización en zonas afectadas por incendios en Extremadura; Cumplir con la normativa reguladora
+  - notion_id: 42283f94-7b2c-81a3-b3cc-d9e7176154f1 | Budget: 1700 € | Reception: 18/09/2026
+- [SUBV. DL 7/2025 INCENDIOS SECTOR TURÍSTICO_27. Mª JOSÉ SÁNCHEZ SALGADO](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/930355) (DIRECCIÓN GENERAL DE TURISMO)
+  - Description: Esta subvención tiene como objetivo apoyar la recuperación de empresas turísticas en Extremadura afectadas por los incendios forestales del verano de 2025, proporcionando ayudas económicas directas para asegurar su viabilidad y sostenibilidad.
+  - notion_id: 42283f94-7b2c-818d-bb76-d0e0b7debfb7 | Budget: 1700 € | Reception: 18/09/2026
+- [SUBV. DL 7/2025 INCENDIOS SECTOR TURÍSTICO_28. Mª ADORACIÓN HDEZ AVEZUELA](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/930356) (DIRECCIÓN GENERAL DE TURISMO)
+  - Description: Subvenciones a empresas turísticas para la recuperación de zonas afectadas por incendios forestales en Extremadura durante el verano de 2025.
+  - Requirements: Empresas turísticas; Establecimientos situados en zonas afectadas por incendios forestales; Cumplimiento de las condiciones impuestas en la normativa reguladora
+  - notion_id: 42283f94-7b2c-8170-ac88-e2fb9c28d7a3 | Budget: 1700 € | Reception: 18/09/2026
+- [SUBV. DL 7/2025 INCENDIOS SECTOR TURÍSTICO_29. Mª ADORACIÓN HDEZ AVEZUELA](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/930357) (DIRECCIÓN GENERAL DE TURISMO)
+  - Description: Esta subvención tiene como objetivo apoyar a empresas turísticas afectadas por los incendios forestales en Extremadura, proporcionando ayudas económicas para facilitar su recuperación y funcionamiento.
+  - Requirements: Empresas turísticas en Extremadura; Establecimientos con capacidad de 50 a 100 plazas; No superar el coste de la actividad subvencionada con otras ayudas
+  - notion_id: 42283f94-7b2c-8197-a323-ebf17707f84e | Budget: 2200 € | Reception: 18/09/2026
+- [SUBV. DL 7/2025 INCENDIOS SECTOR TURÍSTICO_30. NOELIA SÁNCHEZ SÁNCHEZ](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/930358) (DIRECCIÓN GENERAL DE TURISMO)
+  - Description: Esta subvención está destinada a apoyar a empresas turísticas en la recuperación y mejora de sus instalaciones, especialmente aquellas afectadas por incendios forestales en Extremadura durante el verano de 2025.
+  - Requirements: Ser una empresa turística; Estar localizada en zonas afectadas por incendios forestales; Cumplir con las condiciones impuestas en la normativa reguladora
+  - notion_id: 42283f94-7b2c-81f8-b0d4-df2c14a569e3 | Budget: 1700 € | Reception: 18/09/2026
+- [SUBV. DL 7/2025 INCENDIOS SECTOR TURÍSTICO_31.JOSÉ MARIANO HERNÁNDEZ DANIEL](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/930359) (DIRECCIÓN GENERAL DE TURISMO)
+  - Description: Esta subvención está destinada a empresas turísticas afectadas por los incendios forestales en Extremadura, con el objetivo de ayudar en la recuperación económica de aquellas zonas impactadas.
+  - Requirements: Empresas turísticas del municipio de Jerte; Cumplimiento de las condiciones establecidas en la normativa reguladora; No superar el coste de la actividad subvencionada con otras ayudas
+  - notion_id: 42283f94-7b2c-8116-882a-c273e8eb16f9 | Budget: 2200 € | Reception: 18/09/2026
+- [SUBV. DL 7/2025 INCENDIOS SECTOR TURÍSTICO_32.JOSÉ MARIANO HERNÁNDEZ DANIEL](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/930360) (DIRECCIÓN GENERAL DE TURISMO)
+  - Description: Esta subvención se otorga a empresas turísticas en Extremadura para facilitar la recuperación de las zonas afectadas por los incendios forestales ocurridos durante el verano de 2025, apoyando particularmente a hoteles rurales.
+  - Requirements: Ser una empresa turística; Estar ubicada en Extremadura; No superar el coste de la actividad subvencionada con otras ayudas
+  - notion_id: 42283f94-7b2c-81b9-868f-e1ece4508bd4 | Budget: 2400 € | Reception: 18/09/2026
+- [SUBV. DL 7/2025 INCENDIOS SECTOR TURÍSTICO_33. Mª ADORACIÓN HDEZ AVEZUELA](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/930361) (DIRECCIÓN GENERAL DE TURISMO)
+  - Description: Esta subvención tiene como objetivo apoyar a empresas turísticas en Extremadura afectadas por los incendios forestales del verano de 2025, facilitando recursos para su recuperación y previniendo futuros incidentes similares.
+  - Requirements: Ser una empresa turística; Estar ubicada en zonas afectadas por los incendios forestales; Cumplir con las condiciones establecidas en la normativa reguladora
+  - notion_id: 42283f94-7b2c-8161-92ae-e545a6ca0a6c | Budget: 1700 € | Reception: 18/09/2026
+- [SUBV. DL 7/2025 INCENDIOS SECTOR TURÍSTICO_34. Mª ISIDRA REY SERRANO](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/930362) (DIRECCIÓN GENERAL DE TURISMO)
+  - Description: La subvención tiene como objetivo apoyar a empresas turísticas, específicamente alojamientos rurales, que se han visto afectadas por los incendios forestales en Extremadura durante el verano de 2025, facilitando recursos económicos para su recuperación y prevención de futuros incendios.
+  - Requirements: Empresas turísticas; Ubicación en zonas afectadas por incendios en Extremadura; Tipo de establecimiento: Alojamiento Rural
+  - notion_id: 42283f94-7b2c-81b4-ac06-e3c7a185688e | Budget: 1700 € | Reception: 18/09/2026
+- [SUBV. DL 7/2025 INCENDIOS SECTOR TURÍSTICO_48. VICTOR PÉREZ CEPEDA](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/930387) (DIRECCIÓN GENERAL DE TURISMO)
+  - Description: La subvención tiene como objetivo apoyar a empresas turísticas, específicamente casas rurales, afectadas por incendios forestales en Extremadura, facilitando recursos económicos para su recuperación y fortalecimiento.
+  - Requirements: Ser una empresa turística; Ubicación en Extremadura; Afectado por incendios forestales ocurridos en el verano de 2025
+  - notion_id: 42283f94-7b2c-813f-818d-fd0698797e2b | Budget: 1700 € | Reception: 18/09/2026
+- [SUBV. DL 7/2025 INCENDIOS SECTOR TURÍSTICO_49.MARÍA JOSEFA FERNÁNDEZ MARTÍN](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/930388) (DIRECCIÓN GENERAL DE TURISMO)
+  - Description: Esta subvención tiene como objetivo apoyar a las empresas turísticas en la recuperación de las zonas afectadas por incendios forestales en Extremadura. Se ofrece ayuda económica específica para casas rurales, incentivando su restauración y mejora.
+  - Requirements: Ser una empresa turística; Estar ubicada en zonas afectadas por incendios forestales; Cumplir con las condiciones impuestas por la normativa reguladora
+  - notion_id: 42283f94-7b2c-8123-bdfa-c83ec4f48697 | Budget: 1700 € | Reception: 18/09/2026
+- [SUBV. DL 7/2025 INCENDIOS SECTOR TURÍSTICO_54.MªDEL PILAR DE CÁCERES RIESCO](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/930389) (DIRECCIÓN GENERAL DE TURISMO)
+  - Description: Esta subvención se otorga a empresas turísticas en Extremadura para apoyar la recuperación de las zonas afectadas por incendios forestales ocurridos durante el verano de 2025, específicamente para el establecimiento de apartamentos turísticos.
+  - Requirements: Ser una empresa turística; Ubicación en Extremadura; No superar el coste de la actividad subvencionada con otras ayudas
+  - notion_id: 42283f94-7b2c-817b-a891-c588b12f0933 | Budget: 1700 € | Reception: 18/09/2026
+- [SUBV. DL 7/2025 INCENDIOS SECTOR TURÍSTICO_35. IRENE GUTIÉRREZ ANTOLÍN](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/930431) (DIRECCIÓN GENERAL DE TURISMO)
+  - Description: La subvención está destinada a empresas turísticas en Extremadura afectadas por incendios forestales, proporcionando ayudas para su recuperación y la promoción de medidas preventivas.
+  - Requirements: Empresas turísticas en Extremadura; Cumplir con las condiciones impuestas en la normativa reguladora
+  - notion_id: 42283f94-7b2c-81de-8215-fea3e09d9612 | Budget: 1700 € | Reception: 18/09/2026
+- [SUBV. DL 7/2025 INCENDIOS SECTOR TURÍSTICO_36. RAQUEL CALLE VICENTE](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/930432) (DIRECCIÓN GENERAL DE TURISMO)
+  - Description: Esta subvención tiene como objetivo proporcionar ayudas económicas a empresas turísticas, específicamente a casas rurales, para su recuperación tras los incendios forestales en Extremadura durante el verano de 2025.
+  - Requirements: Empresas turísticas; Ubicación en zonas afectadas por incendios forestales en Extremadura; Cumplir con las condiciones establecidas en la normativa reguladora
+  - notion_id: 42283f94-7b2c-81e6-b9fc-c386059b108d | Budget: 1700 € | Reception: 18/09/2026
+- [SUBV. DL 7/2025 INCENDIOS SECTOR TURÍSTICO_38.MIGUEL ÁNGEL SÁNCHEZ APARICIO](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/930433) (DIRECCIÓN GENERAL DE TURISMO)
+  - Description: La subvención busca apoyar a empresas turísticas en Extremadura afectadas por los incendios forestales de 2025, facilitando recursos para la recuperación y mejora de sus instalaciones, como alojamientos rurales.
+  - Requirements: Empresas turísticas ubicadas en Extremadura; Alojamiento rural; No superar el coste de la actividad subvencionada
+  - notion_id: 42283f94-7b2c-8182-b7fb-d15501829cdd | Budget: 1700 € | Reception: 18/09/2026
+- [SUBV. DL 7/2025 INCENDIOS SECTOR TURÍSTICO_39. FCO. JAVIER MERINO DÍAZ](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/930434) (DIRECCIÓN GENERAL DE TURISMO)
+  - Description: Esta subvención tiene como objetivo proporcionar ayudas económicas a empresas turísticas afectadas por incendios forestales en Extremadura, con el fin de apoyar su recuperación y garantizar medidas preventivas para evitar futuros siniestros.
+  - Requirements: Empresas turísticas ubicadas en Extremadura; Deberán haber sido afectadas por incendios forestales durante el verano de 2025; Los solicitantes deben cumplir con las condiciones establecidas en la normativa reguladora
+  - notion_id: 42283f94-7b2c-8192-9f5c-cb4ea2f16f85 | Budget: 1700 € | Reception: 18/09/2026
+- [SUBV. DL 7/2025 INCENDIOS SECTOR TURÍSTICO_40.ESTHER DALILA GÁNDARA BATUECA](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/930435) (DIRECCIÓN GENERAL DE TURISMO)
+  - Description: Conceder subvenciones a empresas turísticas afectadas por los incendios forestales en Extremadura, para apoyar su recuperación y medidas preventivas.
+  - notion_id: 42283f94-7b2c-817a-b33f-db88189155d1 | Budget: 1700 € | Reception: 18/09/2026
+- [SUBV. DL 7/2025 INCENDIOS SECTOR TURÍSTICO_41. ANASTASIA PASCUAL SÁNCHEZ](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/930436) (DIRECCIÓN GENERAL DE TURISMO)
+  - Description: La subvención tiene como objetivo ayudar a las empresas turísticas, específicamente alojamientos rurales, afectadas por los incendios forestales en Extremadura durante el verano de 2025, mediante ayudas económicas para su recuperación.
+  - Requirements: Ser una empresa turística; Ubicación en Extremadura; Proyecto afectado por los incendios forestales; Tipo de establecimiento: Alojamiento rural
+  - notion_id: 42283f94-7b2c-81ad-83cf-e5ce9ea51548 | Budget: 2000 € | Reception: 18/09/2026
+- [SUBV. DL 7/2025 INCENDIOS SECTOR TURÍSTICO_43. EZEQUIEL HERNÁNDEZ GALAYO](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/930437) (DIRECCIÓN GENERAL DE TURISMO)
+  - Description: La subvención tiene como objetivo apoyar a las empresas turísticas, en particular a los alojamientos extrahoteleros, para la recuperación de las zonas afectadas por los incendios forestales en Extremadura durante el verano de 2025.
+  - Requirements: Ser empresa turística; Estar localizada en zonas afectadas por incendios forestales; Cumplir con las condiciones de la normativa reguladora
+  - notion_id: 42283f94-7b2c-81ff-a647-cf8184873174 | Budget: 1700 € | Reception: 18/09/2026
+- [SUBV. DL 7/2025 INCENDIOS SECTOR TURÍSTICO_44. RUBÉN DÓNIGA PARALEDA](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/930438) (DIRECCIÓN GENERAL DE TURISMO)
+  - Description: Esta subvención está destinada a empresas turísticas afectadas por incendios forestales en Extremadura, para ayudar en la recuperación de las zonas afectadas durante el verano de 2025, específicamente para alojamientos rurales.
+  - Requirements: Empresas turísticas; Ubicación en las zonas afectadas por incendios forestales en Extremadura; Cumplimiento de las condiciones impuestas en la normativa reguladora
+  - notion_id: 42283f94-7b2c-81bb-9904-e87b752fc81f | Budget: 1700 € | Reception: 18/09/2026
+- [SUBV. DL 7/2025 INCENDIOS SECTOR TURÍSTICO_45. EL REGAJO GESTIÓN TURÍSTICA](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/930439) (DIRECCIÓN GENERAL DE TURISMO)
+  - Description: Esta subvención tiene como objetivo apoyar a empresas turísticas en la recuperación de zonas afectadas por incendios forestales en Extremadura, brindando ayudas financieras a alojamientos singulares como el GLAMPING EL REGAJO VALLE DEL JERTE.
+  - notion_id: 42283f94-7b2c-8150-a865-cfba72f2db09 | Budget: 1200 € | Reception: 18/09/2026
+- [SUBV. DL 7/2025 INCENDIOS SECTOR TURÍSTICO_59. CAMPING VALLE DEL JERTE S.L.](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/930440) (DIRECCIÓN GENERAL DE TURISMO)
+  - Description: Esta subvención está destinada a apoyar la recuperación de empresas turísticas afectadas por los incendios forestales en Extremadura durante el verano de 2025, proporcionando ayuda económica para la adaptación y sostenibilidad de los establecimientos, en este caso, un restaurante.
+  - notion_id: 42283f94-7b2c-8171-a195-fcceee4a3ab6 | Budget: 1800 € | Reception: 18/09/2026
+- [SUBV. DL 7/2025 INCENDIOS SECTOR TURÍSTICO_46. GONZALO CUSTODIO BLANCO](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/930441) (DIRECCIÓN GENERAL DE TURISMO)
+  - Description: Subvenciones destinadas a la recuperación de empresas turísticas en Extremadura afectadas por incendios forestales, con un enfoque en el apoyo a alojamientos rurales.
+  - Requirements: Empresas turísticas; Alojamientos rurales; Situados en Extremadura; Cumplir con condiciones normativas específicas
+  - notion_id: 42283f94-7b2c-8158-b2d4-cd3310dc0263 | Budget: 1700 € | Reception: 18/09/2026
+- [SUBV. DL 7/2025 INCENDIOS SECTOR TURÍSTICO_47. RAQUEL MUÑOZ ELIZO](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/930442) (DIRECCIÓN GENERAL DE TURISMO)
+  - Description: Esta subvención está destinada a empresas turísticas de Extremadura, específicamente para la recuperación de zonas afectadas por incendios forestales en el verano de 2025, mediante ayudas económicas directas a establecimientos de restauración.
+  - Requirements: Ser una empresa turística en Extremadura; Estar afectado por los incendios forestales de 2025; Tener un establecimiento de restauración; Cumplir con las condiciones impuestas por la normativa reguladora
+  - notion_id: 42283f94-7b2c-816d-b86a-d570cf07d4ae | Budget: 2200 € | Reception: 18/09/2026
+- [SUBV. DL 7/2025 INCENDIOS SECTOR TURÍSTICO_50.GEST.JUDERÍA VALLE JERTE ESP](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/930443) (DIRECCIÓN GENERAL DE TURISMO)
+  - Description: Esta subvención está destinada a empresas turísticas en Extremadura afectadas por los incendios forestales ocurridos en 2025, para apoyar la recuperación y establecer medidas de prevención.
+  - Requirements: Ser una empresa turística ubicada en Extremadura; Establecimiento de alojamiento hotelero; No superar el coste de la actividad subvencionada con otras ayudas
+  - notion_id: 42283f94-7b2c-8181-8b2f-cfe8c607d2ba | Budget: 2000 € | Reception: 18/09/2026
+- [SUBV. DL 7/2025 INCENDIOS SECTOR TURÍSTICO_55. MARGARITA GARCÍA MARTÍN](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/930444) (DIRECCIÓN GENERAL DE TURISMO)
+  - Description: La subvención tiene como objetivo financiar la recuperación de las zonas afectadas por los incendios forestales en Extremadura, proporcionando ayudas a empresas turísticas, específicamente casas rurales.
+  - Requirements: Beneficiario debe ser una empresa turística; Ubicación en las zonas afectadas por los incendios en Extremadura; Cumplir las condiciones impuestas en la normativa reguladora
+  - notion_id: 42283f94-7b2c-8158-a8c9-da721160b3c8 | Budget: 2000 € | Reception: 18/09/2026
+- [SUBV. DL 7/2025 INCENDIOS SECTOR TURÍSTICO_56. JIMMY MUÑOZ ALONSO](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/930445) (DIRECCIÓN GENERAL DE TURISMO)
+  - Description: La subvención tiene como objetivo apoyar a empresas turísticas en la recuperación de las zonas afectadas por incendios forestales en Extremadura, proporcionando ayudas económicas para fomentar la reactivación del turismo en estas áreas.
+  - Requirements: Ser una empresa turística; Estar situada en zonas afectadas por los incendios forestales en Extremadura; Cumplir con las condiciones impuestas en la normativa reguladora
+  - notion_id: 42283f94-7b2c-811c-981f-fb0da0d8bc44 | Budget: 1700 € | Reception: 18/09/2026
+- [SUBV. DL 7/2025 INCENDIOS SECTOR TURÍSTICO_57.CAMPING BUNGALOWS RÍO JERTESL](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/930446) (DIRECCIÓN GENERAL DE TURISMO)
+  - Description: La subvención está destinada a empresas turísticas en Extremadura, específicamente para la recuperación de zonas afectadas por incendios forestales durante el verano de 2025, mediante ayudas extraordinarias para campamentos de turismo.
+  - Requirements: Ser una empresa turística; Estar ubicada en Extremadura; No superar el coste de la actividad subvencionada con otras ayudas
+  - notion_id: 42283f94-7b2c-81c2-b016-f64c18539a63 | Budget: 2200 € | Reception: 18/09/2026
+- [SUBV. DL 7/2025 INCENDIOS SECTOR TURÍSTICO_58. CAMPING VALLE DEL JERTE S.L.](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/930447) (DIRECCIÓN GENERAL DE TURISMO)
+  - Description: La subvención tiene como objetivo apoyar a empresas turísticas de la región de Extremadura afectadas por incendios forestales, facilitando recursos económicos destinados a su recuperación y establecimiento.
+  - Requirements: Ser una empresa turística; Estar ubicada en Extremadura; No haber superado el coste de la actividad subvencionada con otras ayudas
+  - notion_id: 42283f94-7b2c-8183-908d-c2e41fcd48bd | Budget: 2700 € | Reception: 18/09/2026
+- [SUBV. DL 7/2025 INCENDIOS SECTOR TURÍSTICO_60. ANA ISABEL MARTÍN GARCÍA](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/930448) (DIRECCIÓN GENERAL DE TURISMO)
+  - Description: Esta subvención tiene como objetivo apoyar a empresas turísticas en la recuperación tras los incendios forestales en Extremadura, ofreciendo ayuda financiera para la rehabilitación y mejora de instalaciones, como casas rurales.
+  - Requirements: Ser una empresa turística; Estar ubicada en zonas afectadas por incendios forestales en Extremadura; Cumplir las condiciones impuestas por la normativa reguladora
+  - notion_id: 42283f94-7b2c-818c-b706-e20503d64489 | Budget: 1700 € | Reception: 18/09/2026
+- [SUBV. DL 7/2025 INCENDIOS SECTOR TURÍSTICO_52. Mª ASUNC. HERNÁNDEZ AVEZUELA](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/930474) (DIRECCIÓN GENERAL DE TURISMO)
+  - Description: Esta subvención tiene como objetivo apoyar a las empresas turísticas afectadas por incendios forestales en Extremadura, proporcionando ayudas económicas para facilitar su recuperación y prevenir futuros incidentes.
+  - Requirements: Ser una empresa turística; Estar ubicada en las zonas afectadas por incendios en Extremadura; Cumplir con las condiciones establecidas en la normativa reguladora
+  - notion_id: 42283f94-7b2c-81fe-9e41-d71525dcd574 | Budget: 2200 € | Reception: 18/09/2026
+- [SUBV. DL 7/2025 INCENDIOS SECTOR TURÍSTICO_53. DAVID PÉREZ FLORES](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/930475) (DIRECCIÓN GENERAL DE TURISMO)
+  - Description: La subvención tiene como objetivo apoyar a las empresas turísticas afectadas por los incendios forestales ocurridos en Extremadura durante el verano de 2025, proporcionando ayudas económicas para la recuperación y prevención de incendios.
+  - Requirements: Empresas turísticas; Debido a los incendios forestales; Localización en Extremadura
+  - notion_id: 42283f94-7b2c-812f-be6e-dde66cbb7df9 | Budget: 1700 € | Reception: 18/09/2026
+- [SUBV. DL 7/2025 INCENDIOS SECTOR TURÍSTICO_65. Mª BELÉN MAHILLO HERAS](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/930476) (DIRECCIÓN GENERAL DE TURISMO)
+  - Description: Esta subvención está destinada a empresas turísticas afectadas por los incendios forestales en Extremadura, con el objetivo de apoyar la recuperación y prevenir futuros incidentes.
+  - notion_id: 42283f94-7b2c-81d0-bd6d-d7ecdd25daab | Budget: 2000 € | Reception: 18/09/2026
+- [SUBV. DL 7/2025 INCENDIOS SECTOR TURÍSTICO_66. LA CERECERA C.B.](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/930477) (DIRECCIÓN GENERAL DE TURISMO)
+  - Description: La subvención tiene como objetivo apoyar a empresas turísticas en la recuperación de las zonas afectadas por los incendios forestales en Extremadura, proporcionando ayudas económicas a casas rurales y otras instalaciones turísticas.
+  - Requirements: Los solicitantes deben ser empresas turísticas; Ubicación en zonas afectadas por incendios en Extremadura; Cumplimiento de las condiciones impuestas por la normativa reguladora
+  - notion_id: 42283f94-7b2c-819b-aac3-fb0a34e29bc5 | Budget: 2000 € | Reception: 18/09/2026
+- [SUBV. DL 7/2025 INCENDIOS SECTOR TURÍSTICO_67. ALBERJERTE S.L.](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/930478) (DIRECCIÓN GENERAL DE TURISMO)
+  - Description: Esta subvención tiene como objetivo apoyar a las empresas turísticas, específicamente restaurantes, en la recuperación de las zonas afectadas por los incendios forestales en Extremadura, proporcionando ayudas económicas para facilitar su funcionamiento y sostenibilidad.
+  - Requirements: Empresas turísticas; Situadas en zonas afectadas por incendios forestales; Cumplimiento de las condiciones impuestas en la normativa reguladora
+  - notion_id: 42283f94-7b2c-81ee-a682-d8c6e383c1d7 | Budget: 2200 € | Reception: 18/09/2026
+- [SUBV. DL 7/2025 INCENDIOS SECTOR TURÍSTICO_68. ROSA MARÍA PÉREZ CUSTODIO](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/930479) (DIRECCIÓN GENERAL DE TURISMO)
+  - Description: La subvención tiene como objetivo apoyar a las empresas turísticas en la recuperación de las zonas afectadas por incendios forestales en Extremadura, mediante ayudas económicas específicas.
+  - notion_id: 42283f94-7b2c-81bf-bbc4-f118c6b78362 | Budget: 1700 € | Reception: 18/09/2026
+- [SUBV. DL 7/2025 INCENDIOS SECTOR TURÍSTICO_69. MIREN NEKANE SÁNCHEZ GÓMEZ](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/930480) (DIRECCIÓN GENERAL DE TURISMO)
+  - Description: Esta subvención tiene como objetivo apoyar a empresas turísticas afectadas por los incendios forestales en Extremadura, facilitando su recuperación a través de ayudas económicas directas.
+  - notion_id: 42283f94-7b2c-81f9-8b63-f73a101763fb | Budget: 2400 € | Reception: 18/09/2026
+- [SUBV. DL 7/2025 INCENDIOS SECTOR TURÍSTICO_71. Mª ADORACIÓN HDEZ AVEZUELA](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/930481) (DIRECCIÓN GENERAL DE TURISMO)
+  - Description: Este programa concede subvenciones a empresas turísticas afectadas por los incendios forestales en Extremadura, específicamente para la recuperación y la implementación de medidas preventivas.
+  - Requirements: Empresas turísticas; Localización en Extremadura; Afectadas por incendios forestales en verano de 2025
+  - notion_id: 42283f94-7b2c-81e8-a2c5-dc1aefce47ef | Budget: 2400 € | Reception: 18/09/2026
+- [SUBV. DL 7/2025 INCENDIOS SECTOR TURÍSTICO_73. FERNANDO GARCÍA MUÑOZ](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/930482) (DIRECCIÓN GENERAL DE TURISMO)
+  - Description: Esta subvención está dirigida a empresas turísticas en Extremadura como ayuda para la recuperación de las zonas afectadas por los incendios forestales ocurridos en el verano de 2025, fomentando además la prevención de futuros incidentes.
+  - Requirements: Empresas turísticas; Localización en Extremadura; Establecimiento tipo casa rural; Cumplir con las condiciones establecidas en la normativa reguladora
+  - notion_id: 42283f94-7b2c-81a2-901c-cc1a10ac9086 | Budget: 1700 € | Reception: 18/09/2026
+- [SUBV. DL 7/2025 INCENDIOS SECTOR TURÍSTICO_74. MARÍA JOSÉ GALAYO MANZANO](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/930483) (DIRECCIÓN GENERAL DE TURISMO)
+  - Description: La subvención tiene como objetivo apoyar a empresas turísticas en las zonas afectadas por incendios forestales en Extremadura, facilitando recursos económicos para su recuperación y prevención.
+  - Requirements: Empresas turísticas ubicadas en zonas afectadas por incendios forestales; No superar el coste de la actividad subvencionada con otras ayudas; Cumplimiento de condiciones impuestas en la normativa reguladora
+  - notion_id: 42283f94-7b2c-81ec-98da-d028c1a91443 | Budget: 1700 € | Reception: 18/09/2026
+- [SUBV. DL 7/2025 INCENDIOS SECTOR TURÍSTICO_75. EL PORTAL VIEJO ESPJ](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/930484) (DIRECCIÓN GENERAL DE TURISMO)
+  - Description: La subvención se destina a empresas turísticas en Extremadura para la recuperación de las zonas afectadas por incendios forestales, ofreciendo apoyo financiero a establecimientos como apartamentos turísticos.
+  - Requirements: Empresas turísticas; Ubicación en Extremadura; Actividades subvencionadas deben ser para la recuperación de áreas afectadas
+  - notion_id: 42283f94-7b2c-8124-b71c-cf4202503adb | Budget: 1700 € | Reception: 18/09/2026
+- [SUBV. DL 7/2025 INCENDIOS SECTOR TURÍSTICO_77. JORGE ACEITUNA CRESPO](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/930485) (DIRECCIÓN GENERAL DE TURISMO)
+  - Description: Esta subvención tiene como objetivo la recuperación de empresas turísticas afectadas por los incendios forestales en Extremadura durante el verano de 2025, mediante ayudas económicas directas.
+  - Requirements: Ser una empresa turística en Extremadura; Estar ubicada en zona afectada por incendios forestales; Cumplir con las condiciones impuestas en la normativa reguladora
+  - notion_id: 42283f94-7b2c-819c-adec-ec99bdc50b7b | Budget: 1800 € | Reception: 18/09/2026
+- [SUBV. DL 7/2025 INCENDIOS SECTOR TURÍSTICO_78. MANUEL IZQUIERDO ELIZO](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/930486) (DIRECCIÓN GENERAL DE TURISMO)
+  - Description: Esta subvención tiene como objetivo apoyar la recuperación de las zonas afectadas por incendios forestales en Extremadura, financiando a empresas turísticas, específicamente en este caso a un alojamiento rural en Navaconcejo.
+  - Requirements: Empresas turísticas; Ubicación en Extremadura; Alojamiento rural
+  - notion_id: 42283f94-7b2c-8154-b7c5-e4521bcd2b1b | Budget: 1700 € | Reception: 18/09/2026
+- [SUBV. DL 7/2025 INCENDIOS SECTOR TURÍSTICO_79. HERMANOS CARBAJO C.B.](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/930487) (DIRECCIÓN GENERAL DE TURISMO)
+  - Description: Subvenciones a empresas turísticas para la recuperación de zonas afectadas por incendios forestales en Extremadura durante el verano de 2025.
+  - Requirements: Ser una empresa turística; Estar ubicada en zonas afectadas por incendios en Extremadura; Cumplir las condiciones impuestas para ser beneficiario
+  - notion_id: 42283f94-7b2c-8196-9fd8-c89580855bfc | Budget: 1700 € | Reception: 18/09/2026
+- [SUBV. DL 7/2025 INCENDIOS SECTOR TURÍSTICO_51. BEATRIZ MIRANDA DOMÍNGUEZ](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/930535) (DIRECCIÓN GENERAL DE TURISMO)
+  - Description: Esta subvención tiene como objetivo apoyar a empresas turísticas en Extremadura afectadas por incendios forestales, con el fin de facilitar su recuperación y fomentar la prevención de futuros incendios.
+  - Requirements: Empresas turísticas en Extremadura; Ser un establecimiento de restauración anexado a instalaciones turísticas; No superar el coste de la actividad subvencionada con otras ayudas
+  - notion_id: 42283f94-7b2c-81f6-9df4-e3ea0776261a | Budget: 1200 € | Reception: 21/09/2026
+- [SUBV. DL 7/2025 INCENDIOS SECTOR TURÍSTICO_62. JAVIER MERINO DE LA CALLE](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/930536) (DIRECCIÓN GENERAL DE TURISMO)
+  - Description: Subvenciones a empresas turísticas para la recuperación de zonas afectadas por incendios forestales en Extremadura, con el objetivo de apoyar principalmente al alojamiento rural como la Casa Rural Josefina en Navaconcejo.
+  - notion_id: 42283f94-7b2c-8120-bc80-dd6e5d59f46d | Budget: 1700 € | Reception: 21/09/2026
+- [SUBV. DL 7/2025 INCENDIOS SECTOR TURÍSTICO_64. Mª BELÉN MAHILLO HERAS](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/930537) (DIRECCIÓN GENERAL DE TURISMO)
+  - Description: Esta subvención tiene como objetivo proporcionar apoyo financiero a empresas turísticas en Extremadura, específicamente para la recuperación de aquellas afectadas por incendios forestales ocurridos en el verano de 2025.
+  - Requirements: Empresas turísticas en Extremadura; Establecimientos con más de 100 plazas; No superar el coste de la actividad subvencionada con otras ayudas
+  - notion_id: 42283f94-7b2c-81d3-b074-d929075a291c | Budget: 2600 € | Reception: 21/09/2026
+- [SUBV. DL 7/2025 INCENDIOS SECTOR TURÍSTICO_76. CAPRICHOS DEL JERTE, S.L.U.](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/930538) (DIRECCIÓN GENERAL DE TURISMO)
+  - Description: La subvención tiene como objetivo proporcionar apoyo financiero a empresas turísticas afectadas por incendios forestales en Extremadura, facilitando su recuperación y mantenimiento. Las ayudas se destinan a alojamientos rurales y se otorgan de forma directa.
+  - Requirements: Ser una empresa turística; Estar ubicada en zonas afectadas por incendios forestales; Cumplir con las condiciones impuestas en la normativa reguladora
+  - Nominative Grant
+  - notion_id: 42283f94-7b2c-811e-9647-dfce27bb8cfd | Budget: 1700 € | Reception: 21/09/2026
+- [SUBV. DL 7/2025 INCENDIOS SECTOR TURÍSTICO_37. FCO. JAVIER VÁZQUEZ VARELA](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/930539) (DIRECCIÓN GENERAL DE TURISMO)
+  - Description: La subvención tiene como objetivo apoyar a empresas turísticas, específicamente alojamientos rurales, afectadas por incendios forestales en Extremadura, ofreciendo ayuda económica para su recuperación.
+  - Requirements: Ubicación en Extremadura; Tipo de establecimiento: Alojamiento Rural; No superar el coste de la actividad subvencionada con otras ayudas
+  - notion_id: 42283f94-7b2c-8188-a177-e5c56e83fff6 | Budget: 1700 € | Reception: 21/09/2026
+- [SUBV. DL 7/2025 INCENDIOS SECTOR TURÍSTICO_80. FCO. JAVIER VÁZQUEZ VARELA](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/930540) (DIRECCIÓN GENERAL DE TURISMO)
+  - Description: La subvención está destinada a empresas turísticas en Extremadura para apoyar la recuperación de áreas afectadas por incendios forestales ocurridos en 2025, mediante ayudas para alojamientos rurales y medidas preventivas.
+  - Requirements: Establecimientos de alojamiento rural; Ubicación en Extremadura; Cumplimiento de las condiciones impuestas en la normativa reguladora
+  - notion_id: 42283f94-7b2c-8106-a730-e4318fad9435 | Budget: 2000 € | Reception: 21/09/2026
+- [SUBV. DL 7/2025 INCENDIOS SECTOR TURÍSTICO_81. MARÍA ANTONIA MUÑOZ VERA](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/930541) (DIRECCIÓN GENERAL DE TURISMO)
+  - Description: La subvención tiene como objetivo apoyar a empresas turísticas en Extremadura, otorgando ayudas para la recuperación de las zonas afectadas por incendios forestales, específicamente para alojamientos rurales.
+  - Requirements: Empresas turísticas; Ubicación en Extremadura; Alojamiento Rural
+  - notion_id: 42283f94-7b2c-8125-a89c-f1e06925f73c | Budget: 2000 € | Reception: 21/09/2026
+- [SUBV. DL 7/2025 INCENDIOS SECTOR TURÍSTICO_82. MARÍA ANTONIA MUÑOZ VERA](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/930542) (DIRECCIÓN GENERAL DE TURISMO)
+  - Description: La subvención tiene como objetivo ofrecer ayudas a empresas turísticas afectadas por los incendios forestales en Extremadura, facilitando la recuperación de las zonas afectadas a través del apoyo financiero.
+  - Requirements: Ser una empresa turística; Estar ubicada en zonas afectadas por incendios forestales en Extremadura; Cumplir con las condiciones impuestas en la normativa reguladora
+  - notion_id: 42283f94-7b2c-81dc-b184-c21567e4fa8d | Budget: 1800 € | Reception: 21/09/2026
+- [SUBV. DL 7/2025 INCENDIOS SECTOR TURÍSTICO_83.ALABASTROS VALLE DEL JERTE SL](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/930543) (DIRECCIÓN GENERAL DE TURISMO)
+  - Description: Esta subvención tiene como objetivo apoyar a empresas turísticas en la recuperación de zonas afectadas por incendios forestales en Extremadura, proporcionando ayudas económicas para la reactivación de alojamientos turísticos.
+  - Requirements: Empresas turísticas; Ubicación en zonas afectadas por incendios forestales en Extremadura; Cumplir con las condiciones impuestas por la normativa reguladora
+  - notion_id: 42283f94-7b2c-8118-a844-d1f17f38db42 | Budget: 2400 € | Reception: 21/09/2026
+- [SUBV. DL 7/2025 INCENDIOS SECTOR TURÍSTICO_84.J. SANTIAGO BERROCOSO SÁNCHEZ](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/930544) (DIRECCIÓN GENERAL DE TURISMO)
+  - Description: Esta subvención tiene como objetivo apoyar a empresas turísticas en Extremadura que han sido afectadas por incendios forestales, ofreciendo ayudas económicas para su recuperación y medidas preventivas.
+  - Requirements: Empresas turísticas; Ubicación en Extremadura; No superar el coste de la actividad subvencionada con otras ayudas
+  - notion_id: 42283f94-7b2c-8197-a123-fb9b06069ce5 | Budget: 1700 € | Reception: 21/09/2026
+- [SUBV. DL 7/2025 INCENDIOS SECTOR TURÍSTICO_85. FCO. JAVIER MERINO DÍAZ](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/930545) (DIRECCIÓN GENERAL DE TURISMO)
+  - Description: La subvención se otorga a empresas turísticas, concretamente a una casa rural, para ayudar en la recuperación de las zonas afectadas por incendios forestales en Extremadura durante el verano de 2025. Esto incluye medidas extraordinarias y urgentes para garantizar la conservación y prevención de estos entornos.
+  - Requirements: Ser una empresa turística; Ubicación en Navaconcejo; Requisitos específicos establecidos en el Decreto-Ley 72025
+  - notion_id: 42283f94-7b2c-816a-9d67-f94459d098c9 | Budget: 1700 € | Reception: 21/09/2026
+- [SUBV. DL 7/2025 INCENDIOS SECTOR TURÍSTICO_86. ÓSCAR RODRÍGUEZ JARAMILLO](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/930546) (DIRECCIÓN GENERAL DE TURISMO)
+  - Description: Este subsidio tiene como objetivo ayudar a las empresas turísticas en la recuperación tras los incendios forestales en Extremadura, proporcionando apoyo financiero para mejorar la viabilidad económica de los establecimientos afectados.
+  - Requirements: Ser una empresa turística; Estar situada en zonas afectadas por incendios; Cumplir con las condiciones impuestas en la normativa reguladora
+  - notion_id: 42283f94-7b2c-8140-80b0-f30c6c3e72b9 | Budget: 2200 € | Reception: 21/09/2026
+- [SUBV. DL 7/2025 INCENDIOS SECTOR TURÍSTICO_87. EMILIO SÁNCHEZ SERRANO](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/930547) (DIRECCIÓN GENERAL DE TURISMO)
+  - Description: La subvención tiene como objetivo apoyar a empresas turísticas afectadas por incendios forestales en Extremadura, facilitando su recuperación a través de ayudas económicas.
+  - Requirements: Empresas turísticas en Extremadura; Localización en zonas afectadas por incendios; Cumplimiento de condiciones específicas establecidas en la normativa reguladora
+  - notion_id: 42283f94-7b2c-818a-8c68-c0044855094c | Budget: 1700 € | Reception: 21/09/2026
+- [SUBV. DL 7/2025 INCENDIOS SECTOR TURÍSTICO_88. TOUCH OCIO, S.L.](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/930548) (DIRECCIÓN GENERAL DE TURISMO)
+  - Description: Esta subvención tiene como objetivo apoyar la recuperación de empresas turísticas afectadas por incendios forestales en Extremadura, mediante ayudas económicas para el establecimiento de alojamientos rurales.
+  - Requirements: Empresas turísticas en Extremadura; Alojamiento Rural; No superar coste de actividad subvencionada con otras ayudas
+  - notion_id: 42283f94-7b2c-81b1-9452-c5b151b9baa9 | Budget: 1700 € | Reception: 21/09/2026
+- [SUBV. DL 7/2025 INCENDIOS SECTOR TURÍSTICO_89. LIDIA YÁÑEZ FERNÁNDEZ](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/930549) (DIRECCIÓN GENERAL DE TURISMO)
+  - Description: Esta subvención tiene como objetivo apoyar a las empresas turísticas afectadas por los incendios forestales en Extremadura, proporcionando ayuda financiera para la recuperación y reactivación de sus actividades.
+  - Requirements: Ser una empresa turística; Ubicación en Extremadura; No superar el coste de la actividad subvencionada con otras ayudas
+  - notion_id: 42283f94-7b2c-8113-bbb8-d21985ccebcf | Budget: 1700 € | Reception: 21/09/2026
+- [SUBV. DL 7/2025 INCENDIOS SECTOR TURÍSTICO_42. EZEQUIEL HERNÁNDEZ GALAYO](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/930778) (DIRECCIÓN GENERAL DE TURISMO)
+  - Description: Subvenciones a empresas turísticas para la recuperación de las zonas afectadas por incendios forestales en Extremadura, enfocadas específicamente en alojamientos rurales.
+  - Requirements: Deben ser empresas turísticas; Ubicación en las zonas afectadas por incendios en Extremadura; Cumplir con las condiciones impuestas en la normativa reguladora
+  - notion_id: 42283f94-7b2c-8183-b282-e5eb509bdcb5 | Budget: 2000 € | Reception: 21/09/2026
+- [SUBV. DL 7/2025 INCENDIOS SECTOR TURÍSTICO_61.HURDES NATURAL SERV TUR S.L.](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/934065) (DIRECCIÓN GENERAL DE TURISMO)
+  - Description: La subvención está destinada a empresas turísticas afectadas por los incendios forestales en Extremadura, con el objetivo de facilitar su recuperación y mejorar las condiciones de prestación de servicios turísticos en la región.
+  - Requirements: Empresas turísticas; Ubicación en zonas afectadas por incendios en Extremadura
+  - notion_id: 42283f94-7b2c-8176-bc65-f6b43ded67e0 | Budget: 1700 € | Reception: 07/10/2026
+- [SUBV. DL 7/2025 INCENDIOS SECTOR TURÍSTICO_63.HURDES NATURAL SERV TUR S.L.](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/934066) (DIRECCIÓN GENERAL DE TURISMO)
+  - Description: Esta subvención está destinada a empresas turísticas en Extremadura que buscan fondos para la recuperación tras los incendios forestales de verano de 2025, apoyando específicamente a actividades alternativas en la localidad de Caminomorisco.
+  - Requirements: Empresa turística; Localización en Extremadura; Cumplir con condiciones establecidas en la normativa reguladora
+  - notion_id: 42283f94-7b2c-81fc-98bd-e81b418bdcbb | Budget: 1200 € | Reception: 07/10/2026
+- [SUBV. DL 7/2025 INCENDIOS SECTOR TURÍSTICO_72. MARÍA PAZ JIMENEZ DOMÍNGUEZ](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/935121) (DIRECCIÓN GENERAL DE TURISMO)
+  - Description: La subvención tiene como objetivo apoyar la recuperación de empresas turísticas afectadas por los incendios forestales en Extremadura, proporcionando ayudas económicas directas a los establecimientos turísticos para su recuperación y prevención.
+  - Requirements: Empresas turísticas en Extremadura; Deberán presentar la solicitud según la normativa reguladora; No superar el coste de la actividad subvencionada en concurrencia con otras ayudas
+  - notion_id: 42283f94-7b2c-8184-8c79-d6d4f9ff0ccb | Budget: 1700 € | Reception: 14/10/2026
+- [SUBV. DL 7/2025 INCENDIOS SECTOR TURÍSTICO_90. MARÍA BELÉN MAHILLO HERAS](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/936529) (DIRECCIÓN GENERAL DE TURISMO)
+  - Description: El objetivo de esta subvención es apoyar a las empresas turísticas afectadas por los incendios forestales en Extremadura, proporcionando ayuda económica para su recuperación y medidas preventivas.
+  - Requirements: Empresas turísticas ubicadas en zonas afectadas por incendios; Objeto de la subvención relacionado con la recuperación de daños por incendios
+  - notion_id: 42283f94-7b2c-81e4-9be9-f203daa6adf5 | Budget: 1700 € | Reception: 20/10/2026
