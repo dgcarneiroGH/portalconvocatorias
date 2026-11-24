@@ -1,18 +1,18 @@
 ---
 title: Ayudas sociales en Barcelona para Empresa
-description: "Recopilatorio de las 19 ayudas activas en Barcelona para Empresa dentro del sector sociales, con presupuesto y plazos de solicitud."
+description: "Recopilatorio de las 14 ayudas activas en Barcelona para Empresa dentro del sector sociales, con presupuesto y plazos de solicitud."
 region: Barcelona
 beneficiario: Empresa
 tag_seo: sociales
-count: 19
+count: 14
 publication_date: 2026-10-29
-last_update_date: 2026-11-23
+last_update_date: 2026-11-24
 slug: subvenciones-barcelona-empresa-sociales
 ---
 
 # Ayudas sociales en Barcelona para Empresa
 
-Ayudas activas (19):
+Ayudas activas (14):
 
 - [CONVENI CLUB RITMICA LA GRANADA](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/898994) (AYUNTAMIENTO DE GRANADA, LA)
   - Description: El objetivo de esta subvención es fomentar las actividades del Club Rítmica la Granada, especialmente la adquisición de material y equipamiento para las gimnastas, así como el apoyo a la organización de eventos culturales, deportivos y sociales en el municipio de la Granada.
@@ -57,13 +57,6 @@ Ayudas activas (19):
   - Requirements: Personas en situación de necesidad personal básica; Residencia en el municipio de La Granada; Valoración previa por los servicios sociales municipales
   - Nominative Grant
   - notion_id: 40883f94-7b2c-81b5-9f1b-da2b8b4a02a5 | Budget: 5000 € | Reception: 15/06/2026 | Start: 01/01/2026 | End: 31/12/2026
-- [CONVENI CREU ROJA 2026 (2024-2027)](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/922547) (AYUNTAMIENTO DE SANT ANDREU DE LLAVANERES)
-  - Description: Esta subvención tiene como objetivo proporcionar apoyo alimentario a familias en situación de vulnerabilidad económica y social a través de la Creu Roja, mediante un banco de alimentos y tarjetas moneder para la compra de alimentos básicos.
-  - notion_id: 40883f94-7b2c-815f-bc9d-dddd7bb59abc | Budget: 24.000 € | Reception: 30/07/2026 | Start: 01/01/2026 | End: 31/12/2026
-- [APROBAR CONVENIO CON LA ASOCIACIÓN DE VECINOS DE LA CALLE SANT PERE PARA EL FOMENTO DE LAS ENTIDADES VECINALES I EL ASOCIACIONISMO EN LOS BARRIOS DE LA CIUDAD DE VIC](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/927821) (AYUNTAMIENTO DE VIC)
-  - Description: La subvenció té com a objectiu cobrir les despeses de lloguer i manteniment d'un local social per a l'Associació de veïns del carrer de Sant Pere, facilitant la realització d'activitats comunitàries i garantint l'equitat entre les associacions veïnals sense accés a equipaments municipals.
-  - Nominative Grant
-  - notion_id: 40883f94-7b2c-81cc-b623-f662b2fcbe28 | Budget: 3200 € | Reception: 04/09/2026 | Start: 01/01/2026 | End: 05/12/2026
 - [INDEMNITZACIONS A GRUPS POLITICS MUNICIPALS ANY 2025 (DEMANATS EL 2026)](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/903843) (AYUNTAMIENTO DE SANTA MARGARIDA DE MONTBUI)
   - Description: Esta subvención se destina a la compensación económica de los grupos políticos municipales, en particular al PSC Montbui, para cubrir indemnizaciones correspondientes a diversas sesiones y ejercicios financieros.
   - Nominative Grant
@@ -76,14 +69,3 @@ Ayudas activas (19):
   - Requirements: Grupo político municipal Partido Popular de Sant Andreu de Llavaneres; Solicitud previa del beneficiario; Documentación justificativa antes del 15 de noviembre de 2026
   - Nominative Grant
   - notion_id: 40883f94-7b2c-8180-88f4-fbfe2ebf4155 | Budget: 2760 € | Reception: 16/06/2026 | Start: 01/01/2026 | End: 31/12/2026
-- [SUBVENCIÓ GRUP MUNICIPAL ACORD PER LLAVANERES 2026](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/922548) (AYUNTAMIENTO DE SANT ANDREU DE LLAVANERES)
-  - Description: La subvención se otorga al grupo político municipal Acord per Llavaneres para financiar sus gastos de funcionamiento durante el ejercicio 2026.
-  - Nominative Grant
-  - notion_id: 40883f94-7b2c-81d3-b53f-c9789ef72b92 | Budget: 2520 € | Reception: 30/07/2026 | Start: 01/01/2026 | End: 31/12/2026
-- [BEQUES CONVOCATÒRIA 2026-2027 (DRETS SOCIALS)](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/918236) (AYUNTAMIENTO DE ESPLUGUES DE LLOBREGAT)
-  - Description: No se dispone de información sobre la convocatoria o sus objetivos.
-  - notion_id: 3a883f94-7b2c-8107-abcb-f4f7d5d9ab38 | Budget: 266.000 € | Reception: 09/07/2026 | Start: 06/07/2026 | End: 30/04/2027
-- [AV. POBLE NOU SUBVENCIÓN](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/918435) (AYUNTAMIENTO DE VILAFRANCA DEL PENEDÈS)
-  - Description: La subvenció té com a objectiu finançar les despeses d'activitats d'interès social organitzades per l'Associació Veïnal del barri del Poble Nou de Vilafranca del Penedès, incloent les despeses ordinàries de funcionament de la seva seu social durant el període 2026-2029.
-  - Requirements: Ser una associació veïnal registrada; Estar ubicada a Vilafranca del Penedès
-  - notion_id: 3a883f94-7b2c-81d0-8765-e68bed794b73 | Budget: 9729 € | Reception: 10/07/2026 | Start: 01/01/2026 | End: 31/12/2026
