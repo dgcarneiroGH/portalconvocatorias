@@ -5,8 +5,8 @@ region: Cáceres
 beneficiario: Pyme y autónomos
 tag_seo: urgencias
 count: 89
-publication_date: 2026-11-24T11:01:17.232Z
-last_update_date: 2026-11-24
+publication_date: 2026-11-24
+last_update_date: 2026-11-25
 slug: subvenciones-autonomos-caceres-urgencias
 ---
 
