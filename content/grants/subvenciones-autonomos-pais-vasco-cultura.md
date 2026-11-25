@@ -6,7 +6,7 @@ beneficiario: Pyme y autónomos
 tag_seo: cultura
 count: 2
 publication_date: 2026-10-20
-last_update_date: 2026-11-24
+last_update_date: 2026-11-25
 slug: subvenciones-autonomos-pais-vasco-cultura
 ---
 
