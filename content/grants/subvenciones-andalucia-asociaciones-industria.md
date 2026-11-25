@@ -6,7 +6,7 @@ beneficiario: Asociaciones y ong
 tag_seo: industria
 count: 11
 publication_date: 2026-11-08
-last_update_date: 2026-11-24
+last_update_date: 2026-11-25
 slug: subvenciones-andalucia-asociaciones-industria
 ---
 
