@@ -6,7 +6,7 @@ beneficiario: Asociaciones y ong
 tag_seo: comercio
 count: 4
 publication_date: 2026-11-16
-last_update_date: 2026-11-24
+last_update_date: 2026-11-25
 slug: subvenciones-andalucia-asociaciones-comercio
 ---
 
