@@ -5,8 +5,8 @@ region: Región de murcia
 beneficiario: Empresa
 tag_seo: empleo
 count: 2
-publication_date: 2026-11-24
-last_update_date: 2026-11-24
+publication_date: 2026-11-25
+last_update_date: 2026-11-25
 slug: subvenciones-empresa-region-de-murcia-empleo
 ---
 
