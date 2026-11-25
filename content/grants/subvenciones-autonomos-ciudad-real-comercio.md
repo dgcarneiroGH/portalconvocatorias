@@ -1,0 +1,27 @@
+---
+title: Ayudas para comercio en Ciudad real para Pyme y autónomos
+description: "Recopilatorio de las 3 ayudas activas en Ciudad real para Pyme y autónomos dentro del sector comercio, con presupuesto y plazos de solicitud."
+region: Ciudad real
+beneficiario: Pyme y autónomos
+tag_seo: comercio
+count: 3
+publication_date: 2026-11-25T11:01:14.991Z
+last_update_date: 2026-11-25
+slug: subvenciones-autonomos-ciudad-real-comercio
+---
+
+# Ayudas para comercio en Ciudad real para Pyme y autónomos
+
+Ayudas activas (3):
+
+- [BASES REGULADORAS DEL XI CONCURSO DE DECORACIÓN NAVIDEÑA DE ESTABLECIMIENTOS COMERCIALES, HOSTELEROS Y CALLES DEL ENTORNO URBANO DE ALCÁZAR DE SAN JUAN](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/936935) (AYUNTAMIENTO DE ALCÁZAR DE SAN JUAN)
+  - Description: Inscripción en actividades culturales y en el concurso de decoración navideña organizado por el Patronato Municipal de Cultura de Alcázar de San Juan.
+  - notion_id: 42383f94-7b2c-81ce-8ede-fbf531759690 | Budget: 2500 € | Reception: 21/10/2026 | Start: 02/11/2026 | End: 09/12/2026
+- [BASES XIII CONCURSO ESCAPARATISMO NAVIDADES 2026](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/937704) (AYUNTAMIENTO DE TOMELLOSO)
+  - Description: El Ayuntamiento de Tomelloso convoca el XIII Concurso de Escaparatismo Campaña de Navidad 2026 para reconocer el esfuerzo de los empresarios del sector servicios en la decoración de sus escaparates, con un total de premios de 1.500 €.
+  - Requirements: Empresarios del sector servicios con establecimiento abierto en Tomelloso; Disponibilidad de escaparates de exposición al público; Presentar solicitud firmada en el Registro del Ayuntamiento de Tomelloso; Enviar fotografías del escaparate durante el periodo de inscripción
+  - notion_id: 42383f94-7b2c-8141-85d3-db5e0a448a00 | Budget: 1500 € | Reception: 26/10/2026 | Start: 27/10/2026 | End: 09/12/2026
+- [BASES PARTICIPACIÓN COMERCIOS "IV NOCHE COMERCIO LOCAL"](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/942108) (AYUNTAMIENTO DE PUERTOLLANO)
+  - Description: La Concejalía de Comercio del Ayuntamiento de Puertollano organiza la IV Noche del Comercio Local con el objetivo de fomentar las compras en el comercio local, incentivar la actividad económica y promover la participación ciudadana.
+  - Requirements: Establecimientos comerciales en el Centro Comercial Abierto de Puertollano; Inscripción antes del 23 de noviembre de 2026; Participantes deben ser mayores de edad; Realizar compras el 27 de noviembre de 2026
+  - notion_id: 42383f94-7b2c-816a-9cf6-cbec73db0550 | Budget: 3000 € | Reception: 13/11/2026 | Start: 17/11/2026 | End: 26/11/2026
