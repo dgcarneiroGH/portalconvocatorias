@@ -6,7 +6,7 @@ beneficiario: Asociaciones y ong
 tag_seo: empleo
 count: 12
 publication_date: 2026-11-06
-last_update_date: 2026-11-24
+last_update_date: 2026-11-25
 slug: subvenciones-asociaciones-galicia-empleo
 ---
 
