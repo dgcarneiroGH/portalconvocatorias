@@ -6,7 +6,7 @@ beneficiario: Empresa
 tag_seo: sociales
 count: 14
 publication_date: 2026-10-29
-last_update_date: 2026-11-24
+last_update_date: 2026-11-25
 slug: subvenciones-barcelona-empresa-sociales
 ---
 
