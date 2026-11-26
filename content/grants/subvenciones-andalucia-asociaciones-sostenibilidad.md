@@ -6,7 +6,7 @@ beneficiario: Asociaciones y ong
 tag_seo: sostenibilidad
 count: 3
 publication_date: 2026-11-22
-last_update_date: 2026-11-25
+last_update_date: 2026-11-26
 slug: subvenciones-andalucia-asociaciones-sostenibilidad
 ---
 
