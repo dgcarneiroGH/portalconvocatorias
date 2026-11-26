@@ -1,24 +1,19 @@
 ---
 title: Ayudas para urgencias en Ávila para Pyme y autónomos
-description: "Recopilatorio de las 11 ayudas activas en Ávila para Pyme y autónomos dentro del sector urgencias, con presupuesto y plazos de solicitud."
+description: "Recopilatorio de las 10 ayudas activas en Ávila para Pyme y autónomos dentro del sector urgencias, con presupuesto y plazos de solicitud."
 region: Ávila
 beneficiario: Pyme y autónomos
 tag_seo: urgencias
-count: 11
+count: 10
 publication_date: 2026-09-29
-last_update_date: 2026-11-25
+last_update_date: 2026-11-26
 slug: subvenciones-autonomos-avila-urgencias
 ---
 
 # Ayudas para urgencias en Ávila para Pyme y autónomos
 
-Ayudas activas (11):
+Ayudas activas (10):
 
-- [ACUERDO DE LA JUNTA DE CASTILLA Y LEÓN POR EL QUE SE AUTORIZA LA CONCESIÓN DIRECTA DE UNA SUBVENCIÓN A AUTÓNOMOS Y PYMES EN LAS LOCALIDADES AFECTADAS POR EVACUACIÓN POR LOS INCENDIOS FORESTALES EN EL VERANO 2026. REMESA VII](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/931938) (INSTITUTO PARA LA COMPETITIVIDAD EMPRESARIAL DE CASTILLA Y LEÓN)
-  - Description: La ayuda se destina a autónomos y PYMES en localidades de Castilla y León que han sido afectadas por evacuaciones debido a incendios forestales en el verano de 2026, con el objetivo de mitigar los daños personales, materiales y económicos sufridos.
-  - Requirements: Ser autónomos o PYMES; Estar ubicados en localidades afectadas por evacuación; Haber sufrido daños en su actividad económica
-  - Nominative Grant
-  - notion_id: 3ea83f94-7b2c-8140-952d-ea3c11ede383 | Budget: 137.500 € | Reception: 28/09/2026
 - [ACUERDO DE LA JUNTA DE CASTILLA Y LEÓN POR EL QUE SE AUTORIZA LA CONCESIÓN DIRECTA DE UNA SUBVENCIÓN A AUTÓNOMOS Y PYMES EN LAS LOCALIDADES AFECTADAS Y/O EVACUADAS POR LOS INCENDIOS FORESTALES EN EL VERANO DE 2025. REMESA XI](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/867517) (INSTITUTO PARA LA COMPETITIVIDAD EMPRESARIAL DE CASTILLA Y LEÓN)
   - Description: Conceder ayudas directas a autónomos y PYMES en localidades afectadas o evacuadas por incendios forestales en verano de 2025, para reforzar su liquidez y proteger la actividad económica local.
   - Requirements: Autónomos y PYMES ubicados en localidades afectadas; Localidades incluidas en la Orden MAV/945/2025 y sus complementarias
