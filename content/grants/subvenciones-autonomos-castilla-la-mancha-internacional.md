@@ -5,8 +5,8 @@ region: Castilla la mancha
 beneficiario: Pyme y autónomos
 tag_seo: internacional
 count: 7
-publication_date: 2026-11-26T11:01:17.914Z
-last_update_date: 2026-11-26
+publication_date: 2026-11-26
+last_update_date: 2026-11-27
 slug: subvenciones-autonomos-castilla-la-mancha-internacional
 ---
 
