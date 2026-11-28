@@ -6,7 +6,7 @@ beneficiario: Asociaciones y ong
 tag_seo: deportes
 count: 3
 publication_date: 2026-10-06
-last_update_date: 2026-11-27
+last_update_date: 2026-11-28
 slug: subvenciones-asociaciones-lleida-deportes
 ---
 
