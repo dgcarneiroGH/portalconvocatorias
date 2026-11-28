@@ -1,19 +1,61 @@
 ---
 title: Ayudas para urgencias en Ávila para Pyme y autónomos
-description: "Recopilatorio de las 10 ayudas activas en Ávila para Pyme y autónomos dentro del sector urgencias, con presupuesto y plazos de solicitud."
+description: "Recopilatorio de las 19 ayudas activas en Ávila para Pyme y autónomos dentro del sector urgencias, con presupuesto y plazos de solicitud."
 region: Ávila
 beneficiario: Pyme y autónomos
 tag_seo: urgencias
-count: 10
+count: 19
 publication_date: 2026-09-29
-last_update_date: 2026-11-27
+last_update_date: 2026-11-28
 slug: subvenciones-autonomos-avila-urgencias
 ---
 
 # Ayudas para urgencias en Ávila para Pyme y autónomos
 
-Ayudas activas (10):
+Ayudas activas (19):
 
+- [ACUERDO DE LA JUNTA DE CASTILLA Y LEÓN POR EL QUE SE AUTORIZA LA CONCESIÓN DIRECTA DE UNA SUBVENCIÓN A AUTÓNOMOS Y PYMES EN LAS LOCALIDADES AFECTADAS POR EVACUACIÓN POR LOS INCENDIOS FORESTALES EN EL VERANO DE 2026. REMESA XIII](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/941234) (INSTITUTO PARA LA COMPETITIVIDAD EMPRESARIAL DE CASTILLA Y LEÓN)
+  - Description: Se propone la concesión directa de ayudas a autónomos y PYMES en Castilla y León afectadas por evacuaciones debido a incendios forestales en el verano de 2026, con el objetivo de mitigar los efectos negativos de estos desastres naturales y facilitar la recuperación económica.
+  - Nominative Grant
+  - notion_id: 42683f94-7b2c-8111-8f8d-c28d1fdbbef4 | Budget: 137.500 € | Reception: 10/11/2026
+- [ACUERDO DE LA JUNTA DE CASTILLA Y LEÓN POR EL QUE SE AUTORIZA LA CONCESIÓN DIRECTA DE UNA SUBVENCIÓN A AUTÓNOMOS Y PYMES EN LAS LOCALIDADES AFECTADAS POR EVACUACIÓN POR LOS INCENDIOS FORESTALES EN EL VERANO DE 2026. REMESA XIV](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/943383) (INSTITUTO PARA LA COMPETITIVIDAD EMPRESARIAL DE CASTILLA Y LEÓN)
+  - Description: Se propone la concesión de ayudas directas a autónomos y PYMES en localidades de Castilla y León afectadas por evacuaciones debido a incendios forestales en el verano de 2026, con el objetivo de mitigar los efectos negativos de estos desastres naturales y facilitar la recuperación económica local.
+  - Requirements: Estar ubicado en localidades afectadas por evacuación debido a incendios forestales; Ser autónomo o PYME; Haber sufrido daños económicos, personales o materiales
+  - Nominative Grant
+  - notion_id: 42583f94-7b2c-812e-846f-cef752df20e1 | Budget: 99.000 € | Reception: 19/11/2026
+- [ACUERDO DE LA JUNTA DE CASTILLA Y LEÓN POR EL QUE SE AUTORIZA LA CONCESIÓN DIRECTA DE UNA SUBVENCIÓN A AUTÓNOMOS Y PYMES EN LAS LOCALIDADES AFECTADAS POR EVACUACIÓN POR LOS INCENDIOS FORESTALES EN EL VERANO DE 2026.- REMESA XV](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/943893) (INSTITUTO PARA LA COMPETITIVIDAD EMPRESARIAL DE CASTILLA Y LEÓN)
+  - Description: El objetivo de esta ayuda es apoyar a autónomos y PYMES en las localidades de Castilla y León que han sido afectadas por evacuaciones debido a los incendios forestales del verano de 2026, ayudando a mitigar los daños personales, materiales y económicos causados por estos desastres.
+  - Requirements: Ser autónomo o PYME; Ubicación en localidades afectadas por evacuación; Sufrir daños en la actividad económica debido a los incendios
+  - Nominative Grant
+  - notion_id: 42583f94-7b2c-81df-b2a6-f8362cd25dee | Budget: 71.500 € | Reception: 23/11/2026
+- [ACUERDO DE LA JUNTA DE CASTILLA Y LEÓN POR EL QUE SE AUTORIZA LA CONCESIÓN DIRECTA DE UNA SUBVENCIÓN A AUTÓNOMOS Y PYMES EN LAS LOCALIDADES AFECTADAS POR EVACUACIÓN POR LOS INCENDIOS FORESTALES EN EL VERANO DE 2026. REMESA VIII](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/933780) (INSTITUTO PARA LA COMPETITIVIDAD EMPRESARIAL DE CASTILLA Y LEÓN)
+  - Description: La ayuda tiene como objetivo apoyar a autónomos y PYMES en las localidades de Castilla y León que han sido evacuadas debido a los incendios forestales del verano de 2026, atendiendo a los daños sufridos en su actividad económica y capacidad de subsistencia.
+  - Requirements: Autónomos y PYMES afectados por incendios; Localidades afectadas por evacuación
+  - Nominative Grant
+  - notion_id: 42483f94-7b2c-81e0-8546-f535aa713ea6 | Budget: 137.500 € | Reception: 06/10/2026
+- [ACUERDO DE LA JUNTA DE CASTILLA Y LEÓN POR EL QUE SE AUTORIZA LA CONCESIÓN DIRECTA DE UNA SUBVENCIÓN A AUTÓNOMOS Y PYMES EN LAS LOCALIDADES AFECTADAS POR EVACUACIÓN POR LOS INCENDIOS FORESTALES EN EL VERANO DE 2026. REMESA IX.](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/935041) (INSTITUTO PARA LA COMPETITIVIDAD EMPRESARIAL DE CASTILLA Y LEÓN)
+  - Description: La Junta de Castilla y León concede ayudas directas a autónomos y PYMES en localidades afectadas por evacuaciones debido a incendios forestales ocurridos en verano de 2026, con el objetivo de mitigar los daños económicos y facilitar la recuperación local.
+  - Nominative Grant
+  - notion_id: 42483f94-7b2c-817c-9331-c749be3e4b47 | Budget: 137.500 € | Reception: 14/10/2026
+- [ACUERDO DE LA JUNTA DE CASTILLA Y LEÓN POR EL QUE SE AUTORIZA LA CONCESIÓN DIRECTA DE UNA SUBVENCIÓN A AUTÓNOMOS Y PYMES EN LAS LOCALIDADES AFECTADAS POR EVACUACIÓN POR LOS INCENDIOS FORESTALES EN EL VERANO DE 2026 - REMESA X](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/936548) (INSTITUTO PARA LA COMPETITIVIDAD EMPRESARIAL DE CASTILLA Y LEÓN)
+  - Description: Se proponen ayudas dirigidas a autónomos y PYMES en Castilla y León, específicamente en localidades afectadas por evacuaciones debido a los incendios forestales del verano de 2026, para mitigar los daños personales, materiales y económicos sufridos en sus actividades.
+  - Requirements: Ser autónomo o PYME; Ubicación en localidades afectadas por los incendios; Haber sufrido daños en la actividad económica
+  - Nominative Grant
+  - notion_id: 42483f94-7b2c-8156-a65b-e646b51aea25 | Budget: 137.500 € | Reception: 20/10/2026
+- [ACUERDO DE LA JUNTA DE CASTILLA Y LEÓN POR EL QUE SE AUTORIZA LA CONCESIÓN DIRECTA DE UNA SUBVENCIÓN A AUTÓNOMOS Y PYMES EN LAS LOCALIDADES AFECTADAS POR EVACUACIÓN POR LOS INCENDIOS FORESTALES EN EL VERANO DE 2026 - REMESA XI](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/938349) (INSTITUTO PARA LA COMPETITIVIDAD EMPRESARIAL DE CASTILLA Y LEÓN)
+  - Description: La ayuda tiene como objetivo proporcionar apoyo financiero a autónomos y PYMES en las localidades de Castilla y León que fueron evacuadas debido a los incendios forestales del verano de 2026, buscando mitigar los efectos negativos de estos desastres naturales y facilitar la recuperación económica.
+  - Requirements: Autónomos y PYMES; Localidades afectadas por evacuación por incendios; Daños económicos, materiales o sociales sufridos
+  - Nominative Grant
+  - notion_id: 42483f94-7b2c-81a6-8dff-ec84be181c1e | Budget: 137.500 € | Reception: 28/10/2026
+- [ACUERDO DE LA JUNTA DE CASTILLA Y LEÓN POR EL QUE SE AUTORIZA LA CONCESIÓN DIRECTA DE UNA SUBVENCIÓN A AUTÓNOMOS Y PYMES EN LAS LOCALIDADES AFECTADAS POR EVACUACIÓN POR LOS INCENDIOS FORESTALES EN EL VERANO 2026 - REMESA XII](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/940772) (INSTITUTO PARA LA COMPETITIVIDAD EMPRESARIAL DE CASTILLA Y LEÓN)
+  - Description: Se conceden ayudas directas a autónomos y PYMES en Castilla y León afectadas por los incendios forestales del verano de 2026, con el objetivo de mitigar los daños económicos, sociales y materiales sufridos y facilitar la recuperación del tejido productivo local.
+  - Nominative Grant
+  - notion_id: 42483f94-7b2c-81a4-8923-f1f33d680189 | Budget: 137.500 € | Reception: 09/11/2026
+- [ACUERDO DE LA JUNTA DE CASTILLA Y LEÓN POR EL QUE SE AUTORIZA LA CONCESIÓN DIRECTA DE UNA SUBVENCIÓN A AUTÓNOMOS Y PYMES EN LAS LOCALIDADES AFECTADAS POR EVACUACIÓN POR LOS INCENDIOS FORESTALES EN EL VERANO 2026. REMESA VII](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/931938) (INSTITUTO PARA LA COMPETITIVIDAD EMPRESARIAL DE CASTILLA Y LEÓN)
+  - Description: La ayuda se destina a autónomos y PYMES en localidades de Castilla y León que han sido afectadas por evacuaciones debido a incendios forestales en el verano de 2026, con el objetivo de mitigar los daños personales, materiales y económicos sufridos.
+  - Requirements: Ser autónomos o PYMES; Estar ubicados en localidades afectadas por evacuación; Haber sufrido daños en su actividad económica
+  - Nominative Grant
+  - notion_id: 3ea83f94-7b2c-8140-952d-ea3c11ede383 | Budget: 137.500 € | Reception: 28/09/2026
 - [ACUERDO DE LA JUNTA DE CASTILLA Y LEÓN POR EL QUE SE AUTORIZA LA CONCESIÓN DIRECTA DE UNA SUBVENCIÓN A AUTÓNOMOS Y PYMES EN LAS LOCALIDADES AFECTADAS Y/O EVACUADAS POR LOS INCENDIOS FORESTALES EN EL VERANO DE 2025. REMESA XI](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/867517) (INSTITUTO PARA LA COMPETITIVIDAD EMPRESARIAL DE CASTILLA Y LEÓN)
   - Description: Conceder ayudas directas a autónomos y PYMES en localidades afectadas o evacuadas por incendios forestales en verano de 2025, para reforzar su liquidez y proteger la actividad económica local.
   - Requirements: Autónomos y PYMES ubicados en localidades afectadas; Localidades incluidas en la Orden MAV/945/2025 y sus complementarias
