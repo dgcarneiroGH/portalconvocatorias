@@ -6,7 +6,7 @@ beneficiario: Asociaciones y ong
 tag_seo: salud
 count: 4
 publication_date: 2026-11-19
-last_update_date: 2026-11-27
+last_update_date: 2026-11-28
 slug: subvenciones-asociaciones-galicia-salud
 ---
 
